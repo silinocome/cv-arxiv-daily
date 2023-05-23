@@ -22,18 +22,20 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "SLAM": 
-        filters: ["SLAM", "Visual Odometry"]
-    "SFM":
-        filters: ["SFM", "Structure from Motion"]
-    "Visual Localization":
+    "V2X":
+        filters: ["V2X", "V2V", "V2I",
+                  "Vehicle Perception", "Road Perception",
+                  "ITS", "Intelligent Transportation Systems",
+                  "RSU", "road side unit"]
+    "Collaborative Perception": 
+        filters: ["Collaborative", "Perception", "Cooperative", "cooperation", "collaborate", "collaboration", "Information Sharing"]
+    "sensor fusion":
+        filters: ["sensor", "fusion", "sensor fusion", "data fusion"]
+    "localization":
         filters: ["Visual Localization","Camera Localization",
-                  "Camera Re-localisation","Loop Closure Detection",
-                  "visual place recognition","image retrieval"]
-    "Keypoint Detection":
-        filters: ["Keypoint Detection", "Feature Descriptor"]
-    "Image Matching":
+                  "Camera Re-localisation","image retrieval"]
+    "Detection":
+        filters: ["Detection", "Feature Descriptor"]
+    "Matching":
         filters: ["Image Matching", "Keypoint Matching", 
                   "Line Segment Detection", "Local Feature Matching"]
-    "NeRF":
-        filters: ["NeRF"]
