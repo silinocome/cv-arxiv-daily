@@ -119,6 +119,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser et.al.|[2305.14553](http://arxiv.org/abs/2305.14553)|null|
 |**2023-05-21**|**A Deeper (Autoregressive) Approach to Non-Convergent Discourse Parsing**|Yoav Tulpan et.al.|[2305.12510](http://arxiv.org/abs/2305.12510)|null|
 |**2023-05-19**|**MD3: The Multi-Dialect Dataset of Dialogues**|Jacob Eisenstein et.al.|[2305.11355](http://arxiv.org/abs/2305.11355)|null|
 |**2023-04-27**|**Medical Data Asset Management and an Approach for Disease Prediction using Blockchain and Machine Learning**|Shruthi K et.al.|[2305.11063](http://arxiv.org/abs/2305.11063)|null|
@@ -224,6 +225,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-24**|**Distributed outer approximation of the intersection of ellipsoids**|Rodrigo Aldana-Lopez et.al.|[2305.15172](http://arxiv.org/abs/2305.15172)|null|
+|**2023-05-23**|**FLAIR #2: textural and temporal information for semantic segmentation from multi-source optical imagery**|Anatol Garioud et.al.|[2305.14467](http://arxiv.org/abs/2305.14467)|null|
 |**2023-05-23**|**Leveraging BEV Representation for 360-degree Visual Place Recognition**|Xuecheng Xu et.al.|[2305.13814](http://arxiv.org/abs/2305.13814)|**[link](https://github.com/maverickpeter/vdisco)**|
 |**2023-05-23**|**Multimodal sensor fusion for real-time location-dependent defect detection in laser-directed energy deposition**|Lequn Chen et.al.|[2305.13596](http://arxiv.org/abs/2305.13596)|null|
 |**2023-05-19**|**RGB-D And Thermal Sensor Fusion: A Systematic Literature Review**|Martin Brenner et.al.|[2305.11427](http://arxiv.org/abs/2305.11427)|null|
