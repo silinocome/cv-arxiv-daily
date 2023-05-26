@@ -119,6 +119,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Dynamic Inter-treatment Information Sharing for Heterogeneous Treatment Effects Estimation**|Vinod Kumar Chauhan et.al.|[2305.15984](http://arxiv.org/abs/2305.15984)|null|
+|**2023-05-24**|**Distributed Online Rollout for Multivehicle Routing in Unmapped Environments**|Jamison W. Weber et.al.|[2305.15596](http://arxiv.org/abs/2305.15596)|null|
 |**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser et.al.|[2305.14553](http://arxiv.org/abs/2305.14553)|null|
 |**2023-05-21**|**A Deeper (Autoregressive) Approach to Non-Convergent Discourse Parsing**|Yoav Tulpan et.al.|[2305.12510](http://arxiv.org/abs/2305.12510)|null|
 |**2023-05-19**|**MD3: The Multi-Dialect Dataset of Dialogues**|Jacob Eisenstein et.al.|[2305.11355](http://arxiv.org/abs/2305.11355)|null|
@@ -332,6 +334,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304](http://arxiv.org/abs/2305.16304)|null|
 |**2023-05-23**|**EDIS: Entity-Driven Image Search over Multimodal Web Content**|Siqi Liu et.al.|[2305.13631](http://arxiv.org/abs/2305.13631)|null|
 |**2023-05-20**|**DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**|Javier Tirado-Garín et.al.|[2305.12250](http://arxiv.org/abs/2305.12250)|**[link](https://github.com/javrtg/dac)**|
 |**2023-05-19**|**Towards More Transparent and Accurate Cancer Diagnosis with an Unsupervised CAE Approach**|Zahra Tabatabaei et.al.|[2305.11728](http://arxiv.org/abs/2305.11728)|null|
