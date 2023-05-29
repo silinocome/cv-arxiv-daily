@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-25**|**A Semi-Automated Corner Case Detection and Evaluation Pipeline**|Isabelle Tulleners et.al.|[2305.16369](http://arxiv.org/abs/2305.16369)|null|
 |**2023-05-21**|**Linear/Non-Linear Energy Harvesting Models via Multi-Antenna Relay Cooperation in V2V Communications**|Semiha Kosu et.al.|[2305.12428](http://arxiv.org/abs/2305.12428)|null|
 |**2023-05-19**|**V2X-Boosted Federated Learning for Cooperative Intelligent Transportation Systems with Contextual Client Selection**|Rui Song et.al.|[2305.11654](http://arxiv.org/abs/2305.11654)|null|
 |**2023-05-16**|**Manifold Regularized Tucker Decomposition Approach for Spatiotemporal Traffic Data Imputation**|Wenwu Gong et.al.|[2305.06563](http://arxiv.org/abs/2305.06563)|null|
@@ -119,6 +120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-26**|**Transitioning towards fit-for-purpose Public Health Surveillance Systems**|Maria N. Anastasiadou et.al.|[2305.16821](http://arxiv.org/abs/2305.16821)|null|
 |**2023-05-25**|**Dynamic Inter-treatment Information Sharing for Heterogeneous Treatment Effects Estimation**|Vinod Kumar Chauhan et.al.|[2305.15984](http://arxiv.org/abs/2305.15984)|null|
 |**2023-05-24**|**Distributed Online Rollout for Multivehicle Routing in Unmapped Environments**|Jamison W. Weber et.al.|[2305.15596](http://arxiv.org/abs/2305.15596)|null|
 |**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser et.al.|[2305.14553](http://arxiv.org/abs/2305.14553)|null|
