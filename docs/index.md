@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2305.18013](http://arxiv.org/abs/2305.18013)|null|
+|**2023-05-29**|**An Efficient Safety-oriented Car-following Model for Connected Automated Vehicles Considering Discrete Signals**|Dianchao Lin et.al.|[2305.17865](http://arxiv.org/abs/2305.17865)|null|
+|**2023-05-26**|**Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss**|Ruohan Li et.al.|[2305.17271](http://arxiv.org/abs/2305.17271)|null|
 |**2023-05-25**|**A Semi-Automated Corner Case Detection and Evaluation Pipeline**|Isabelle Tulleners et.al.|[2305.16369](http://arxiv.org/abs/2305.16369)|null|
 |**2023-05-21**|**Linear/Non-Linear Energy Harvesting Models via Multi-Antenna Relay Cooperation in V2V Communications**|Semiha Kosu et.al.|[2305.12428](http://arxiv.org/abs/2305.12428)|null|
 |**2023-05-19**|**V2X-Boosted Federated Learning for Cooperative Intelligent Transportation Systems with Contextual Client Selection**|Rui Song et.al.|[2305.11654](http://arxiv.org/abs/2305.11654)|null|
@@ -229,6 +232,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-27**|**Radar Enlighten the Dark: Enhancing Low-Visibility Perception for Automated Vehicles with Camera-Radar Fusion**|Can Cui et.al.|[2305.17318](http://arxiv.org/abs/2305.17318)|**[link](https://github.com/purduedigitaltwin/redformer)**|
+|**2023-05-26**|**Exploiting Large Neuroimaging Datasets to Create Connectome-Constrained Approaches for more Robust, Efficient, and Adaptable Artificial Intelligence**|Erik C. Johnson et.al.|[2305.17300](http://arxiv.org/abs/2305.17300)|null|
 |**2023-05-24**|**Distributed outer approximation of the intersection of ellipsoids**|Rodrigo Aldana-Lopez et.al.|[2305.15172](http://arxiv.org/abs/2305.15172)|null|
 |**2023-05-23**|**FLAIR #2: textural and temporal information for semantic segmentation from multi-source optical imagery**|Anatol Garioud et.al.|[2305.14467](http://arxiv.org/abs/2305.14467)|null|
 |**2023-05-23**|**Leveraging BEV Representation for 360-degree Visual Place Recognition**|Xuecheng Xu et.al.|[2305.13814](http://arxiv.org/abs/2305.13814)|**[link](https://github.com/maverickpeter/vdisco)**|
@@ -336,6 +341,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho et.al.|[2305.18260](http://arxiv.org/abs/2305.18260)|**[link](https://github.com/danielcoelho112/synfeal)**|
+|**2023-05-29**|**Nanoscale visualization of the thermally-driven evolution of antiferromagnetic domains in FeTe thin films**|Shrinkhala Sharma et.al.|[2305.18197](http://arxiv.org/abs/2305.18197)|null|
+|**2023-05-28**|**ConaCLIP: Exploring Distillation of Fully-Connected Knowledge Interaction Graph for Lightweight Text-Image Retrieval**|Jiapeng Wang et.al.|[2305.17652](http://arxiv.org/abs/2305.17652)|null|
+|**2023-05-27**|**FACTUAL: A Benchmark for Faithful and Consistent Textual Scene Graph Parsing**|Zhuang Li et.al.|[2305.17497](http://arxiv.org/abs/2305.17497)|null|
+|**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463](http://arxiv.org/abs/2305.17463)|null|
+|**2023-05-26**|**Generating Images with Multimodal Language Models**|Jing Yu Koh et.al.|[2305.17216](http://arxiv.org/abs/2305.17216)|**[link](https://github.com/kohjingyu/gill)**|
 |**2023-05-25**|**Candidate Set Re-ranking for Composed Image Retrieval with Dual Multi-modal Encoder**|Zheyuan Liu et.al.|[2305.16304](http://arxiv.org/abs/2305.16304)|null|
 |**2023-05-23**|**EDIS: Entity-Driven Image Search over Multimodal Web Content**|Siqi Liu et.al.|[2305.13631](http://arxiv.org/abs/2305.13631)|null|
 |**2023-05-20**|**DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**|Javier Tirado-Garín et.al.|[2305.12250](http://arxiv.org/abs/2305.12250)|**[link](https://github.com/javrtg/dac)**|
@@ -547,6 +558,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463](http://arxiv.org/abs/2305.17463)|null|
 |**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036](http://arxiv.org/abs/2305.12036)|**[link](https://github.com/niika/SIDAR)**|
 |**2023-05-18**|**LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**|Yujie Lu et.al.|[2305.11116](http://arxiv.org/abs/2305.11116)|**[link](https://github.com/yujielu10/llmscore)**|
 |**2023-05-16**|**A Method for Training-free Person Image Picture Generation**|Tianyu Chen et.al.|[2305.09817](http://arxiv.org/abs/2305.09817)|null|
