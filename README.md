@@ -22,6 +22,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Multi-Channel Operation for the Release 2 of ETSI Cooperative Intelligent Transport Systems**|Alessandro Bazzi et.al.|[2305.19863](http://arxiv.org/abs/2305.19863)|null|
+|**2023-05-31**|**Aggregated Zero-knowledge Proof and Blockchain-Empowered Authentication for Autonomous Truck Platooning**|Wanxin Li et.al.|[2305.19813](http://arxiv.org/abs/2305.19813)|null|
+|**2023-05-30**|**Revisiting Random Forests in a Comparative Evaluation of Graph Convolutional Neural Network Variants for Traffic Prediction**|Ta Jiun Ting et.al.|[2305.19292](http://arxiv.org/abs/2305.19292)|null|
 |**2023-05-30**|**Large-scale Ridesharing DARP Instances Based on Real Travel Demand**|David Fiedler et.al.|[2305.18859](http://arxiv.org/abs/2305.18859)|**[link](https://github.com/aicenter/ridesharing_darp_instances)**|
 |**2023-05-30**|**Design of the Reverse Logistics System for Medical Waste Recycling Part II: Route Optimization with Case Study under COVID-19 Pandemic**|Chaozhong Xue et.al.|[2305.18807](http://arxiv.org/abs/2305.18807)|null|
 |**2023-05-29**|**TReR: A Lightweight Transformer Re-Ranking Approach for 3D LiDAR Place Recognition**|Tiago Barros et.al.|[2305.18013](http://arxiv.org/abs/2305.18013)|null|
@@ -247,6 +250,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Optimized Constellation Design for Two User Binary Sensor Networks Using NOMA**|Luca Sardellitti et.al.|[2305.19462](http://arxiv.org/abs/2305.19462)|null|
 |**2023-05-27**|**Radar Enlighten the Dark: Enhancing Low-Visibility Perception for Automated Vehicles with Camera-Radar Fusion**|Can Cui et.al.|[2305.17318](http://arxiv.org/abs/2305.17318)|**[link](https://github.com/purduedigitaltwin/redformer)**|
 |**2023-05-26**|**Exploiting Large Neuroimaging Datasets to Create Connectome-Constrained Approaches for more Robust, Efficient, and Adaptable Artificial Intelligence**|Erik C. Johnson et.al.|[2305.17300](http://arxiv.org/abs/2305.17300)|null|
 |**2023-05-24**|**Distributed outer approximation of the intersection of ellipsoids**|Rodrigo Aldana-Lopez et.al.|[2305.15172](http://arxiv.org/abs/2305.15172)|null|
@@ -358,6 +362,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-31**|**Chatting Makes Perfect -- Chat-based Image Retrieval**|Matan Levy et.al.|[2305.20062](http://arxiv.org/abs/2305.20062)|null|
+|**2023-05-31**|**Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**|Junan Chen et.al.|[2305.20044](http://arxiv.org/abs/2305.20044)|null|
 |**2023-05-30**|**A Recipe for Efficient SBIR Models: Combining Relative Triplet Loss with Batch Normalization and Knowledge Distillation**|Omar Seddati et.al.|[2305.18988](http://arxiv.org/abs/2305.18988)|null|
 |**2023-05-29**|**Synfeal: A Data-Driven Simulator for End-to-End Camera Localization**|Daniel Coelho et.al.|[2305.18260](http://arxiv.org/abs/2305.18260)|**[link](https://github.com/danielcoelho112/synfeal)**|
 |**2023-05-29**|**Nanoscale visualization of the thermally-driven evolution of antiferromagnetic domains in FeTe thin films**|Shrinkhala Sharma et.al.|[2305.18197](http://arxiv.org/abs/2305.18197)|null|
