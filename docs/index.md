@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Traffic Road Congestion System using by the internet of vehicles (IoV)**|Muhammad Shoaib Farooq et.al.|[2306.00395](http://arxiv.org/abs/2306.00395)|null|
+|**2023-05-30**|**Graph Neural Network for spatiotemporal data: methods and applications**|Yun Li et.al.|[2306.00012](http://arxiv.org/abs/2306.00012)|null|
 |**2023-05-31**|**Multi-Channel Operation for the Release 2 of ETSI Cooperative Intelligent Transport Systems**|Alessandro Bazzi et.al.|[2305.19863](http://arxiv.org/abs/2305.19863)|null|
 |**2023-05-31**|**Aggregated Zero-knowledge Proof and Blockchain-Empowered Authentication for Autonomous Truck Platooning**|Wanxin Li et.al.|[2305.19813](http://arxiv.org/abs/2305.19813)|null|
 |**2023-05-30**|**Revisiting Random Forests in a Comparative Evaluation of Graph Convolutional Neural Network Variants for Traffic Prediction**|Ta Jiun Ting et.al.|[2305.19292](http://arxiv.org/abs/2305.19292)|null|
@@ -128,6 +130,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Implementing Man-in-the-Middle Attack to Investigate Network Vulnerabilities in Smart Grid Test-bed**|Shampa Banik et.al.|[2306.00234](http://arxiv.org/abs/2306.00234)|null|
 |**2023-05-30**|**Cooperative Thresholded Lasso for Sparse Linear Bandit**|Haniyeh Barghi et.al.|[2305.19161](http://arxiv.org/abs/2305.19161)|null|
 |**2023-05-26**|**Transitioning towards fit-for-purpose Public Health Surveillance Systems**|Maria N. Anastasiadou et.al.|[2305.16821](http://arxiv.org/abs/2305.16821)|null|
 |**2023-05-25**|**Dynamic Inter-treatment Information Sharing for Heterogeneous Treatment Effects Estimation**|Vinod Kumar Chauhan et.al.|[2305.15984](http://arxiv.org/abs/2305.15984)|null|
@@ -238,6 +241,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Customized Co-Simulation Environment for Autonomous Driving Algorithm Development and Evaluation**|Mustafa Ridvan Cantas et.al.|[2306.00223](http://arxiv.org/abs/2306.00223)|null|
 |**2023-05-31**|**Optimized Constellation Design for Two User Binary Sensor Networks Using NOMA**|Luca Sardellitti et.al.|[2305.19462](http://arxiv.org/abs/2305.19462)|null|
 |**2023-05-27**|**Radar Enlighten the Dark: Enhancing Low-Visibility Perception for Automated Vehicles with Camera-Radar Fusion**|Can Cui et.al.|[2305.17318](http://arxiv.org/abs/2305.17318)|**[link](https://github.com/purduedigitaltwin/redformer)**|
 |**2023-05-26**|**Exploiting Large Neuroimaging Datasets to Create Connectome-Constrained Approaches for more Robust, Efficient, and Adaptable Artificial Intelligence**|Erik C. Johnson et.al.|[2305.17300](http://arxiv.org/abs/2305.17300)|null|
@@ -348,6 +352,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**Class Anchor Margin Loss for Content-Based Image Retrieval**|Alexandru Ghita et.al.|[2306.00630](http://arxiv.org/abs/2306.00630)|null|
 |**2023-05-31**|**Chatting Makes Perfect -- Chat-based Image Retrieval**|Matan Levy et.al.|[2305.20062](http://arxiv.org/abs/2305.20062)|null|
 |**2023-05-31**|**Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**|Junan Chen et.al.|[2305.20044](http://arxiv.org/abs/2305.20044)|null|
 |**2023-05-30**|**A Recipe for Efficient SBIR Models: Combining Relative Triplet Loss with Batch Normalization and Knowledge Distillation**|Omar Seddati et.al.|[2305.18988](http://arxiv.org/abs/2305.18988)|null|
@@ -463,6 +468,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892](http://arxiv.org/abs/2306.00892)|null|
 |**2023-05-30**|**Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**|Supeng Wang et.al.|[2305.18714](http://arxiv.org/abs/2305.18714)|**[link](https://github.com/wangsp1999/cd-research)**|
 |**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334](http://arxiv.org/abs/2305.14334)|null|
 |**2023-05-15**|**Non-Separable Multi-Dimensional Network Flows for Visual Computing**|Viktoria Ehm et.al.|[2305.08628](http://arxiv.org/abs/2305.08628)|null|
