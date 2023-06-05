@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-02**|**Recent Advances in Graph-based Machine Learning for Applications in Smart Urban Transportation Systems**|Hongde Wu et.al.|[2306.01282](http://arxiv.org/abs/2306.01282)|null|
 |**2023-06-01**|**Traffic Road Congestion System using by the internet of vehicles (IoV)**|Muhammad Shoaib Farooq et.al.|[2306.00395](http://arxiv.org/abs/2306.00395)|null|
 |**2023-05-30**|**Graph Neural Network for spatiotemporal data: methods and applications**|Yun Li et.al.|[2306.00012](http://arxiv.org/abs/2306.00012)|null|
 |**2023-05-31**|**Multi-Channel Operation for the Release 2 of ETSI Cooperative Intelligent Transport Systems**|Alessandro Bazzi et.al.|[2305.19863](http://arxiv.org/abs/2305.19863)|null|
