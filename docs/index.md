@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.05
+## Updated on 2023.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -140,7 +140,7 @@ layout: default
 |**2023-05-21**|**A Deeper (Autoregressive) Approach to Non-Convergent Discourse Parsing**|Yoav Tulpan et.al.|[2305.12510](http://arxiv.org/abs/2305.12510)|null|
 |**2023-05-19**|**MD3: The Multi-Dialect Dataset of Dialogues**|Jacob Eisenstein et.al.|[2305.11355](http://arxiv.org/abs/2305.11355)|null|
 |**2023-04-27**|**Medical Data Asset Management and an Approach for Disease Prediction using Blockchain and Machine Learning**|Shruthi K et.al.|[2305.11063](http://arxiv.org/abs/2305.11063)|null|
-|**2023-05-28**|**Characterizing Long-Tail Categories on Graphs**|Haohui Wang et.al.|[2305.09938](http://arxiv.org/abs/2305.09938)|null|
+|**2023-06-02**|**Characterizing Long-Tail Categories on Graphs**|Haohui Wang et.al.|[2305.09938](http://arxiv.org/abs/2305.09938)|null|
 |**2023-05-13**|**Patchwork Learning: A Paradigm Towards Integrative Analysis across Diverse Biomedical Data Sources**|Suraj Rajendran et.al.|[2305.06217](http://arxiv.org/abs/2305.06217)|null|
 |**2023-04-28**|**QR-SACP: Quantitative Risk-based Situational Awareness Calculation and Projection through Threat Information Sharing**|Mahdieh Safarzadehvahed et.al.|[2304.14952](http://arxiv.org/abs/2304.14952)|null|
 |**2023-04-26**|**Perceived community alignment increases information sharing**|Elisa C. Baek et.al.|[2304.13796](http://arxiv.org/abs/2304.13796)|null|
@@ -353,7 +353,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-06-01**|**Class Anchor Margin Loss for Content-Based Image Retrieval**|Alexandru Ghita et.al.|[2306.00630](http://arxiv.org/abs/2306.00630)|null|
+|**2023-06-03**|**Class Anchor Margin Loss for Content-Based Image Retrieval**|Alexandru Ghita et.al.|[2306.00630](http://arxiv.org/abs/2306.00630)|null|
 |**2023-05-31**|**Chatting Makes Perfect -- Chat-based Image Retrieval**|Matan Levy et.al.|[2305.20062](http://arxiv.org/abs/2305.20062)|null|
 |**2023-05-31**|**Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**|Junan Chen et.al.|[2305.20044](http://arxiv.org/abs/2305.20044)|null|
 |**2023-05-30**|**A Recipe for Efficient SBIR Models: Combining Relative Triplet Loss with Batch Normalization and Knowledge Distillation**|Omar Seddati et.al.|[2305.18988](http://arxiv.org/abs/2305.18988)|null|
