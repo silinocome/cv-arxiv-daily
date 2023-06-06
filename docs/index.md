@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Hardware-in-the-Loop and Road Testing of RLVW and GLOSA Connected Vehicle Applications**|Ozgenur Kavas-Torris et.al.|[2306.01881](http://arxiv.org/abs/2306.01881)|null|
 |**2023-06-02**|**Recent Advances in Graph-based Machine Learning for Applications in Smart Urban Transportation Systems**|Hongde Wu et.al.|[2306.01282](http://arxiv.org/abs/2306.01282)|null|
 |**2023-06-01**|**Traffic Road Congestion System using by the internet of vehicles (IoV)**|Muhammad Shoaib Farooq et.al.|[2306.00395](http://arxiv.org/abs/2306.00395)|null|
 |**2023-05-30**|**Graph Neural Network for spatiotemporal data: methods and applications**|Yun Li et.al.|[2306.00012](http://arxiv.org/abs/2306.00012)|null|
@@ -131,6 +132,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-03**|**Non-parametric Bayesian mixture model to study adverse events of COVID-19 vaccines**|Ali Turfah et.al.|[2306.02123](http://arxiv.org/abs/2306.02123)|null|
 |**2023-05-31**|**Implementing Man-in-the-Middle Attack to Investigate Network Vulnerabilities in Smart Grid Test-bed**|Shampa Banik et.al.|[2306.00234](http://arxiv.org/abs/2306.00234)|null|
 |**2023-05-30**|**Cooperative Thresholded Lasso for Sparse Linear Bandit**|Haniyeh Barghi et.al.|[2305.19161](http://arxiv.org/abs/2305.19161)|null|
 |**2023-05-26**|**Transitioning towards fit-for-purpose Public Health Surveillance Systems**|Maria N. Anastasiadou et.al.|[2305.16821](http://arxiv.org/abs/2305.16821)|null|
@@ -353,6 +355,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-03**|**Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval**|Xu Zhang et.al.|[2306.02092](http://arxiv.org/abs/2306.02092)|null|
 |**2023-06-03**|**Class Anchor Margin Loss for Content-Based Image Retrieval**|Alexandru Ghita et.al.|[2306.00630](http://arxiv.org/abs/2306.00630)|null|
 |**2023-05-31**|**Chatting Makes Perfect -- Chat-based Image Retrieval**|Matan Levy et.al.|[2305.20062](http://arxiv.org/abs/2305.20062)|null|
 |**2023-05-31**|**Probabilistic Uncertainty Quantification of Prediction Models with Application to Visual Localization**|Junan Chen et.al.|[2305.20044](http://arxiv.org/abs/2305.20044)|null|
@@ -469,6 +472,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
 |**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892](http://arxiv.org/abs/2306.00892)|null|
 |**2023-05-30**|**Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**|Supeng Wang et.al.|[2305.18714](http://arxiv.org/abs/2305.18714)|**[link](https://github.com/wangsp1999/cd-research)**|
 |**2023-05-23**|**Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence**|Grace Luo et.al.|[2305.14334](http://arxiv.org/abs/2305.14334)|null|
@@ -576,6 +580,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-05**|**A2B: Anchor to Barycentric Coordinate for Robust Correspondence**|Weiyue Zhao et.al.|[2306.02760](http://arxiv.org/abs/2306.02760)|null|
 |**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463](http://arxiv.org/abs/2305.17463)|null|
 |**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036](http://arxiv.org/abs/2305.12036)|**[link](https://github.com/niika/SIDAR)**|
 |**2023-05-18**|**LLMScore: Unveiling the Power of Large Language Models in Text-to-Image Synthesis Evaluation**|Yujie Lu et.al.|[2305.11116](http://arxiv.org/abs/2305.11116)|**[link](https://github.com/yujielu10/llmscore)**|
