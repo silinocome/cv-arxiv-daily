@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-05**|**AutoExp: A multidisciplinary, multi-sensor framework to evaluate human activities in self-driving cars**|Carlos Crispim-Junior et.al.|[2306.03115](http://arxiv.org/abs/2306.03115)|null|
 |**2023-06-02**|**Hardware-in-the-Loop and Road Testing of RLVW and GLOSA Connected Vehicle Applications**|Ozgenur Kavas-Torris et.al.|[2306.01881](http://arxiv.org/abs/2306.01881)|null|
 |**2023-06-02**|**Recent Advances in Graph-based Machine Learning for Applications in Smart Urban Transportation Systems**|Hongde Wu et.al.|[2306.01282](http://arxiv.org/abs/2306.01282)|null|
 |**2023-06-01**|**Traffic Road Congestion System using by the internet of vehicles (IoV)**|Muhammad Shoaib Farooq et.al.|[2306.00395](http://arxiv.org/abs/2306.00395)|null|
@@ -256,6 +257,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-06**|**Benchmarking Robustness of AI-enabled Multi-sensor Fusion Systems: Challenges and Opportunities**|Xinyu Gao et.al.|[2306.03454](http://arxiv.org/abs/2306.03454)|null|
+|**2023-06-06**|**Reconstructing human activities via coupling mobile phone data with location-based social networks**|Le Huang et.al.|[2306.03441](http://arxiv.org/abs/2306.03441)|null|
 |**2023-05-31**|**Customized Co-Simulation Environment for Autonomous Driving Algorithm Development and Evaluation**|Mustafa Ridvan Cantas et.al.|[2306.00223](http://arxiv.org/abs/2306.00223)|null|
 |**2023-05-31**|**Optimized Constellation Design for Two User Binary Sensor Networks Using NOMA**|Luca Sardellitti et.al.|[2305.19462](http://arxiv.org/abs/2305.19462)|null|
 |**2023-05-27**|**Radar Enlighten the Dark: Enhancing Low-Visibility Perception for Automated Vehicles with Camera-Radar Fusion**|Can Cui et.al.|[2305.17318](http://arxiv.org/abs/2305.17318)|**[link](https://github.com/purduedigitaltwin/redformer)**|
