@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**Formulation of the Electric Vehicle Charging and Routing Problem for a Hybrid Quantum-Classical Search Space Reduction Heuristic**|M. Garcia de Andoin et.al.|[2306.04414](http://arxiv.org/abs/2306.04414)|null|
 |**2023-06-05**|**AutoExp: A multidisciplinary, multi-sensor framework to evaluate human activities in self-driving cars**|Carlos Crispim-Junior et.al.|[2306.03115](http://arxiv.org/abs/2306.03115)|null|
 |**2023-06-02**|**Hardware-in-the-Loop and Road Testing of RLVW and GLOSA Connected Vehicle Applications**|Ozgenur Kavas-Torris et.al.|[2306.01881](http://arxiv.org/abs/2306.01881)|null|
 |**2023-06-02**|**Recent Advances in Graph-based Machine Learning for Applications in Smart Urban Transportation Systems**|Hongde Wu et.al.|[2306.01282](http://arxiv.org/abs/2306.01282)|null|
@@ -133,6 +134,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan et.al.|[2306.04570](http://arxiv.org/abs/2306.04570)|null|
 |**2023-06-03**|**Non-parametric Bayesian mixture model to study adverse events of COVID-19 vaccines**|Ali Turfah et.al.|[2306.02123](http://arxiv.org/abs/2306.02123)|null|
 |**2023-05-31**|**Implementing Man-in-the-Middle Attack to Investigate Network Vulnerabilities in Smart Grid Test-bed**|Shampa Banik et.al.|[2306.00234](http://arxiv.org/abs/2306.00234)|null|
 |**2023-05-30**|**Cooperative Thresholded Lasso for Sparse Linear Bandit**|Haniyeh Barghi et.al.|[2305.19161](http://arxiv.org/abs/2305.19161)|null|
@@ -475,6 +477,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231](http://arxiv.org/abs/2306.04231)|null|
 |**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
 |**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892](http://arxiv.org/abs/2306.00892)|null|
 |**2023-05-30**|**Align, Perturb and Decouple: Toward Better Leverage of Difference Information for RSI Change Detection**|Supeng Wang et.al.|[2305.18714](http://arxiv.org/abs/2305.18714)|**[link](https://github.com/wangsp1999/cd-research)**|
