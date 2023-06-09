@@ -144,6 +144,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Learning to Navigate in Turbulent Flows with Aerial Robot Swarms: A Cooperative Deep Reinforcement Learning Approach**|Diego Patiño et.al.|[2306.04781](http://arxiv.org/abs/2306.04781)|null|
 |**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan et.al.|[2306.04570](http://arxiv.org/abs/2306.04570)|null|
 |**2023-06-03**|**Non-parametric Bayesian mixture model to study adverse events of COVID-19 vaccines**|Ali Turfah et.al.|[2306.02123](http://arxiv.org/abs/2306.02123)|null|
 |**2023-05-31**|**Implementing Man-in-the-Middle Attack to Investigate Network Vulnerabilities in Smart Grid Test-bed**|Shampa Banik et.al.|[2306.00234](http://arxiv.org/abs/2306.00234)|null|
@@ -259,6 +260,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-30**|**Trustworthy Sensor Fusion against Inaudible Command Attacks in Advanced Driver-Assistance System**|Jiwei Guan et.al.|[2306.05358](http://arxiv.org/abs/2306.05358)|null|
 |**2023-06-06**|**Benchmarking Robustness of AI-enabled Multi-sensor Fusion Systems: Challenges and Opportunities**|Xinyu Gao et.al.|[2306.03454](http://arxiv.org/abs/2306.03454)|null|
 |**2023-06-06**|**Reconstructing human activities via coupling mobile phone data with location-based social networks**|Le Huang et.al.|[2306.03441](http://arxiv.org/abs/2306.03441)|null|
 |**2023-05-31**|**Customized Co-Simulation Environment for Autonomous Driving Algorithm Development and Evaluation**|Mustafa Ridvan Cantas et.al.|[2306.00223](http://arxiv.org/abs/2306.00223)|null|
