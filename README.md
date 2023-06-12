@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-07**|**Energy-based Assessment and Driving Behavior of ACC Systems and Humans Inside Platoons**|Theocharis Apostolakis et.al.|[2306.04476](http://arxiv.org/abs/2306.04476)|**[link](https://github.com/TheocharisAp/ACC_Energy_Assessment)**|
 |**2023-06-07**|**Formulation of the Electric Vehicle Charging and Routing Problem for a Hybrid Quantum-Classical Search Space Reduction Heuristic**|M. Garcia de Andoin et.al.|[2306.04414](http://arxiv.org/abs/2306.04414)|null|
 |**2023-06-05**|**AutoExp: A multidisciplinary, multi-sensor framework to evaluate human activities in self-driving cars**|Carlos Crispim-Junior et.al.|[2306.03115](http://arxiv.org/abs/2306.03115)|null|
 |**2023-06-02**|**Hardware-in-the-Loop and Road Testing of RLVW and GLOSA Connected Vehicle Applications**|Ozgenur Kavas-Torris et.al.|[2306.01881](http://arxiv.org/abs/2306.01881)|null|
@@ -144,6 +145,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Distributed Consensus Algorithm for Decision-Making in Multi-agent Multi-armed Bandit**|Xiaotong Cheng et.al.|[2306.05998](http://arxiv.org/abs/2306.05998)|null|
 |**2023-06-07**|**Learning to Navigate in Turbulent Flows with Aerial Robot Swarms: A Cooperative Deep Reinforcement Learning Approach**|Diego Patiño et.al.|[2306.04781](http://arxiv.org/abs/2306.04781)|null|
 |**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan et.al.|[2306.04570](http://arxiv.org/abs/2306.04570)|null|
 |**2023-06-03**|**Non-parametric Bayesian mixture model to study adverse events of COVID-19 vaccines**|Ali Turfah et.al.|[2306.02123](http://arxiv.org/abs/2306.02123)|null|
@@ -606,6 +608,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-09**|**Leaving the Lines Behind: Vision-Based Crop Row Exit for Agricultural Robot Navigation**|Rajitha de Silva et.al.|[2306.05869](http://arxiv.org/abs/2306.05869)|null|
 |**2023-06-07**|**A2B: Anchor to Barycentric Coordinate for Robust Correspondence**|Weiyue Zhao et.al.|[2306.02760](http://arxiv.org/abs/2306.02760)|null|
 |**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463](http://arxiv.org/abs/2305.17463)|null|
 |**2023-05-19**|**SIDAR: Synthetic Image Dataset for Alignment & Restoration**|Monika Kwiatkowski et.al.|[2305.12036](http://arxiv.org/abs/2305.12036)|**[link](https://github.com/niika/SIDAR)**|
