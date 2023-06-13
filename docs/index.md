@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-08**|**Deep Learning Method for Object Tracking, Velocity Estimation and Projection of Sensor Data over Time**|Marco Braun et.al.|[2306.06126](http://arxiv.org/abs/2306.06126)|null|
 |**2023-06-12**|**Energy-based Assessment and Driving Behavior of ACC Systems and Humans Inside Platoons**|Theocharis Apostolakis et.al.|[2306.04476](http://arxiv.org/abs/2306.04476)|**[link](https://github.com/TheocharisAp/ACC_Energy_Assessment)**|
 |**2023-06-07**|**Formulation of the Electric Vehicle Charging and Routing Problem for a Hybrid Quantum-Classical Search Space Reduction Heuristic**|M. Garcia de Andoin et.al.|[2306.04414](http://arxiv.org/abs/2306.04414)|null|
 |**2023-06-05**|**AutoExp: A multidisciplinary, multi-sensor framework to evaluate human activities in self-driving cars**|Carlos Crispim-Junior et.al.|[2306.03115](http://arxiv.org/abs/2306.03115)|null|
@@ -135,6 +136,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955](http://arxiv.org/abs/2306.06955)|null|
 |**2023-06-09**|**Distributed Consensus Algorithm for Decision-Making in Multi-agent Multi-armed Bandit**|Xiaotong Cheng et.al.|[2306.05998](http://arxiv.org/abs/2306.05998)|null|
 |**2023-06-07**|**Learning to Navigate in Turbulent Flows with Aerial Robot Swarms: A Cooperative Deep Reinforcement Learning Approach**|Diego Patiño et.al.|[2306.04781](http://arxiv.org/abs/2306.04781)|null|
 |**2023-06-07**|**Towards Decentralized Heterogeneous Multi-Robot SLAM and Target Tracking**|Ofer Dagan et.al.|[2306.04570](http://arxiv.org/abs/2306.04570)|null|
@@ -364,6 +366,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-12**|**Zero-shot Composed Text-Image Retrieval**|Yikun Liu et.al.|[2306.07272](http://arxiv.org/abs/2306.07272)|null|
+|**2023-06-12**|**Sticker820K: Empowering Interactive Retrieval with Stickers**|Sijie Zhao et.al.|[2306.06870](http://arxiv.org/abs/2306.06870)|null|
+|**2023-06-11**|**Self-Enhancement Improves Text-Image Retrieval in Foundation Visual-Language Models**|Yuguang Yang et.al.|[2306.06691](http://arxiv.org/abs/2306.06691)|null|
 |**2023-06-03**|**Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval**|Xu Zhang et.al.|[2306.02092](http://arxiv.org/abs/2306.02092)|null|
 |**2023-06-03**|**Class Anchor Margin Loss for Content-Based Image Retrieval**|Alexandru Ghita et.al.|[2306.00630](http://arxiv.org/abs/2306.00630)|null|
 |**2023-05-31**|**Chatting Makes Perfect -- Chat-based Image Retrieval**|Matan Levy et.al.|[2305.20062](http://arxiv.org/abs/2305.20062)|null|
