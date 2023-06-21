@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,9 +25,9 @@
 |**2023-06-15**|**Adaptive Hierarchical SpatioTemporal Network for Traffic Forecasting**|Yirong Chen et.al.|[2306.09386](http://arxiv.org/abs/2306.09386)|null|
 |**2023-06-15**|**A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception**|Walter Zimmer et.al.|[2306.09266](http://arxiv.org/abs/2306.09266)|null|
 |**2023-06-15**|**Multi-objective path tracking control for car-like vehicles with differentially bounded n-smooth output**|Karin Festl et.al.|[2306.08866](http://arxiv.org/abs/2306.08866)|null|
-|**2023-06-14**|**Ground-VIO: Monocular Visual-Inertial Odometry with Online Calibration of Camera-Ground Geometric Parameters**|Yuxuan Zhou et.al.|[2306.08341](http://arxiv.org/abs/2306.08341)|null|
+|**2023-06-18**|**Ground-VIO: Monocular Visual-Inertial Odometry with Online Calibration of Camera-Ground Geometric Parameters**|Yuxuan Zhou et.al.|[2306.08341](http://arxiv.org/abs/2306.08341)|null|
 |**2023-06-13**|**Can ChatGPT Enable ITS? The Case of Mixed Traffic Control via Reinforcement Learning**|Michael Villarreal et.al.|[2306.08094](http://arxiv.org/abs/2306.08094)|**[link](https://github.com/tmvllrrl/its-study)**|
-|**2023-06-08**|**Deep Learning Method for Object Tracking, Velocity Estimation and Projection of Sensor Data over Time**|Marco Braun et.al.|[2306.06126](http://arxiv.org/abs/2306.06126)|null|
+|**2023-06-18**|**Deep Learning Method for Cell-Wise Object Tracking, Velocity Estimation and Projection of Sensor Data over Time**|Marco Braun et.al.|[2306.06126](http://arxiv.org/abs/2306.06126)|null|
 |**2023-06-12**|**Energy-based Assessment and Driving Behavior of ACC Systems and Humans Inside Platoons**|Theocharis Apostolakis et.al.|[2306.04476](http://arxiv.org/abs/2306.04476)|**[link](https://github.com/TheocharisAp/ACC_Energy_Assessment)**|
 |**2023-06-07**|**Formulation of the Electric Vehicle Charging and Routing Problem for a Hybrid Quantum-Classical Search Space Reduction Heuristic**|M. Garcia de Andoin et.al.|[2306.04414](http://arxiv.org/abs/2306.04414)|null|
 |**2023-06-05**|**AutoExp: A multidisciplinary, multi-sensor framework to evaluate human activities in self-driving cars**|Carlos Crispim-Junior et.al.|[2306.03115](http://arxiv.org/abs/2306.03115)|null|
@@ -145,7 +145,7 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## Collaborative Perception
 
@@ -264,7 +264,7 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## sensor fusion
 
@@ -382,7 +382,7 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## localization
 
@@ -509,7 +509,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## Detection
 
@@ -620,7 +620,7 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 ## Matching
 
@@ -730,7 +730,7 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20230620>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230621>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

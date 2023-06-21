@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.20
+## Updated on 2023.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -17,9 +17,9 @@ layout: default
 |**2023-06-15**|**Adaptive Hierarchical SpatioTemporal Network for Traffic Forecasting**|Yirong Chen et.al.|[2306.09386](http://arxiv.org/abs/2306.09386)|null|
 |**2023-06-15**|**A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception**|Walter Zimmer et.al.|[2306.09266](http://arxiv.org/abs/2306.09266)|null|
 |**2023-06-15**|**Multi-objective path tracking control for car-like vehicles with differentially bounded n-smooth output**|Karin Festl et.al.|[2306.08866](http://arxiv.org/abs/2306.08866)|null|
-|**2023-06-14**|**Ground-VIO: Monocular Visual-Inertial Odometry with Online Calibration of Camera-Ground Geometric Parameters**|Yuxuan Zhou et.al.|[2306.08341](http://arxiv.org/abs/2306.08341)|null|
+|**2023-06-18**|**Ground-VIO: Monocular Visual-Inertial Odometry with Online Calibration of Camera-Ground Geometric Parameters**|Yuxuan Zhou et.al.|[2306.08341](http://arxiv.org/abs/2306.08341)|null|
 |**2023-06-13**|**Can ChatGPT Enable ITS? The Case of Mixed Traffic Control via Reinforcement Learning**|Michael Villarreal et.al.|[2306.08094](http://arxiv.org/abs/2306.08094)|**[link](https://github.com/tmvllrrl/its-study)**|
-|**2023-06-08**|**Deep Learning Method for Object Tracking, Velocity Estimation and Projection of Sensor Data over Time**|Marco Braun et.al.|[2306.06126](http://arxiv.org/abs/2306.06126)|null|
+|**2023-06-18**|**Deep Learning Method for Cell-Wise Object Tracking, Velocity Estimation and Projection of Sensor Data over Time**|Marco Braun et.al.|[2306.06126](http://arxiv.org/abs/2306.06126)|null|
 |**2023-06-12**|**Energy-based Assessment and Driving Behavior of ACC Systems and Humans Inside Platoons**|Theocharis Apostolakis et.al.|[2306.04476](http://arxiv.org/abs/2306.04476)|**[link](https://github.com/TheocharisAp/ACC_Energy_Assessment)**|
 |**2023-06-07**|**Formulation of the Electric Vehicle Charging and Routing Problem for a Hybrid Quantum-Classical Search Space Reduction Heuristic**|M. Garcia de Andoin et.al.|[2306.04414](http://arxiv.org/abs/2306.04414)|null|
 |**2023-06-05**|**AutoExp: A multidisciplinary, multi-sensor framework to evaluate human activities in self-driving cars**|Carlos Crispim-Junior et.al.|[2306.03115](http://arxiv.org/abs/2306.03115)|null|
