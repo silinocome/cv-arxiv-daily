@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Comprehensive Training and Evaluation on Deep Reinforcement Learning for Automated Driving in Various Simulated Driving Maneuvers**|Yongqi Dong et.al.|[2306.11466](http://arxiv.org/abs/2306.11466)|null|
+|**2023-06-20**|**Safe, Efficient, Comfort, and Energy-saving Automated Driving through Roundabout Based on Deep Reinforcement Learning**|Henan Yuan et.al.|[2306.11465](http://arxiv.org/abs/2306.11465)|null|
 |**2023-06-15**|**Adaptive Hierarchical SpatioTemporal Network for Traffic Forecasting**|Yirong Chen et.al.|[2306.09386](http://arxiv.org/abs/2306.09386)|null|
 |**2023-06-15**|**A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception**|Walter Zimmer et.al.|[2306.09266](http://arxiv.org/abs/2306.09266)|null|
 |**2023-06-15**|**Multi-objective path tracking control for car-like vehicles with differentially bounded n-smooth output**|Karin Festl et.al.|[2306.08866](http://arxiv.org/abs/2306.08866)|null|
@@ -151,6 +153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-18**|**Optical Integrated Sensing and Communication for Cooperative Mobile Robotics Design and Experiments**|Shengqian Wang et.al.|[2306.10584](http://arxiv.org/abs/2306.10584)|null|
 |**2023-06-14**|**Extracting Information from Twitter Screenshots**|Tarannum Zaki et.al.|[2306.08236](http://arxiv.org/abs/2306.08236)|null|
 |**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955](http://arxiv.org/abs/2306.06955)|null|
 |**2023-06-09**|**Distributed Consensus Algorithm for Decision-Making in Multi-agent Multi-armed Bandit**|Xiaotong Cheng et.al.|[2306.05998](http://arxiv.org/abs/2306.05998)|null|
@@ -270,6 +273,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-19**|**Semi-Supervised Learning for hyperspectral images by non parametrically predicting view assignment**|Shivam Pande et.al.|[2306.10955](http://arxiv.org/abs/2306.10955)|null|
+|**2023-06-19**|**Performance of data-driven inner speech decoding with same-task EEG-fMRI data fusion and bimodal models**|Holly Wilson et.al.|[2306.10854](http://arxiv.org/abs/2306.10854)|null|
 |**2023-06-15**|**A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception**|Walter Zimmer et.al.|[2306.09266](http://arxiv.org/abs/2306.09266)|null|
 |**2023-06-12**|**Towards a Robust Sensor Fusion Step for 3D Object Detection on Corrupted Data**|Maciej K. Wozniak et.al.|[2306.07344](http://arxiv.org/abs/2306.07344)|null|
 |**2023-05-30**|**Trustworthy Sensor Fusion against Inaudible Command Attacks in Advanced Driver-Assistance System**|Jiwei Guan et.al.|[2306.05358](http://arxiv.org/abs/2306.05358)|null|
@@ -388,6 +393,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-20**|**Annotation Cost Efficient Active Learning for Content Based Image Retrieval**|Julia Henkel et.al.|[2306.11605](http://arxiv.org/abs/2306.11605)|null|
+|**2023-06-19**|**Cross-Modal Attribute Insertions for Assessing the Robustness of Vision-and-Language Learning**|Shivaen Ramshetty et.al.|[2306.11065](http://arxiv.org/abs/2306.11065)|**[link](https://github.com/claws-lab/multimodal-robustness-xmai)**|
 |**2023-06-15**|**Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization**|Dror Aiger et.al.|[2306.09012](http://arxiv.org/abs/2306.09012)|null|
 |**2023-06-15**|**Prompt Performance Prediction for Generative IR**|Nicolas Bizzozzero et.al.|[2306.08915](http://arxiv.org/abs/2306.08915)|null|
 |**2023-06-15**|**Graph Convolution Based Efficient Re-Ranking for Visual Retrieval**|Yuqi Zhang et.al.|[2306.08792](http://arxiv.org/abs/2306.08792)|**[link](https://github.com/WesleyZhang1991/GCN_rerank)**|
@@ -626,6 +633,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-19**|**Graph Self-Supervised Learning for Endoscopic Image Matching**|Manel Farhat et.al.|[2306.11141](http://arxiv.org/abs/2306.11141)|**[link](https://github.com/abenhamadou/graph-self-supervised-learning-for-endoscopic-image-matching)**|
 |**2023-06-09**|**Leaving the Lines Behind: Vision-Based Crop Row Exit for Agricultural Robot Navigation**|Rajitha de Silva et.al.|[2306.05869](http://arxiv.org/abs/2306.05869)|null|
 |**2023-06-07**|**A2B: Anchor to Barycentric Coordinate for Robust Correspondence**|Weiyue Zhao et.al.|[2306.02760](http://arxiv.org/abs/2306.02760)|null|
 |**2023-05-27**|**Pentagon-Match (PMatch): Identification of View-Invariant Planar Feature for Local Feature Matching-Based Homography Estimation**|Yueh-Cheng Huang et.al.|[2305.17463](http://arxiv.org/abs/2305.17463)|null|
