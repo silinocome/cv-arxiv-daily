@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.21
+## Updated on 2023.06.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -264,7 +264,7 @@ layout: default
 |**2023-06-19**|**Semi-Supervised Learning for hyperspectral images by non parametrically predicting view assignment**|Shivam Pande et.al.|[2306.10955](http://arxiv.org/abs/2306.10955)|null|
 |**2023-06-19**|**Performance of data-driven inner speech decoding with same-task EEG-fMRI data fusion and bimodal models**|Holly Wilson et.al.|[2306.10854](http://arxiv.org/abs/2306.10854)|null|
 |**2023-06-15**|**A9 Intersection Dataset: All You Need for Urban 3D Camera-LiDAR Roadside Perception**|Walter Zimmer et.al.|[2306.09266](http://arxiv.org/abs/2306.09266)|null|
-|**2023-06-12**|**Towards a Robust Sensor Fusion Step for 3D Object Detection on Corrupted Data**|Maciej K. Wozniak et.al.|[2306.07344](http://arxiv.org/abs/2306.07344)|null|
+|**2023-06-12**|**Towards a Robust Sensor Fusion Step for 3D Object Detection on Corrupted Data**|Maciej K. Wozniak et.al.|[2306.07344](http://arxiv.org/abs/2306.07344)|**[link](https://github.com/viktorkare/bevf)**|
 |**2023-05-30**|**Trustworthy Sensor Fusion against Inaudible Command Attacks in Advanced Driver-Assistance System**|Jiwei Guan et.al.|[2306.05358](http://arxiv.org/abs/2306.05358)|null|
 |**2023-06-06**|**Benchmarking Robustness of AI-enabled Multi-sensor Fusion Systems: Challenges and Opportunities**|Xinyu Gao et.al.|[2306.03454](http://arxiv.org/abs/2306.03454)|null|
 |**2023-06-06**|**Reconstructing human activities via coupling mobile phone data with location-based social networks**|Le Huang et.al.|[2306.03441](http://arxiv.org/abs/2306.03441)|null|
