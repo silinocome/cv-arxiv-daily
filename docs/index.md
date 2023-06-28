@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.06.27
+## Updated on 2023.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -266,7 +266,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-25**|**BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**|Yuanzhi Liu et.al.|[2306.14137](http://arxiv.org/abs/2306.14137)|null|
-|**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268](http://arxiv.org/abs/2306.13268)|null|
+|**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268](http://arxiv.org/abs/2306.13268)|**[link](https://github.com/chichengcn/gici-open)**|
 |**2023-06-25**|**Multimodality Fusion for Smart Healthcare: a Journey from Data, Information, Knowledge to Wisdom**|Thanveer Shaik et.al.|[2306.11963](http://arxiv.org/abs/2306.11963)|null|
 |**2023-06-19**|**Semi-Supervised Learning for hyperspectral images by non parametrically predicting view assignment**|Shivam Pande et.al.|[2306.10955](http://arxiv.org/abs/2306.10955)|null|
 |**2023-06-19**|**Performance of data-driven inner speech decoding with same-task EEG-fMRI data fusion and bimodal models**|Holly Wilson et.al.|[2306.10854](http://arxiv.org/abs/2306.10854)|null|
