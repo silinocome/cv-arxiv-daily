@@ -157,6 +157,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-28**|**Adaptive functional principal components analysis**|Sunny Wang Guang Wei et.al.|[2306.16091](http://arxiv.org/abs/2306.16091)|null|
 |**2023-06-22**|**Cross-lingual Cross-temporal Summarization: Dataset, Models, Evaluation**|Ran Zhang et.al.|[2306.12916](http://arxiv.org/abs/2306.12916)|null|
 |**2023-06-18**|**Optical Integrated Sensing and Communication for Cooperative Mobile Robotics Design and Experiments**|Shengqian Wang et.al.|[2306.10584](http://arxiv.org/abs/2306.10584)|null|
 |**2023-06-14**|**Extracting Information from Twitter Screenshots**|Tarannum Zaki et.al.|[2306.08236](http://arxiv.org/abs/2306.08236)|null|
@@ -278,6 +279,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-06-27**|**CARMA: Context-Aware Runtime Reconfiguration for Energy-Efficient Sensor Fusion**|Yifan Zhang et.al.|[2306.15748](http://arxiv.org/abs/2306.15748)|null|
 |**2023-06-25**|**BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**|Yuanzhi Liu et.al.|[2306.14137](http://arxiv.org/abs/2306.14137)|**[link](https://github.com/robot-pesg/botanicgarden)**|
 |**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268](http://arxiv.org/abs/2306.13268)|**[link](https://github.com/chichengcn/gici-open)**|
 |**2023-06-25**|**Multimodality Fusion for Smart Healthcare: a Journey from Data, Information, Knowledge to Wisdom**|Thanveer Shaik et.al.|[2306.11963](http://arxiv.org/abs/2306.11963)|null|
