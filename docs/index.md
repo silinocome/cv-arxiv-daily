@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-29**|**MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion**|Ce Zhang et.al.|[2306.17000](http://arxiv.org/abs/2306.17000)|null|
+|**2023-06-28**|**Diversity Maximized Scheduling in RoadSide Units for Traffic Monitoring Applications**|Ahmad Sarlak et.al.|[2306.16481](http://arxiv.org/abs/2306.16481)|null|
 |**2023-06-26**|**Deep Transfer Learning for Intelligent Vehicle Perception: a Survey**|Xinyu Liu et.al.|[2306.15110](http://arxiv.org/abs/2306.15110)|null|
 |**2023-06-26**|**A Diversity Analysis of Safety Metrics Comparing Vehicle Performance in the Lead-Vehicle Interaction Regime**|Harnarayan Singh et.al.|[2306.14657](http://arxiv.org/abs/2306.14657)|null|
 |**2023-06-25**|**Robust Spatiotemporal Traffic Forecasting with Reinforced Dynamic Adversarial Training**|Fan Liu et.al.|[2306.14126](http://arxiv.org/abs/2306.14126)|**[link](https://github.com/usail-hkust/rdat)**|
