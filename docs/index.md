@@ -139,7 +139,7 @@ layout: default
 |**2022-11-06**|**Graph Reinforcement Learning Application to Co-operative Decision-Making in Mixed Autonomy Traffic: Framework, Survey, and Challenges**|Qi Liu et.al.|[2211.03005](http://arxiv.org/abs/2211.03005)|**[link](https://github.com/jacklinkk/graph_cavs)**|
 |**2022-11-09**|**Semantic 3D Grid Maps for Autonomous Driving**|Ajinkya Khoche et.al.|[2211.01700](http://arxiv.org/abs/2211.01700)|**[link](https://github.com/UnknownFreeOccupied/ufomap)**|
 |**2022-11-03**|**Cooperative Maneuvers of Highly Automated Vehicles at Urban Intersections: A Game-theoretic Approach**|Björn Koopmann et.al.|[2211.01633](http://arxiv.org/abs/2211.01633)|null|
-|**2022-11-02**|**Heterogeneous Trajectory Forecasting via Risk and Scene Graph Learning**|Jianwu Fang et.al.|[2211.00848](http://arxiv.org/abs/2211.00848)|null|
+|**2022-11-02**|**Heterogeneous Trajectory Forecasting via Risk and Scene Graph Learning**|Jianwu Fang et.al.|[2211.00848](http://arxiv.org/abs/2211.00848)|**[link](https://github.com/jwfanggit/hrg_hsg_trajforecasting)**|
 |**2022-11-02**|**Behavioral Intention Prediction in Driving Scenes: A Survey**|Jianwu Fang et.al.|[2211.00385](http://arxiv.org/abs/2211.00385)|null|
 |**2022-10-31**|**Maximizing Quality and Minimizing Cost for VCPS in ISAC-Based Vehicular Networks: A Deep Reinforcement Learning Approach**|Xincao Xu et.al.|[2211.00007](http://arxiv.org/abs/2211.00007)|null|
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
@@ -179,7 +179,7 @@ layout: default
 |**2023-03-28**|**Canary in Twitter Mine: Collecting Phishing Reports from Experts and Non-experts**|Hiroki Nakano et.al.|[2303.15847](http://arxiv.org/abs/2303.15847)|null|
 |**2023-03-19**|**On the Convergence of Decentralized Federated Learning Under Imperfect Information Sharing**|Vishnu Pandi Chellapandi et.al.|[2303.10695](http://arxiv.org/abs/2303.10695)|**[link](https://github.com/vishnupandi/FedNDL3)**|
 |**2023-03-05**|**Time Associated Meta Learning for Clinical Prediction**|Hao Liu et.al.|[2303.02570](http://arxiv.org/abs/2303.02570)|null|
-|**2023-03-03**|**AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing**|Hongyang Du et.al.|[2303.01896](http://arxiv.org/abs/2303.01896)|null|
+|**2023-03-03**|**AI-Generated Incentive Mechanism and Full-Duplex Semantic Communications for Information Sharing**|Hongyang Du et.al.|[2303.01896](http://arxiv.org/abs/2303.01896)|**[link](https://github.com/hongyangdu/semsharing)**|
 |**2023-02-08**|**Knowledge Distillation-based Information Sharing for Online Process Monitoring in Decentralized Manufacturing System**|Zhangyue Shi et.al.|[2302.12004](http://arxiv.org/abs/2302.12004)|null|
 |**2023-02-21**|**Sedition Hunters: A Quantitative Study of the Crowdsourced Investigation into the 2021 U.S. Capitol Attack**|Tianjiao Yu et.al.|[2302.10964](http://arxiv.org/abs/2302.10964)|null|
 |**2023-01-27**|**Deepfake Detection Analyzing Hybrid Dataset Utilizing CNN and SVM**|Jacob mallet et.al.|[2302.10280](http://arxiv.org/abs/2302.10280)|null|
