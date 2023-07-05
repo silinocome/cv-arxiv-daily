@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-02**|**DSTCGCN: Learning Dynamic Spatial-Temporal Cross Dependencies for Traffic Forecasting**|Binqing Wu et.al.|[2307.00518](http://arxiv.org/abs/2307.00518)|null|
 |**2023-06-30**|**Detection-segmentation convolutional neural network for autonomous vehicle perception**|Maciej Baczmanski et.al.|[2306.17485](http://arxiv.org/abs/2306.17485)|null|
 |**2023-06-29**|**MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion**|Ce Zhang et.al.|[2306.17000](http://arxiv.org/abs/2306.17000)|null|
 |**2023-06-28**|**Diversity Maximized Scheduling in RoadSide Units for Traffic Monitoring Applications**|Ahmad Sarlak et.al.|[2306.16481](http://arxiv.org/abs/2306.16481)|null|
@@ -150,6 +151,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-02**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500](http://arxiv.org/abs/2307.00500)|null|
 |**2023-06-28**|**Adaptive functional principal components analysis**|Sunny Wang Guang Wei et.al.|[2306.16091](http://arxiv.org/abs/2306.16091)|null|
 |**2023-06-22**|**Cross-lingual Cross-temporal Summarization: Dataset, Models, Evaluation**|Ran Zhang et.al.|[2306.12916](http://arxiv.org/abs/2306.12916)|null|
 |**2023-06-18**|**Optical Integrated Sensing and Communication for Cooperative Mobile Robotics Design and Experiments**|Shengqian Wang et.al.|[2306.10584](http://arxiv.org/abs/2306.10584)|null|
@@ -270,6 +272,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121](http://arxiv.org/abs/2307.01121)|null|
+|**2023-07-02**|**On Embedding B-Splines in Recursive State Estimation**|Kailai Li et.al.|[2307.00637](http://arxiv.org/abs/2307.00637)|null|
+|**2023-06-22**|**Inertial Navigation Meets Deep Learning: A Survey of Current Trends and Future Directions**|Nadav Cohen et.al.|[2307.00014](http://arxiv.org/abs/2307.00014)|null|
 |**2023-06-27**|**CARMA: Context-Aware Runtime Reconfiguration for Energy-Efficient Sensor Fusion**|Yifan Zhang et.al.|[2306.15748](http://arxiv.org/abs/2306.15748)|null|
 |**2023-06-25**|**BotanicGarden: A high-quality and large-scale robot navigation dataset in challenging natural environments**|Yuanzhi Liu et.al.|[2306.14137](http://arxiv.org/abs/2306.14137)|**[link](https://github.com/robot-pesg/botanicgarden)**|
 |**2023-06-23**|**GICI-LIB: A GNSS/INS/Camera Integrated Navigation Library**|Cheng Chi et.al.|[2306.13268](http://arxiv.org/abs/2306.13268)|**[link](https://github.com/chichengcn/gici-open)**|
@@ -637,6 +642,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-02**|**TopicFM+: Boosting Accuracy and Efficiency of Topic-Assisted Feature Matching**|Khang Truong Giang et.al.|[2307.00485](http://arxiv.org/abs/2307.00485)|**[link](https://github.com/truongkhang/topicfm)**|
 |**2023-06-27**|**Detector-Free Structure from Motion**|Xingyi He et.al.|[2306.15669](http://arxiv.org/abs/2306.15669)|**[link](https://github.com/zju3dv/DetectorFreeSfM)**|
 |**2023-06-28**|**PoseDiffusion: Solving Pose Estimation via Diffusion-aided Bundle Adjustment**|Jianyuan Wang et.al.|[2306.15667](http://arxiv.org/abs/2306.15667)|null|
 |**2023-06-25**|**Enhancing Dynamic Image Advertising with Vision-Language Pre-training**|Zhoufutu Wen et.al.|[2306.14112](http://arxiv.org/abs/2306.14112)|null|
