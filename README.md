@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-04**|**Practical Collaborative Perception: A Framework for Asynchronous and Multi-Agent 3D Object Detection**|Minh-Quan Dao et.al.|[2307.01462](http://arxiv.org/abs/2307.01462)|null|
+|**2023-07-03**|**Towards Safe Autonomous Driving Policies using a Neuro-Symbolic Deep Reinforcement Learning Approach**|Iman Sharifi et.al.|[2307.01316](http://arxiv.org/abs/2307.01316)|null|
 |**2023-07-02**|**DSTCGCN: Learning Dynamic Spatial-Temporal Cross Dependencies for Traffic Forecasting**|Binqing Wu et.al.|[2307.00518](http://arxiv.org/abs/2307.00518)|null|
 |**2023-06-30**|**Detection-segmentation convolutional neural network for autonomous vehicle perception**|Maciej Baczmanski et.al.|[2306.17485](http://arxiv.org/abs/2306.17485)|**[link](https://github.com/vision-agh/mmar_2023)**|
 |**2023-06-29**|**MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion**|Ce Zhang et.al.|[2306.17000](http://arxiv.org/abs/2306.17000)|null|
@@ -161,6 +163,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-04**|**An Ontology-based Collaborative Business Intelligence Framework**|Muhammad Fahad et.al.|[2307.01568](http://arxiv.org/abs/2307.01568)|null|
 |**2023-07-02**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500](http://arxiv.org/abs/2307.00500)|null|
 |**2023-06-28**|**Adaptive functional principal components analysis**|Sunny Wang Guang Wei et.al.|[2306.16091](http://arxiv.org/abs/2306.16091)|null|
 |**2023-06-22**|**Cross-lingual Cross-temporal Summarization: Dataset, Models, Evaluation**|Ran Zhang et.al.|[2306.12916](http://arxiv.org/abs/2306.12916)|null|
@@ -284,6 +287,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-04**|**Siamese Learning-based Monarch Butterfly Localization**|Sara Shoouri et.al.|[2307.01920](http://arxiv.org/abs/2307.01920)|null|
+|**2023-07-04**|**Graph-Ensemble Learning Model for Multi-label Skin Lesion Classification using Dermoscopy and Clinical Images**|Peng Tang et.al.|[2307.01704](http://arxiv.org/abs/2307.01704)|null|
 |**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121](http://arxiv.org/abs/2307.01121)|null|
 |**2023-07-02**|**On Embedding B-Splines in Recursive State Estimation**|Kailai Li et.al.|[2307.00637](http://arxiv.org/abs/2307.00637)|null|
 |**2023-06-22**|**Inertial Navigation Meets Deep Learning: A Survey of Current Trends and Future Directions**|Nadav Cohen et.al.|[2307.00014](http://arxiv.org/abs/2307.00014)|null|
@@ -411,6 +416,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-04**|**Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network**|Zizhuo Li et.al.|[2307.01447](http://arxiv.org/abs/2307.01447)|null|
 |**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529](http://arxiv.org/abs/2306.17529)|null|
 |**2023-06-27**|**Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**|Tanjida Kabir et.al.|[2306.15651](http://arxiv.org/abs/2306.15651)|null|
 |**2023-06-27**|**Mean Field Theory in Deep Metric Learning**|Takuya Furusawa et.al.|[2306.15368](http://arxiv.org/abs/2306.15368)|null|
