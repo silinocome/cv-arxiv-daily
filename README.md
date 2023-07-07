@@ -287,6 +287,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-06**|**Multi-source imagery fusion using deep learning in a cloud computing platform**|Carlos Theran et.al.|[2307.03054](http://arxiv.org/abs/2307.03054)|null|
 |**2023-07-04**|**Siamese Learning-based Monarch Butterfly Localization**|Sara Shoouri et.al.|[2307.01920](http://arxiv.org/abs/2307.01920)|null|
 |**2023-07-04**|**Graph-Ensemble Learning Model for Multi-label Skin Lesion Classification using Dermoscopy and Clinical Images**|Peng Tang et.al.|[2307.01704](http://arxiv.org/abs/2307.01704)|null|
 |**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121](http://arxiv.org/abs/2307.01121)|null|
