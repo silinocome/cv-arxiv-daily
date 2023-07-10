@@ -163,6 +163,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-07**|**Rationality and Behavior Feedback in a Model of Vehicle-to-Vehicle Communication**|Brendan Gould et.al.|[2307.03382](http://arxiv.org/abs/2307.03382)|null|
 |**2023-07-04**|**An Ontology-based Collaborative Business Intelligence Framework**|Muhammad Fahad et.al.|[2307.01568](http://arxiv.org/abs/2307.01568)|null|
 |**2023-07-02**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500](http://arxiv.org/abs/2307.00500)|null|
 |**2023-06-28**|**Adaptive functional principal components analysis**|Sunny Wang Guang Wei et.al.|[2306.16091](http://arxiv.org/abs/2306.16091)|null|
