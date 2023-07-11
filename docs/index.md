@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-08**|**Social-Mobility-Aware Joint Communication and Computation Resource Management in NOMA-Enabled Vehicular Networks**|Tong Xue et.al.|[2307.03921](http://arxiv.org/abs/2307.03921)|null|
 |**2023-07-09**|**Practical Collaborative Perception: A Framework for Asynchronous and Multi-Agent 3D Object Detection**|Minh-Quan Dao et.al.|[2307.01462](http://arxiv.org/abs/2307.01462)|null|
 |**2023-07-03**|**Towards Safe Autonomous Driving Policies using a Neuro-Symbolic Deep Reinforcement Learning Approach**|Iman Sharifi et.al.|[2307.01316](http://arxiv.org/abs/2307.01316)|**[link](https://github.com/cav-research-lab/safe-reinforcement-learning-using-symbolic-logical-programming-for-autonomous-highway-driving)**|
 |**2023-07-02**|**DSTCGCN: Learning Dynamic Spatial-Temporal Cross Dependencies for Traffic Forecasting**|Binqing Wu et.al.|[2307.00518](http://arxiv.org/abs/2307.00518)|**[link](https://github.com/water-wbq/dstcgcn)**|
@@ -276,6 +277,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-07**|**Teach Me How to Learn: A Perspective Review towards User-centered Neuro-symbolic Learning for Robotic Surgical Systems**|Amr Gomaa et.al.|[2307.03853](http://arxiv.org/abs/2307.03853)|null|
 |**2023-07-06**|**Multi-source imagery fusion using deep learning in a cloud computing platform**|Carlos Theran et.al.|[2307.03054](http://arxiv.org/abs/2307.03054)|null|
 |**2023-07-04**|**Siamese Learning-based Monarch Butterfly Localization**|Sara Shoouri et.al.|[2307.01920](http://arxiv.org/abs/2307.01920)|null|
 |**2023-07-04**|**Graph-Ensemble Learning Model for Multi-label Skin Lesion Classification using Dermoscopy and Clinical Images**|Peng Tang et.al.|[2307.01704](http://arxiv.org/abs/2307.01704)|null|
@@ -404,6 +406,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Efficient Match Pair Retrieval for Large-scale UAV Images via Graph Indexed Global Descriptor**|San Jiang et.al.|[2307.04520](http://arxiv.org/abs/2307.04520)|null|
+|**2023-07-08**|**Calibration-Aware Margin Loss: Pushing the Accuracy-Calibration Consistency Pareto Frontier for Deep Metric Learning**|Qin Zhang et.al.|[2307.04047](http://arxiv.org/abs/2307.04047)|null|
 |**2023-07-04**|**Learning Feature Matching via Matchable Keypoint-Assisted Graph Neural Network**|Zizhuo Li et.al.|[2307.01447](http://arxiv.org/abs/2307.01447)|null|
 |**2023-06-30**|**Locking On: Leveraging Dynamic Vehicle-Imposed Motion Constraints to Improve Visual Localization**|Stephen Hausler et.al.|[2306.17529](http://arxiv.org/abs/2306.17529)|null|
 |**2023-06-27**|**Dental CLAIRES: Contrastive LAnguage Image REtrieval Search for Dental Research**|Tanjida Kabir et.al.|[2306.15651](http://arxiv.org/abs/2306.15651)|null|
