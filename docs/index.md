@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.10
+## Updated on 2023.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-04**|**Practical Collaborative Perception: A Framework for Asynchronous and Multi-Agent 3D Object Detection**|Minh-Quan Dao et.al.|[2307.01462](http://arxiv.org/abs/2307.01462)|null|
+|**2023-07-09**|**Practical Collaborative Perception: A Framework for Asynchronous and Multi-Agent 3D Object Detection**|Minh-Quan Dao et.al.|[2307.01462](http://arxiv.org/abs/2307.01462)|null|
 |**2023-07-03**|**Towards Safe Autonomous Driving Policies using a Neuro-Symbolic Deep Reinforcement Learning Approach**|Iman Sharifi et.al.|[2307.01316](http://arxiv.org/abs/2307.01316)|**[link](https://github.com/cav-research-lab/safe-reinforcement-learning-using-symbolic-logical-programming-for-autonomous-highway-driving)**|
 |**2023-07-02**|**DSTCGCN: Learning Dynamic Spatial-Temporal Cross Dependencies for Traffic Forecasting**|Binqing Wu et.al.|[2307.00518](http://arxiv.org/abs/2307.00518)|**[link](https://github.com/water-wbq/dstcgcn)**|
 |**2023-06-30**|**Detection-segmentation convolutional neural network for autonomous vehicle perception**|Maciej Baczmanski et.al.|[2306.17485](http://arxiv.org/abs/2306.17485)|**[link](https://github.com/vision-agh/mmar_2023)**|
