@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.16
+## Updated on 2023.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-13**|**Automatic Routing System for Intelligent Warehouses**|Kelen C. T. Vivaldini et.al.|[2307.06893](http://arxiv.org/abs/2307.06893)|null|
-|**2023-07-13**|**LVLane: Deep Learning for Lane Detection and Classification in Challenging Conditions**|Zillur Rahman et.al.|[2307.06853](http://arxiv.org/abs/2307.06853)|null|
+|**2023-07-13**|**LVLane: Deep Learning for Lane Detection and Classification in Challenging Conditions**|Zillur Rahman et.al.|[2307.06853](http://arxiv.org/abs/2307.06853)|**[link](https://github.com/zillur-av/LVLane)**|
 |**2023-07-13**|**LimSim: A Long-term Interactive Multi-scenario Traffic Simulator**|Licheng Wen et.al.|[2307.06648](http://arxiv.org/abs/2307.06648)|**[link](https://github.com/PJLab-ADG/LimSim)**|
 |**2023-07-12**|**Smart Infrastructure: A Research Junction**|Manuel Hetzel et.al.|[2307.06177](http://arxiv.org/abs/2307.06177)|null|
 |**2023-07-12**|**The IMPTC Dataset: An Infrastructural Multi-Person Trajectory and Context Dataset**|Manuel Hetzel et.al.|[2307.06165](http://arxiv.org/abs/2307.06165)|**[link](https://github.com/kav-institute/imptc-dataset)**|
@@ -164,7 +164,7 @@ layout: default
 |**2023-07-04**|**An Ontology-based Collaborative Business Intelligence Framework**|Muhammad Fahad et.al.|[2307.01568](http://arxiv.org/abs/2307.01568)|null|
 |**2023-07-02**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500](http://arxiv.org/abs/2307.00500)|null|
 |**2023-06-28**|**Adaptive functional principal components analysis**|Sunny Wang Guang Wei et.al.|[2306.16091](http://arxiv.org/abs/2306.16091)|null|
-|**2023-06-22**|**Cross-lingual Cross-temporal Summarization: Dataset, Models, Evaluation**|Ran Zhang et.al.|[2306.12916](http://arxiv.org/abs/2306.12916)|**[link](https://github.com/zhangr2021/clcts)**|
+|**2023-07-13**|**Cross-lingual Cross-temporal Summarization: Dataset, Models, Evaluation**|Ran Zhang et.al.|[2306.12916](http://arxiv.org/abs/2306.12916)|**[link](https://github.com/zhangr2021/clcts)**|
 |**2023-06-18**|**Optical Integrated Sensing and Communication for Cooperative Mobile Robotics Design and Experiments**|Shengqian Wang et.al.|[2306.10584](http://arxiv.org/abs/2306.10584)|null|
 |**2023-06-14**|**Extracting Information from Twitter Screenshots**|Tarannum Zaki et.al.|[2306.08236](http://arxiv.org/abs/2306.08236)|null|
 |**2023-06-12**|**A Brief Review of Hypernetworks in Deep Learning**|Vinod Kumar Chauhan et.al.|[2306.06955](http://arxiv.org/abs/2306.06955)|null|
