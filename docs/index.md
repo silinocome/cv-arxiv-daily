@@ -160,6 +160,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**ACF-Net: An Attention-enhanced Co-interactive Fusion Network for Automated Structural Condition Assessment in Visual Inspection**|Chenyu Zhang et.al.|[2307.07643](http://arxiv.org/abs/2307.07643)|null|
 |**2023-07-07**|**Rationality and Behavior Feedback in a Model of Vehicle-to-Vehicle Communication**|Brendan Gould et.al.|[2307.03382](http://arxiv.org/abs/2307.03382)|null|
 |**2023-07-04**|**An Ontology-based Collaborative Business Intelligence Framework**|Muhammad Fahad et.al.|[2307.01568](http://arxiv.org/abs/2307.01568)|null|
 |**2023-07-02**|**CQLite: Communication-Efficient Multi-Robot Exploration Using Coverage-biased Distributed Q-Learning**|Ehsan Latif et.al.|[2307.00500](http://arxiv.org/abs/2307.00500)|null|
@@ -283,6 +284,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**ROFusion: Efficient Object Detection using Hybrid Point-wise Radar-Optical Fusion**|Liu Liu et.al.|[2307.08233](http://arxiv.org/abs/2307.08233)|null|
+|**2023-07-16**|**A Data Fusion Method for Quantile Treatment Effects**|Yijiao Zhang et.al.|[2307.07918](http://arxiv.org/abs/2307.07918)|null|
+|**2023-07-14**|**SubT-MRS: A Subterranean, Multi-Robot, Multi-Spectral and Multi-Degraded Dataset for Robust SLAM**|Shibo Zhao et.al.|[2307.07607](http://arxiv.org/abs/2307.07607)|null|
 |**2023-07-13**|**Multimodal Object Detection in Remote Sensing**|Abdelbadie Belmouhcine et.al.|[2307.06724](http://arxiv.org/abs/2307.06724)|null|
 |**2023-07-13**|**Learning IMM Filter Parameters from Measurements using Gradient Descent**|André Brandenburger et.al.|[2307.06618](http://arxiv.org/abs/2307.06618)|null|
 |**2023-07-13**|**NLOS Dies Twice: Challenges and Solutions of V2X for Cooperative Perception**|Lantao Li et.al.|[2307.06615](http://arxiv.org/abs/2307.06615)|null|
@@ -416,6 +420,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition**|Gabriele Trivigno et.al.|[2307.08417](http://arxiv.org/abs/2307.08417)|null|
+|**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316](http://arxiv.org/abs/2307.08316)|null|
+|**2023-07-16**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015](http://arxiv.org/abs/2307.08015)|null|
 |**2023-07-10**|**Phoneme-retrieval; voice recognition; vowels recognition**|Brunello Tirozzi et.al.|[2307.07407](http://arxiv.org/abs/2307.07407)|null|
 |**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336](http://arxiv.org/abs/2307.07336)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|**[link](https://github.com/acuooooo/resmatch)**|
@@ -668,6 +675,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763](http://arxiv.org/abs/2307.07763)|null|
 |**2023-07-09**|**Augmenters at SemEval-2023 Task 1: Enhancing CLIP in Handling Compositionality and Ambiguity for Zero-Shot Visual WSD through Prompt Augmentation and Text-To-Image Diffusion**|Jie S. Li et.al.|[2307.05564](http://arxiv.org/abs/2307.05564)|null|
 |**2023-07-11**|**ResMatch: Residual Attention Learning for Local Feature Matching**|Yuxin Deng et.al.|[2307.05180](http://arxiv.org/abs/2307.05180)|**[link](https://github.com/acuooooo/resmatch)**|
 |**2023-07-11**|**TIAM -- A Metric for Evaluating Alignment in Text-to-Image Generation**|Paul Grimal et.al.|[2307.05134](http://arxiv.org/abs/2307.05134)|**[link](https://github.com/grimalpaul/tiam)**|
