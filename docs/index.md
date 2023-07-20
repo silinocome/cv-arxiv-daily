@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Traffic-Domain Video Question Answering with Automatic Captioning**|Ehsan Qasemi et.al.|[2307.09636](http://arxiv.org/abs/2307.09636)|null|
 |**2023-07-18**|**Light-Weight Vision Transformer with Parallel Local and Global Self-Attention**|Nikolas Ebert et.al.|[2307.09120](http://arxiv.org/abs/2307.09120)|null|
 |**2023-07-18**|**A Note on the Security of ITS: Car Crash Analysis in Cruise Control Scenarios**|Mohammad Sayad Haghighi et.al.|[2307.08899](http://arxiv.org/abs/2307.08899)|null|
 |**2023-07-13**|**Automatic Routing System for Intelligent Warehouses**|Kelen C. T. Vivaldini et.al.|[2307.06893](http://arxiv.org/abs/2307.06893)|null|
@@ -162,6 +163,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-18**|**Spatio-temporal quasi-experimental methods for rare disease outcomes: The impact of reformulated gasoline on childhood hematologic cancer**|Sofia L. Vega et.al.|[2307.09546](http://arxiv.org/abs/2307.09546)|null|
 |**2023-07-14**|**ACF-Net: An Attention-enhanced Co-interactive Fusion Network for Automated Structural Condition Assessment in Visual Inspection**|Chenyu Zhang et.al.|[2307.07643](http://arxiv.org/abs/2307.07643)|null|
 |**2023-07-07**|**Rationality and Behavior Feedback in a Model of Vehicle-to-Vehicle Communication**|Brendan Gould et.al.|[2307.03382](http://arxiv.org/abs/2307.03382)|null|
 |**2023-07-04**|**An Ontology-based Collaborative Business Intelligence Framework**|Muhammad Fahad et.al.|[2307.01568](http://arxiv.org/abs/2307.01568)|null|
@@ -286,6 +288,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860](http://arxiv.org/abs/2307.09860)|null|
 |**2023-07-17**|**ROFusion: Efficient Object Detection using Hybrid Point-wise Radar-Optical Fusion**|Liu Liu et.al.|[2307.08233](http://arxiv.org/abs/2307.08233)|null|
 |**2023-07-16**|**A Data Fusion Method for Quantile Treatment Effects**|Yijiao Zhang et.al.|[2307.07918](http://arxiv.org/abs/2307.07918)|null|
 |**2023-07-14**|**SubT-MRS: A Subterranean, Multi-Robot, Multi-Spectral and Multi-Degraded Dataset for Robust SLAM**|Shibo Zhao et.al.|[2307.07607](http://arxiv.org/abs/2307.07607)|null|
@@ -422,6 +425,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
+|**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789](http://arxiv.org/abs/2307.09789)|null|
 |**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172](http://arxiv.org/abs/2307.09172)|null|
 |**2023-07-17**|**Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition**|Gabriele Trivigno et.al.|[2307.08417](http://arxiv.org/abs/2307.08417)|null|
 |**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316](http://arxiv.org/abs/2307.08316)|null|
@@ -569,6 +574,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**|Zi Li et.al.|[2307.09727](http://arxiv.org/abs/2307.09727)|null|
 |**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231](http://arxiv.org/abs/2306.04231)|null|
 |**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
 |**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892](http://arxiv.org/abs/2306.00892)|null|
