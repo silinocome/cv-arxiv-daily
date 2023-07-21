@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-19**|**Explaining Autonomous Driving Actions with Visual Question Answering**|Shahin Atakishiyev et.al.|[2307.10408](http://arxiv.org/abs/2307.10408)|**[link](https://github.com/shahin-01/vqa-ad)**|
 |**2023-07-18**|**Traffic-Domain Video Question Answering with Automatic Captioning**|Ehsan Qasemi et.al.|[2307.09636](http://arxiv.org/abs/2307.09636)|null|
 |**2023-07-18**|**Light-Weight Vision Transformer with Parallel Local and Global Self-Attention**|Nikolas Ebert et.al.|[2307.09120](http://arxiv.org/abs/2307.09120)|null|
 |**2023-07-18**|**A Note on the Security of ITS: Car Crash Analysis in Cruise Control Scenarios**|Mohammad Sayad Haghighi et.al.|[2307.08899](http://arxiv.org/abs/2307.08899)|null|
@@ -300,6 +301,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Exploiting Structure for Optimal Multi-Agent Bayesian Decentralized Estimation**|Christopher Funk et.al.|[2307.10594](http://arxiv.org/abs/2307.10594)|null|
+|**2023-07-20**|**Probabilistic Multimodal Depth Estimation Based on Camera-LiDAR Sensor Fusion**|Johan S. Obando-Ceron et.al.|[2307.10519](http://arxiv.org/abs/2307.10519)|null|
 |**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860](http://arxiv.org/abs/2307.09860)|null|
 |**2023-07-17**|**ROFusion: Efficient Object Detection using Hybrid Point-wise Radar-Optical Fusion**|Liu Liu et.al.|[2307.08233](http://arxiv.org/abs/2307.08233)|null|
 |**2023-07-16**|**A Data Fusion Method for Quantile Treatment Effects**|Yijiao Zhang et.al.|[2307.07918](http://arxiv.org/abs/2307.07918)|null|
@@ -702,6 +705,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-20**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-18**|**Balancing Privacy and Progress in Artificial Intelligence: Anonymization in Histopathology for Biomedical Research and Education**|Neel Kanwal et.al.|[2307.09426](http://arxiv.org/abs/2307.09426)|null|
 |**2023-07-20**|**Unsupervised Deep Graph Matching Based on Cycle Consistency**|Siddharth Tourani et.al.|[2307.08930](http://arxiv.org/abs/2307.08930)|null|
 |**2023-07-15**|**Tightly-Coupled LiDAR-Visual SLAM Based on Geometric Features for Mobile Agents**|Ke Cao et.al.|[2307.07763](http://arxiv.org/abs/2307.07763)|null|
