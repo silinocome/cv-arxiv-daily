@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.07.21
+## Updated on 2023.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -164,7 +164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-18**|**Spatio-temporal quasi-experimental methods for rare disease outcomes: The impact of reformulated gasoline on childhood hematologic cancer**|Sofia L. Vega et.al.|[2307.09546](http://arxiv.org/abs/2307.09546)|null|
+|**2023-07-18**|**Spatio-temporal quasi-experimental methods for rare disease outcomes: The impact of reformulated gasoline on childhood hematologic cancer**|Sofia L. Vega et.al.|[2307.09546](http://arxiv.org/abs/2307.09546)|**[link](https://github.com/sofiavega98/trap_cancer_spacetimemc)**|
 |**2023-07-14**|**ACF-Net: An Attention-enhanced Co-interactive Fusion Network for Automated Structural Condition Assessment in Visual Inspection**|Chenyu Zhang et.al.|[2307.07643](http://arxiv.org/abs/2307.07643)|null|
 |**2023-07-07**|**Rationality and Behavior Feedback in a Model of Vehicle-to-Vehicle Communication**|Brendan Gould et.al.|[2307.03382](http://arxiv.org/abs/2307.03382)|null|
 |**2023-07-04**|**An Ontology-based Collaborative Business Intelligence Framework**|Muhammad Fahad et.al.|[2307.01568](http://arxiv.org/abs/2307.01568)|null|
@@ -291,7 +291,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-20**|**Exploiting Structure for Optimal Multi-Agent Bayesian Decentralized Estimation**|Christopher Funk et.al.|[2307.10594](http://arxiv.org/abs/2307.10594)|null|
 |**2023-07-20**|**Probabilistic Multimodal Depth Estimation Based on Camera-LiDAR Sensor Fusion**|Johan S. Obando-Ceron et.al.|[2307.10519](http://arxiv.org/abs/2307.10519)|null|
-|**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860](http://arxiv.org/abs/2307.09860)|null|
+|**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860](http://arxiv.org/abs/2307.09860)|**[link](https://github.com/uhhhci/immersive-ngp)**|
 |**2023-07-17**|**ROFusion: Efficient Object Detection using Hybrid Point-wise Radar-Optical Fusion**|Liu Liu et.al.|[2307.08233](http://arxiv.org/abs/2307.08233)|null|
 |**2023-07-16**|**A Data Fusion Method for Quantile Treatment Effects**|Yijiao Zhang et.al.|[2307.07918](http://arxiv.org/abs/2307.07918)|null|
 |**2023-07-14**|**SubT-MRS: A Subterranean, Multi-Robot, Multi-Spectral and Multi-Degraded Dataset for Robust SLAM**|Shibo Zhao et.al.|[2307.07607](http://arxiv.org/abs/2307.07607)|null|
