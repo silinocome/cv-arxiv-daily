@@ -22,6 +22,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Acquire Driving Scenarios Efficiently: A Framework for Prospective Assessment of Cost-Optimal Scenario Acquisition**|Christoph Glasmacher et.al.|[2307.11647](http://arxiv.org/abs/2307.11647)|null|
+|**2023-07-21**|**Data-driven dual-loop control for platooning mixed human-driven and automated vehicles**|Jianglin Lan et.al.|[2307.11476](http://arxiv.org/abs/2307.11476)|null|
+|**2023-07-21**|**Bridging the Reality Gap of Reinforcement Learning based Traffic Signal Control using Domain Randomization and Meta Learning**|Arthur Müller et.al.|[2307.11357](http://arxiv.org/abs/2307.11357)|null|
 |**2023-07-19**|**Explaining Autonomous Driving Actions with Visual Question Answering**|Shahin Atakishiyev et.al.|[2307.10408](http://arxiv.org/abs/2307.10408)|**[link](https://github.com/shahin-01/vqa-ad)**|
 |**2023-07-18**|**Traffic-Domain Video Question Answering with Automatic Captioning**|Ehsan Qasemi et.al.|[2307.09636](http://arxiv.org/abs/2307.09636)|null|
 |**2023-07-18**|**Light-Weight Vision Transformer with Parallel Local and Global Self-Attention**|Nikolas Ebert et.al.|[2307.09120](http://arxiv.org/abs/2307.09120)|null|
@@ -301,6 +304,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**Beyond Convergence: Identifiability of Machine Learning and Deep Learning Models**|Reza Sameni et.al.|[2307.11332](http://arxiv.org/abs/2307.11332)|null|
 |**2023-07-20**|**Exploiting Structure for Optimal Multi-Agent Bayesian Decentralized Estimation**|Christopher Funk et.al.|[2307.10594](http://arxiv.org/abs/2307.10594)|null|
 |**2023-07-20**|**Probabilistic Multimodal Depth Estimation Based on Camera-LiDAR Sensor Fusion**|Johan S. Obando-Ceron et.al.|[2307.10519](http://arxiv.org/abs/2307.10519)|null|
 |**2023-07-19**|**Magic NeRF Lens: Interactive Fusion of Neural Radiance Fields for Virtual Facility Inspection**|Ke Li et.al.|[2307.09860](http://arxiv.org/abs/2307.09860)|**[link](https://github.com/uhhhci/immersive-ngp)**|
@@ -442,6 +446,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-21**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702](http://arxiv.org/abs/2307.11702)|null|
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
 |**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789](http://arxiv.org/abs/2307.09789)|null|
 |**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172](http://arxiv.org/abs/2307.09172)|null|
