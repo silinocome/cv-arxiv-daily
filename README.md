@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Economic Analysis of Smart Roadside Infrastructure Sensors for Connected and Automated Mobility**|Laurent Kloeker et.al.|[2307.12893](http://arxiv.org/abs/2307.12893)|null|
+|**2023-07-21**|**Large-Scale Multi-Fleet Platoon Coordination: A Dynamic Programming Approach**|Ting Bai et.al.|[2307.11867](http://arxiv.org/abs/2307.11867)|null|
 |**2023-07-21**|**Acquire Driving Scenarios Efficiently: A Framework for Prospective Assessment of Cost-Optimal Scenario Acquisition**|Christoph Glasmacher et.al.|[2307.11647](http://arxiv.org/abs/2307.11647)|null|
 |**2023-07-21**|**Data-driven dual-loop control for platooning mixed human-driven and automated vehicles**|Jianglin Lan et.al.|[2307.11476](http://arxiv.org/abs/2307.11476)|null|
 |**2023-07-21**|**Bridging the Reality Gap of Reinforcement Learning based Traffic Signal Control using Domain Randomization and Meta Learning**|Arthur Müller et.al.|[2307.11357](http://arxiv.org/abs/2307.11357)|null|
@@ -710,6 +712,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
+|**2023-07-22**|**A Stronger Stitching Algorithm for Fisheye Images based on Deblurring and Registration**|Jing Hao et.al.|[2307.11997](http://arxiv.org/abs/2307.11997)|null|
 |**2023-07-21**|**Reverse Knowledge Distillation: Training a Large Model using a Small One for Retinal Image Matching on Limited Data**|Sahar Almahfouz Nasser et.al.|[2307.10698](http://arxiv.org/abs/2307.10698)|**[link](https://github.com/SaharAlmahfouzNasser/MeDAL-Retina)**|
 |**2023-07-18**|**Balancing Privacy and Progress in Artificial Intelligence: Anonymization in Histopathology for Biomedical Research and Education**|Neel Kanwal et.al.|[2307.09426](http://arxiv.org/abs/2307.09426)|null|
 |**2023-07-22**|**Unsupervised Deep Graph Matching Based on Cycle Consistency**|Siddharth Tourani et.al.|[2307.08930](http://arxiv.org/abs/2307.08930)|null|
