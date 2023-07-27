@@ -169,6 +169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception**|Kun Yang et.al.|[2307.13929](http://arxiv.org/abs/2307.13929)|null|
 |**2023-07-18**|**Spatio-temporal quasi-experimental methods for rare disease outcomes: The impact of reformulated gasoline on childhood hematologic cancer**|Sofia L. Vega et.al.|[2307.09546](http://arxiv.org/abs/2307.09546)|**[link](https://github.com/sofiavega98/trap_cancer_spacetimemc)**|
 |**2023-07-14**|**ACF-Net: An Attention-enhanced Co-interactive Fusion Network for Automated Structural Condition Assessment in Visual Inspection**|Chenyu Zhang et.al.|[2307.07643](http://arxiv.org/abs/2307.07643)|null|
 |**2023-07-07**|**Rationality and Behavior Feedback in a Model of Vehicle-to-Vehicle Communication**|Brendan Gould et.al.|[2307.03382](http://arxiv.org/abs/2307.03382)|null|
@@ -434,6 +435,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-26**|**Neural-based Cross-modal Search and Retrieval of Artwork**|Yan Gong et.al.|[2307.14244](http://arxiv.org/abs/2307.14244)|null|
+|**2023-07-26**|**Boon: A Neural Search Engine for Cross-Modal Information Retrieval**|Yan Gong et.al.|[2307.14240](http://arxiv.org/abs/2307.14240)|null|
 |**2023-07-25**|**Conditional Cross Attention Network for Multi-Space Embedding without Entanglement in Only a SINGLE Network**|Chull Hwan Song et.al.|[2307.13254](http://arxiv.org/abs/2307.13254)|null|
 |**2023-07-21**|**SACReg: Scene-Agnostic Coordinate Regression for Visual Localization**|Jerome Revaud et.al.|[2307.11702](http://arxiv.org/abs/2307.11702)|null|
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
