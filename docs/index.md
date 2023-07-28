@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**Analyzing the Closed-Loop Performance of Detect-And-Avoid Systems**|Ítalo Romani de Oliveira et.al.|[2307.14894](http://arxiv.org/abs/2307.14894)|null|
+|**2023-07-27**|**Likely, Light, and Accurate Context-Free Clusters-based Trajectory Prediction**|Tiago Rodrigues de Almeida et.al.|[2307.14788](http://arxiv.org/abs/2307.14788)|null|
 |**2023-07-24**|**Economic Analysis of Smart Roadside Infrastructure Sensors for Connected and Automated Mobility**|Laurent Kloeker et.al.|[2307.12893](http://arxiv.org/abs/2307.12893)|null|
 |**2023-07-21**|**Large-Scale Multi-Fleet Platoon Coordination: A Dynamic Programming Approach**|Ting Bai et.al.|[2307.11867](http://arxiv.org/abs/2307.11867)|null|
 |**2023-07-21**|**Acquire Driving Scenarios Efficiently: A Framework for Prospective Assessment of Cost-Optimal Scenario Acquisition**|Christoph Glasmacher et.al.|[2307.11647](http://arxiv.org/abs/2307.11647)|null|
@@ -169,6 +171,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**A Variance-Reduced Aggregation Based Gradient Tracking method for Distributed Optimization over Directed Networks**|Shengchao Zhao et.al.|[2307.14776](http://arxiv.org/abs/2307.14776)|null|
 |**2023-07-26**|**Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception**|Kun Yang et.al.|[2307.13929](http://arxiv.org/abs/2307.13929)|null|
 |**2023-07-18**|**Spatio-temporal quasi-experimental methods for rare disease outcomes: The impact of reformulated gasoline on childhood hematologic cancer**|Sofia L. Vega et.al.|[2307.09546](http://arxiv.org/abs/2307.09546)|**[link](https://github.com/sofiavega98/trap_cancer_spacetimemc)**|
 |**2023-07-14**|**ACF-Net: An Attention-enhanced Co-interactive Fusion Network for Automated Structural Condition Assessment in Visual Inspection**|Chenyu Zhang et.al.|[2307.07643](http://arxiv.org/abs/2307.07643)|null|
@@ -295,6 +298,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-27**|**Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving**|Peter Bauer et.al.|[2307.14889](http://arxiv.org/abs/2307.14889)|null|
+|**2023-07-26**|**Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection**|Junjie Shen et.al.|[2307.14540](http://arxiv.org/abs/2307.14540)|null|
 |**2023-07-21**|**Beyond Convergence: Identifiability of Machine Learning and Deep Learning Models**|Reza Sameni et.al.|[2307.11332](http://arxiv.org/abs/2307.11332)|null|
 |**2023-07-20**|**Exploiting Structure for Optimal Multi-Agent Bayesian Decentralized Estimation**|Christopher Funk et.al.|[2307.10594](http://arxiv.org/abs/2307.10594)|null|
 |**2023-07-20**|**Probabilistic Multimodal Depth Estimation Based on Camera-LiDAR Sensor Fusion**|Johan S. Obando-Ceron et.al.|[2307.10519](http://arxiv.org/abs/2307.10519)|null|
