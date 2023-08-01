@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Identification of Driving Heterogeneity using Action-chains**|Xue Yao et.al.|[2307.16843](http://arxiv.org/abs/2307.16843)|null|
+|**2023-07-30**|**Interactive Car-Following: Matters but NOT Always**|Chengyuan Zhang et.al.|[2307.16127](http://arxiv.org/abs/2307.16127)|null|
+|**2023-07-28**|**SAFE: Saliency-Aware Counterfactual Explanations for DNN-based Automated Driving Systems**|Amir Samadi et.al.|[2307.15786](http://arxiv.org/abs/2307.15786)|null|
 |**2023-07-27**|**Analyzing the Closed-Loop Performance of Detect-And-Avoid Systems**|Ítalo Romani de Oliveira et.al.|[2307.14894](http://arxiv.org/abs/2307.14894)|null|
 |**2023-07-27**|**Likely, Light, and Accurate Context-Free Clusters-based Trajectory Prediction**|Tiago Rodrigues de Almeida et.al.|[2307.14788](http://arxiv.org/abs/2307.14788)|null|
 |**2023-07-24**|**Economic Analysis of Smart Roadside Infrastructure Sensors for Connected and Automated Mobility**|Laurent Kloeker et.al.|[2307.12893](http://arxiv.org/abs/2307.12893)|null|
@@ -441,6 +444,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686](http://arxiv.org/abs/2307.16686)|null|
+|**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395](http://arxiv.org/abs/2307.16395)|null|
 |**2023-07-28**|**D2S: Representing local descriptors and global scene coordinates for camera relocalization**|Bach-Thuan Bui et.al.|[2307.15250](http://arxiv.org/abs/2307.15250)|null|
 |**2023-07-26**|**Neural-based Cross-modal Search and Retrieval of Artwork**|Yan Gong et.al.|[2307.14244](http://arxiv.org/abs/2307.14244)|null|
 |**2023-07-26**|**Boon: A Neural Search Engine for Cross-Modal Information Retrieval**|Yan Gong et.al.|[2307.14240](http://arxiv.org/abs/2307.14240)|null|
