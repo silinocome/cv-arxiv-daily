@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Counterfactual Graph Transformer for Traffic Flow Prediction**|Ying Yang et.al.|[2308.00391](http://arxiv.org/abs/2308.00391)|null|
+|**2023-08-01**|**Advancing Frame-Dropping in Multi-Object Tracking-by-Detection Systems Through Event-Based Detection Triggering**|Matti Henning et.al.|[2308.00330](http://arxiv.org/abs/2308.00330)|null|
 |**2023-07-31**|**Identification of Driving Heterogeneity using Action-chains**|Xue Yao et.al.|[2307.16843](http://arxiv.org/abs/2307.16843)|null|
 |**2023-07-30**|**Interactive Car-Following: Matters but NOT Always**|Chengyuan Zhang et.al.|[2307.16127](http://arxiv.org/abs/2307.16127)|null|
 |**2023-07-28**|**SAFE: Saliency-Aware Counterfactual Explanations for DNN-based Automated Driving Systems**|Amir Samadi et.al.|[2307.15786](http://arxiv.org/abs/2307.15786)|null|
@@ -184,6 +186,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Enhanced Security with Encrypted Vision Transformer in Federated Learning**|Rei Aso et.al.|[2308.00271](http://arxiv.org/abs/2308.00271)|null|
 |**2023-07-27**|**A Variance-Reduced Aggregation Based Gradient Tracking method for Distributed Optimization over Directed Networks**|Shengchao Zhao et.al.|[2307.14776](http://arxiv.org/abs/2307.14776)|null|
 |**2023-08-01**|**Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception**|Kun Yang et.al.|[2307.13929](http://arxiv.org/abs/2307.13929)|null|
 |**2023-07-18**|**Spatio-temporal quasi-experimental methods for rare disease outcomes: The impact of reformulated gasoline on childhood hematologic cancer**|Sofia L. Vega et.al.|[2307.09546](http://arxiv.org/abs/2307.09546)|**[link](https://github.com/sofiavega98/trap_cancer_spacetimemc)**|
@@ -313,6 +316,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Cooperative Positioning for Sparsely Distributed High-Mobility Wireless Networks with EKF Based Spatio-Temporal Data Fusion**|Yue Cao et.al.|[2308.00419](http://arxiv.org/abs/2308.00419)|null|
 |**2023-07-28**|**3D Radar and Camera Co-Calibration: A Flexible and Accurate Method for Target-based Extrinsic Calibration**|Lei Cheng et.al.|[2307.15264](http://arxiv.org/abs/2307.15264)|null|
 |**2023-07-27**|**Weakly Supervised Multi-Modal 3D Human Body Pose Estimation for Autonomous Driving**|Peter Bauer et.al.|[2307.14889](http://arxiv.org/abs/2307.14889)|null|
 |**2023-07-26**|**Lateral-Direction Localization Attack in High-Level Autonomous Driving: Domain-Specific Defense Opportunity via Lane Detection**|Junjie Shen et.al.|[2307.14540](http://arxiv.org/abs/2307.14540)|null|
@@ -729,6 +733,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**ZRIGF: An Innovative Multimodal Framework for Zero-Resource Image-Grounded Dialogue Generation**|Bo Zhang et.al.|[2308.00400](http://arxiv.org/abs/2308.00400)|**[link](https://github.com/zhangbo-nlp/zrigf)**|
 |**2023-07-28**|**Cross-Modal Concept Learning and Inference for Vision-Language Models**|Yi Zhang et.al.|[2307.15460](http://arxiv.org/abs/2307.15460)|null|
 |**2023-07-22**|**CryptoMask : Privacy-preserving Face Recognition**|Jianli Bai et.al.|[2307.12010](http://arxiv.org/abs/2307.12010)|null|
 |**2023-07-22**|**A Stronger Stitching Algorithm for Fisheye Images based on Deblurring and Registration**|Jing Hao et.al.|[2307.11997](http://arxiv.org/abs/2307.11997)|null|
