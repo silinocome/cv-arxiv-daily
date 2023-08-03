@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-02**|**Interpretable End-to-End Driving Model for Implicit Scene Understanding**|Yiyang Sun et.al.|[2308.01180](http://arxiv.org/abs/2308.01180)|null|
 |**2023-08-01**|**Counterfactual Graph Transformer for Traffic Flow Prediction**|Ying Yang et.al.|[2308.00391](http://arxiv.org/abs/2308.00391)|null|
 |**2023-08-01**|**Advancing Frame-Dropping in Multi-Object Tracking-by-Detection Systems Through Event-Based Detection Triggering**|Matti Henning et.al.|[2308.00330](http://arxiv.org/abs/2308.00330)|null|
 |**2023-07-31**|**Identification of Driving Heterogeneity using Action-chains**|Xue Yao et.al.|[2307.16843](http://arxiv.org/abs/2307.16843)|null|
