@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-04**|**Edge Dynamic Map architecture for C-ITS applications**|Mikel García et.al.|[2308.02197](http://arxiv.org/abs/2308.02197)|null|
+|**2023-08-04**|**Synthetic outlier generation for anomaly detection in autonomous driving**|Martin Bikandi et.al.|[2308.02184](http://arxiv.org/abs/2308.02184)|null|
+|**2023-08-04**|**Automated Vehicle Platform with Connected Driving Capabilities**|Oskars Teikmanis et.al.|[2308.02176](http://arxiv.org/abs/2308.02176)|null|
+|**2023-08-03**|**A Taxonomy of Adaptive Traffic Signal Control**|Andalib Shams et.al.|[2308.01952](http://arxiv.org/abs/2308.01952)|null|
 |**2023-08-02**|**Interpretable End-to-End Driving Model for Implicit Scene Understanding**|Yiyang Sun et.al.|[2308.01180](http://arxiv.org/abs/2308.01180)|null|
 |**2023-08-01**|**Counterfactual Graph Transformer for Traffic Flow Prediction**|Ying Yang et.al.|[2308.00391](http://arxiv.org/abs/2308.00391)|null|
 |**2023-08-01**|**Advancing Frame-Dropping in Multi-Object Tracking-by-Detection Systems Through Event-Based Detection Triggering**|Matti Henning et.al.|[2308.00330](http://arxiv.org/abs/2308.00330)|null|
@@ -305,6 +309,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-28**|**RFID-Assisted Indoor Localization Using Hybrid Wireless Data Fusion**|Abouzar Ghavami et.al.|[2308.02410](http://arxiv.org/abs/2308.02410)|null|
+|**2023-08-04**|**Semantics-guided Transformer-based Sensor Fusion for Improved Waypoint Prediction**|Hwan-Soo Choi et.al.|[2308.02126](http://arxiv.org/abs/2308.02126)|null|
 |**2023-08-02**|**Semi-supervised Cooperative Learning for Multiomics Data Fusion**|Daisy Yi Ding et.al.|[2308.01458](http://arxiv.org/abs/2308.01458)|null|
 |**2023-08-01**|**Cooperative Positioning for Sparsely Distributed High-Mobility Wireless Networks with EKF Based Spatio-Temporal Data Fusion**|Yue Cao et.al.|[2308.00419](http://arxiv.org/abs/2308.00419)|null|
 |**2023-07-28**|**3D Radar and Camera Co-Calibration: A Flexible and Accurate Method for Target-based Extrinsic Calibration**|Lei Cheng et.al.|[2307.15264](http://arxiv.org/abs/2307.15264)|null|
