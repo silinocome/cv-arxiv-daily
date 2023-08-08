@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-05**|**Solving Logistic-Oriented Bin Packing Problems Through a Hybrid Quantum-Classical Approach**|Sebastián V. Romero et.al.|[2308.02787](http://arxiv.org/abs/2308.02787)|null|
 |**2023-08-04**|**Edge Dynamic Map architecture for C-ITS applications**|Mikel García et.al.|[2308.02197](http://arxiv.org/abs/2308.02197)|null|
 |**2023-08-04**|**Synthetic outlier generation for anomaly detection in autonomous driving**|Martin Bikandi et.al.|[2308.02184](http://arxiv.org/abs/2308.02184)|null|
 |**2023-08-04**|**Automated Vehicle Platform with Connected Driving Capabilities**|Oskars Teikmanis et.al.|[2308.02176](http://arxiv.org/abs/2308.02176)|null|
@@ -181,6 +182,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**Part-Aware Transformer for Generalizable Person Re-identification**|Hao Ni et.al.|[2308.03322](http://arxiv.org/abs/2308.03322)|null|
 |**2023-08-01**|**Enhanced Security with Encrypted Vision Transformer in Federated Learning**|Rei Aso et.al.|[2308.00271](http://arxiv.org/abs/2308.00271)|null|
 |**2023-07-27**|**A Variance-Reduced Aggregation Based Gradient Tracking method for Distributed Optimization over Directed Networks**|Shengchao Zhao et.al.|[2307.14776](http://arxiv.org/abs/2307.14776)|null|
 |**2023-08-01**|**Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception**|Kun Yang et.al.|[2307.13929](http://arxiv.org/abs/2307.13929)|null|
@@ -309,6 +311,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-07**|**Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field**|Sungho Suh et.al.|[2308.03514](http://arxiv.org/abs/2308.03514)|null|
+|**2023-08-05**|**Data Fusion for Multi-Task Learning of Building Extraction and Height Estimation**|Saad Ahmed Jamal et.al.|[2308.02960](http://arxiv.org/abs/2308.02960)|null|
 |**2023-07-28**|**RFID-Assisted Indoor Localization Using Hybrid Wireless Data Fusion**|Abouzar Ghavami et.al.|[2308.02410](http://arxiv.org/abs/2308.02410)|null|
 |**2023-08-04**|**Semantics-guided Transformer-based Sensor Fusion for Improved Waypoint Prediction**|Hwan-Soo Choi et.al.|[2308.02126](http://arxiv.org/abs/2308.02126)|null|
 |**2023-08-02**|**Semi-supervised Cooperative Learning for Multiomics Data Fusion**|Daisy Yi Ding et.al.|[2308.01458](http://arxiv.org/abs/2308.01458)|null|
@@ -456,6 +460,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-05**|**A Comprehensive Analysis of Real-World Image Captioning and Scene Identification**|Sai Suprabhanu Nallapaneni et.al.|[2308.02833](http://arxiv.org/abs/2308.02833)|null|
 |**2023-08-03**|**Similar image retrieval using Autoencoder. I. Automatic morphology classification of galaxies**|Eunsuk Seo et.al.|[2308.01871](http://arxiv.org/abs/2308.01871)|null|
 |**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686](http://arxiv.org/abs/2307.16686)|null|
 |**2023-07-31**|**Bridging the Gap: Exploring the Capabilities of Bridge-Architectures for Complex Visual Reasoning Tasks**|Kousik Rajesh et.al.|[2307.16395](http://arxiv.org/abs/2307.16395)|null|
