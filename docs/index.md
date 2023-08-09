@@ -311,8 +311,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation**|Dongyang Yu et.al.|[2308.04126](http://arxiv.org/abs/2308.04126)|null|
 |**2023-08-07**|**Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field**|Sungho Suh et.al.|[2308.03514](http://arxiv.org/abs/2308.03514)|null|
-|**2023-08-05**|**Data Fusion for Multi-Task Learning of Building Extraction and Height Estimation**|Saad Ahmed Jamal et.al.|[2308.02960](http://arxiv.org/abs/2308.02960)|null|
+|**2023-08-05**|**Data Fusion for Multi-Task Learning of Building Extraction and Height Estimation**|Saad Ahmed Jamal et.al.|[2308.02960](http://arxiv.org/abs/2308.02960)|**[link](https://github.com/SaadAhmedJamal/IEEE_DFC2023)**|
 |**2023-07-28**|**RFID-Assisted Indoor Localization Using Hybrid Wireless Data Fusion**|Abouzar Ghavami et.al.|[2308.02410](http://arxiv.org/abs/2308.02410)|null|
 |**2023-08-04**|**Semantics-guided Transformer-based Sensor Fusion for Improved Waypoint Prediction**|Hwan-Soo Choi et.al.|[2308.02126](http://arxiv.org/abs/2308.02126)|null|
 |**2023-08-02**|**Semi-supervised Cooperative Learning for Multiomics Data Fusion**|Daisy Yi Ding et.al.|[2308.01458](http://arxiv.org/abs/2308.01458)|null|
@@ -460,6 +461,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**|Yi Bin et.al.|[2308.04343](http://arxiv.org/abs/2308.04343)|**[link](https://github.com/luminosityx/hat)**|
+|**2023-08-08**|**Coarse-to-Fine: Learning Compact Discriminative Representation for Single-Stage Image Retrieval**|Yunquan Zhu et.al.|[2308.04008](http://arxiv.org/abs/2308.04008)|**[link](https://github.com/bassyess/cfcd)**|
 |**2023-08-05**|**A Comprehensive Analysis of Real-World Image Captioning and Scene Identification**|Sai Suprabhanu Nallapaneni et.al.|[2308.02833](http://arxiv.org/abs/2308.02833)|null|
 |**2023-08-03**|**Similar image retrieval using Autoencoder. I. Automatic morphology classification of galaxies**|Eunsuk Seo et.al.|[2308.01871](http://arxiv.org/abs/2308.01871)|null|
 |**2023-07-31**|**Guiding Image Captioning Models Toward More Specific Captions**|Simon Kornblith et.al.|[2307.16686](http://arxiv.org/abs/2307.16686)|null|
