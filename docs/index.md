@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**Multi-graph Spatio-temporal Graph Convolutional Network for Traffic Flow Prediction**|Weilong Ding et.al.|[2308.05601](http://arxiv.org/abs/2308.05601)|null|
+|**2023-08-10**|**Effects of Dynamic and Stochastic Travel Times on the Operation of Mobility-on-Demand Services**|Fynn Wolf et.al.|[2308.05535](http://arxiv.org/abs/2308.05535)|null|
+|**2023-08-09**|**Evaluating Pedestrian Trajectory Prediction Methods for the Application in Autonomous Driving**|Nico Uhlemann et.al.|[2308.05194](http://arxiv.org/abs/2308.05194)|null|
 |**2023-08-09**|**Strategic Interactions in Multi-modal Mobility Systems: A Game-Theoretic Perspective**|Gioele Zardini et.al.|[2308.04820](http://arxiv.org/abs/2308.04820)|null|
 |**2023-08-05**|**Solving Logistic-Oriented Bin Packing Problems Through a Hybrid Quantum-Classical Approach**|Sebastián V. Romero et.al.|[2308.02787](http://arxiv.org/abs/2308.02787)|null|
 |**2023-08-04**|**Edge Dynamic Map architecture for C-ITS applications**|Mikel García et.al.|[2308.02197](http://arxiv.org/abs/2308.02197)|null|
@@ -313,6 +316,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**Fine-grained building roof instance segmentation based on domain adapted pretraining and composite dual-backbone**|Guozhang Liu et.al.|[2308.05358](http://arxiv.org/abs/2308.05358)|null|
+|**2023-08-10**|**Multi-Visual-Inertial System: Analysis,Calibration and Estimation**|Yulin Yang et.al.|[2308.05303](http://arxiv.org/abs/2308.05303)|null|
 |**2023-08-08**|**OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation**|Dongyang Yu et.al.|[2308.04126](http://arxiv.org/abs/2308.04126)|null|
 |**2023-08-07**|**Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field**|Sungho Suh et.al.|[2308.03514](http://arxiv.org/abs/2308.03514)|null|
 |**2023-08-05**|**Data Fusion for Multi-Task Learning of Building Extraction and Height Estimation**|Saad Ahmed Jamal et.al.|[2308.02960](http://arxiv.org/abs/2308.02960)|**[link](https://github.com/SaadAhmedJamal/IEEE_DFC2023)**|
@@ -463,6 +468,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-10**|**KS-APR: Keyframe Selection for Robust Absolute Pose Regression**|Changkun Liu et.al.|[2308.05459](http://arxiv.org/abs/2308.05459)|null|
 |**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992](http://arxiv.org/abs/2308.04992)|**[link](https://github.com/thezjd/aspectmmkg)**|
 |**2023-08-08**|**Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**|Yi Bin et.al.|[2308.04343](http://arxiv.org/abs/2308.04343)|**[link](https://github.com/luminosityx/hat)**|
 |**2023-08-08**|**Coarse-to-Fine: Learning Compact Discriminative Representation for Single-Stage Image Retrieval**|Yunquan Zhu et.al.|[2308.04008](http://arxiv.org/abs/2308.04008)|**[link](https://github.com/bassyess/cfcd)**|
