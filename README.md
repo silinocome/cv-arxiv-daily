@@ -22,6 +22,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-11**|**Safety in Traffic Management Systems: A Comprehensive Survey**|Wenlu Du et.al.|[2308.06204](http://arxiv.org/abs/2308.06204)|null|
+|**2023-08-11**|**Uncertainty Quantification for Image-based Traffic Prediction across Cities**|Alexander Timans et.al.|[2308.06129](http://arxiv.org/abs/2308.06129)|**[link](https://github.com/alextimans/traffic4cast-uncertainty)**|
+|**2023-08-11**|**User Feedback and Sample Weighting for Ill-Conditioned Hand-Eye Calibration**|Markus Horn et.al.|[2308.06045](http://arxiv.org/abs/2308.06045)|null|
+|**2023-08-11**|**Reachable Set-based Path Planning for Automated Vertical Parking System**|In Hyuk Oh et.al.|[2308.05992](http://arxiv.org/abs/2308.05992)|null|
+|**2023-08-11**|**Spatiotemporal Receding Horizon Control with Proactive Interaction Towards Safe and Efficient Autonomous Driving in Dense Traffic**|Lei Zheng et.al.|[2308.05929](http://arxiv.org/abs/2308.05929)|null|
 |**2023-08-10**|**Multi-graph Spatio-temporal Graph Convolutional Network for Traffic Flow Prediction**|Weilong Ding et.al.|[2308.05601](http://arxiv.org/abs/2308.05601)|null|
 |**2023-08-10**|**Effects of Dynamic and Stochastic Travel Times on the Operation of Mobility-on-Demand Services**|Fynn Wolf et.al.|[2308.05535](http://arxiv.org/abs/2308.05535)|null|
 |**2023-08-09**|**Evaluating Pedestrian Trajectory Prediction Methods for the Application in Autonomous Driving**|Nico Uhlemann et.al.|[2308.05194](http://arxiv.org/abs/2308.05194)|null|
