@@ -22,6 +22,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**RobotKube: Orchestrating Large-Scale Cooperative Multi-Robot Systems with Kubernetes and ROS**|Bastian Lampe et.al.|[2308.07053](http://arxiv.org/abs/2308.07053)|null|
+|**2023-08-13**|**Polar Collision Grids: Effective Interaction Modelling for Pedestrian Trajectory Prediction in Shared Space Using Collision Checks**|Mahsa Golchoubian et.al.|[2308.06654](http://arxiv.org/abs/2308.06654)|null|
+|**2023-08-11**|**Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review**|Mahsa Golchoubian et.al.|[2308.06419](http://arxiv.org/abs/2308.06419)|null|
+|**2023-08-11**|**Refining Obstacle Perception Safety Zones via Maneuver-Based Decomposition**|Sever Topan et.al.|[2308.06337](http://arxiv.org/abs/2308.06337)|null|
 |**2023-08-11**|**Safety in Traffic Management Systems: A Comprehensive Survey**|Wenlu Du et.al.|[2308.06204](http://arxiv.org/abs/2308.06204)|null|
 |**2023-08-11**|**Uncertainty Quantification for Image-based Traffic Prediction across Cities**|Alexander Timans et.al.|[2308.06129](http://arxiv.org/abs/2308.06129)|**[link](https://github.com/alextimans/traffic4cast-uncertainty)**|
 |**2023-08-11**|**User Feedback and Sample Weighting for Ill-Conditioned Hand-Eye Calibration**|Markus Horn et.al.|[2308.06045](http://arxiv.org/abs/2308.06045)|null|
@@ -333,6 +337,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Distributed UAV Swarm Augmented Wideband Spectrum Sensing Using Nyquist Folding Receiver**|Kaili Jiang et.al.|[2308.07077](http://arxiv.org/abs/2308.07077)|null|
+|**2023-08-14**|**Deep convolutional neural networks for cyclic sensor data**|Payman Goodarzi et.al.|[2308.06987](http://arxiv.org/abs/2308.06987)|null|
+|**2023-08-14**|**FusionPlanner: A Multi-task Motion Planner for Mining Trucks using Multi-sensor Fusion Method**|Siyu Teng et.al.|[2308.06931](http://arxiv.org/abs/2308.06931)|null|
+|**2023-08-13**|**Weighted Sparse Partial Least Squares for Joint Sample and Feature Selection**|Wenwen Min et.al.|[2308.06740](http://arxiv.org/abs/2308.06740)|**[link](https://github.com/wenwenmin/wspls)**|
 |**2023-08-10**|**Fine-grained building roof instance segmentation based on domain adapted pretraining and composite dual-backbone**|Guozhang Liu et.al.|[2308.05358](http://arxiv.org/abs/2308.05358)|null|
 |**2023-08-10**|**Multi-Visual-Inertial System: Analysis,Calibration and Estimation**|Yulin Yang et.al.|[2308.05303](http://arxiv.org/abs/2308.05303)|null|
 |**2023-08-08**|**OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation**|Dongyang Yu et.al.|[2308.04126](http://arxiv.org/abs/2308.04126)|null|
@@ -487,6 +495,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**Global Features are All You Need for Image Retrieval and Reranking**|Shihao Shao et.al.|[2308.06954](http://arxiv.org/abs/2308.06954)|**[link](https://github.com/shihaoshao-gh/superglobal)**|
+|**2023-08-14**|**MixBCT: Towards Self-Adapting Backward-Compatible Training**|Yu Liang et.al.|[2308.06948](http://arxiv.org/abs/2308.06948)|**[link](https://github.com/yuleung/mixbct)**|
 |**2023-08-10**|**KS-APR: Keyframe Selection for Robust Absolute Pose Regression**|Changkun Liu et.al.|[2308.05459](http://arxiv.org/abs/2308.05459)|null|
 |**2023-08-09**|**AspectMMKG: A Multi-modal Knowledge Graph with Aspect-aware Entities**|Jingdan Zhang et.al.|[2308.04992](http://arxiv.org/abs/2308.04992)|**[link](https://github.com/thezjd/aspectmmkg)**|
 |**2023-08-08**|**Unifying Two-Stream Encoders with Transformers for Cross-Modal Retrieval**|Yi Bin et.al.|[2308.04343](http://arxiv.org/abs/2308.04343)|**[link](https://github.com/luminosityx/hat)**|
@@ -651,6 +661,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
 |**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300](http://arxiv.org/abs/2307.13300)|null|
 |**2023-07-19**|**SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**|Zi Li et.al.|[2307.09727](http://arxiv.org/abs/2307.09727)|null|
 |**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231](http://arxiv.org/abs/2306.04231)|null|
