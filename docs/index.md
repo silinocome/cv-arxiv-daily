@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-14**|**ST-MLP: A Cascaded Spatio-Temporal Linear Framework with Channel-Independence Strategy for Traffic Forecasting**|Zepu Wang et.al.|[2308.07496](http://arxiv.org/abs/2308.07496)|null|
 |**2023-08-14**|**RobotKube: Orchestrating Large-Scale Cooperative Multi-Robot Systems with Kubernetes and ROS**|Bastian Lampe et.al.|[2308.07053](http://arxiv.org/abs/2308.07053)|null|
 |**2023-08-13**|**Polar Collision Grids: Effective Interaction Modelling for Pedestrian Trajectory Prediction in Shared Space Using Collision Checks**|Mahsa Golchoubian et.al.|[2308.06654](http://arxiv.org/abs/2308.06654)|null|
 |**2023-08-11**|**Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review**|Mahsa Golchoubian et.al.|[2308.06419](http://arxiv.org/abs/2308.06419)|null|
