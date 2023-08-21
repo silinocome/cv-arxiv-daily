@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -332,8 +332,8 @@ layout: default
 |**2023-08-14**|**FusionPlanner: A Multi-task Motion Planner for Mining Trucks using Multi-sensor Fusion Method**|Siyu Teng et.al.|[2308.06931](http://arxiv.org/abs/2308.06931)|null|
 |**2023-08-13**|**Weighted Sparse Partial Least Squares for Joint Sample and Feature Selection**|Wenwen Min et.al.|[2308.06740](http://arxiv.org/abs/2308.06740)|**[link](https://github.com/wenwenmin/wspls)**|
 |**2023-08-10**|**Fine-grained building roof instance segmentation based on domain adapted pretraining and composite dual-backbone**|Guozhang Liu et.al.|[2308.05358](http://arxiv.org/abs/2308.05358)|null|
-|**2023-08-10**|**Multi-Visual-Inertial System: Analysis,Calibration and Estimation**|Yulin Yang et.al.|[2308.05303](http://arxiv.org/abs/2308.05303)|null|
-|**2023-08-08**|**OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation**|Dongyang Yu et.al.|[2308.04126](http://arxiv.org/abs/2308.04126)|null|
+|**2023-08-18**|**Multi-Visual-Inertial System: Analysis, Calibration and Estimation**|Yulin Yang et.al.|[2308.05303](http://arxiv.org/abs/2308.05303)|null|
+|**2023-08-17**|**OmniDataComposer: A Unified Data Structure for Multimodal Data Fusion and Infinite Data Generation**|Dongyang Yu et.al.|[2308.04126](http://arxiv.org/abs/2308.04126)|null|
 |**2023-08-07**|**Worker Activity Recognition in Manufacturing Line Using Near-body Electric Field**|Sungho Suh et.al.|[2308.03514](http://arxiv.org/abs/2308.03514)|null|
 |**2023-08-05**|**Data Fusion for Multi-Task Learning of Building Extraction and Height Estimation**|Saad Ahmed Jamal et.al.|[2308.02960](http://arxiv.org/abs/2308.02960)|**[link](https://github.com/SaadAhmedJamal/IEEE_DFC2023)**|
 |**2023-07-28**|**RFID-Assisted Indoor Localization Using Hybrid Wireless Data Fusion**|Abouzar Ghavami et.al.|[2308.02410](http://arxiv.org/abs/2308.02410)|null|
