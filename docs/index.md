@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**Blockchain-Based and Fuzzy Logic-Enabled False Data Discovery for the Intelligent Autonomous Vehicular System**|Ziaur Rahman et.al.|[2308.09237](http://arxiv.org/abs/2308.09237)|null|
+|**2023-08-17**|**Pedestrian Environment Model for Automated Driving**|Adrian Holzbock et.al.|[2308.09080](http://arxiv.org/abs/2308.09080)|null|
 |**2023-08-14**|**ST-MLP: A Cascaded Spatio-Temporal Linear Framework with Channel-Independence Strategy for Traffic Forecasting**|Zepu Wang et.al.|[2308.07496](http://arxiv.org/abs/2308.07496)|null|
 |**2023-08-14**|**RobotKube: Orchestrating Large-Scale Cooperative Multi-Robot Systems with Kubernetes and ROS**|Bastian Lampe et.al.|[2308.07053](http://arxiv.org/abs/2308.07053)|**[link](https://github.com/ika-rwth-aachen/robotkube)**|
 |**2023-08-13**|**Polar Collision Grids: Effective Interaction Modelling for Pedestrian Trajectory Prediction in Shared Space Using Collision Checks**|Mahsa Golchoubian et.al.|[2308.06654](http://arxiv.org/abs/2308.06654)|null|
@@ -196,6 +198,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-17**|**Mitigating Misinformation Spreading in Social Networks Via Edge Blocking**|Ahad N. Zehmakan et.al.|[2308.08860](http://arxiv.org/abs/2308.08860)|null|
+|**2023-08-16**|**Partially Observable Multi-agent RL with (Quasi-)Efficiency: The Blessing of Information Sharing**|Xiangyu Liu et.al.|[2308.08705](http://arxiv.org/abs/2308.08705)|null|
 |**2023-08-09**|**Continual Road-Scene Semantic Segmentation via Feature-Aligned Symmetric Multi-Modal Network**|Francesco Barbato et.al.|[2308.04702](http://arxiv.org/abs/2308.04702)|null|
 |**2023-08-07**|**Part-Aware Transformer for Generalizable Person Re-identification**|Hao Ni et.al.|[2308.03322](http://arxiv.org/abs/2308.03322)|null|
 |**2023-08-01**|**Enhanced Security with Encrypted Vision Transformer in Federated Learning**|Rei Aso et.al.|[2308.00271](http://arxiv.org/abs/2308.00271)|null|
@@ -326,6 +330,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-17**|**Accurate machine learning force fields via experimental and simulation data fusion**|Sebastien Röcken et.al.|[2308.09142](http://arxiv.org/abs/2308.09142)|null|
+|**2023-08-17**|**A Mathematical Characterization of Minimally Sufficient Robot Brains**|Basak Sakcak et.al.|[2308.09041](http://arxiv.org/abs/2308.09041)|null|
 |**2023-08-15**|**Nonlinear Deterministic Observer for Inertial Navigation using Ultra-wideband and IMU Sensor Fusion**|Hashim A. Hashim et.al.|[2308.08023](http://arxiv.org/abs/2308.08023)|null|
 |**2023-08-14**|**Distributed UAV Swarm Augmented Wideband Spectrum Sensing Using Nyquist Folding Receiver**|Kaili Jiang et.al.|[2308.07077](http://arxiv.org/abs/2308.07077)|null|
 |**2023-08-14**|**Deep convolutional neural networks for cyclic sensor data**|Payman Goodarzi et.al.|[2308.06987](http://arxiv.org/abs/2308.06987)|null|
@@ -483,6 +489,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-18**|**3D Model-free Visual localization System from Essential Matrix under Local Planar Motion**|Yanmei Jiao et.al.|[2308.09566](http://arxiv.org/abs/2308.09566)|null|
+|**2023-08-17**|**FashionLOGO: Prompting Multimodal Large Language Models for Fashion Logo Embeddings**|Yulin Su et.al.|[2308.09012](http://arxiv.org/abs/2308.09012)|**[link](https://github.com/valley-vl/fashionlogo)**|
 |**2023-08-16**|**Integrating Visual and Semantic Similarity Using Hierarchies for Image Retrieval**|Aishwarya Venkataramanan et.al.|[2308.08431](http://arxiv.org/abs/2308.08431)|**[link](https://github.com/vaishwarya96/hierarchy-image-retrieval)**|
 |**2023-08-16**|**Ranking-aware Uncertainty for Text-guided Image Retrieval**|Junyang Chen et.al.|[2308.08131](http://arxiv.org/abs/2308.08131)|null|
 |**2023-08-14**|**Global Features are All You Need for Image Retrieval and Reranking**|Shihao Shao et.al.|[2308.06954](http://arxiv.org/abs/2308.06954)|**[link](https://github.com/shihaoshao-gh/superglobal)**|
