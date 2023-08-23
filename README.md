@@ -508,6 +508,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features**|Alberto Baldrati et.al.|[2308.11485](http://arxiv.org/abs/2308.11485)|**[link](https://github.com/ABaldrati/CLIP4Cir)**|
+|**2023-08-22**|**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**|Xinchi Deng et.al.|[2308.11331](http://arxiv.org/abs/2308.11331)|null|
+|**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
 |**2023-08-21**|**EigenPlaces: Training Viewpoint Robust Models for Visual Place Recognition**|Gabriele Berton et.al.|[2308.10832](http://arxiv.org/abs/2308.10832)|**[link](https://github.com/gmberton/eigenplaces)**|
 |**2023-08-20**|**FashionNTM: Multi-turn Fashion Image Retrieval via Cascaded Memory**|Anwesan Pal et.al.|[2308.10170](http://arxiv.org/abs/2308.10170)|null|
 |**2023-08-18**|**3D Model-free Visual localization System from Essential Matrix under Local Planar Motion**|Yanmei Jiao et.al.|[2308.09566](http://arxiv.org/abs/2308.09566)|null|
@@ -680,6 +683,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
 |**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300](http://arxiv.org/abs/2307.13300)|null|
 |**2023-07-19**|**SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**|Zi Li et.al.|[2307.09727](http://arxiv.org/abs/2307.09727)|null|
