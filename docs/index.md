@@ -333,6 +333,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Path-Constrained State Estimation for Rail Vehicles**|Cornelius von Einem et.al.|[2308.12082](http://arxiv.org/abs/2308.12082)|null|
+|**2023-08-23**|**Bayesian Learning for Dynamic Target Localization with Human-provided Spatial Information**|Min-Won Seo et.al.|[2308.11839](http://arxiv.org/abs/2308.11839)|null|
 |**2023-08-17**|**Sensor Fusion by Spatial Encoding for Autonomous Driving**|Quoc-Vinh Lai-Dang et.al.|[2308.10707](http://arxiv.org/abs/2308.10707)|null|
 |**2023-08-21**|**Semantic Programming for Device-Edge-Cloud Continuum**|Anh Le-Tuan et.al.|[2308.10555](http://arxiv.org/abs/2308.10555)|null|
 |**2023-08-17**|**Accurate machine learning force fields via experimental and simulation data fusion**|Sebastien Röcken et.al.|[2308.09142](http://arxiv.org/abs/2308.09142)|null|
@@ -494,6 +496,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-23**|**Progressive Feature Mining and External Knowledge-Assisted Text-Pedestrian Image Retrieval**|Huafeng Li et.al.|[2308.11994](http://arxiv.org/abs/2308.11994)|null|
+|**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928](http://arxiv.org/abs/2308.11928)|**[link](https://github.com/mooncake199809/ufvl-net)**|
 |**2023-08-22**|**Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features**|Alberto Baldrati et.al.|[2308.11485](http://arxiv.org/abs/2308.11485)|**[link](https://github.com/ABaldrati/CLIP4Cir)**|
 |**2023-08-22**|**GrowCLIP: Data-aware Automatic Model Growing for Large-scale Contrastive Language-Image Pre-training**|Xinchi Deng et.al.|[2308.11331](http://arxiv.org/abs/2308.11331)|null|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
