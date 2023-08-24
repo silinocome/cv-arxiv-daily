@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.23
+## Updated on 2023.08.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-22**|**Spatio-Temporal Adaptive Embedding Makes Vanilla Transformer SOTA for Traffic Forecasting**|Hangchen Liu et.al.|[2308.10425](http://arxiv.org/abs/2308.10425)|**[link](https://github.com/xdzhelheim/staeformer)**|
-|**2023-08-20**|**Minimalist Traffic Prediction: Linear Layer Is All You Need**|Wenying Duan et.al.|[2308.10276](http://arxiv.org/abs/2308.10276)|null|
+|**2023-08-23**|**Minimalist Traffic Prediction: Linear Layer Is All You Need**|Wenying Duan et.al.|[2308.10276](http://arxiv.org/abs/2308.10276)|null|
 |**2023-08-17**|**Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank**|Zhanyu Liu et.al.|[2308.09727](http://arxiv.org/abs/2308.09727)|**[link](https://github.com/zhyliu00/tpb)**|
 |**2023-08-18**|**Blockchain-Based and Fuzzy Logic-Enabled False Data Discovery for the Intelligent Autonomous Vehicular System**|Ziaur Rahman et.al.|[2308.09237](http://arxiv.org/abs/2308.09237)|null|
 |**2023-08-17**|**Pedestrian Environment Model for Automated Driving**|Adrian Holzbock et.al.|[2308.09080](http://arxiv.org/abs/2308.09080)|null|
