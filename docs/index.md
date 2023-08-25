@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.24
+## Updated on 2023.08.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -334,7 +334,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-23**|**Path-Constrained State Estimation for Rail Vehicles**|Cornelius von Einem et.al.|[2308.12082](http://arxiv.org/abs/2308.12082)|null|
-|**2023-08-23**|**Bayesian Learning for Dynamic Target Localization with Human-provided Spatial Information**|Min-Won Seo et.al.|[2308.11839](http://arxiv.org/abs/2308.11839)|null|
+|**2023-08-24**|**Bayesian Learning for Dynamic Target Localization with Human-provided Spatial Information**|Min-Won Seo et.al.|[2308.11839](http://arxiv.org/abs/2308.11839)|null|
 |**2023-08-17**|**Sensor Fusion by Spatial Encoding for Autonomous Driving**|Quoc-Vinh Lai-Dang et.al.|[2308.10707](http://arxiv.org/abs/2308.10707)|null|
 |**2023-08-21**|**Semantic Programming for Device-Edge-Cloud Continuum**|Anh Le-Tuan et.al.|[2308.10555](http://arxiv.org/abs/2308.10555)|null|
 |**2023-08-17**|**Accurate machine learning force fields via experimental and simulation data fusion**|Sebastien Röcken et.al.|[2308.09142](http://arxiv.org/abs/2308.09142)|null|
