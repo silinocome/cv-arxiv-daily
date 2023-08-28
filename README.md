@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393](http://arxiv.org/abs/2308.13393)|null|
 |**2023-08-24**|**TrafficMCTS: A Closed-Loop Traffic Flow Generation Framework with Group-Based Monte Carlo Tree Search**|Licheng Wen et.al.|[2308.12797](http://arxiv.org/abs/2308.12797)|null|
 |**2023-08-23**|**A Spatiotemporal Correspondence Approach to Unsupervised LiDAR Segmentation with Traffic Applications**|Xiao Li et.al.|[2308.12433](http://arxiv.org/abs/2308.12433)|null|
 |**2023-08-22**|**Spatio-Temporal Adaptive Embedding Makes Vanilla Transformer SOTA for Traffic Forecasting**|Hangchen Liu et.al.|[2308.10425](http://arxiv.org/abs/2308.10425)|**[link](https://github.com/xdzhelheim/staeformer)**|
@@ -213,6 +214,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**On Incentivizing Social Information Sharing in Routing Games**|Songhua Li et.al.|[2308.13301](http://arxiv.org/abs/2308.13301)|null|
 |**2023-08-17**|**Mitigating Misinformation Spreading in Social Networks Via Edge Blocking**|Ahad N. Zehmakan et.al.|[2308.08860](http://arxiv.org/abs/2308.08860)|null|
 |**2023-08-16**|**Partially Observable Multi-agent RL with (Quasi-)Efficiency: The Blessing of Information Sharing**|Xiangyu Liu et.al.|[2308.08705](http://arxiv.org/abs/2308.08705)|null|
 |**2023-08-09**|**Continual Road-Scene Semantic Segmentation via Feature-Aligned Symmetric Multi-Modal Network**|Francesco Barbato et.al.|[2308.04702](http://arxiv.org/abs/2308.04702)|null|
@@ -347,6 +349,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393](http://arxiv.org/abs/2308.13393)|null|
 |**2023-08-23**|**Path-Constrained State Estimation for Rail Vehicles**|Cornelius von Einem et.al.|[2308.12082](http://arxiv.org/abs/2308.12082)|null|
 |**2023-08-24**|**Bayesian Learning for Dynamic Target Localization with Human-provided Spatial Information**|Min-Won Seo et.al.|[2308.11839](http://arxiv.org/abs/2308.11839)|null|
 |**2023-08-17**|**Sensor Fusion by Spatial Encoding for Autonomous Driving**|Quoc-Vinh Lai-Dang et.al.|[2308.10707](http://arxiv.org/abs/2308.10707)|null|
