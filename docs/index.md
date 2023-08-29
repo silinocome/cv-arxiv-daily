@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.08.28
+## Updated on 2023.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -17,7 +17,7 @@ layout: default
 |**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393](http://arxiv.org/abs/2308.13393)|null|
 |**2023-08-24**|**TrafficMCTS: A Closed-Loop Traffic Flow Generation Framework with Group-Based Monte Carlo Tree Search**|Licheng Wen et.al.|[2308.12797](http://arxiv.org/abs/2308.12797)|null|
 |**2023-08-23**|**A Spatiotemporal Correspondence Approach to Unsupervised LiDAR Segmentation with Traffic Applications**|Xiao Li et.al.|[2308.12433](http://arxiv.org/abs/2308.12433)|null|
-|**2023-08-22**|**Spatio-Temporal Adaptive Embedding Makes Vanilla Transformer SOTA for Traffic Forecasting**|Hangchen Liu et.al.|[2308.10425](http://arxiv.org/abs/2308.10425)|**[link](https://github.com/xdzhelheim/staeformer)**|
+|**2023-08-26**|**STAEformer: Spatio-Temporal Adaptive Embedding Makes Vanilla Transformer SOTA for Traffic Forecasting**|Hangchen Liu et.al.|[2308.10425](http://arxiv.org/abs/2308.10425)|**[link](https://github.com/xdzhelheim/staeformer)**|
 |**2023-08-23**|**Minimalist Traffic Prediction: Linear Layer Is All You Need**|Wenying Duan et.al.|[2308.10276](http://arxiv.org/abs/2308.10276)|null|
 |**2023-08-17**|**Cross-city Few-Shot Traffic Forecasting via Traffic Pattern Bank**|Zhanyu Liu et.al.|[2308.09727](http://arxiv.org/abs/2308.09727)|**[link](https://github.com/zhyliu00/tpb)**|
 |**2023-08-18**|**Blockchain-Based and Fuzzy Logic-Enabled False Data Discovery for the Intelligent Autonomous Vehicular System**|Ziaur Rahman et.al.|[2308.09237](http://arxiv.org/abs/2308.09237)|null|
