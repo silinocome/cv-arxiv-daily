@@ -22,6 +22,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Group Regression for Query Based Object Detection and Tracking**|Felicia Ruppel et.al.|[2308.14481](http://arxiv.org/abs/2308.14481)|null|
+|**2023-08-28**|**Meta Attentive Graph Convolutional Recurrent Network for Traffic Forecasting**|Adnan Zeb et.al.|[2308.14377](http://arxiv.org/abs/2308.14377)|null|
+|**2023-08-26**|**A Cognitive Network Architecture for Vehicle-to-Network (V2N) Communications over Smart Meters for URLLC**|Shoaib Ahmed et.al.|[2308.13833](http://arxiv.org/abs/2308.13833)|null|
+|**2023-08-25**|**Generating and Explaining Corner Cases Using Learnt Probabilistic Lane Graphs**|Enrik Maci et.al.|[2308.13658](http://arxiv.org/abs/2308.13658)|null|
 |**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393](http://arxiv.org/abs/2308.13393)|null|
 |**2023-08-24**|**TrafficMCTS: A Closed-Loop Traffic Flow Generation Framework with Group-Based Monte Carlo Tree Search**|Licheng Wen et.al.|[2308.12797](http://arxiv.org/abs/2308.12797)|null|
 |**2023-08-23**|**A Spatiotemporal Correspondence Approach to Unsupervised LiDAR Segmentation with Traffic Applications**|Xiao Li et.al.|[2308.12433](http://arxiv.org/abs/2308.12433)|null|
@@ -214,6 +218,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation**|Md Awsafur Rahman et.al.|[2308.14400](http://arxiv.org/abs/2308.14400)|null|
+|**2023-08-27**|**Efficient decoding of stabilizer code by single-qubit local operations and classical communication**|Koki Shiraishi et.al.|[2308.14054](http://arxiv.org/abs/2308.14054)|null|
 |**2023-08-25**|**On Incentivizing Social Information Sharing in Routing Games**|Songhua Li et.al.|[2308.13301](http://arxiv.org/abs/2308.13301)|null|
 |**2023-08-17**|**Mitigating Misinformation Spreading in Social Networks Via Edge Blocking**|Ahad N. Zehmakan et.al.|[2308.08860](http://arxiv.org/abs/2308.08860)|null|
 |**2023-08-16**|**Partially Observable Multi-agent RL with (Quasi-)Efficiency: The Blessing of Information Sharing**|Xiangyu Liu et.al.|[2308.08705](http://arxiv.org/abs/2308.08705)|null|
@@ -349,6 +355,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**INF: Implicit Neural Fusion for LiDAR and Camera**|Shuyi Zhou et.al.|[2308.14414](http://arxiv.org/abs/2308.14414)|null|
 |**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393](http://arxiv.org/abs/2308.13393)|null|
 |**2023-08-23**|**Path-Constrained State Estimation for Rail Vehicles**|Cornelius von Einem et.al.|[2308.12082](http://arxiv.org/abs/2308.12082)|null|
 |**2023-08-24**|**Bayesian Learning for Dynamic Target Localization with Human-provided Spatial Information**|Min-Won Seo et.al.|[2308.11839](http://arxiv.org/abs/2308.11839)|null|
@@ -515,6 +522,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746](http://arxiv.org/abs/2308.14746)|**[link](https://github.com/lucas-ventura/CoVR)**|
+|**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039](http://arxiv.org/abs/2308.14039)|null|
+|**2023-08-26**|**Learning Efficient Representations for Image-Based Patent Retrieval**|Hongsong Wang et.al.|[2308.13749](http://arxiv.org/abs/2308.13749)|null|
 |**2023-08-24**|**Qwen-VL: A Frontier Large Vision-Language Model with Versatile Abilities**|Jinze Bai et.al.|[2308.12966](http://arxiv.org/abs/2308.12966)|**[link](https://github.com/qwenlm/qwen-vl)**|
 |**2023-08-23**|**Progressive Feature Mining and External Knowledge-Assisted Text-Pedestrian Image Retrieval**|Huafeng Li et.al.|[2308.11994](http://arxiv.org/abs/2308.11994)|null|
 |**2023-08-23**|**OFVL-MS: Once for Visual Localization across Multiple Indoor Scenes**|Tao Xie et.al.|[2308.11928](http://arxiv.org/abs/2308.11928)|**[link](https://github.com/mooncake199809/ufvl-net)**|
@@ -693,6 +703,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-27**|**Automatic coarse co-registration of point clouds from diverse scan geometries: a test of detectors and descriptors**|Francesco Pirotti et.al.|[2308.14047](http://arxiv.org/abs/2308.14047)|null|
 |**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
@@ -809,6 +820,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-27**|**LDL: Line Distance Functions for Panoramic Localization**|Junho Kim et.al.|[2308.13989](http://arxiv.org/abs/2308.13989)|null|
 |**2023-08-22**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949](http://arxiv.org/abs/2308.09949)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
 |**2023-08-19**|**Global Features are All You Need for Image Retrieval and Reranking**|Shihao Shao et.al.|[2308.06954](http://arxiv.org/abs/2308.06954)|**[link](https://github.com/shihaoshao-gh/superglobal)**|
