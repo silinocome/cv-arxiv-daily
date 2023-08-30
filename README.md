@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Benchmarking 5G MEC and Cloud infrastructures for planning IoT messaging of CCAM data**|Felipe Mogollón et.al.|[2308.15075](http://arxiv.org/abs/2308.15075)|null|
 |**2023-08-28**|**Group Regression for Query Based Object Detection and Tracking**|Felicia Ruppel et.al.|[2308.14481](http://arxiv.org/abs/2308.14481)|null|
 |**2023-08-28**|**Meta Attentive Graph Convolutional Recurrent Network for Traffic Forecasting**|Adnan Zeb et.al.|[2308.14377](http://arxiv.org/abs/2308.14377)|null|
 |**2023-08-26**|**A Cognitive Network Architecture for Vehicle-to-Network (V2N) Communications over Smart Meters for URLLC**|Shoaib Ahmed et.al.|[2308.13833](http://arxiv.org/abs/2308.13833)|null|
@@ -355,6 +356,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Data fusion using weakly aligned sources**|Sijia Li et.al.|[2308.14836](http://arxiv.org/abs/2308.14836)|null|
 |**2023-08-28**|**INF: Implicit Neural Fusion for LiDAR and Camera**|Shuyi Zhou et.al.|[2308.14414](http://arxiv.org/abs/2308.14414)|null|
 |**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393](http://arxiv.org/abs/2308.13393)|null|
 |**2023-08-23**|**Path-Constrained State Estimation for Rail Vehicles**|Cornelius von Einem et.al.|[2308.12082](http://arxiv.org/abs/2308.12082)|null|
@@ -522,6 +524,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Extending Cross-Modal Retrieval with Interactive Learning to Improve Image Retrieval Performance in Forensics**|Nils Böhne et.al.|[2308.14786](http://arxiv.org/abs/2308.14786)|null|
 |**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746](http://arxiv.org/abs/2308.14746)|**[link](https://github.com/lucas-ventura/CoVR)**|
 |**2023-08-27**|**Deep Learning for Visual Localization and Mapping: A Survey**|Changhao Chen et.al.|[2308.14039](http://arxiv.org/abs/2308.14039)|null|
 |**2023-08-26**|**Learning Efficient Representations for Image-Based Patent Retrieval**|Hongsong Wang et.al.|[2308.13749](http://arxiv.org/abs/2308.13749)|null|
@@ -820,6 +823,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**TKwinFormer: Top k Window Attention in Vision Transformers for Feature Matching**|Yun Liao et.al.|[2308.15144](http://arxiv.org/abs/2308.15144)|null|
 |**2023-08-27**|**LDL: Line Distance Functions for Panoramic Localization**|Junho Kim et.al.|[2308.13989](http://arxiv.org/abs/2308.13989)|null|
 |**2023-08-22**|**Scene-Aware Feature Matching**|Xiaoyong Lu et.al.|[2308.09949](http://arxiv.org/abs/2308.09949)|null|
 |**2023-08-16**|**DeDoDe: Detect, Don't Describe -- Describe, Don't Detect for Local Feature Matching**|Johan Edstedt et.al.|[2308.08479](http://arxiv.org/abs/2308.08479)|**[link](https://github.com/parskatt/dedode)**|
