@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-01**|**Privacy Attacks and Defenses for Digital Twin Migrations in Vehicular Metaverses**|Xiaofeng Luo et.al.|[2309.00477](http://arxiv.org/abs/2309.00477)|null|
 |**2023-08-31**|**Learning Driver Models for Automated Vehicles via Knowledge Sharing and Personalization**|Wissam Kontar et.al.|[2308.16870](http://arxiv.org/abs/2308.16870)|null|
 |**2023-08-31**|**Towards Vehicle-to-everything Autonomous Driving: A Survey on Collaborative Perception**|Si Liu et.al.|[2308.16714](http://arxiv.org/abs/2308.16714)|null|
 |**2023-08-31**|**Edge-Assisted Lightweight Region-of-Interest Extraction and Transmission for Vehicle Perception**|Yan Cheng et.al.|[2308.16417](http://arxiv.org/abs/2308.16417)|null|
