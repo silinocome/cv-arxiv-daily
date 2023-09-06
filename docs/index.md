@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Continual Cross-Dataset Adaptation in Road Surface Classification**|Paolo Cudrano et.al.|[2309.02210](http://arxiv.org/abs/2309.02210)|null|
+|**2023-09-04**|**Information Flow Topology in Mixed Traffic: A Comparative Study between "Looking Ahead" and "Looking Behind"**|Shuai Li et.al.|[2309.01625](http://arxiv.org/abs/2309.01625)|null|
+|**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
+|**2023-09-02**|**NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping**|Jun Zhang et.al.|[2309.00962](http://arxiv.org/abs/2309.00962)|null|
 |**2023-09-01**|**Privacy Attacks and Defenses for Digital Twin Migrations in Vehicular Metaverses**|Xiaofeng Luo et.al.|[2309.00477](http://arxiv.org/abs/2309.00477)|null|
 |**2023-08-31**|**Learning Driver Models for Automated Vehicles via Knowledge Sharing and Personalization**|Wissam Kontar et.al.|[2308.16870](http://arxiv.org/abs/2308.16870)|null|
 |**2023-08-31**|**Towards Vehicle-to-everything Autonomous Driving: A Survey on Collaborative Perception**|Si Liu et.al.|[2308.16714](http://arxiv.org/abs/2308.16714)|null|
@@ -213,6 +217,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation**|Jingtong Gao et.al.|[2309.02061](http://arxiv.org/abs/2309.02061)|null|
 |**2023-08-30**|**Risk-aware Flexible Resource Utilization in an Unbalanced Three-Phase Distribution Network using SDP-based Distributionally Robust Optimal Power Flow**|Zelong Lu et.al.|[2308.15717](http://arxiv.org/abs/2308.15717)|null|
 |**2023-08-28**|**Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation**|Md Awsafur Rahman et.al.|[2308.14400](http://arxiv.org/abs/2308.14400)|null|
 |**2023-08-27**|**Efficient decoding of stabilizer code by single-qubit local operations and classical communication**|Koki Shiraishi et.al.|[2308.14054](http://arxiv.org/abs/2308.14054)|null|
@@ -349,6 +354,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-03**|**Distributed averaging for accuracy prediction in networked systems**|Christel Sirocchi et.al.|[2309.01144](http://arxiv.org/abs/2309.01144)|null|
+|**2023-09-02**|**Consensus-based Distributed Variational Multi-object Tracker in Multi-Sensor Network**|Qing Li et.al.|[2309.00807](http://arxiv.org/abs/2309.00807)|null|
+|**2023-09-02**|**Online Targetless Radar-Camera Extrinsic Calibration Based on the Common Features of Radar and Camera**|Lei Cheng et.al.|[2309.00787](http://arxiv.org/abs/2309.00787)|null|
 |**2023-08-28**|**Data fusion using weakly aligned sources**|Sijia Li et.al.|[2308.14836](http://arxiv.org/abs/2308.14836)|null|
 |**2023-08-28**|**INF: Implicit Neural Fusion for LiDAR and Camera**|Shuyi Zhou et.al.|[2308.14414](http://arxiv.org/abs/2308.14414)|null|
 |**2023-08-25**|**UWB Ranging and IMU Data Fusion: Overview and Nonlinear Stochastic Filter for Inertial Navigation**|Hashim A. Hashim et.al.|[2308.13393](http://arxiv.org/abs/2308.13393)|null|
@@ -515,6 +523,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Dual Relation Alignment for Composed Image Retrieval**|Xintong Jiang et.al.|[2309.02169](http://arxiv.org/abs/2309.02169)|null|
+|**2023-09-04**|**NLLB-CLIP -- train performant multilingual image retrieval model on a budget**|Alexander Visheratin et.al.|[2309.01859](http://arxiv.org/abs/2309.01859)|null|
+|**2023-09-04**|**Target-Guided Composed Image Retrieval**|Haokun Wen et.al.|[2309.01366](http://arxiv.org/abs/2309.01366)|null|
+|**2023-09-02**|**Deep supervised hashing for fast retrieval of radio image cubes**|Steven Ndung'u et.al.|[2309.00932](http://arxiv.org/abs/2309.00932)|null|
 |**2023-08-31**|**Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval**|Prateksha Udhayanan et.al.|[2308.16649](http://arxiv.org/abs/2308.16649)|null|
 |**2023-08-28**|**Extending Cross-Modal Retrieval with Interactive Learning to Improve Image Retrieval Performance in Forensics**|Nils Böhne et.al.|[2308.14786](http://arxiv.org/abs/2308.14786)|null|
 |**2023-08-28**|**CoVR: Learning Composed Video Retrieval from Web Video Captions**|Lucas Ventura et.al.|[2308.14746](http://arxiv.org/abs/2308.14746)|**[link](https://github.com/lucas-ventura/CoVR)**|
@@ -811,6 +823,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Doppelgangers: Learning to Disambiguate Images of Similar Structures**|Ruojin Cai et.al.|[2309.02420](http://arxiv.org/abs/2309.02420)|**[link](https://github.com/RuojinCai/Doppelgangers)**|
 |**2023-08-14**|**Occ $^2$ Net: Robust Image Matching Based on 3D Occupancy Estimation for Occluded Regions**|Miao Fan et.al.|[2308.16160](http://arxiv.org/abs/2308.16160)|null|
 |**2023-08-29**|**TKwinFormer: Top k Window Attention in Vision Transformers for Feature Matching**|Yun Liao et.al.|[2308.15144](http://arxiv.org/abs/2308.15144)|null|
 |**2023-08-27**|**LDL: Line Distance Functions for Panoramic Localization**|Junho Kim et.al.|[2308.13989](http://arxiv.org/abs/2308.13989)|null|
