@@ -227,6 +227,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Experience Capture in Shipbuilding through Computer Applications and Neural Networks**|Sankaramangalam Ulhas Sangeet et.al.|[2309.02572](http://arxiv.org/abs/2309.02572)|null|
+|**2023-09-05**|**A Generalized Bandsplit Neural Network for Cinematic Audio Source Separation**|Karn N. Watcharasupat et.al.|[2309.02539](http://arxiv.org/abs/2309.02539)|null|
 |**2023-09-05**|**Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation**|Jingtong Gao et.al.|[2309.02061](http://arxiv.org/abs/2309.02061)|null|
 |**2023-08-30**|**Risk-aware Flexible Resource Utilization in an Unbalanced Three-Phase Distribution Network using SDP-based Distributionally Robust Optimal Power Flow**|Zelong Lu et.al.|[2308.15717](http://arxiv.org/abs/2308.15717)|null|
 |**2023-08-28**|**Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation**|Md Awsafur Rahman et.al.|[2308.14400](http://arxiv.org/abs/2308.14400)|null|
@@ -366,6 +368,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-06**|**Indoor Localization Using Radio, Vision and Audio Sensors: Real-Life Data Validation and Discussion**|Ilayda Yaman et.al.|[2309.02961](http://arxiv.org/abs/2309.02961)|null|
 |**2023-09-03**|**Distributed averaging for accuracy prediction in networked systems**|Christel Sirocchi et.al.|[2309.01144](http://arxiv.org/abs/2309.01144)|null|
 |**2023-09-02**|**Consensus-based Distributed Variational Multi-object Tracker in Multi-Sensor Network**|Qing Li et.al.|[2309.00807](http://arxiv.org/abs/2309.00807)|null|
 |**2023-09-02**|**Online Targetless Radar-Camera Extrinsic Calibration Based on the Common Features of Radar and Camera**|Lei Cheng et.al.|[2309.00787](http://arxiv.org/abs/2309.00787)|null|
