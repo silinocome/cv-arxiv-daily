@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**|Irfan Tito Kurniawan et.al.|[2309.03734](http://arxiv.org/abs/2309.03734)|null|
+|**2023-09-07**|**Sparse Federated Training of Object Detection in the Internet of Vehicles**|Luping Rao et.al.|[2309.03569](http://arxiv.org/abs/2309.03569)|null|
 |**2023-09-05**|**Continual Cross-Dataset Adaptation in Road Surface Classification**|Paolo Cudrano et.al.|[2309.02210](http://arxiv.org/abs/2309.02210)|null|
 |**2023-09-04**|**Information Flow Topology in Mixed Traffic: A Comparative Study between "Looking Ahead" and "Looking Behind"**|Shuai Li et.al.|[2309.01625](http://arxiv.org/abs/2309.01625)|null|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
@@ -217,6 +219,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**An Anonymous yet Accountable Contract Wallet System using Account Abstraction**|Kota Chin et.al.|[2309.03480](http://arxiv.org/abs/2309.03480)|null|
 |**2023-09-05**|**Experience Capture in Shipbuilding through Computer Applications and Neural Networks**|Sankaramangalam Ulhas Sangeet et.al.|[2309.02572](http://arxiv.org/abs/2309.02572)|null|
 |**2023-09-07**|**A Generalized Bandsplit Neural Network for Cinematic Audio Source Separation**|Karn N. Watcharasupat et.al.|[2309.02539](http://arxiv.org/abs/2309.02539)|null|
 |**2023-09-05**|**Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation**|Jingtong Gao et.al.|[2309.02061](http://arxiv.org/abs/2309.02061)|null|
@@ -356,6 +359,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Fully Onboard SLAM for Distributed Mapping with a Swarm of Nano-Drones**|Carl Friess et.al.|[2309.03678](http://arxiv.org/abs/2309.03678)|null|
+|**2023-09-06**|**Spatial data fusion adjusting for preferential sampling using INLA and SPDE**|Ruiman Zhong et.al.|[2309.03316](http://arxiv.org/abs/2309.03316)|null|
+|**2023-09-01**|**Sherlock Holmes Doesn't Play Dice: The significance of Evidence Theory for the Social and Life Sciences**|V. L. Raju Chinthalapati et.al.|[2309.03222](http://arxiv.org/abs/2309.03222)|null|
 |**2023-09-06**|**Indoor Localization Using Radio, Vision and Audio Sensors: Real-Life Data Validation and Discussion**|Ilayda Yaman et.al.|[2309.02961](http://arxiv.org/abs/2309.02961)|null|
 |**2023-09-03**|**Distributed averaging for accuracy prediction in networked systems**|Christel Sirocchi et.al.|[2309.01144](http://arxiv.org/abs/2309.01144)|null|
 |**2023-09-02**|**Consensus-based Distributed Variational Multi-object Tracker in Multi-Sensor Network**|Qing Li et.al.|[2309.00807](http://arxiv.org/abs/2309.00807)|null|
@@ -716,7 +722,7 @@ layout: default
 |**2023-08-22**|**LDP-Feat: Image Features with Local Differential Privacy**|Francesco Pittaluga et.al.|[2308.11223](http://arxiv.org/abs/2308.11223)|null|
 |**2023-08-14**|**DELO: Deep Evidential LiDAR Odometry using Partial Optimal Transport**|Sk Aziz Ali et.al.|[2308.07153](http://arxiv.org/abs/2308.07153)|null|
 |**2023-07-25**|**Mini-PointNetPlus: a local feature descriptor in deep learning model for 3d environment perception**|Chuanyu Luo et.al.|[2307.13300](http://arxiv.org/abs/2307.13300)|null|
-|**2023-07-19**|**SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**|Zi Li et.al.|[2307.09727](http://arxiv.org/abs/2307.09727)|null|
+|**2023-07-19**|**SAMConvex: Fast Discrete Optimization for CT Registration using Self-supervised Anatomical Embedding and Correlation Pyramid**|Zi Li et.al.|[2307.09727](http://arxiv.org/abs/2307.09727)|**[link](https://github.com/alibaba-damo-academy/samconvex)**|
 |**2023-06-07**|**Learning Probabilistic Coordinate Fields for Robust Correspondences**|Weiyue Zhao et.al.|[2306.04231](http://arxiv.org/abs/2306.04231)|null|
 |**2023-06-03**|**LDEB -- Label Digitization with Emotion Binarization and Machine Learning for Emotion Recognition in Conversational Dialogues**|Amitabha Dey et.al.|[2306.02193](http://arxiv.org/abs/2306.02193)|null|
 |**2023-06-01**|**A Probabilistic Relaxation of the Two-Stage Object Pose Estimation Paradigm**|Onur Beker et.al.|[2306.00892](http://arxiv.org/abs/2306.00892)|null|
