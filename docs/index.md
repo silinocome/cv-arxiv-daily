@@ -363,6 +363,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-11**|**Adaptive User-centered Neuro-symbolic Learning for Multimodal Interaction with Autonomous Systems**|Amr Gomaa et.al.|[2309.05787](http://arxiv.org/abs/2309.05787)|null|
 |**2023-09-10**|**Streamlined Data Fusion: Unleashing the Power of Linear Combination with Minimal Relevance Judgments**|Qiuyu Xua et.al.|[2309.04981](http://arxiv.org/abs/2309.04981)|null|
 |**2023-09-10**|**Data Fusion-Based Predictive Beamforming for Downlink UAV-Assisted Massive MIMO Communication**|Byunghyun Lee et.al.|[2309.04916](http://arxiv.org/abs/2309.04916)|null|
 |**2023-09-07**|**Fully Onboard SLAM for Distributed Mapping with a Swarm of Nano-Drones**|Carl Friess et.al.|[2309.03678](http://arxiv.org/abs/2309.03678)|null|
