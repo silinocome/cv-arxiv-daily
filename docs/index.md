@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.12
+## Updated on 2023.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-11**|**Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic**|Lei Zheng et.al.|[2309.05298](http://arxiv.org/abs/2309.05298)|null|
 |**2023-09-11**|**A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction**|Haohao Qu et.al.|[2309.05259](http://arxiv.org/abs/2309.05259)|null|
-|**2023-09-09**|**Task Freshness-aware Incentive Mechanism for Vehicle Twin Migration in Vehicular Metaverses**|Jinbo Wen et.al.|[2309.04703](http://arxiv.org/abs/2309.04703)|null|
+|**2023-09-12**|**Task Freshness-aware Incentive Mechanism for Vehicle Twin Migration in Vehicular Metaverses**|Jinbo Wen et.al.|[2309.04703](http://arxiv.org/abs/2309.04703)|null|
 |**2023-09-08**|**Weakly Supervised Point Clouds Transformer for 3D Object Detection**|Zuojin Tang et.al.|[2309.04105](http://arxiv.org/abs/2309.04105)|null|
 |**2023-09-07**|**ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**|Irfan Tito Kurniawan et.al.|[2309.03734](http://arxiv.org/abs/2309.03734)|null|
 |**2023-09-07**|**Sparse Federated Training of Object Detection in the Internet of Vehicles**|Luping Rao et.al.|[2309.03569](http://arxiv.org/abs/2309.03569)|null|
@@ -230,7 +230,7 @@ layout: default
 |**2023-08-30**|**Risk-aware Flexible Resource Utilization in an Unbalanced Three-Phase Distribution Network using SDP-based Distributionally Robust Optimal Power Flow**|Zelong Lu et.al.|[2308.15717](http://arxiv.org/abs/2308.15717)|null|
 |**2023-08-28**|**Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation**|Md Awsafur Rahman et.al.|[2308.14400](http://arxiv.org/abs/2308.14400)|null|
 |**2023-08-27**|**Efficient decoding of stabilizer code by single-qubit local operations and classical communication**|Koki Shiraishi et.al.|[2308.14054](http://arxiv.org/abs/2308.14054)|null|
-|**2023-08-25**|**On Incentivizing Social Information Sharing in Routing Games**|Songhua Li et.al.|[2308.13301](http://arxiv.org/abs/2308.13301)|null|
+|**2023-09-12**|**To Rectify Routing Games for Social Information Sharing**|Songhua Li et.al.|[2308.13301](http://arxiv.org/abs/2308.13301)|null|
 |**2023-08-17**|**Mitigating Misinformation Spreading in Social Networks Via Edge Blocking**|Ahad N. Zehmakan et.al.|[2308.08860](http://arxiv.org/abs/2308.08860)|null|
 |**2023-08-16**|**Partially Observable Multi-agent RL with (Quasi-)Efficiency: The Blessing of Information Sharing**|Xiangyu Liu et.al.|[2308.08705](http://arxiv.org/abs/2308.08705)|null|
 |**2023-08-09**|**Continual Road-Scene Semantic Segmentation via Feature-Aligned Symmetric Multi-Modal Network**|Francesco Barbato et.al.|[2308.04702](http://arxiv.org/abs/2308.04702)|null|

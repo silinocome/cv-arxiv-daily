@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.12
+## Updated on 2023.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |---|---|---|---|---|
 |**2023-09-11**|**Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic**|Lei Zheng et.al.|[2309.05298](http://arxiv.org/abs/2309.05298)|null|
 |**2023-09-11**|**A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction**|Haohao Qu et.al.|[2309.05259](http://arxiv.org/abs/2309.05259)|null|
-|**2023-09-09**|**Task Freshness-aware Incentive Mechanism for Vehicle Twin Migration in Vehicular Metaverses**|Jinbo Wen et.al.|[2309.04703](http://arxiv.org/abs/2309.04703)|null|
+|**2023-09-12**|**Task Freshness-aware Incentive Mechanism for Vehicle Twin Migration in Vehicular Metaverses**|Jinbo Wen et.al.|[2309.04703](http://arxiv.org/abs/2309.04703)|null|
 |**2023-09-08**|**Weakly Supervised Point Clouds Transformer for 3D Object Detection**|Zuojin Tang et.al.|[2309.04105](http://arxiv.org/abs/2309.04105)|null|
 |**2023-09-07**|**ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**|Irfan Tito Kurniawan et.al.|[2309.03734](http://arxiv.org/abs/2309.03734)|null|
 |**2023-09-07**|**Sparse Federated Training of Object Detection in the Internet of Vehicles**|Luping Rao et.al.|[2309.03569](http://arxiv.org/abs/2309.03569)|null|
@@ -227,7 +227,7 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
 
 ## Collaborative Perception
 
@@ -240,7 +240,7 @@
 |**2023-08-30**|**Risk-aware Flexible Resource Utilization in an Unbalanced Three-Phase Distribution Network using SDP-based Distributionally Robust Optimal Power Flow**|Zelong Lu et.al.|[2308.15717](http://arxiv.org/abs/2308.15717)|null|
 |**2023-08-28**|**Semi-Supervised Semantic Depth Estimation using Symbiotic Transformer and NearFarMix Augmentation**|Md Awsafur Rahman et.al.|[2308.14400](http://arxiv.org/abs/2308.14400)|null|
 |**2023-08-27**|**Efficient decoding of stabilizer code by single-qubit local operations and classical communication**|Koki Shiraishi et.al.|[2308.14054](http://arxiv.org/abs/2308.14054)|null|
-|**2023-08-25**|**On Incentivizing Social Information Sharing in Routing Games**|Songhua Li et.al.|[2308.13301](http://arxiv.org/abs/2308.13301)|null|
+|**2023-09-12**|**To Rectify Routing Games for Social Information Sharing**|Songhua Li et.al.|[2308.13301](http://arxiv.org/abs/2308.13301)|null|
 |**2023-08-17**|**Mitigating Misinformation Spreading in Social Networks Via Edge Blocking**|Ahad N. Zehmakan et.al.|[2308.08860](http://arxiv.org/abs/2308.08860)|null|
 |**2023-08-16**|**Partially Observable Multi-agent RL with (Quasi-)Efficiency: The Blessing of Information Sharing**|Xiangyu Liu et.al.|[2308.08705](http://arxiv.org/abs/2308.08705)|null|
 |**2023-08-09**|**Continual Road-Scene Semantic Segmentation via Feature-Aligned Symmetric Multi-Modal Network**|Francesco Barbato et.al.|[2308.04702](http://arxiv.org/abs/2308.04702)|null|
@@ -369,7 +369,7 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
 
 ## sensor fusion
 
@@ -546,7 +546,7 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
 
 ## localization
 
@@ -735,7 +735,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
 
 ## Detection
 
@@ -852,7 +852,7 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
 
 ## Matching
 
@@ -988,7 +988,7 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20230912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230913>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
