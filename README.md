@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**Performance Analysis of RIS/STAR-IOS-aided V2V NOMA/OMA Communications over Composite Fading Channels**|Farshad Rostami Ghadi et.al.|[2309.07738](http://arxiv.org/abs/2309.07738)|null|
+|**2023-09-14**|**Connected Autonomous Vehicle Motion Planning with Video Predictions from Smart, Self-Supervised Infrastructure**|Jiankai Sun et.al.|[2309.07504](http://arxiv.org/abs/2309.07504)|null|
 |**2023-09-13**|**Hierarchical Time-Optimal Planning for Multi-Vehicle Racing**|Georg Jank et.al.|[2309.06768](http://arxiv.org/abs/2309.06768)|null|
 |**2023-09-11**|**Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic**|Lei Zheng et.al.|[2309.05298](http://arxiv.org/abs/2309.05298)|null|
 |**2023-09-11**|**A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction**|Haohao Qu et.al.|[2309.05259](http://arxiv.org/abs/2309.05259)|null|
@@ -234,6 +236,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-13**|**Stable In-hand Manipulation with Finger Specific Multi-agent Shadow Reward**|Lingfeng Tao et.al.|[2309.07349](http://arxiv.org/abs/2309.07349)|null|
 |**2023-09-07**|**An Anonymous yet Accountable Contract Wallet System using Account Abstraction**|Kota Chin et.al.|[2309.03480](http://arxiv.org/abs/2309.03480)|null|
 |**2023-09-05**|**Experience Capture in Shipbuilding through Computer Applications and Neural Networks**|Sankaramangalam Ulhas Sangeet et.al.|[2309.02572](http://arxiv.org/abs/2309.02572)|null|
 |**2023-09-07**|**A Generalized Bandsplit Neural Network for Cinematic Audio Source Separation**|Karn N. Watcharasupat et.al.|[2309.02539](http://arxiv.org/abs/2309.02539)|null|
@@ -376,6 +379,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**What Matters to Enhance Traffic Rule Compliance of Imitation Learning for Automated Driving**|Hongkuan Zhou et.al.|[2309.07808](http://arxiv.org/abs/2309.07808)|null|
 |**2023-09-13**|**Generalizable improvement of the Spalart-Allmaras model through assimilation of experimental data**|Deepinder Jot Singh Aulakh et.al.|[2309.06679](http://arxiv.org/abs/2309.06679)|null|
 |**2023-09-11**|**Adaptive User-centered Neuro-symbolic Learning for Multimodal Interaction with Autonomous Systems**|Amr Gomaa et.al.|[2309.05787](http://arxiv.org/abs/2309.05787)|null|
 |**2023-09-10**|**Streamlined Data Fusion: Unleashing the Power of Linear Combination with Minimal Relevance Judgments**|Qiuyu Xua et.al.|[2309.04981](http://arxiv.org/abs/2309.04981)|null|
@@ -555,6 +559,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-14**|**EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization**|Minjung Kim et.al.|[2309.07471](http://arxiv.org/abs/2309.07471)|**[link](https://github.com/minnjung/ep2p-loc)**|
 |**2023-09-13**|**RadarLCD: Learnable Radar-based Loop Closure Detection Pipeline**|Mirko Usuelli et.al.|[2309.07094](http://arxiv.org/abs/2309.07094)|null|
 |**2023-09-11**|**Towards Content-based Pixel Retrieval in Revisited Oxford and Paris**|Guoyuan An et.al.|[2309.05438](http://arxiv.org/abs/2309.05438)|**[link](https://github.com/anguoyuan/pixel_retrieval-segmented_instance_retrieval)**|
 |**2023-09-08**|**Representation Synthesis by Probabilistic Many-Valued Logic Operation in Self-Supervised Learning**|Hiroki Nakamura et.al.|[2309.04148](http://arxiv.org/abs/2309.04148)|null|
