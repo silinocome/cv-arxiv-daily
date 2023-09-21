@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -232,7 +232,7 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## Collaborative Perception
 
@@ -377,7 +377,7 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## sensor fusion
 
@@ -387,7 +387,7 @@
 |**2023-09-18**|**PseudoCal: Towards Initialisation-Free Deep Learning-Based Camera-LiDAR Self-Calibration**|Mathieu Cocheteux et.al.|[2309.09855](http://arxiv.org/abs/2309.09855)|null|
 |**2023-09-18**|**Data fusion for a multi-scale model of a wheat leaf surface: a unifying approach using a radial basis function partition of unity method**|Riley M. Whebell et.al.|[2309.09425](http://arxiv.org/abs/2309.09425)|null|
 |**2023-09-19**|**Multi-camera Bird's Eye View Perception for Autonomous Driving**|David Unger et.al.|[2309.09080](http://arxiv.org/abs/2309.09080)|null|
-|**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180](http://arxiv.org/abs/2309.08180)|null|
+|**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180](http://arxiv.org/abs/2309.08180)|**[link](https://github.com/yale-cv/avm-slam)**|
 |**2023-09-14**|**What Matters to Enhance Traffic Rule Compliance of Imitation Learning for Automated Driving**|Hongkuan Zhou et.al.|[2309.07808](http://arxiv.org/abs/2309.07808)|null|
 |**2023-09-13**|**Generalizable improvement of the Spalart-Allmaras model through assimilation of experimental data**|Deepinder Jot Singh Aulakh et.al.|[2309.06679](http://arxiv.org/abs/2309.06679)|null|
 |**2023-09-11**|**Adaptive User-centered Neuro-symbolic Learning for Multimodal Interaction with Autonomous Systems**|Amr Gomaa et.al.|[2309.05787](http://arxiv.org/abs/2309.05787)|null|
@@ -562,7 +562,7 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## localization
 
@@ -760,7 +760,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## Detection
 
@@ -878,7 +878,7 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 ## Matching
 
@@ -1015,7 +1015,7 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20230920>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230921>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

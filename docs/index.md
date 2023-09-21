@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -375,7 +375,7 @@ layout: default
 |**2023-09-18**|**PseudoCal: Towards Initialisation-Free Deep Learning-Based Camera-LiDAR Self-Calibration**|Mathieu Cocheteux et.al.|[2309.09855](http://arxiv.org/abs/2309.09855)|null|
 |**2023-09-18**|**Data fusion for a multi-scale model of a wheat leaf surface: a unifying approach using a radial basis function partition of unity method**|Riley M. Whebell et.al.|[2309.09425](http://arxiv.org/abs/2309.09425)|null|
 |**2023-09-19**|**Multi-camera Bird's Eye View Perception for Autonomous Driving**|David Unger et.al.|[2309.09080](http://arxiv.org/abs/2309.09080)|null|
-|**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180](http://arxiv.org/abs/2309.08180)|null|
+|**2023-09-15**|**AVM-SLAM: Semantic Visual SLAM with Multi-Sensor Fusion in a Bird's Eye View for Automated Valet Parking**|Ye Li et.al.|[2309.08180](http://arxiv.org/abs/2309.08180)|**[link](https://github.com/yale-cv/avm-slam)**|
 |**2023-09-14**|**What Matters to Enhance Traffic Rule Compliance of Imitation Learning for Automated Driving**|Hongkuan Zhou et.al.|[2309.07808](http://arxiv.org/abs/2309.07808)|null|
 |**2023-09-13**|**Generalizable improvement of the Spalart-Allmaras model through assimilation of experimental data**|Deepinder Jot Singh Aulakh et.al.|[2309.06679](http://arxiv.org/abs/2309.06679)|null|
 |**2023-09-11**|**Adaptive User-centered Neuro-symbolic Learning for Multimodal Interaction with Autonomous Systems**|Amr Gomaa et.al.|[2309.05787](http://arxiv.org/abs/2309.05787)|null|
