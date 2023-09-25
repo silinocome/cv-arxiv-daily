@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-22**|**Analytical Model of 5G V2X Mode 2 for Sporadic Traffic**|Dmitry Bankov et.al.|[2309.12901](http://arxiv.org/abs/2309.12901)|null|
+|**2023-09-21**|**RCMS: Risk-Aware Crash Mitigation System for Autonomous Vehicles**|Faizan M. Tariq et.al.|[2309.12531](http://arxiv.org/abs/2309.12531)|null|
 |**2023-09-21**|**Optimizing V2V Unicast Communication Transmission with Reinforcement Learning and Vehicle Clustering**|Yu Wang et.al.|[2309.12052](http://arxiv.org/abs/2309.12052)|null|
 |**2023-09-20**|**Federated Learning in Intelligent Transportation Systems: Recent Applications and Open Problems**|Shiying Zhang et.al.|[2309.11039](http://arxiv.org/abs/2309.11039)|null|
 |**2023-09-19**|**A Novel Deep Neural Network for Trajectory Prediction in Automated Vehicles Using Velocity Vector Field**|MReza Alipour Sormoli et.al.|[2309.10948](http://arxiv.org/abs/2309.10948)|**[link](https://github.com/Amir-Samadi/VVF-TP)**|
@@ -231,6 +233,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**DualToken-ViT: Position-aware Efficient Vision Transformer with Dual Token Fusion**|Zhenzhen Chu et.al.|[2309.12424](http://arxiv.org/abs/2309.12424)|null|
 |**2023-09-18**|**Asynchronous Perception-Action-Communication with Graph Neural Networks**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|null|
 |**2023-09-15**|**X-PDNet: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction**|Duc Cao Dinh et.al.|[2309.08424](http://arxiv.org/abs/2309.08424)|**[link](https://github.com/caodinhduc/x-pdnet-official)**|
 |**2023-09-13**|**Stable In-hand Manipulation with Finger Specific Multi-agent Shadow Reward**|Lingfeng Tao et.al.|[2309.07349](http://arxiv.org/abs/2309.07349)|null|
