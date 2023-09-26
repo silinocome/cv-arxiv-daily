@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-24**|**Advancements in 3D Lane Detection Using LiDAR Point Clouds: From Data Collection to Model Development**|Runkai Zhao et.al.|[2309.13596](http://arxiv.org/abs/2309.13596)|null|
+|**2023-09-23**|**Consensus Algorithms of Distributed Ledger Technology -- A Comprehensive Analysis**|Ahmad J. Alkhodair et.al.|[2309.13498](http://arxiv.org/abs/2309.13498)|null|
+|**2023-09-22**|**SurrealDriver: Designing Generative Driver Agent Simulation Framework in Urban Contexts based on Large Language Model**|Ye Jin et.al.|[2309.13193](http://arxiv.org/abs/2309.13193)|null|
 |**2023-09-22**|**Analytical Model of 5G V2X Mode 2 for Sporadic Traffic**|Dmitry Bankov et.al.|[2309.12901](http://arxiv.org/abs/2309.12901)|null|
 |**2023-09-21**|**RCMS: Risk-Aware Crash Mitigation System for Autonomous Vehicles**|Faizan M. Tariq et.al.|[2309.12531](http://arxiv.org/abs/2309.12531)|null|
 |**2023-09-21**|**Optimizing V2V Unicast Communication Transmission with Reinforcement Learning and Vehicle Clustering**|Yu Wang et.al.|[2309.12052](http://arxiv.org/abs/2309.12052)|null|
@@ -377,10 +380,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-21**|**Robust Sensor Fusion for Indoor Wireless Localization**|Gang Wang et.al.|[2309.11917](http://arxiv.org/abs/2309.11917)|null|
+|**2023-09-24**|**Digital Twins and the Future of their Use Enabling Shift Left and Shift Right Cybersecurity Operations**|Ahmad Mohsin et.al.|[2309.13612](http://arxiv.org/abs/2309.13612)|null|
+|**2023-09-25**|**Robust Sensor Fusion for Indoor Wireless Localization**|Gang Wang et.al.|[2309.11917](http://arxiv.org/abs/2309.11917)|null|
 |**2023-09-21**|**Towards In-Cabin Monitoring: A Preliminary Study on Sensors Data Collection and Analysis**|Jacopo Sini et.al.|[2309.11890](http://arxiv.org/abs/2309.11890)|null|
 |**2023-09-20**|**GNSS/Multi-Sensor Fusion Using Continuous-Time Factor Graph Optimization for Robust Localization**|Haoming Zhang et.al.|[2309.11134](http://arxiv.org/abs/2309.11134)|null|
-|**2023-09-21**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119](http://arxiv.org/abs/2309.11119)|null|
+|**2023-09-25**|**BroadBEV: Collaborative LiDAR-camera Fusion for Broad-sighted Bird's Eye View Map Construction**|Minsu Kim et.al.|[2309.11119](http://arxiv.org/abs/2309.11119)|null|
 |**2023-09-19**|**RoadFormer: Duplex Transformer for RGB-Normal Semantic Road Scene Parsing**|Jiahang Li et.al.|[2309.10356](http://arxiv.org/abs/2309.10356)|null|
 |**2023-09-18**|**PseudoCal: Towards Initialisation-Free Deep Learning-Based Camera-LiDAR Self-Calibration**|Mathieu Cocheteux et.al.|[2309.09855](http://arxiv.org/abs/2309.09855)|null|
 |**2023-09-18**|**Data fusion for a multi-scale model of a wheat leaf surface: a unifying approach using a radial basis function partition of unity method**|Riley M. Whebell et.al.|[2309.09425](http://arxiv.org/abs/2309.09425)|null|
@@ -564,6 +568,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-23**|**Resolving References in Visually-Grounded Dialogue via Text Generation**|Bram Willemsen et.al.|[2309.13430](http://arxiv.org/abs/2309.13430)|**[link](https://github.com/willemsenbram/reference-resolution-via-text-generation)**|
 |**2023-09-21**|**Face Identity-Aware Disentanglement in StyleGAN**|Adrian Suwała et.al.|[2309.12033](http://arxiv.org/abs/2309.12033)|null|
 |**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883](http://arxiv.org/abs/2309.11883)|null|
 |**2023-09-20**|**2D-3D Pose Tracking with Multi-View Constraints**|Huai Yu et.al.|[2309.11335](http://arxiv.org/abs/2309.11335)|null|
