@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -235,7 +235,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-21**|**DualToken-ViT: Position-aware Efficient Vision Transformer with Dual Token Fusion**|Zhenzhen Chu et.al.|[2309.12424](http://arxiv.org/abs/2309.12424)|null|
 |**2023-09-18**|**Asynchronous Perception-Action-Communication with Graph Neural Networks**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|null|
-|**2023-09-15**|**X-PDNet: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction**|Duc Cao Dinh et.al.|[2309.08424](http://arxiv.org/abs/2309.08424)|**[link](https://github.com/caodinhduc/x-pdnet-official)**|
+|**2023-09-24**|**X-PDNet: Accurate Joint Plane Instance Segmentation and Monocular Depth Estimation with Cross-Task Distillation and Boundary Correction**|Cao Dinh Duc et.al.|[2309.08424](http://arxiv.org/abs/2309.08424)|**[link](https://github.com/caodinhduc/x-pdnet-official)**|
 |**2023-09-13**|**Stable In-hand Manipulation with Finger Specific Multi-agent Shadow Reward**|Lingfeng Tao et.al.|[2309.07349](http://arxiv.org/abs/2309.07349)|null|
 |**2023-09-07**|**An Anonymous yet Accountable Contract Wallet System using Account Abstraction**|Kota Chin et.al.|[2309.03480](http://arxiv.org/abs/2309.03480)|null|
 |**2023-09-05**|**Experience Capture in Shipbuilding through Computer Applications and Neural Networks**|Sankaramangalam Ulhas Sangeet et.al.|[2309.02572](http://arxiv.org/abs/2309.02572)|null|
