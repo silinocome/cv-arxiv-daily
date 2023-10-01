@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.09.30
+## Updated on 2023.10.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -387,7 +387,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-09-27**|**Perception for Humanoid Robots**|Arindam Roychoudhury et.al.|[2309.15616](http://arxiv.org/abs/2309.15616)|null|
 |**2023-09-27**|**OceanBench: The Sea Surface Height Edition**|J. Emmanuel Johnson et.al.|[2309.15599](http://arxiv.org/abs/2309.15599)|**[link](https://github.com/jejjohnson/oceanbench)**|
-|**2023-09-27**|**MINS: Efficient and Robust Multisensor-aided Inertial Navigation System**|Woosik Lee et.al.|[2309.15390](http://arxiv.org/abs/2309.15390)|null|
+|**2023-09-27**|**MINS: Efficient and Robust Multisensor-aided Inertial Navigation System**|Woosik Lee et.al.|[2309.15390](http://arxiv.org/abs/2309.15390)|**[link](https://github.com/rpng/mins)**|
 |**2023-09-26**|**Addressing Data Misalignment in Image-LiDAR Fusion on Point Cloud Segmentation**|Wei Jong Yang et.al.|[2309.14932](http://arxiv.org/abs/2309.14932)|null|
 |**2023-09-24**|**Digital Twins and the Future of their Use Enabling Shift Left and Shift Right Cybersecurity Operations**|Ahmad Mohsin et.al.|[2309.13612](http://arxiv.org/abs/2309.13612)|null|
 |**2023-09-25**|**Robust Sensor Fusion for Indoor Wireless Localization**|Gang Wang et.al.|[2309.11917](http://arxiv.org/abs/2309.11917)|null|
