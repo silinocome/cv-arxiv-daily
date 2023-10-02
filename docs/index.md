@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.01
+## Updated on 2023.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -239,7 +239,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-27**|**Enabling Large-scale Heterogeneous Collaboration with Opportunistic Communications**|Fernando Cladera et.al.|[2309.15975](http://arxiv.org/abs/2309.15975)|**[link](https://github.com/KumarRobotics/MOCHA)**|
+|**2023-09-27**|**Enabling Large-scale Heterogeneous Collaboration with Opportunistic Communications**|Fernando Cladera et.al.|[2309.15975](http://arxiv.org/abs/2309.15975)|**[link](https://github.com/kumarrobotics/air_router)**|
 |**2023-09-27**|**HPL-ViT: A Unified Perception Framework for Heterogeneous Parallel LiDARs in V2V**|Yuhang Liu et.al.|[2309.15572](http://arxiv.org/abs/2309.15572)|null|
 |**2023-09-21**|**DualToken-ViT: Position-aware Efficient Vision Transformer with Dual Token Fusion**|Zhenzhen Chu et.al.|[2309.12424](http://arxiv.org/abs/2309.12424)|null|
 |**2023-09-18**|**Asynchronous Perception-Action-Communication with Graph Neural Networks**|Saurav Agarwal et.al.|[2309.10164](http://arxiv.org/abs/2309.10164)|null|
