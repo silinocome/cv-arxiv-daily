@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.05
+## Updated on 2023.10.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -20,7 +20,7 @@ layout: default
 |**2023-10-02**|**Wellbeing in Future Mobility: Toward AV Policy Design to Increase Wellbeing through Interactions**|Shashank Mehrotra et.al.|[2310.01669](http://arxiv.org/abs/2310.01669)|null|
 |**2023-10-02**|**Strategic Information Attacks on Incentive-Compatible Navigational Recommendations in Intelligent Transportation Systems**|Ya-Ting Yang et.al.|[2310.01646](http://arxiv.org/abs/2310.01646)|null|
 |**2023-10-02**|**LS-VOS: Identifying Outliers in 3D Object Detections Using Latent Space Virtual Outlier Synthesis**|Aldi Piroli et.al.|[2310.00952](http://arxiv.org/abs/2310.00952)|null|
-|**2023-10-02**|**Towards Robust 3D Object Detection In Rainy Conditions**|Aldi Piroli et.al.|[2310.00944](http://arxiv.org/abs/2310.00944)|null|
+|**2023-10-05**|**Towards Robust 3D Object Detection In Rainy Conditions**|Aldi Piroli et.al.|[2310.00944](http://arxiv.org/abs/2310.00944)|null|
 |**2023-09-30**|**MonoGAE: Roadside Monocular 3D Object Detection with Ground-Aware Embeddings**|Lei Yang et.al.|[2310.00400](http://arxiv.org/abs/2310.00400)|null|
 |**2023-09-27**|**Overcoming the Fear of the Dark: Occlusion-Aware Model-Predictive Planning for Automated Vehicles Using Risk Fields**|Chris van der Ploeg et.al.|[2309.15501](http://arxiv.org/abs/2309.15501)|null|
 |**2023-09-28**|**Semantic Map Learning of Traffic Light to Lane Assignment based on Motion Data**|Thomas Monninger et.al.|[2309.14793](http://arxiv.org/abs/2309.14793)|**[link](https://github.com/map-learning/tl2la)**|
