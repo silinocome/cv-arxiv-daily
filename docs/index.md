@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-05**|**Time-Optimal Trajectory Planning in Highway Scenarios using Basis-Spline Parameterization**|Philip Dorpmüller et.al.|[2310.03359](http://arxiv.org/abs/2310.03359)|null|
 |**2023-10-05**|**Vehicle Cabin Climate MPC Parameter Tuning Using Constrained Contextual Bayesian Optimization (C-CMES)**|David Stenger et.al.|[2310.03330](http://arxiv.org/abs/2310.03330)|null|
-|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815](http://arxiv.org/abs/2310.02815)|**[link](https://github.com/MasterHow/CoBEV)**|
+|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815](http://arxiv.org/abs/2310.02815)|null|
 |**2023-10-03**|**Multi-Agent Reinforcement Learning Based on Representational Communication for Large-Scale Traffic Signal Control**|Rohit Bokade et.al.|[2310.02435](http://arxiv.org/abs/2310.02435)|null|
 |**2023-10-02**|**SWMLP: Shared Weight Multilayer Perceptron for Car Trajectory Speed Prediction using Road Topographical Features**|Sarah Almeida Carneiro et.al.|[2310.02282](http://arxiv.org/abs/2310.02282)|null|
 |**2023-10-02**|**Wellbeing in Future Mobility: Toward AV Policy Design to Increase Wellbeing through Interactions**|Shashank Mehrotra et.al.|[2310.01669](http://arxiv.org/abs/2310.01669)|null|
