@@ -14,10 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**Large-Scale OD Matrix Estimation with A Deep Learning Method**|Zheli Xiong et.al.|[2310.05753](http://arxiv.org/abs/2310.05753)|null|
+|**2023-10-08**|**Enhancing Cross-Dataset Performance of Distracted Driving Detection With Score-Softmax Classifier**|Cong Duan et.al.|[2310.05202](http://arxiv.org/abs/2310.05202)|null|
+|**2023-10-08**|**An Anomaly Behavior Analysis Framework for Securing Autonomous Vehicle Perception**|Murad Mehrab Abrar et.al.|[2310.05041](http://arxiv.org/abs/2310.05041)|null|
+|**2023-10-07**|**Federated Self-Supervised Learning of Monocular Depth Estimators for Autonomous Vehicles**|Elton F. de S. Soares et.al.|[2310.04837](http://arxiv.org/abs/2310.04837)|null|
 |**2023-10-06**|**A Deeply Supervised Semantic Segmentation Method Based on GAN**|Wei Zhao et.al.|[2310.04081](http://arxiv.org/abs/2310.04081)|null|
 |**2023-10-05**|**Time-Optimal Trajectory Planning in Highway Scenarios using Basis-Spline Parameterization**|Philip Dorpmüller et.al.|[2310.03359](http://arxiv.org/abs/2310.03359)|null|
 |**2023-10-05**|**Vehicle Cabin Climate MPC Parameter Tuning Using Constrained Contextual Bayesian Optimization (C-CMES)**|David Stenger et.al.|[2310.03330](http://arxiv.org/abs/2310.03330)|null|
-|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815](http://arxiv.org/abs/2310.02815)|null|
+|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815](http://arxiv.org/abs/2310.02815)|**[link](https://github.com/MasterHow/CoBEV)**|
 |**2023-10-03**|**Multi-Agent Reinforcement Learning Based on Representational Communication for Large-Scale Traffic Signal Control**|Rohit Bokade et.al.|[2310.02435](http://arxiv.org/abs/2310.02435)|null|
 |**2023-10-02**|**SWMLP: Shared Weight Multilayer Perceptron for Car Trajectory Speed Prediction using Road Topographical Features**|Sarah Almeida Carneiro et.al.|[2310.02282](http://arxiv.org/abs/2310.02282)|null|
 |**2023-10-02**|**Wellbeing in Future Mobility: Toward AV Policy Design to Increase Wellbeing through Interactions**|Shashank Mehrotra et.al.|[2310.01669](http://arxiv.org/abs/2310.01669)|null|
@@ -398,6 +402,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-08**|**Indoor Localization for an Autonomous Model Car: A Marker-Based Multi-Sensor Fusion Framework**|Xibo Li et.al.|[2310.05198](http://arxiv.org/abs/2310.05198)|null|
 |**2023-10-04**|**ShaSTA-Fuse: Camera-LiDAR Sensor Fusion to Model Shape and Spatio-Temporal Affinities for 3D Multi-Object Tracking**|Tara Sadjadpour et.al.|[2310.02532](http://arxiv.org/abs/2310.02532)|null|
 |**2023-10-03**|**Semi-Aerodynamic Model Aided Invariant Kalman Filtering for UAV Full-State Estimation**|Xiaoyu Ye et.al.|[2310.01844](http://arxiv.org/abs/2310.01844)|null|
 |**2023-10-02**|**Multi-Sensor Terrestrial SLAM for Real-Time, Large-Scale, and GNSS-Interrupted Forest Mapping**|Weria Khaksar et.al.|[2310.01064](http://arxiv.org/abs/2310.01064)|null|
@@ -596,6 +601,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-09**|**Sentence-level Prompts Benefit Composed Image Retrieval**|Yang Bai et.al.|[2310.05473](http://arxiv.org/abs/2310.05473)|**[link](https://github.com/chunmeifeng/sprc)**|
+|**2023-10-08**|**LocoNeRF: A NeRF-based Approach for Local Structure from Motion for Precise Localization**|Artem Nenashev et.al.|[2310.05134](http://arxiv.org/abs/2310.05134)|null|
 |**2023-10-06**|**Sub-token ViT Embedding via Stochastic Resonance Transformers**|Dong Lao et.al.|[2310.03967](http://arxiv.org/abs/2310.03967)|null|
 |**2023-10-04**|**Active Visual Localization for Multi-Agent Collaboration: A Data-Driven Approach**|Matthew Hanlon et.al.|[2310.02650](http://arxiv.org/abs/2310.02650)|null|
 |**2023-10-02**|**NEUCORE: Neural Concept Reasoning for Composed Image Retrieval**|Shu Zhao et.al.|[2310.01358](http://arxiv.org/abs/2310.01358)|null|
@@ -924,6 +931,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-07**|**UFD-PRiME: Unsupervised Joint Learning of Optical Flow and Stereo Depth through Pixel-Level Rigid Motion Estimation**|Shuai Yuan et.al.|[2310.04712](http://arxiv.org/abs/2310.04712)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992](http://arxiv.org/abs/2309.16992)|**[link](https://github.com/vignywang/samfeat)**|
 |**2023-09-27**|**KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping**|Renlang Huang et.al.|[2309.15394](http://arxiv.org/abs/2309.15394)|null|
