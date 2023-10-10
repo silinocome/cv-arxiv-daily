@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -17,7 +17,7 @@ layout: default
 |**2023-10-06**|**A Deeply Supervised Semantic Segmentation Method Based on GAN**|Wei Zhao et.al.|[2310.04081](http://arxiv.org/abs/2310.04081)|null|
 |**2023-10-05**|**Time-Optimal Trajectory Planning in Highway Scenarios using Basis-Spline Parameterization**|Philip Dorpmüller et.al.|[2310.03359](http://arxiv.org/abs/2310.03359)|null|
 |**2023-10-05**|**Vehicle Cabin Climate MPC Parameter Tuning Using Constrained Contextual Bayesian Optimization (C-CMES)**|David Stenger et.al.|[2310.03330](http://arxiv.org/abs/2310.03330)|null|
-|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815](http://arxiv.org/abs/2310.02815)|**[link](https://github.com/MasterHow/CoBEV)**|
+|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815](http://arxiv.org/abs/2310.02815)|null|
 |**2023-10-03**|**Multi-Agent Reinforcement Learning Based on Representational Communication for Large-Scale Traffic Signal Control**|Rohit Bokade et.al.|[2310.02435](http://arxiv.org/abs/2310.02435)|null|
 |**2023-10-02**|**SWMLP: Shared Weight Multilayer Perceptron for Car Trajectory Speed Prediction using Road Topographical Features**|Sarah Almeida Carneiro et.al.|[2310.02282](http://arxiv.org/abs/2310.02282)|null|
 |**2023-10-02**|**Wellbeing in Future Mobility: Toward AV Policy Design to Increase Wellbeing through Interactions**|Shashank Mehrotra et.al.|[2310.01669](http://arxiv.org/abs/2310.01669)|null|
@@ -403,7 +403,7 @@ layout: default
 |**2023-10-02**|**Multi-Sensor Terrestrial SLAM for Real-Time, Large-Scale, and GNSS-Interrupted Forest Mapping**|Weria Khaksar et.al.|[2310.01064](http://arxiv.org/abs/2310.01064)|null|
 |**2023-10-02**|**Managing the Impact of Sensor's Thermal Noise in Machine Learning for Nuclear Applications**|Issam Hammad et.al.|[2310.01014](http://arxiv.org/abs/2310.01014)|null|
 |**2023-10-01**|**An Experimental Prototype for Multistatic Asynchronous ISAC**|Marco Canil et.al.|[2310.00548](http://arxiv.org/abs/2310.00548)|null|
-|**2023-09-29**|**APNet: Urban-level Scene Segmentation of Aerial Images and Point Clouds**|Weijie Wei et.al.|[2309.17162](http://arxiv.org/abs/2309.17162)|null|
+|**2023-09-29**|**APNet: Urban-level Scene Segmentation of Aerial Images and Point Clouds**|Weijie Wei et.al.|[2309.17162](http://arxiv.org/abs/2309.17162)|**[link](https://github.com/codename1995/APNet_ICCVW23)**|
 |**2023-09-27**|**Perception for Humanoid Robots**|Arindam Roychoudhury et.al.|[2309.15616](http://arxiv.org/abs/2309.15616)|null|
 |**2023-09-27**|**OceanBench: The Sea Surface Height Edition**|J. Emmanuel Johnson et.al.|[2309.15599](http://arxiv.org/abs/2309.15599)|**[link](https://github.com/jejjohnson/oceanbench)**|
 |**2023-09-27**|**MINS: Efficient and Robust Multisensor-aided Inertial Navigation System**|Woosik Lee et.al.|[2309.15390](http://arxiv.org/abs/2309.15390)|**[link](https://github.com/rpng/mins)**|

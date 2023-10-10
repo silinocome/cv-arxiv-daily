@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2023-10-06**|**A Deeply Supervised Semantic Segmentation Method Based on GAN**|Wei Zhao et.al.|[2310.04081](http://arxiv.org/abs/2310.04081)|null|
 |**2023-10-05**|**Time-Optimal Trajectory Planning in Highway Scenarios using Basis-Spline Parameterization**|Philip Dorpmüller et.al.|[2310.03359](http://arxiv.org/abs/2310.03359)|null|
 |**2023-10-05**|**Vehicle Cabin Climate MPC Parameter Tuning Using Constrained Contextual Bayesian Optimization (C-CMES)**|David Stenger et.al.|[2310.03330](http://arxiv.org/abs/2310.03330)|null|
-|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815](http://arxiv.org/abs/2310.02815)|**[link](https://github.com/MasterHow/CoBEV)**|
+|**2023-10-04**|**CoBEV: Elevating Roadside 3D Object Detection with Depth and Height Complementarity**|Hao Shi et.al.|[2310.02815](http://arxiv.org/abs/2310.02815)|null|
 |**2023-10-03**|**Multi-Agent Reinforcement Learning Based on Representational Communication for Large-Scale Traffic Signal Control**|Rohit Bokade et.al.|[2310.02435](http://arxiv.org/abs/2310.02435)|null|
 |**2023-10-02**|**SWMLP: Shared Weight Multilayer Perceptron for Car Trajectory Speed Prediction using Road Topographical Features**|Sarah Almeida Carneiro et.al.|[2310.02282](http://arxiv.org/abs/2310.02282)|null|
 |**2023-10-02**|**Wellbeing in Future Mobility: Toward AV Policy Design to Increase Wellbeing through Interactions**|Shashank Mehrotra et.al.|[2310.01669](http://arxiv.org/abs/2310.01669)|null|
@@ -254,7 +254,7 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Collaborative Perception
 
@@ -404,7 +404,7 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## sensor fusion
 
@@ -415,7 +415,7 @@
 |**2023-10-02**|**Multi-Sensor Terrestrial SLAM for Real-Time, Large-Scale, and GNSS-Interrupted Forest Mapping**|Weria Khaksar et.al.|[2310.01064](http://arxiv.org/abs/2310.01064)|null|
 |**2023-10-02**|**Managing the Impact of Sensor's Thermal Noise in Machine Learning for Nuclear Applications**|Issam Hammad et.al.|[2310.01014](http://arxiv.org/abs/2310.01014)|null|
 |**2023-10-01**|**An Experimental Prototype for Multistatic Asynchronous ISAC**|Marco Canil et.al.|[2310.00548](http://arxiv.org/abs/2310.00548)|null|
-|**2023-09-29**|**APNet: Urban-level Scene Segmentation of Aerial Images and Point Clouds**|Weijie Wei et.al.|[2309.17162](http://arxiv.org/abs/2309.17162)|null|
+|**2023-09-29**|**APNet: Urban-level Scene Segmentation of Aerial Images and Point Clouds**|Weijie Wei et.al.|[2309.17162](http://arxiv.org/abs/2309.17162)|**[link](https://github.com/codename1995/APNet_ICCVW23)**|
 |**2023-09-27**|**Perception for Humanoid Robots**|Arindam Roychoudhury et.al.|[2309.15616](http://arxiv.org/abs/2309.15616)|null|
 |**2023-09-27**|**OceanBench: The Sea Surface Height Edition**|J. Emmanuel Johnson et.al.|[2309.15599](http://arxiv.org/abs/2309.15599)|**[link](https://github.com/jejjohnson/oceanbench)**|
 |**2023-09-27**|**MINS: Efficient and Robust Multisensor-aided Inertial Navigation System**|Woosik Lee et.al.|[2309.15390](http://arxiv.org/abs/2309.15390)|**[link](https://github.com/rpng/mins)**|
@@ -604,7 +604,7 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## localization
 
@@ -817,7 +817,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Detection
 
@@ -936,7 +936,7 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 ## Matching
 
@@ -1076,7 +1076,7 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20231009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
