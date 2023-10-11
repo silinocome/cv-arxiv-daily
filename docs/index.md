@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-09**|**Large-Scale OD Matrix Estimation with A Deep Learning Method**|Zheli Xiong et.al.|[2310.05753](http://arxiv.org/abs/2310.05753)|null|
-|**2023-10-08**|**Enhancing Cross-Dataset Performance of Distracted Driving Detection With Score-Softmax Classifier**|Cong Duan et.al.|[2310.05202](http://arxiv.org/abs/2310.05202)|null|
+|**2023-10-10**|**Enhancing Cross-Dataset Performance of Distracted Driving Detection With Score-Softmax Classifier**|Cong Duan et.al.|[2310.05202](http://arxiv.org/abs/2310.05202)|null|
 |**2023-10-08**|**An Anomaly Behavior Analysis Framework for Securing Autonomous Vehicle Perception**|Murad Mehrab Abrar et.al.|[2310.05041](http://arxiv.org/abs/2310.05041)|null|
 |**2023-10-07**|**Federated Self-Supervised Learning of Monocular Depth Estimators for Autonomous Vehicles**|Elton F. de S. Soares et.al.|[2310.04837](http://arxiv.org/abs/2310.04837)|null|
 |**2023-10-06**|**A Deeply Supervised Semantic Segmentation Method Based on GAN**|Wei Zhao et.al.|[2310.04081](http://arxiv.org/abs/2310.04081)|null|
