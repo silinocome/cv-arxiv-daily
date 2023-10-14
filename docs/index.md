@@ -7,13 +7,16 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.13
+## Updated on 2023.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Transport-Hub-Aware Spatial-Temporal Adaptive Graph Transformer for Traffic Flow Prediction**|Xiao Xu et.al.|[2310.08328](http://arxiv.org/abs/2310.08328)|null|
+|**2023-10-12**|**Low Complexity Algorithms for Mission Completion Time Minimization in UAV-Based ISAC Systems**|Mateen Ashraf et.al.|[2310.08311](http://arxiv.org/abs/2310.08311)|null|
+|**2023-10-12**|**Multi-Scale Spatial-Temporal Recurrent Networks for Traffic Flow Prediction**|Haiyang Liu et.al.|[2310.08138](http://arxiv.org/abs/2310.08138)|null|
 |**2023-10-10**|**V2X-AHD:Vehicle-to-Everything Cooperation Perception via Asymmetric Heterogenous Distillation Network**|Caizhen He et.al.|[2310.06603](http://arxiv.org/abs/2310.06603)|**[link](https://github.com/feeling0414-lab/V2X-AHD)**|
 |**2023-10-09**|**Large-Scale OD Matrix Estimation with A Deep Learning Method**|Zheli Xiong et.al.|[2310.05753](http://arxiv.org/abs/2310.05753)|null|
 |**2023-10-10**|**Enhancing Cross-Dataset Performance of Distracted Driving Detection With Score-Softmax Classifier**|Cong Duan et.al.|[2310.05202](http://arxiv.org/abs/2310.05202)|null|
@@ -404,6 +407,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Assessing Marine Mammal Abundance: A Novel Data Fusion**|Erin M. Schliep et.al.|[2310.08397](http://arxiv.org/abs/2310.08397)|null|
+|**2023-10-12**|**Multimodal Active Measurement for Human Mesh Recovery in Close Proximity**|Takahiro Maeda et.al.|[2310.08116](http://arxiv.org/abs/2310.08116)|null|
+|**2023-10-12**|**Multi-Modal Sensor Fusion and Object Tracking for Autonomous Racing**|Phillip Karle et.al.|[2310.08114](http://arxiv.org/abs/2310.08114)|null|
 |**2023-10-11**|**ADASR: An Adversarial Auto-Augmentation Framework for Hyperspectral and Multispectral Data Fusion**|Jinghui Qin et.al.|[2310.07255](http://arxiv.org/abs/2310.07255)|**[link](https://github.com/fangfang11-plog/adasr)**|
 |**2023-10-09**|**Comparison of deep-learning data fusion strategies in mandibular osteoradionecrosis prediction modelling using clinical variables and radiation dose distribution volumes**|Laia Humbert-Vidan et.al.|[2310.06212](http://arxiv.org/abs/2310.06212)|null|
 |**2023-10-08**|**Indoor Localization for an Autonomous Model Car: A Marker-Based Multi-Sensor Fusion Framework**|Xibo Li et.al.|[2310.05198](http://arxiv.org/abs/2310.05198)|null|
@@ -605,6 +611,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-12**|**Hyp-UML: Hyperbolic Image Retrieval with Uncertainty-aware Metric Learning**|Shiyang Yan et.al.|[2310.08390](http://arxiv.org/abs/2310.08390)|null|
+|**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
 |**2023-10-10**|**Distillation Improves Visual Place Recognition for Low-Quality Queries**|Anbang Yang et.al.|[2310.06906](http://arxiv.org/abs/2310.06906)|null|
 |**2023-10-10**|**Efficient Retrieval of Images with Irregular Patterns using Morphological Image Analysis: Applications to Industrial and Healthcare datasets**|Jiajun Zhang et.al.|[2310.06566](http://arxiv.org/abs/2310.06566)|null|
