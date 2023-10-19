@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Classification of Safety Driver Attention During Autonomous Vehicle Operation**|Santiago Gerling Konrad et.al.|[2310.11608](http://arxiv.org/abs/2310.11608)|null|
 |**2023-10-17**|**Multi Self-supervised Pre-fine-tuned Transformer Fusion for Better Intelligent Transportation Detection**|Juwu Zheng et.al.|[2310.11307](http://arxiv.org/abs/2310.11307)|null|
 |**2023-10-15**|**mmWave Enabled Connected Autonomous Vehicles: A Use Case with V2V Cooperative Perception**|Muhammad Baqer Mollah et.al.|[2310.09700](http://arxiv.org/abs/2310.09700)|null|
 |**2023-10-14**|**FPGA Implementation of OTFS Modulation for 6G Communication Systems**|Murat Isik et.al.|[2310.09671](http://arxiv.org/abs/2310.09671)|null|
@@ -273,6 +274,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification**|Mithun Das et.al.|[2310.11748](http://arxiv.org/abs/2310.11748)|null|
 |**2023-10-13**|**Addressing the cold start problem in privacy preserving content-based recommender systems using hypercube graphs**|Noa Tuval et.al.|[2310.09341](http://arxiv.org/abs/2310.09341)|null|
 |**2023-10-11**|**Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation**|Haizhong Zheng et.al.|[2310.07506](http://arxiv.org/abs/2310.07506)|null|
 |**2023-10-06**|**Transferring speech-generic and depression-specific knowledge for Alzheimer's disease detection**|Ziyun Cui et.al.|[2310.04358](http://arxiv.org/abs/2310.04358)|null|
@@ -425,6 +427,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Data synthesis improves detection of radiation sources in urban environments**|RR Flanagan et.al.|[2310.11579](http://arxiv.org/abs/2310.11579)|null|
+|**2023-10-17**|**General Relativistic Chronometry with Clocks on Ground and in Space**|Dennis Philipp et.al.|[2310.11576](http://arxiv.org/abs/2310.11576)|null|
 |**2023-10-16**|**Revisiting multi-GNSS Navigation for UAVs -- An Equivariant Filtering Approach**|Martin Scheiber et.al.|[2310.10597](http://arxiv.org/abs/2310.10597)|null|
 |**2023-10-16**|**Moving Object Localization based on the Fusion of Ultra-WideBand and LiDAR with a Mobile Robot**|Muhammad Shalihan et.al.|[2310.10289](http://arxiv.org/abs/2310.10289)|null|
 |**2023-10-12**|**Assessing Marine Mammal Abundance: A Novel Data Fusion**|Erin M. Schliep et.al.|[2310.08397](http://arxiv.org/abs/2310.08397)|null|
@@ -633,6 +637,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**|Junaid Ali et.al.|[2310.11867](http://arxiv.org/abs/2310.11867)|null|
 |**2023-10-17**|**Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**|Shuanglin Yan et.al.|[2310.11210](http://arxiv.org/abs/2310.11210)|null|
 |**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290](http://arxiv.org/abs/2310.10290)|null|
 |**2023-10-16**|**EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge**|Tom Bryan et.al.|[2310.10050](http://arxiv.org/abs/2310.10050)|null|
@@ -981,6 +986,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-18**|**RGM: A Robust Generalist Matching Model**|Songyan Zhang et.al.|[2310.11755](http://arxiv.org/abs/2310.11755)|null|
 |**2023-10-07**|**UFD-PRiME: Unsupervised Joint Learning of Optical Flow and Stereo Depth through Pixel-Level Rigid Motion Estimation**|Shuai Yuan et.al.|[2310.04712](http://arxiv.org/abs/2310.04712)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992](http://arxiv.org/abs/2309.16992)|**[link](https://github.com/vignywang/samfeat)**|
