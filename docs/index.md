@@ -416,7 +416,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-19**|**Fully Onboard Low-Power Localization with Semantic Sensor Fusion on a Nano-UAV using Floor Plans**|Nicky Zimmerman et.al.|[2310.12536](http://arxiv.org/abs/2310.12536)|null|
+|**2023-10-19**|**Fully Onboard Low-Power Localization with Semantic Sensor Fusion on a Nano-UAV using Floor Plans**|Nicky Zimmerman et.al.|[2310.12536](http://arxiv.org/abs/2310.12536)|**[link](https://github.com/eth-pbl/nano-smcl)**|
 |**2023-10-17**|**Data synthesis improves detection of radiation sources in urban environments**|RR Flanagan et.al.|[2310.11579](http://arxiv.org/abs/2310.11579)|null|
 |**2023-10-17**|**General Relativistic Chronometry with Clocks on Ground and in Space**|Dennis Philipp et.al.|[2310.11576](http://arxiv.org/abs/2310.11576)|null|
 |**2023-10-16**|**Revisiting multi-GNSS Navigation for UAVs -- An Equivariant Filtering Approach**|Martin Scheiber et.al.|[2310.10597](http://arxiv.org/abs/2310.10597)|null|
