@@ -617,7 +617,7 @@ layout: default
 |**2023-01-30**|**Probabilistic Neural Data Fusion for Learning from an Arbitrary Number of Multi-fidelity Data Sets**|Carlos Mora et.al.|[2301.13271](http://arxiv.org/abs/2301.13271)|**[link](https://gitlab.com/tammeruci/pro-ndf)**|
 |**2023-01-30**|**Multi-View Ensemble Learning With Missing Data: Computational Framework and Evaluations using Novel Data from the Safe Autonomous Driving Domain**|Ross Greer et.al.|[2301.12592](http://arxiv.org/abs/2301.12592)|null|
 |**2023-01-25**|**Location-based Activity Behavior Deviation Detection for Nursing Home using IoT Devices**|Billy Pik Lik Lau et.al.|[2301.11272](http://arxiv.org/abs/2301.11272)|null|
-|**2023-01-26**|**Multitemporal and multispectral data fusion for super-resolution of Sentinel-2 images**|Tomasz Tarasiewicz et.al.|[2301.11154](http://arxiv.org/abs/2301.11154)|null|
+|**2023-01-26**|**Multitemporal and multispectral data fusion for super-resolution of Sentinel-2 images**|Tomasz Tarasiewicz et.al.|[2301.11154](http://arxiv.org/abs/2301.11154)|**[link](https://gitlab.com/tarasiewicztomasz/deepsent)**|
 |**2023-01-24**|**Validation and traceability of multi-parameter miniaturized radiosondes for environmental observations**|Shahbozbek Abdunabiev et.al.|[2301.09928](http://arxiv.org/abs/2301.09928)|null|
 |**2023-01-22**|**Continuous-Time Ultra-Wideband-Inertial Fusion**|Kailai Li et.al.|[2301.09033](http://arxiv.org/abs/2301.09033)|**[link](https://github.com/kit-isas/sfuise)**|
 |**2023-01-06**|**Technology Report : Smartphone-Based Pedestrian Dead Reckoning Integrated with Data-Fusion-Adopted Visible Light Positioning**|Shangsheng Wen et.al.|[2301.03471](http://arxiv.org/abs/2301.03471)|null|
