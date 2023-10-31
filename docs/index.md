@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**Dynamic V2X Autonomous Perception from Road-to-Vehicle Vision**|Jiayao Tan et.al.|[2310.19113](http://arxiv.org/abs/2310.19113)|null|
 |**2023-10-26**|**Improving Traffic Density Forecasting in Intelligent Transportation Systems Using Gated Graph Neural Networks**|Razib Hayat Khan et.al.|[2310.17729](http://arxiv.org/abs/2310.17729)|null|
 |**2023-10-26**|**YOLO-BEV: Generating Bird's-Eye View in the Same Way as 2D Object Detection**|Chang Liu et.al.|[2310.17379](http://arxiv.org/abs/2310.17379)|null|
 |**2023-10-25**|**DSAM-GN:Graph Network based on Dynamic Similarity Adjacency Matrices for Vehicle Re-identification**|Yuejun Jiao et.al.|[2310.16694](http://arxiv.org/abs/2310.16694)|null|
@@ -277,7 +278,7 @@ layout: default
 |**2023-10-27**|**Lost in Translation -- Multilingual Misinformation and its Evolution**|Dorian Quelle et.al.|[2310.18089](http://arxiv.org/abs/2310.18089)|null|
 |**2023-10-26**|**Multiplexed Processing of Quantum Information Across an Ultra-wide Optical Bandwidth**|Alon Eldan et.al.|[2310.17819](http://arxiv.org/abs/2310.17819)|null|
 |**2023-10-25**|**MACP: Efficient Model Adaptation for Cooperative Perception**|Yunsheng Ma et.al.|[2310.16870](http://arxiv.org/abs/2310.16870)|**[link](https://github.com/purduedigitaltwin/macp)**|
-|**2023-10-24**|**Locally Differentially Private Gradient Tracking for Distributed Online Learning over Directed Graphs**|Ziqin Chen et.al.|[2310.16105](http://arxiv.org/abs/2310.16105)|null|
+|**2023-10-29**|**Locally Differentially Private Gradient Tracking for Distributed Online Learning over Directed Graphs**|Ziqin Chen et.al.|[2310.16105](http://arxiv.org/abs/2310.16105)|null|
 |**2023-10-18**|**BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification**|Mithun Das et.al.|[2310.11748](http://arxiv.org/abs/2310.11748)|null|
 |**2023-10-13**|**Addressing the cold start problem in privacy preserving content-based recommender systems using hypercube graphs**|Noa Tuval et.al.|[2310.09341](http://arxiv.org/abs/2310.09341)|null|
 |**2023-10-11**|**Leveraging Hierarchical Feature Sharing for Efficient Dataset Condensation**|Haizhong Zheng et.al.|[2310.07506](http://arxiv.org/abs/2310.07506)|null|
@@ -429,7 +430,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117](http://arxiv.org/abs/2310.18117)|null|
+|**2023-10-30**|**Optimal Status Updates for Minimizing Age of Correlated Information in IoT Networks with Energy Harvesting Sensors**|Chao Xu et.al.|[2310.19216](http://arxiv.org/abs/2310.19216)|null|
+|**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117](http://arxiv.org/abs/2310.18117)|**[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)**|
 |**2023-10-26**|**Efficient Data Fusion using the Tsetlin Machine**|Rupsa Saha et.al.|[2310.17207](http://arxiv.org/abs/2310.17207)|null|
 |**2023-10-27**|**Diagnosing Alzheimer's Disease using Early-Late Multimodal Data Fusion with Jacobian Maps**|Yasmine Mustafa et.al.|[2310.16936](http://arxiv.org/abs/2310.16936)|null|
 |**2023-10-24**|**Precise Distributed Satellite Navigation: Differential GPS with Sensor-Coupling for Integer Ambiguity Resolution**|Samuel Y W Low et.al.|[2310.16108](http://arxiv.org/abs/2310.16108)|null|
@@ -647,6 +649,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-29**|**Identifiable Contrastive Learning with Automatic Feature Importance Discovery**|Qi Zhang et.al.|[2310.18904](http://arxiv.org/abs/2310.18904)|**[link](https://github.com/pku-ml/tri-factor-contrastive-learning)**|
 |**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274](http://arxiv.org/abs/2310.18274)|**[link](https://github.com/saraghazanfari/lipsim)**|
 |**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879](http://arxiv.org/abs/2310.17879)|null|
 |**2023-10-23**|**Semantic-Aware Adversarial Training for Reliable Deep Hashing Retrieval**|Xu Yuan et.al.|[2310.14637](http://arxiv.org/abs/2310.14637)|**[link](https://github.com/xandery-geek/SAAT)**|
