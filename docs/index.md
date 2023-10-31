@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.30
+## Updated on 2023.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -431,7 +431,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117](http://arxiv.org/abs/2310.18117)|null|
 |**2023-10-26**|**Efficient Data Fusion using the Tsetlin Machine**|Rupsa Saha et.al.|[2310.17207](http://arxiv.org/abs/2310.17207)|null|
-|**2023-10-25**|**Diagnosing Alzheimer's Disease using Early-Late Multimodal Data Fusion with Jacobian Maps**|Yasmine Mustafa et.al.|[2310.16936](http://arxiv.org/abs/2310.16936)|null|
+|**2023-10-27**|**Diagnosing Alzheimer's Disease using Early-Late Multimodal Data Fusion with Jacobian Maps**|Yasmine Mustafa et.al.|[2310.16936](http://arxiv.org/abs/2310.16936)|null|
 |**2023-10-24**|**Precise Distributed Satellite Navigation: Differential GPS with Sensor-Coupling for Integer Ambiguity Resolution**|Samuel Y W Low et.al.|[2310.16108](http://arxiv.org/abs/2310.16108)|null|
 |**2023-10-22**|**FGO-ILNS: Tightly Coupled Multi-Sensor Integrated Navigation System Based on Factor Graph Optimization for Autonomous Underwater Vehicle**|Jiangbo Song et.al.|[2310.14163](http://arxiv.org/abs/2310.14163)|null|
 |**2023-10-22**|**Augmenting End-to-End Steering Angle Prediction with CAN Bus Data**|Rohan Gupta et.al.|[2310.14162](http://arxiv.org/abs/2310.14162)|null|
