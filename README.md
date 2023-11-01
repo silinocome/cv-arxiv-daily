@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.31
+## Updated on 2023.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -279,14 +279,14 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
 
 ## Collaborative Perception
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-27**|**Lost in Translation -- Multilingual Misinformation and its Evolution**|Dorian Quelle et.al.|[2310.18089](http://arxiv.org/abs/2310.18089)|null|
-|**2023-10-26**|**Multiplexed Processing of Quantum Information Across an Ultra-wide Optical Bandwidth**|Alon Eldan et.al.|[2310.17819](http://arxiv.org/abs/2310.17819)|null|
+|**2023-10-30**|**Multiplexed Processing of Quantum Information Across an Ultra-wide Optical Bandwidth**|Alon Eldan et.al.|[2310.17819](http://arxiv.org/abs/2310.17819)|null|
 |**2023-10-25**|**MACP: Efficient Model Adaptation for Cooperative Perception**|Yunsheng Ma et.al.|[2310.16870](http://arxiv.org/abs/2310.16870)|**[link](https://github.com/purduedigitaltwin/macp)**|
 |**2023-10-29**|**Locally Differentially Private Gradient Tracking for Distributed Online Learning over Directed Graphs**|Ziqin Chen et.al.|[2310.16105](http://arxiv.org/abs/2310.16105)|null|
 |**2023-10-18**|**BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification**|Mithun Das et.al.|[2310.11748](http://arxiv.org/abs/2310.11748)|null|
@@ -436,7 +436,7 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
 
 ## sensor fusion
 
@@ -446,7 +446,7 @@
 |**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117](http://arxiv.org/abs/2310.18117)|**[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)**|
 |**2023-10-26**|**Efficient Data Fusion using the Tsetlin Machine**|Rupsa Saha et.al.|[2310.17207](http://arxiv.org/abs/2310.17207)|null|
 |**2023-10-27**|**Diagnosing Alzheimer's Disease using Early-Late Multimodal Data Fusion with Jacobian Maps**|Yasmine Mustafa et.al.|[2310.16936](http://arxiv.org/abs/2310.16936)|null|
-|**2023-10-24**|**Precise Distributed Satellite Navigation: Differential GPS with Sensor-Coupling for Integer Ambiguity Resolution**|Samuel Y W Low et.al.|[2310.16108](http://arxiv.org/abs/2310.16108)|null|
+|**2023-10-31**|**Precise Distributed Satellite Navigation: Differential GPS with Sensor-Coupling for Integer Ambiguity Resolution**|Samuel Y W Low et.al.|[2310.16108](http://arxiv.org/abs/2310.16108)|null|
 |**2023-10-22**|**FGO-ILNS: Tightly Coupled Multi-Sensor Integrated Navigation System Based on Factor Graph Optimization for Autonomous Underwater Vehicle**|Jiangbo Song et.al.|[2310.14163](http://arxiv.org/abs/2310.14163)|null|
 |**2023-10-22**|**Augmenting End-to-End Steering Angle Prediction with CAN Bus Data**|Rohan Gupta et.al.|[2310.14162](http://arxiv.org/abs/2310.14162)|null|
 |**2023-10-20**|**FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery**|Anatol Garioud et.al.|[2310.13336](http://arxiv.org/abs/2310.13336)|null|
@@ -657,7 +657,7 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
 
 ## localization
 
@@ -894,7 +894,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
 
 ## Detection
 
@@ -1015,7 +1015,7 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
 
 ## Matching
 
@@ -1160,7 +1160,7 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231101>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.31
+## Updated on 2023.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -276,7 +276,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-27**|**Lost in Translation -- Multilingual Misinformation and its Evolution**|Dorian Quelle et.al.|[2310.18089](http://arxiv.org/abs/2310.18089)|null|
-|**2023-10-26**|**Multiplexed Processing of Quantum Information Across an Ultra-wide Optical Bandwidth**|Alon Eldan et.al.|[2310.17819](http://arxiv.org/abs/2310.17819)|null|
+|**2023-10-30**|**Multiplexed Processing of Quantum Information Across an Ultra-wide Optical Bandwidth**|Alon Eldan et.al.|[2310.17819](http://arxiv.org/abs/2310.17819)|null|
 |**2023-10-25**|**MACP: Efficient Model Adaptation for Cooperative Perception**|Yunsheng Ma et.al.|[2310.16870](http://arxiv.org/abs/2310.16870)|**[link](https://github.com/purduedigitaltwin/macp)**|
 |**2023-10-29**|**Locally Differentially Private Gradient Tracking for Distributed Online Learning over Directed Graphs**|Ziqin Chen et.al.|[2310.16105](http://arxiv.org/abs/2310.16105)|null|
 |**2023-10-18**|**BanglaAbuseMeme: A Dataset for Bengali Abusive Meme Classification**|Mithun Das et.al.|[2310.11748](http://arxiv.org/abs/2310.11748)|null|
@@ -434,7 +434,7 @@ layout: default
 |**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117](http://arxiv.org/abs/2310.18117)|**[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)**|
 |**2023-10-26**|**Efficient Data Fusion using the Tsetlin Machine**|Rupsa Saha et.al.|[2310.17207](http://arxiv.org/abs/2310.17207)|null|
 |**2023-10-27**|**Diagnosing Alzheimer's Disease using Early-Late Multimodal Data Fusion with Jacobian Maps**|Yasmine Mustafa et.al.|[2310.16936](http://arxiv.org/abs/2310.16936)|null|
-|**2023-10-24**|**Precise Distributed Satellite Navigation: Differential GPS with Sensor-Coupling for Integer Ambiguity Resolution**|Samuel Y W Low et.al.|[2310.16108](http://arxiv.org/abs/2310.16108)|null|
+|**2023-10-31**|**Precise Distributed Satellite Navigation: Differential GPS with Sensor-Coupling for Integer Ambiguity Resolution**|Samuel Y W Low et.al.|[2310.16108](http://arxiv.org/abs/2310.16108)|null|
 |**2023-10-22**|**FGO-ILNS: Tightly Coupled Multi-Sensor Integrated Navigation System Based on Factor Graph Optimization for Autonomous Underwater Vehicle**|Jiangbo Song et.al.|[2310.14163](http://arxiv.org/abs/2310.14163)|null|
 |**2023-10-22**|**Augmenting End-to-End Steering Angle Prediction with CAN Bus Data**|Rohan Gupta et.al.|[2310.14162](http://arxiv.org/abs/2310.14162)|null|
 |**2023-10-20**|**FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery**|Anatol Garioud et.al.|[2310.13336](http://arxiv.org/abs/2310.13336)|null|
