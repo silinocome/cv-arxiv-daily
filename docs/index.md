@@ -275,6 +275,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-31**|**Recaptured Raw Screen Image and Video Demoiréing via Channel and Spatial Modulations**|Huanjing Yue et.al.|[2310.20332](http://arxiv.org/abs/2310.20332)|**[link](https://github.com/tju-chengyijia/vd_raw)**|
 |**2023-10-27**|**Lost in Translation -- Multilingual Misinformation and its Evolution**|Dorian Quelle et.al.|[2310.18089](http://arxiv.org/abs/2310.18089)|null|
 |**2023-10-30**|**Multiplexed Processing of Quantum Information Across an Ultra-wide Optical Bandwidth**|Alon Eldan et.al.|[2310.17819](http://arxiv.org/abs/2310.17819)|null|
 |**2023-10-25**|**MACP: Efficient Model Adaptation for Cooperative Perception**|Yunsheng Ma et.al.|[2310.16870](http://arxiv.org/abs/2310.16870)|**[link](https://github.com/purduedigitaltwin/macp)**|
@@ -430,6 +431,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**Radar-Lidar Fusion for Object Detection by Designing Effective Convolution Networks**|Farzeen Munir et.al.|[2310.19405](http://arxiv.org/abs/2310.19405)|null|
+|**2023-10-30**|**RGB-X Object Detection via Scene-Specific Fusion Modules**|Sri Aditya Deevi et.al.|[2310.19372](http://arxiv.org/abs/2310.19372)|**[link](https://github.com/dsriaditya999/rgbxfusion)**|
 |**2023-10-30**|**Optimal Status Updates for Minimizing Age of Correlated Information in IoT Networks with Energy Harvesting Sensors**|Chao Xu et.al.|[2310.19216](http://arxiv.org/abs/2310.19216)|null|
 |**2023-10-27**|**Do we need scan-matching in radar odometry?**|Vladimír Kubelka et.al.|[2310.18117](http://arxiv.org/abs/2310.18117)|**[link](https://github.com/kubelvla/mine-and-forest-radar-dataset)**|
 |**2023-10-26**|**Efficient Data Fusion using the Tsetlin Machine**|Rupsa Saha et.al.|[2310.17207](http://arxiv.org/abs/2310.17207)|null|
@@ -649,6 +652,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Brain decoding: toward real-time reconstruction of visual perception**|Yohann Benchetrit et.al.|[2310.19812](http://arxiv.org/abs/2310.19812)|null|
 |**2023-10-29**|**Identifiable Contrastive Learning with Automatic Feature Importance Discovery**|Qi Zhang et.al.|[2310.18904](http://arxiv.org/abs/2310.18904)|**[link](https://github.com/pku-ml/tri-factor-contrastive-learning)**|
 |**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274](http://arxiv.org/abs/2310.18274)|**[link](https://github.com/saraghazanfari/lipsim)**|
 |**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879](http://arxiv.org/abs/2310.17879)|null|
