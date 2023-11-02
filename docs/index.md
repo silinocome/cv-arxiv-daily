@@ -275,6 +275,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-01**|**Federated Natural Policy Gradient Methods for Multi-task Reinforcement Learning**|Tong Yang et.al.|[2311.00201](http://arxiv.org/abs/2311.00201)|null|
+|**2023-10-31**|**Multi-task Deep Convolutional Network to Predict Sea Ice Concentration and Drift in the Arctic Ocean**|Younghyun Koo et.al.|[2311.00167](http://arxiv.org/abs/2311.00167)|null|
 |**2023-10-31**|**Recaptured Raw Screen Image and Video Demoiréing via Channel and Spatial Modulations**|Huanjing Yue et.al.|[2310.20332](http://arxiv.org/abs/2310.20332)|**[link](https://github.com/tju-chengyijia/vd_raw)**|
 |**2023-10-27**|**Lost in Translation -- Multilingual Misinformation and its Evolution**|Dorian Quelle et.al.|[2310.18089](http://arxiv.org/abs/2310.18089)|null|
 |**2023-10-30**|**Multiplexed Processing of Quantum Information Across an Ultra-wide Optical Bandwidth**|Alon Eldan et.al.|[2310.17819](http://arxiv.org/abs/2310.17819)|null|
