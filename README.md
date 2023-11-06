@@ -76,7 +76,7 @@
 |**2023-09-14**|**Connected Autonomous Vehicle Motion Planning with Video Predictions from Smart, Self-Supervised Infrastructure**|Jiankai Sun et.al.|[2309.07504](http://arxiv.org/abs/2309.07504)|null|
 |**2023-09-13**|**Hierarchical Time-Optimal Planning for Multi-Vehicle Racing**|Georg Jank et.al.|[2309.06768](http://arxiv.org/abs/2309.06768)|null|
 |**2023-09-11**|**Real-Time Parallel Trajectory Optimization with Spatiotemporal Safety Constraints for Autonomous Driving in Congested Traffic**|Lei Zheng et.al.|[2309.05298](http://arxiv.org/abs/2309.05298)|null|
-|**2023-09-11**|**A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction**|Haohao Qu et.al.|[2309.05259](http://arxiv.org/abs/2309.05259)|null|
+|**2023-09-11**|**A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction**|Haohao Qu et.al.|[2309.05259](http://arxiv.org/abs/2309.05259)|**[link](https://github.com/IntelligentSystemsLab/ST-EVCDP)**|
 |**2023-09-12**|**Task Freshness-aware Incentive Mechanism for Vehicle Twin Migration in Vehicular Metaverses**|Jinbo Wen et.al.|[2309.04703](http://arxiv.org/abs/2309.04703)|null|
 |**2023-09-08**|**Weakly Supervised Point Clouds Transformer for 3D Object Detection**|Zuojin Tang et.al.|[2309.04105](http://arxiv.org/abs/2309.04105)|null|
 |**2023-09-07**|**ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**|Irfan Tito Kurniawan et.al.|[2309.03734](http://arxiv.org/abs/2309.03734)|null|
@@ -84,7 +84,7 @@
 |**2023-09-05**|**Continual Cross-Dataset Adaptation in Road Surface Classification**|Paolo Cudrano et.al.|[2309.02210](http://arxiv.org/abs/2309.02210)|null|
 |**2023-09-04**|**Information Flow Topology in Mixed Traffic: A Comparative Study between "Looking Ahead" and "Looking Behind"**|Shuai Li et.al.|[2309.01625](http://arxiv.org/abs/2309.01625)|null|
 |**2023-09-04**|**SKoPe3D: A Synthetic Dataset for Vehicle Keypoint Perception in 3D from Traffic Monitoring Cameras**|Himanshu Pahadia et.al.|[2309.01324](http://arxiv.org/abs/2309.01324)|null|
-|**2023-09-02**|**NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping**|Jun Zhang et.al.|[2309.00962](http://arxiv.org/abs/2309.00962)|null|
+|**2023-09-02**|**NTU4DRadLM: 4D Radar-centric Multi-Modal Dataset for Localization and Mapping**|Jun Zhang et.al.|[2309.00962](http://arxiv.org/abs/2309.00962)|**[link](https://github.com/junzhang2016/NTU4DRadLM)**|
 |**2023-09-01**|**Privacy Attacks and Defenses for Digital Twin Migrations in Vehicular Metaverses**|Xiaofeng Luo et.al.|[2309.00477](http://arxiv.org/abs/2309.00477)|null|
 |**2023-08-31**|**Learning Driver Models for Automated Vehicles via Knowledge Sharing and Personalization**|Wissam Kontar et.al.|[2308.16870](http://arxiv.org/abs/2308.16870)|null|
 |**2023-08-31**|**Towards Vehicle-to-everything Autonomous Driving: A Survey on Collaborative Perception**|Si Liu et.al.|[2308.16714](http://arxiv.org/abs/2308.16714)|null|
