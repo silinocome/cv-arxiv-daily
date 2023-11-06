@@ -286,6 +286,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**ATGNN: Audio Tagging Graph Neural Network**|Shubhr Singh et.al.|[2311.01526](http://arxiv.org/abs/2311.01526)|null|
 |**2023-11-01**|**Federated Natural Policy Gradient Methods for Multi-task Reinforcement Learning**|Tong Yang et.al.|[2311.00201](http://arxiv.org/abs/2311.00201)|null|
 |**2023-10-31**|**Multi-task Deep Convolutional Network to Predict Sea Ice Concentration and Drift in the Arctic Ocean**|Younghyun Koo et.al.|[2311.00167](http://arxiv.org/abs/2311.00167)|null|
 |**2023-10-31**|**Recaptured Raw Screen Image and Video Demoiréing via Channel and Spatial Modulations**|Huanjing Yue et.al.|[2310.20332](http://arxiv.org/abs/2310.20332)|**[link](https://github.com/tju-chengyijia/vd_raw)**|
@@ -446,6 +447,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-03**|**From Chaos to Calibration: A Geometric Mutual Information Approach to Target-Free Camera LiDAR Extrinsic Calibration**|Jack Borer et.al.|[2311.01905](http://arxiv.org/abs/2311.01905)|null|
+|**2023-11-03**|**Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving**|Florian Sauerbeck et.al.|[2311.01823](http://arxiv.org/abs/2311.01823)|null|
 |**2023-10-30**|**Radar-Lidar Fusion for Object Detection by Designing Effective Convolution Networks**|Farzeen Munir et.al.|[2310.19405](http://arxiv.org/abs/2310.19405)|null|
 |**2023-10-30**|**RGB-X Object Detection via Scene-Specific Fusion Modules**|Sri Aditya Deevi et.al.|[2310.19372](http://arxiv.org/abs/2310.19372)|**[link](https://github.com/dsriaditya999/rgbxfusion)**|
 |**2023-10-30**|**Optimal Status Updates for Minimizing Age of Correlated Information in IoT Networks with Energy Harvesting Sensors**|Chao Xu et.al.|[2310.19216](http://arxiv.org/abs/2310.19216)|**[link](https://github.com/CXU-NWAFU/RSS_algorithm)**|
