@@ -276,6 +276,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Cooperative Network Learning for Large-Scale and Decentralized Graphs**|Qiang Wu et.al.|[2311.02117](http://arxiv.org/abs/2311.02117)|null|
 |**2023-11-02**|**ATGNN: Audio Tagging Graph Neural Network**|Shubhr Singh et.al.|[2311.01526](http://arxiv.org/abs/2311.01526)|null|
 |**2023-11-01**|**Federated Natural Policy Gradient Methods for Multi-task Reinforcement Learning**|Tong Yang et.al.|[2311.00201](http://arxiv.org/abs/2311.00201)|null|
 |**2023-10-31**|**Multi-task Deep Convolutional Network to Predict Sea Ice Concentration and Drift in the Arctic Ocean**|Younghyun Koo et.al.|[2311.00167](http://arxiv.org/abs/2311.00167)|null|
@@ -435,6 +436,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**|Zijie Zhou et.al.|[2311.03198](http://arxiv.org/abs/2311.03198)|**[link](https://github.com/ZhouZijie77/LCPR)**|
+|**2023-11-04**|**Contrastive Multi-Modal Representation Learning for Spark Plug Fault Diagnosis**|Ardavan Modarres et.al.|[2311.02282](http://arxiv.org/abs/2311.02282)|null|
 |**2023-11-03**|**From Chaos to Calibration: A Geometric Mutual Information Approach to Target-Free Camera LiDAR Extrinsic Calibration**|Jack Borer et.al.|[2311.01905](http://arxiv.org/abs/2311.01905)|null|
 |**2023-11-03**|**Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving**|Florian Sauerbeck et.al.|[2311.01823](http://arxiv.org/abs/2311.01823)|null|
 |**2023-10-30**|**Radar-Lidar Fusion for Object Detection by Designing Effective Convolution Networks**|Farzeen Munir et.al.|[2310.19405](http://arxiv.org/abs/2310.19405)|null|
@@ -658,6 +661,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**Long-Term Invariant Local Features via Implicit Cross-Domain Correspondences**|Zador Pataki et.al.|[2311.03345](http://arxiv.org/abs/2311.03345)|null|
+|**2023-11-06**|**FocusTune: Tuning Visual Localization through Focus-Guided Sampling**|Son Tung Nguyen et.al.|[2311.02872](http://arxiv.org/abs/2311.02872)|**[link](https://github.com/sontung/focus-tune)**|
 |**2023-10-18**|**Brain decoding: toward real-time reconstruction of visual perception**|Yohann Benchetrit et.al.|[2310.19812](http://arxiv.org/abs/2310.19812)|null|
 |**2023-10-29**|**Identifiable Contrastive Learning with Automatic Feature Importance Discovery**|Qi Zhang et.al.|[2310.18904](http://arxiv.org/abs/2310.18904)|**[link](https://github.com/pku-ml/tri-factor-contrastive-learning)**|
 |**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274](http://arxiv.org/abs/2310.18274)|**[link](https://github.com/saraghazanfari/lipsim)**|
@@ -1013,6 +1018,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842](http://arxiv.org/abs/2311.02842)|null|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072](http://arxiv.org/abs/2310.15072)|null|
 |**2023-10-23**|**Player Re-Identification Using Body Part Appearences**|Mahesh Bhosale et.al.|[2310.14469](http://arxiv.org/abs/2310.14469)|null|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
