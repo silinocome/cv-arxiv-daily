@@ -22,6 +22,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-04**|**A Practical Large-Scale Roadside Multi-View Multi-Sensor Spatial Synchronization Framework for Intelligent Transportation Systems**|Yong Li et.al.|[2311.04231](http://arxiv.org/abs/2311.04231)|null|
 |**2023-11-02**|**A connected and automated vehicle readiness framework to support road authorities for C-ITS services**|Bahman Madadi et.al.|[2311.01268](http://arxiv.org/abs/2311.01268)|null|
 |**2023-10-29**|**Dynamic V2X Autonomous Perception from Road-to-Vehicle Vision**|Jiayao Tan et.al.|[2310.19113](http://arxiv.org/abs/2310.19113)|null|
 |**2023-10-26**|**Improving Traffic Density Forecasting in Intelligent Transportation Systems Using Gated Graph Neural Networks**|Razib Hayat Khan et.al.|[2310.17729](http://arxiv.org/abs/2310.17729)|null|
@@ -451,6 +452,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Integrated Distributed Semantic Communication and Over-the-air Computation for Cooperative Spectrum Sensing**|Peng Yi et.al.|[2311.04791](http://arxiv.org/abs/2311.04791)|null|
+|**2023-11-08**|**An Efficient Probabilistic Solution to Mapping Errors in LiDAR-Camera Fusion for Autonomous Vehicles**|Dan Shen et.al.|[2311.04410](http://arxiv.org/abs/2311.04410)|null|
 |**2023-11-07**|**mmFUSION: Multimodal Fusion for 3D Objects Detection**|Javed Ahmad et.al.|[2311.04058](http://arxiv.org/abs/2311.04058)|null|
 |**2023-11-07**|**Generative Structural Design Integrating BIM and Diffusion Model**|Zhili He et.al.|[2311.04052](http://arxiv.org/abs/2311.04052)|null|
 |**2023-11-06**|**LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition**|Zijie Zhou et.al.|[2311.03198](http://arxiv.org/abs/2311.03198)|**[link](https://github.com/ZhouZijie77/LCPR)**|
@@ -680,6 +683,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
+|**2023-11-08**|**Training CLIP models on Data from Scientific Papers**|Calvin Metzger et.al.|[2311.04711](http://arxiv.org/abs/2311.04711)|**[link](https://github.com/nopperl/clip_arxiv_pmc)**|
 |**2023-11-07**|**DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding**|Kehinde Ajayi et.al.|[2311.04098](http://arxiv.org/abs/2311.04098)|null|
 |**2023-11-06**|**Long-Term Invariant Local Features via Implicit Cross-Domain Correspondences**|Zador Pataki et.al.|[2311.03345](http://arxiv.org/abs/2311.03345)|null|
 |**2023-11-06**|**FocusTune: Tuning Visual Localization through Focus-Guided Sampling**|Son Tung Nguyen et.al.|[2311.02872](http://arxiv.org/abs/2311.02872)|**[link](https://github.com/sontung/focus-tune)**|
