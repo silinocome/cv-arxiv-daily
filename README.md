@@ -22,7 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-13**|**Simultaneous Clutter Detection and Semantic Segmentation of Moving Objects for Automotive Radar Data**|Johannes Kopp et.al.|[2311.07247](http://arxiv.org/abs/2311.07247)|null|
+|**2023-11-14**|**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection**|Aiheng Zhang et.al.|[2311.08000](http://arxiv.org/abs/2311.08000)|**[link](https://github.com/wangkai-tech23/LiPar)**|
+|**2023-11-14**|**Simultaneous Clutter Detection and Semantic Segmentation of Moving Objects for Automotive Radar Data**|Johannes Kopp et.al.|[2311.07247](http://arxiv.org/abs/2311.07247)|null|
 |**2023-11-11**|**VT-Former: A Transformer-based Vehicle Trajectory Prediction Approach For Intelligent Highway Transportation Systems**|Armin Danesh Pazho et.al.|[2311.06623](http://arxiv.org/abs/2311.06623)|null|
 |**2023-11-11**|**Semantic Communication for Cooperative Perception based on Importance Map**|Yucheng Sheng et.al.|[2311.06498](http://arxiv.org/abs/2311.06498)|null|
 |**2023-11-04**|**A Practical Large-Scale Roadside Multi-View Multi-Sensor Spatial Synchronization Framework for Intelligent Transportation Systems**|Yong Li et.al.|[2311.04231](http://arxiv.org/abs/2311.04231)|null|
@@ -457,6 +458,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**Comparison of two data fusion approaches for land use classification**|Martin Cubaud et.al.|[2311.07967](http://arxiv.org/abs/2311.07967)|null|
 |**2023-11-13**|**A Federated Data Fusion-Based Prognostic Model for Applications with Multi-Stream Incomplete Signals**|Madi Arabi et.al.|[2311.07474](http://arxiv.org/abs/2311.07474)|null|
 |**2023-11-12**|**Two Stream Scene Understanding on Graph Embedding**|Wenkai Yang et.al.|[2311.06746](http://arxiv.org/abs/2311.06746)|null|
 |**2023-11-10**|**Learning material synthesis-structure-property relationship by data fusion: Bayesian Co-regionalization N-Dimensional Piecewise Function Learning**|A. Gilad Kusne et.al.|[2311.06228](http://arxiv.org/abs/2311.06228)|null|
@@ -691,6 +693,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-13**|**Pretrain like You Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
 |**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
@@ -1063,7 +1066,7 @@
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072](http://arxiv.org/abs/2310.15072)|null|
 |**2023-10-23**|**Player Re-Identification Using Body Part Appearences**|Mahesh Bhosale et.al.|[2310.14469](http://arxiv.org/abs/2310.14469)|null|
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
-|**2023-10-19**|**RGM: A Robust Generalist Matching Model**|Songyan Zhang et.al.|[2310.11755](http://arxiv.org/abs/2310.11755)|**[link](https://github.com/aim-uofa/rgm)**|
+|**2023-11-14**|**RGM: A Robust Generalist Matching Model**|Songyan Zhang et.al.|[2310.11755](http://arxiv.org/abs/2310.11755)|**[link](https://github.com/aim-uofa/rgm)**|
 |**2023-10-07**|**UFD-PRiME: Unsupervised Joint Learning of Optical Flow and Stereo Depth through Pixel-Level Rigid Motion Estimation**|Shuai Yuan et.al.|[2310.04712](http://arxiv.org/abs/2310.04712)|null|
 |**2023-10-02**|**Leveraging Cutting Edge Deep Learning Based Image Matching for Reconstructing a Large Scene from Sparse Images**|Georg Bökman et.al.|[2310.01092](http://arxiv.org/abs/2310.01092)|null|
 |**2023-09-29**|**Segment Anything Model is a Good Teacher for Local Feature Learning**|Jingqian Wu et.al.|[2309.16992](http://arxiv.org/abs/2309.16992)|**[link](https://github.com/vignywang/samfeat)**|
