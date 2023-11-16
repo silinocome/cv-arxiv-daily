@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Reinforcement Learning with Model Predictive Control for Highway Ramp Metering**|Filippo Airaldi et.al.|[2311.08820](http://arxiv.org/abs/2311.08820)|**[link](https://github.com/filippoairaldi/mpcrl-for-ramp-metering)**|
+|**2023-11-15**|**Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Prediction**|Guangyin Jin et.al.|[2311.08635](http://arxiv.org/abs/2311.08635)|null|
+|**2023-11-14**|**Cooperative Bidirectional Mixed-Traffic Overtaking**|Faizan M. Tariq et.al.|[2311.08491](http://arxiv.org/abs/2311.08491)|null|
+|**2023-11-14**|**Purpose in the Machine: Do Traffic Simulators Produce Distributionally Equivalent Outcomes for Reinforcement Learning Applications?**|Rex Chen et.al.|[2311.08429](http://arxiv.org/abs/2311.08429)|null|
 |**2023-11-14**|**LiPar: A Lightweight Parallel Learning Model for Practical In-Vehicle Network Intrusion Detection**|Aiheng Zhang et.al.|[2311.08000](http://arxiv.org/abs/2311.08000)|**[link](https://github.com/wangkai-tech23/LiPar)**|
 |**2023-11-14**|**Simultaneous Clutter Detection and Semantic Segmentation of Moving Objects for Automotive Radar Data**|Johannes Kopp et.al.|[2311.07247](http://arxiv.org/abs/2311.07247)|null|
 |**2023-11-11**|**VT-Former: A Transformer-based Vehicle Trajectory Prediction Approach For Intelligent Highway Transportation Systems**|Armin Danesh Pazho et.al.|[2311.06623](http://arxiv.org/abs/2311.06623)|null|
@@ -281,6 +285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-14**|**Cooperative Bidirectional Mixed-Traffic Overtaking**|Faizan M. Tariq et.al.|[2311.08491](http://arxiv.org/abs/2311.08491)|null|
 |**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485](http://arxiv.org/abs/2311.07485)|null|
 |**2023-11-07**|**OmniVec: Learning robust representations with cross modal sharing**|Siddharth Srivastava et.al.|[2311.05709](http://arxiv.org/abs/2311.05709)|null|
 |**2023-11-07**|**A Lightweight and Secure PUF-Based Authentication and Key-exchange Protocol for IoT Devices**|Chandranshu Gupta et.al.|[2311.04078](http://arxiv.org/abs/2311.04078)|null|
@@ -446,6 +451,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation**|Abhishek Goudar et.al.|[2311.09056](http://arxiv.org/abs/2311.09056)|null|
+|**2023-11-15**|**Identification and Estimation for Nonignorable Missing Data: A Data Fusion Approach**|Zixiao Wang et.al.|[2311.09015](http://arxiv.org/abs/2311.09015)|null|
 |**2023-11-14**|**Comparison of two data fusion approaches for land use classification**|Martin Cubaud et.al.|[2311.07967](http://arxiv.org/abs/2311.07967)|null|
 |**2023-11-13**|**A Federated Data Fusion-Based Prognostic Model for Applications with Multi-Stream Incomplete Signals**|Madi Arabi et.al.|[2311.07474](http://arxiv.org/abs/2311.07474)|null|
 |**2023-11-12**|**Two Stream Scene Understanding on Graph Embedding**|Wenkai Yang et.al.|[2311.06746](http://arxiv.org/abs/2311.06746)|null|
@@ -679,6 +686,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076](http://arxiv.org/abs/2311.09076)|null|
 |**2023-11-13**|**Pretrain like You Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
 |**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
