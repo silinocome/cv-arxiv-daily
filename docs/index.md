@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Collaborative Grid Mapping for Moving Object Tracking Evaluation**|Rémy Huet et.al.|[2311.10415](http://arxiv.org/abs/2311.10415)|null|
+|**2023-11-17**|**Joint Sensing and Communication Optimization in Target-Mounted STARS-Assisted Vehicular Networks: A MADRL Approach**|Haocheng Zhang et.al.|[2311.10352](http://arxiv.org/abs/2311.10352)|null|
+|**2023-11-17**|**Cooperative Perception with Learning-Based V2V communications**|Chenguang Liu et.al.|[2311.10336](http://arxiv.org/abs/2311.10336)|null|
 |**2023-11-15**|**Reinforcement Learning with Model Predictive Control for Highway Ramp Metering**|Filippo Airaldi et.al.|[2311.08820](http://arxiv.org/abs/2311.08820)|**[link](https://github.com/filippoairaldi/mpcrl-for-ramp-metering)**|
 |**2023-11-15**|**Spatio-Temporal Graph Neural Point Process for Traffic Congestion Event Prediction**|Guangyin Jin et.al.|[2311.08635](http://arxiv.org/abs/2311.08635)|null|
 |**2023-11-14**|**Cooperative Bidirectional Mixed-Traffic Overtaking**|Faizan M. Tariq et.al.|[2311.08491](http://arxiv.org/abs/2311.08491)|null|
@@ -285,6 +288,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Joint Sensing and Communication Optimization in Target-Mounted STARS-Assisted Vehicular Networks: A MADRL Approach**|Haocheng Zhang et.al.|[2311.10352](http://arxiv.org/abs/2311.10352)|null|
 |**2023-11-14**|**Cooperative Bidirectional Mixed-Traffic Overtaking**|Faizan M. Tariq et.al.|[2311.08491](http://arxiv.org/abs/2311.08491)|null|
 |**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485](http://arxiv.org/abs/2311.07485)|null|
 |**2023-11-07**|**OmniVec: Learning robust representations with cross modal sharing**|Siddharth Srivastava et.al.|[2311.05709](http://arxiv.org/abs/2311.05709)|null|
@@ -451,6 +455,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Collaborative Grid Mapping for Moving Object Tracking Evaluation**|Rémy Huet et.al.|[2311.10415](http://arxiv.org/abs/2311.10415)|null|
+|**2023-11-17**|**Pseudo Label-Guided Data Fusion and Output Consistency for Semi-Supervised Medical Image Segmentation**|Tao Wang et.al.|[2311.10349](http://arxiv.org/abs/2311.10349)|**[link](https://github.com/ortonwang/plgdf)**|
+|**2023-11-17**|**Vision meets mmWave Radar: 3D Object Perception Benchmark for Autonomous Driving**|Yizhou Wang et.al.|[2311.10261](http://arxiv.org/abs/2311.10261)|null|
 |**2023-11-15**|**Range-Visual-Inertial Sensor Fusion for Micro Aerial Vehicle Localization and Navigation**|Abhishek Goudar et.al.|[2311.09056](http://arxiv.org/abs/2311.09056)|**[link](https://github.com/utiasdsl/ra_lan)**|
 |**2023-11-15**|**Identification and Estimation for Nonignorable Missing Data: A Data Fusion Approach**|Zixiao Wang et.al.|[2311.09015](http://arxiv.org/abs/2311.09015)|null|
 |**2023-11-14**|**Comparison of two data fusion approaches for land use classification**|Martin Cubaud et.al.|[2311.07967](http://arxiv.org/abs/2311.07967)|null|
