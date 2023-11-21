@@ -22,6 +22,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**CrackCLF: Automatic Pavement Crack Detection based on Closed-Loop Feedback**|Chong Li et.al.|[2311.11815](http://arxiv.org/abs/2311.11815)|null|
+|**2023-11-18**|**Toward A Generic Vehicular Cloud Network Architecture: A Case of Virtual Vehicle As A Service**|Fekri M. Abduljalil et.al.|[2311.11147](http://arxiv.org/abs/2311.11147)|null|
 |**2023-11-17**|**Collaborative Grid Mapping for Moving Object Tracking Evaluation**|Rémy Huet et.al.|[2311.10415](http://arxiv.org/abs/2311.10415)|null|
 |**2023-11-17**|**Joint Sensing and Communication Optimization in Target-Mounted STARS-Assisted Vehicular Networks: A MADRL Approach**|Haocheng Zhang et.al.|[2311.10352](http://arxiv.org/abs/2311.10352)|null|
 |**2023-11-17**|**Cooperative Perception with Learning-Based V2V communications**|Chenguang Liu et.al.|[2311.10336](http://arxiv.org/abs/2311.10336)|null|
@@ -300,7 +302,7 @@
 |---|---|---|---|---|
 |**2023-11-17**|**Joint Sensing and Communication Optimization in Target-Mounted STARS-Assisted Vehicular Networks: A MADRL Approach**|Haocheng Zhang et.al.|[2311.10352](http://arxiv.org/abs/2311.10352)|null|
 |**2023-11-14**|**Cooperative Bidirectional Mixed-Traffic Overtaking**|Faizan M. Tariq et.al.|[2311.08491](http://arxiv.org/abs/2311.08491)|null|
-|**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485](http://arxiv.org/abs/2311.07485)|null|
+|**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485](http://arxiv.org/abs/2311.07485)|**[link](https://github.com/mahi97/EvoFL)**|
 |**2023-11-07**|**OmniVec: Learning robust representations with cross modal sharing**|Siddharth Srivastava et.al.|[2311.05709](http://arxiv.org/abs/2311.05709)|null|
 |**2023-11-07**|**A Lightweight and Secure PUF-Based Authentication and Key-exchange Protocol for IoT Devices**|Chandranshu Gupta et.al.|[2311.04078](http://arxiv.org/abs/2311.04078)|null|
 |**2023-11-07**|**Multi-View Causal Representation Learning with Partial Observability**|Dingling Yao et.al.|[2311.04056](http://arxiv.org/abs/2311.04056)|null|
@@ -707,6 +709,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-19**|**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**|Ameya Prabhu et.al.|[2311.11293](http://arxiv.org/abs/2311.11293)|null|
+|**2023-11-18**|**Lesion Search with Self-supervised Learning**|Kristin Qi et.al.|[2311.11014](http://arxiv.org/abs/2311.11014)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076](http://arxiv.org/abs/2311.09076)|null|
 |**2023-11-15**|**Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|null|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
