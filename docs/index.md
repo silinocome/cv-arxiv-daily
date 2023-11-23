@@ -291,6 +291,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-21**|**Text-Guided Texturing by Synchronized Multi-View Diffusion**|Yuxin Liu et.al.|[2311.12891](http://arxiv.org/abs/2311.12891)|null|
 |**2023-11-17**|**Joint Sensing and Communication Optimization in Target-Mounted STARS-Assisted Vehicular Networks: A MADRL Approach**|Haocheng Zhang et.al.|[2311.10352](http://arxiv.org/abs/2311.10352)|null|
 |**2023-11-14**|**Cooperative Bidirectional Mixed-Traffic Overtaking**|Faizan M. Tariq et.al.|[2311.08491](http://arxiv.org/abs/2311.08491)|null|
 |**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485](http://arxiv.org/abs/2311.07485)|**[link](https://github.com/mahi97/EvoFL)**|
@@ -458,6 +459,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Trace-enabled Timing Model Synthesis for ROS2-based Autonomous Applications**|Hazem Abaza et.al.|[2311.13333](http://arxiv.org/abs/2311.13333)|null|
 |**2023-11-17**|**TransCDR: a deep learning model for enhancing the generalizability of cancer drug response prediction through transfer learning and multimodal data fusion for drug representation**|Xiaoqiong Xia et.al.|[2311.12040](http://arxiv.org/abs/2311.12040)|**[link](https://github.com/xiaoqiongxia/transcdr)**|
 |**2023-11-17**|**Collaborative Grid Mapping for Moving Object Tracking Evaluation**|Rémy Huet et.al.|[2311.10415](http://arxiv.org/abs/2311.10415)|null|
 |**2023-11-17**|**Pseudo Label-Guided Data Fusion and Output Consistency for Semi-Supervised Medical Image Segmentation**|Tao Wang et.al.|[2311.10349](http://arxiv.org/abs/2311.10349)|**[link](https://github.com/ortonwang/plgdf)**|
@@ -697,6 +699,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Medical Image Retrieval Using Pretrained Embeddings**|Farnaz Khun Jush et.al.|[2311.13547](http://arxiv.org/abs/2311.13547)|null|
+|**2023-11-21**|**Attribute-Aware Deep Hashing with Self-Consistency for Large-Scale Fine-Grained Image Retrieval**|Xiu-Shen Wei et.al.|[2311.12894](http://arxiv.org/abs/2311.12894)|null|
 |**2023-11-19**|**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**|Ameya Prabhu et.al.|[2311.11293](http://arxiv.org/abs/2311.11293)|null|
 |**2023-11-18**|**Lesion Search with Self-supervised Learning**|Kristin Qi et.al.|[2311.11014](http://arxiv.org/abs/2311.11014)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076](http://arxiv.org/abs/2311.09076)|null|
