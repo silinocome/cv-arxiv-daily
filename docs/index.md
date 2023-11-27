@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**C-ITS Environment Modeling and Attack Modeling**|Jaewoong Choi et.al.|[2311.14327](http://arxiv.org/abs/2311.14327)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580](http://arxiv.org/abs/2311.12580)|null|
 |**2023-11-20**|**CrackCLF: Automatic Pavement Crack Detection based on Closed-Loop Feedback**|Chong Li et.al.|[2311.11815](http://arxiv.org/abs/2311.11815)|null|
 |**2023-11-18**|**Toward A Generic Vehicular Cloud Network Architecture: A Case of Virtual Vehicle As A Service**|Fekri M. Abduljalil et.al.|[2311.11147](http://arxiv.org/abs/2311.11147)|null|
@@ -291,6 +292,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-24**|**Highly Detailed and Temporal Consistent Video Stylization via Synchronized Multi-Frame Diffusion**|Minshan Xie et.al.|[2311.14343](http://arxiv.org/abs/2311.14343)|null|
+|**2023-11-24**|**How We Manage an Army of Teaching Assistants: Experience Report on Scaling a CS1 Course**|Ildar Akhmetov et.al.|[2311.14241](http://arxiv.org/abs/2311.14241)|null|
 |**2023-11-21**|**Text-Guided Texturing by Synchronized Multi-View Diffusion**|Yuxin Liu et.al.|[2311.12891](http://arxiv.org/abs/2311.12891)|null|
 |**2023-11-17**|**Joint Sensing and Communication Optimization in Target-Mounted STARS-Assisted Vehicular Networks: A MADRL Approach**|Haocheng Zhang et.al.|[2311.10352](http://arxiv.org/abs/2311.10352)|null|
 |**2023-11-14**|**Cooperative Bidirectional Mixed-Traffic Overtaking**|Faizan M. Tariq et.al.|[2311.08491](http://arxiv.org/abs/2311.08491)|null|
@@ -459,7 +462,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-22**|**Trace-enabled Timing Model Synthesis for ROS2-based Autonomous Applications**|Hazem Abaza et.al.|[2311.13333](http://arxiv.org/abs/2311.13333)|null|
+|**2023-11-23**|**Trace-enabled Timing Model Synthesis for ROS2-based Autonomous Applications**|Hazem Abaza et.al.|[2311.13333](http://arxiv.org/abs/2311.13333)|null|
 |**2023-11-17**|**TransCDR: a deep learning model for enhancing the generalizability of cancer drug response prediction through transfer learning and multimodal data fusion for drug representation**|Xiaoqiong Xia et.al.|[2311.12040](http://arxiv.org/abs/2311.12040)|**[link](https://github.com/xiaoqiongxia/transcdr)**|
 |**2023-11-17**|**Collaborative Grid Mapping for Moving Object Tracking Evaluation**|Rémy Huet et.al.|[2311.10415](http://arxiv.org/abs/2311.10415)|null|
 |**2023-11-17**|**Pseudo Label-Guided Data Fusion and Output Consistency for Semi-Supervised Medical Image Segmentation**|Tao Wang et.al.|[2311.10349](http://arxiv.org/abs/2311.10349)|**[link](https://github.com/ortonwang/plgdf)**|
@@ -699,6 +702,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-23**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
+|**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752](http://arxiv.org/abs/2311.13752)|null|
 |**2023-11-22**|**Medical Image Retrieval Using Pretrained Embeddings**|Farnaz Khun Jush et.al.|[2311.13547](http://arxiv.org/abs/2311.13547)|null|
 |**2023-11-21**|**Attribute-Aware Deep Hashing with Self-Consistency for Large-Scale Fine-Grained Image Retrieval**|Xiu-Shen Wei et.al.|[2311.12894](http://arxiv.org/abs/2311.12894)|null|
 |**2023-11-19**|**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**|Ameya Prabhu et.al.|[2311.11293](http://arxiv.org/abs/2311.11293)|null|
