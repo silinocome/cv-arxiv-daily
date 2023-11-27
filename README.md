@@ -499,7 +499,7 @@
 |**2023-10-31**|**Precise Distributed Satellite Navigation: Differential GPS with Sensor-Coupling for Integer Ambiguity Resolution**|Samuel Y W Low et.al.|[2310.16108](http://arxiv.org/abs/2310.16108)|null|
 |**2023-10-22**|**FGO-ILNS: Tightly Coupled Multi-Sensor Integrated Navigation System Based on Factor Graph Optimization for Autonomous Underwater Vehicle**|Jiangbo Song et.al.|[2310.14163](http://arxiv.org/abs/2310.14163)|null|
 |**2023-10-22**|**Augmenting End-to-End Steering Angle Prediction with CAN Bus Data**|Rohan Gupta et.al.|[2310.14162](http://arxiv.org/abs/2310.14162)|null|
-|**2023-10-20**|**FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery**|Anatol Garioud et.al.|[2310.13336](http://arxiv.org/abs/2310.13336)|null|
+|**2023-10-20**|**FLAIR: a Country-Scale Land Cover Semantic Segmentation Dataset From Multi-Source Optical Imagery**|Anatol Garioud et.al.|[2310.13336](http://arxiv.org/abs/2310.13336)|**[link](https://github.com/ignf/flair-2-ai-challenge)**|
 |**2023-10-20**|**The neural signature of inner peace: morphometric differences between high and low accepters**|Alessandro Grecucci et.al.|[2310.13318](http://arxiv.org/abs/2310.13318)|null|
 |**2023-10-19**|**LeTFuser: Light-weight End-to-end Transformer-Based Sensor Fusion for Autonomous Driving with Multi-Task Learning**|Pedram Agand et.al.|[2310.13135](http://arxiv.org/abs/2310.13135)|**[link](https://github.com/pagand/e2etransfuser)**|
 |**2023-10-19**|**Fully Onboard Low-Power Localization with Semantic Sensor Fusion on a Nano-UAV using Floor Plans**|Nicky Zimmerman et.al.|[2310.12536](http://arxiv.org/abs/2310.12536)|**[link](https://github.com/eth-pbl/nano-smcl)**|
@@ -586,7 +586,7 @@
 |**2023-07-06**|**Multi-source imagery fusion using deep learning in a cloud computing platform**|Carlos Theran et.al.|[2307.03054](http://arxiv.org/abs/2307.03054)|null|
 |**2023-07-04**|**Siamese Learning-based Monarch Butterfly Localization**|Sara Shoouri et.al.|[2307.01920](http://arxiv.org/abs/2307.01920)|null|
 |**2023-07-04**|**Graph-Ensemble Learning Model for Multi-label Skin Lesion Classification using Dermoscopy and Clinical Images**|Peng Tang et.al.|[2307.01704](http://arxiv.org/abs/2307.01704)|null|
-|**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121](http://arxiv.org/abs/2307.01121)|null|
+|**2023-07-03**|**Artifacts Mapping: Multi-Modal Semantic Mapping for Object Detection and 3D Localization**|Federico Rollo et.al.|[2307.01121](http://arxiv.org/abs/2307.01121)|**[link](https://github.com/federicorollo/artifacts_mapping)**|
 |**2023-07-02**|**On Embedding B-Splines in Recursive State Estimation**|Kailai Li et.al.|[2307.00637](http://arxiv.org/abs/2307.00637)|null|
 |**2023-06-22**|**Inertial Navigation Meets Deep Learning: A Survey of Current Trends and Future Directions**|Nadav Cohen et.al.|[2307.00014](http://arxiv.org/abs/2307.00014)|null|
 |**2023-06-27**|**CARMA: Context-Aware Runtime Reconfiguration for Energy-Efficient Sensor Fusion**|Yifan Zhang et.al.|[2306.15748](http://arxiv.org/abs/2306.15748)|null|
