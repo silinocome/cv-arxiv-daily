@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-24**|**C-ITS Environment Modeling and Attack Modeling**|Jaewoong Choi et.al.|[2311.14327](http://arxiv.org/abs/2311.14327)|null|
+|**2023-11-27**|**C-ITS Environment Modeling and Attack Modeling**|Jaewoong Choi et.al.|[2311.14327](http://arxiv.org/abs/2311.14327)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580](http://arxiv.org/abs/2311.12580)|null|
 |**2023-11-20**|**CrackCLF: Automatic Pavement Crack Detection based on Closed-Loop Feedback**|Chong Li et.al.|[2311.11815](http://arxiv.org/abs/2311.11815)|null|
 |**2023-11-18**|**Toward A Generic Vehicular Cloud Network Architecture: A Case of Virtual Vehicle As A Service**|Fekri M. Abduljalil et.al.|[2311.11147](http://arxiv.org/abs/2311.11147)|null|
@@ -462,6 +462,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674](http://arxiv.org/abs/2311.15674)|null|
+|**2023-11-25**|**On-Device Soft Sensors: Real-Time Fluid Flow Estimation from Level Sensor Data**|Tianheng Ling et.al.|[2311.15036](http://arxiv.org/abs/2311.15036)|null|
 |**2023-11-23**|**Trace-enabled Timing Model Synthesis for ROS2-based Autonomous Applications**|Hazem Abaza et.al.|[2311.13333](http://arxiv.org/abs/2311.13333)|null|
 |**2023-11-17**|**TransCDR: a deep learning model for enhancing the generalizability of cancer drug response prediction through transfer learning and multimodal data fusion for drug representation**|Xiaoqiong Xia et.al.|[2311.12040](http://arxiv.org/abs/2311.12040)|**[link](https://github.com/xiaoqiongxia/transcdr)**|
 |**2023-11-17**|**Collaborative Grid Mapping for Moving Object Tracking Evaluation**|Rémy Huet et.al.|[2311.10415](http://arxiv.org/abs/2311.10415)|null|
@@ -702,7 +704,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-23**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
+|**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
 |**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752](http://arxiv.org/abs/2311.13752)|null|
 |**2023-11-22**|**Medical Image Retrieval Using Pretrained Embeddings**|Farnaz Khun Jush et.al.|[2311.13547](http://arxiv.org/abs/2311.13547)|null|
 |**2023-11-21**|**Attribute-Aware Deep Hashing with Self-Consistency for Large-Scale Fine-Grained Image Retrieval**|Xiu-Shen Wei et.al.|[2311.12894](http://arxiv.org/abs/2311.12894)|null|
@@ -953,6 +955,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-27**|**A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor**|Jialin Liu et.al.|[2311.15609](http://arxiv.org/abs/2311.15609)|null|
 |**2023-11-21**|**Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers**|Bo Sun et.al.|[2311.12291](http://arxiv.org/abs/2311.12291)|null|
 |**2023-11-11**|**CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer**|Haoyu Ma et.al.|[2311.06443](http://arxiv.org/abs/2311.06443)|null|
 |**2023-10-20**|**Feature Selection and Hyperparameter Fine-tuning in Artificial Neural Networks for Wood Quality Classification**|Mateus Roder et.al.|[2310.13490](http://arxiv.org/abs/2310.13490)|null|
