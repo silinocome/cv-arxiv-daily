@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.29
+## Updated on 2023.11.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -298,7 +298,7 @@ layout: default
 |**2023-11-21**|**Text-Guided Texturing by Synchronized Multi-View Diffusion**|Yuxin Liu et.al.|[2311.12891](http://arxiv.org/abs/2311.12891)|null|
 |**2023-11-17**|**Joint Sensing and Communication Optimization in Target-Mounted STARS-Assisted Vehicular Networks: A MADRL Approach**|Haocheng Zhang et.al.|[2311.10352](http://arxiv.org/abs/2311.10352)|null|
 |**2023-11-14**|**Cooperative Bidirectional Mixed-Traffic Overtaking**|Faizan M. Tariq et.al.|[2311.08491](http://arxiv.org/abs/2311.08491)|null|
-|**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485](http://arxiv.org/abs/2311.07485)|**[link](https://github.com/mahi97/EvoFL)**|
+|**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485](http://arxiv.org/abs/2311.07485)|null|
 |**2023-11-07**|**OmniVec: Learning robust representations with cross modal sharing**|Siddharth Srivastava et.al.|[2311.05709](http://arxiv.org/abs/2311.05709)|null|
 |**2023-11-07**|**A Lightweight and Secure PUF-Based Authentication and Key-exchange Protocol for IoT Devices**|Chandranshu Gupta et.al.|[2311.04078](http://arxiv.org/abs/2311.04078)|null|
 |**2023-11-07**|**Multi-View Causal Representation Learning with Partial Observability**|Dingling Yao et.al.|[2311.04056](http://arxiv.org/abs/2311.04056)|null|
