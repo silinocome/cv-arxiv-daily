@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-27**|**ChatTraffc: Text-to-Traffic Generation via Diffusion Model**|Chengyang Zhang et.al.|[2311.16203](http://arxiv.org/abs/2311.16203)|**[link](https://github.com/ChyaZhang/ChatTraffic)**|
+|**2023-11-29**|**ChatTraffic: Text-to-Traffic Generation via Diffusion Model**|Chengyang Zhang et.al.|[2311.16203](http://arxiv.org/abs/2311.16203)|**[link](https://github.com/ChyaZhang/ChatTraffic)**|
 |**2023-11-27**|**C-ITS Environment Modeling and Attack Modeling**|Jaewoong Choi et.al.|[2311.14327](http://arxiv.org/abs/2311.14327)|null|
 |**2023-11-21**|**CoVOR-SLAM: Cooperative SLAM using Visual Odometry and Ranges for Multi-Robot Systems**|Young-Hee Lee et.al.|[2311.12580](http://arxiv.org/abs/2311.12580)|null|
 |**2023-11-20**|**CrackCLF: Automatic Pavement Crack Detection based on Closed-Loop Feedback**|Chong Li et.al.|[2311.11815](http://arxiv.org/abs/2311.11815)|null|
@@ -463,7 +463,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674](http://arxiv.org/abs/2311.15674)|null|
+|**2023-11-28**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Konstantin Klemmer et.al.|[2311.17179](http://arxiv.org/abs/2311.17179)|null|
+|**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674](http://arxiv.org/abs/2311.15674)|**[link](https://github.com/drapado/mot-detr)**|
 |**2023-11-25**|**On-Device Soft Sensors: Real-Time Fluid Flow Estimation from Level Sensor Data**|Tianheng Ling et.al.|[2311.15036](http://arxiv.org/abs/2311.15036)|null|
 |**2023-11-23**|**Trace-enabled Timing Model Synthesis for ROS2-based Autonomous Applications**|Hazem Abaza et.al.|[2311.13333](http://arxiv.org/abs/2311.13333)|null|
 |**2023-11-17**|**TransCDR: a deep learning model for enhancing the generalizability of cancer drug response prediction through transfer learning and multimodal data fusion for drug representation**|Xiaoqiong Xia et.al.|[2311.12040](http://arxiv.org/abs/2311.12040)|**[link](https://github.com/xiaoqiongxia/transcdr)**|
@@ -705,6 +706,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|null|
 |**2023-11-27**|**Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**|Samuele Poppi et.al.|[2311.16254](http://arxiv.org/abs/2311.16254)|**[link](https://github.com/aimagelab/safe-clip)**|
 |**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
 |**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752](http://arxiv.org/abs/2311.13752)|null|
@@ -1081,6 +1083,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**LGFCTR: Local and Global Feature Convolutional Transformer for Image Matching**|Wenhao Zhong et.al.|[2311.17571](http://arxiv.org/abs/2311.17571)|null|
 |**2023-11-08**|**Zero-shot Translation of Attention Patterns in VQA Models to Natural Language**|Leonard Salewski et.al.|[2311.05043](http://arxiv.org/abs/2311.05043)|**[link](https://github.com/explainableml/zs-a2t)**|
 |**2023-11-06**|**An invariant feature extraction for multi-modal images matching**|Chenzhong Gao et.al.|[2311.02842](http://arxiv.org/abs/2311.02842)|null|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072](http://arxiv.org/abs/2310.15072)|null|
