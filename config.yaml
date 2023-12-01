@@ -31,6 +31,10 @@ keywords:
         filters: ["Collaborative", "Perception", "Cooperative", "cooperation", "collaborate", "collaboration", "Information Sharing"]
     "sensor fusion":
         filters: ["sensor", "fusion", "sensor fusion", "data fusion"]
+    "ground segmentation":
+        filters: ["ground segmentation", "ground truth data", "Model Fitting", "Point Cloud Data"]
+    "point cloud":
+        filters: ["Obstacle Detection", "Clustering", "Point Cloud Data", "lidar"]
     "localization":
         filters: ["Visual Localization","Camera Localization",
                   "Camera Re-localisation","image retrieval"]
