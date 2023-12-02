@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.01
+## Updated on 2023.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -15,6 +15,8 @@
     <li><a href=#localization>localization</a></li>
     <li><a href=#Detection>Detection</a></li>
     <li><a href=#Matching>Matching</a></li>
+    <li><a href=#ground-segmentation>ground segmentation</a></li>
+    <li><a href=#point-cloud>point cloud</a></li>
   </ol>
 </details>
 
@@ -297,7 +299,7 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## Collaborative Perception
 
@@ -470,7 +472,7 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## sensor fusion
 
@@ -716,7 +718,7 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## localization
 
@@ -974,7 +976,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## Detection
 
@@ -1100,7 +1102,7 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 ## Matching
 
@@ -1250,7 +1252,41 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20231201>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
+
+## ground segmentation
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-11-30**|**Meta-Prior: Meta learning for Adaptive Inverse Problem Solvers**|Matthieu Terris et.al.|[2311.18710](http://arxiv.org/abs/2311.18710)|null|
+|**2023-11-30**|**Age-Gender-Country-Specific Death Rates Modelling and Forecasting: A Linear Mixed-Effects Model**|Reza Dastranj et.al.|[2311.18668](http://arxiv.org/abs/2311.18668)|null|
+|**2023-11-29**|**FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information**|Wen Jiang et.al.|[2311.17874](http://arxiv.org/abs/2311.17874)|null|
+|**2023-11-29**|**JWST/NIRSpec Observations of the Coldest Known Brown Dwarf**|K. L. Luhman et.al.|[2311.17316](http://arxiv.org/abs/2311.17316)|null|
+|**2023-11-28**|**Neural Texture Puppeteer: A Framework for Neural Geometry and Texture Rendering of Articulated Shapes, Enabling Re-Identification at Interactive Speed**|Urs Waldmann et.al.|[2311.17109](http://arxiv.org/abs/2311.17109)|null|
+|**2023-11-28**|**Automatic cross-validation in structured models: Is it time to leave out leave-one-out?**|A. Adin et.al.|[2311.17100](http://arxiv.org/abs/2311.17100)|null|
+|**2023-11-27**|**Generation of patient specific cardiac chamber models using generative neural networks under a Bayesian framework for electroanatomical mapping**|Sunil Mathew et.al.|[2311.16197](http://arxiv.org/abs/2311.16197)|null|
+|**2023-11-27**|**JSSL: Joint Supervised and Self-supervised Learning for MRI Reconstruction**|George Yiasemis et.al.|[2311.15856](http://arxiv.org/abs/2311.15856)|null|
+|**2023-11-22**|**Exploring Physically-Motivated Models to Fit Gamma-Ray Burst Spectra**|Suraj Poolakkil et.al.|[2311.13566](http://arxiv.org/abs/2311.13566)|null|
+|**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
+
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
+
+## point cloud
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-11-27**|**Generation of patient specific cardiac chamber models using generative neural networks under a Bayesian framework for electroanatomical mapping**|Sunil Mathew et.al.|[2311.16197](http://arxiv.org/abs/2311.16197)|null|
+|**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
+|**2023-11-21**|**Robust Hole-Detection in Triangular Meshes Irrespective of the Presence of Singular Vertices**|Mauhing Yip et.al.|[2311.12466](http://arxiv.org/abs/2311.12466)|**[link](https://github.com/mauhing/hole-detection-on-triangle-mesh)**|
+|**2023-11-20**|**AMES: A Differentiable Embedding Space Selection Framework for Latent Graph Inference**|Yuan Lu et.al.|[2311.11891](http://arxiv.org/abs/2311.11891)|null|
+|**2023-11-13**|**LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering**|Edison P. Velasco-Sánchez et.al.|[2311.07291](http://arxiv.org/abs/2311.07291)|**[link](https://github.com/aurova-lab/applications)**|
+|**2023-11-10**|**Learning-Based Biharmonic Augmentation for Point Cloud Classification**|Jiacheng Wei et.al.|[2311.06070](http://arxiv.org/abs/2311.06070)|null|
+|**2023-11-10**|**Refining the ONCE Benchmark with Hyperparameter Tuning**|Maksim Golyadkin et.al.|[2311.06054](http://arxiv.org/abs/2311.06054)|null|
+|**2023-11-10**|**Deep learning for 3D Object Detection and Tracking in Autonomous Driving: A Brief Survey**|Yang Peng et.al.|[2311.06043](http://arxiv.org/abs/2311.06043)|null|
+|**2023-11-05**|**Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook**|Huang Zhang et.al.|[2311.02608](http://arxiv.org/abs/2311.02608)|null|
+|**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552](http://arxiv.org/abs/2311.02552)|**[link](https://github.com/robotic-vision-lab/implicit-point-voxel-features-network)**|
+
+<p align=right>(<a href=#Updated-on-20231202>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
