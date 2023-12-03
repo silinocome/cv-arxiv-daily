@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.02
+## Updated on 2023.12.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1241,7 +1241,7 @@ layout: default
 |**2023-11-29**|**FisherRF: Active View Selection and Uncertainty Quantification for Radiance Fields using Fisher Information**|Wen Jiang et.al.|[2311.17874](http://arxiv.org/abs/2311.17874)|null|
 |**2023-11-29**|**JWST/NIRSpec Observations of the Coldest Known Brown Dwarf**|K. L. Luhman et.al.|[2311.17316](http://arxiv.org/abs/2311.17316)|null|
 |**2023-11-28**|**Neural Texture Puppeteer: A Framework for Neural Geometry and Texture Rendering of Articulated Shapes, Enabling Re-Identification at Interactive Speed**|Urs Waldmann et.al.|[2311.17109](http://arxiv.org/abs/2311.17109)|null|
-|**2023-11-28**|**Automatic cross-validation in structured models: Is it time to leave out leave-one-out?**|A. Adin et.al.|[2311.17100](http://arxiv.org/abs/2311.17100)|null|
+|**2023-11-28**|**Automatic cross-validation in structured models: Is it time to leave out leave-one-out?**|A. Adin et.al.|[2311.17100](http://arxiv.org/abs/2311.17100)|**[link](https://github.com/spatialstatisticsupna/inla_groupcv)**|
 |**2023-11-27**|**Generation of patient specific cardiac chamber models using generative neural networks under a Bayesian framework for electroanatomical mapping**|Sunil Mathew et.al.|[2311.16197](http://arxiv.org/abs/2311.16197)|null|
 |**2023-11-27**|**JSSL: Joint Supervised and Self-supervised Learning for MRI Reconstruction**|George Yiasemis et.al.|[2311.15856](http://arxiv.org/abs/2311.15856)|null|
 |**2023-11-22**|**Exploring Physically-Motivated Models to Fit Gamma-Ray Burst Spectra**|Suraj Poolakkil et.al.|[2311.13566](http://arxiv.org/abs/2311.13566)|null|
