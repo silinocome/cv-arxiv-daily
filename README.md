@@ -56,7 +56,7 @@
 |**2023-10-17**|**Classification of Safety Driver Attention During Autonomous Vehicle Operation**|Santiago Gerling Konrad et.al.|[2310.11608](http://arxiv.org/abs/2310.11608)|null|
 |**2023-10-17**|**Multi Self-supervised Pre-fine-tuned Transformer Fusion for Better Intelligent Transportation Detection**|Juwu Zheng et.al.|[2310.11307](http://arxiv.org/abs/2310.11307)|null|
 |**2023-10-15**|**mmWave Enabled Connected Autonomous Vehicles: A Use Case with V2V Cooperative Perception**|Muhammad Baqer Mollah et.al.|[2310.09700](http://arxiv.org/abs/2310.09700)|null|
-|**2023-10-14**|**FPGA Implementation of OTFS Modulation for 6G Communication Systems**|Murat Isik et.al.|[2310.09671](http://arxiv.org/abs/2310.09671)|null|
+|**2023-10-14**|**FPGA Implementation of OTFS Modulation for 6G Communication Systems**|Murat Isik et.al.|[2310.09671](http://arxiv.org/abs/2310.09671)|**[link](https://github.com/Muratcanisik4/OTFS_Modulation_FPGA)**|
 |**2023-10-14**|**Where to Decide? Centralized vs. Distributed Vehicle Assignment for Platoon Formation**|Julian Heinovski et.al.|[2310.09580](http://arxiv.org/abs/2310.09580)|null|
 |**2023-10-13**|**Generative AI-driven Semantic Communication Framework for NextG Wireless Network**|Avi Deb Raha et.al.|[2310.09021](http://arxiv.org/abs/2310.09021)|null|
 |**2023-10-16**|**Transport-Hub-Aware Spatial-Temporal Adaptive Graph Transformer for Traffic Flow Prediction**|Xiao Xu et.al.|[2310.08328](http://arxiv.org/abs/2310.08328)|**[link](https://github.com/fantasy-shaw/h-stformer)**|
@@ -758,7 +758,7 @@
 |**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290](http://arxiv.org/abs/2310.10290)|null|
 |**2023-10-16**|**EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge**|Tom Bryan et.al.|[2310.10050](http://arxiv.org/abs/2310.10050)|null|
 |**2023-10-15**|**CAPro: Webly Supervised Learning with Cross-Modality Aligned Prototypes**|Yulei Qin et.al.|[2310.09761](http://arxiv.org/abs/2310.09761)|**[link](https://github.com/yuleiqin/capro)**|
-|**2023-10-13**|**Pairwise Similarity Learning is SimPLE**|Yandong Wen et.al.|[2310.09449](http://arxiv.org/abs/2310.09449)|null|
+|**2023-10-13**|**Pairwise Similarity Learning is SimPLE**|Yandong Wen et.al.|[2310.09449](http://arxiv.org/abs/2310.09449)|**[link](https://github.com/ydwen/opensphere/blob/main/opensphere/module/head/simple.py)**|
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291](http://arxiv.org/abs/2310.09291)|null|
 |**2023-10-12**|**Hyp-UML: Hyperbolic Image Retrieval with Uncertainty-aware Metric Learning**|Shiyang Yan et.al.|[2310.08390](http://arxiv.org/abs/2310.08390)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
