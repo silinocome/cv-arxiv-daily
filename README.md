@@ -1276,6 +1276,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Precision of Individual Shapley Value Explanations**|Lars Henry Berge Olsen et.al.|[2312.03485](http://arxiv.org/abs/2312.03485)|null|
+|**2023-12-06**|**PointMoment:Mixed-Moment-based Self-Supervised Representation Learning for 3D Point Clouds**|Xin Cao et.al.|[2312.03350](http://arxiv.org/abs/2312.03350)|null|
+|**2023-12-06**|**PointJEM: Self-supervised Point Cloud Understanding for Reducing Feature Redundancy via Joint Entropy Maximization**|Xin Cao et.al.|[2312.03339](http://arxiv.org/abs/2312.03339)|null|
+|**2023-12-06**|**DiffPMAE: Diffusion Masked Autoencoders for Point Cloud Reconstruction**|Yanlong Li et.al.|[2312.03298](http://arxiv.org/abs/2312.03298)|null|
 |**2023-12-05**|**A Dynamic Network for Efficient Point Cloud Registration**|Yang Ai et.al.|[2312.02877](http://arxiv.org/abs/2312.02877)|null|
 |**2023-12-05**|**MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR**|Yiqian Gan et.al.|[2312.02409](http://arxiv.org/abs/2312.02409)|null|
 |**2023-12-04**|**Stability and Approximations for Decorated Reeb Spaces**|Justin Curry et.al.|[2312.01982](http://arxiv.org/abs/2312.01982)|null|
@@ -1301,6 +1305,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**PointMoment:Mixed-Moment-based Self-Supervised Representation Learning for 3D Point Clouds**|Xin Cao et.al.|[2312.03350](http://arxiv.org/abs/2312.03350)|null|
+|**2023-12-06**|**PointJEM: Self-supervised Point Cloud Understanding for Reducing Feature Redundancy via Joint Entropy Maximization**|Xin Cao et.al.|[2312.03339](http://arxiv.org/abs/2312.03339)|null|
+|**2023-12-06**|**DiffPMAE: Diffusion Masked Autoencoders for Point Cloud Reconstruction**|Yanlong Li et.al.|[2312.03298](http://arxiv.org/abs/2312.03298)|null|
 |**2023-12-05**|**Synergistic Perception and Control Simplex for Verifiable Safe Vertical Landing**|Ayoosh Bansal et.al.|[2312.02937](http://arxiv.org/abs/2312.02937)|null|
 |**2023-12-05**|**A Dynamic Network for Efficient Point Cloud Registration**|Yang Ai et.al.|[2312.02877](http://arxiv.org/abs/2312.02877)|null|
 |**2023-12-05**|**MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR**|Yiqian Gan et.al.|[2312.02409](http://arxiv.org/abs/2312.02409)|null|
