@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.07
+## Updated on 2023.12.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -475,7 +475,7 @@ layout: default
 |**2023-12-01**|**Investigation on data fusion of sun-induced chlorophyll fluorescence and reflectance for photosynthetic capacity of rice**|Yu-an Zhou et.al.|[2312.00437](http://arxiv.org/abs/2312.00437)|null|
 |**2023-12-01**|**Improving Efficiency of DNN-based Relocalization Module for Autonomous Driving with Server-side Computing**|Dengbo Li et.al.|[2312.00316](http://arxiv.org/abs/2312.00316)|null|
 |**2023-11-30**|**PEOPLEx: PEdestrian Opportunistic Positioning LEveraging IMU, UWB, BLE and WiFi**|Pierre-Yves Lajoie et.al.|[2311.18182](http://arxiv.org/abs/2311.18182)|null|
-|**2023-11-30**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Konstantin Klemmer et.al.|[2311.17179](http://arxiv.org/abs/2311.17179)|null|
+|**2023-11-30**|**SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery**|Konstantin Klemmer et.al.|[2311.17179](http://arxiv.org/abs/2311.17179)|**[link](https://github.com/microsoft/satclip)**|
 |**2023-11-27**|**MOT-DETR: 3D Single Shot Detection and Tracking with Transformers to build 3D representations for Agro-Food Robots**|David Rapado-Rincon et.al.|[2311.15674](http://arxiv.org/abs/2311.15674)|**[link](https://github.com/drapado/mot-detr)**|
 |**2023-11-25**|**On-Device Soft Sensors: Real-Time Fluid Flow Estimation from Level Sensor Data**|Tianheng Ling et.al.|[2311.15036](http://arxiv.org/abs/2311.15036)|null|
 |**2023-11-23**|**Trace-enabled Timing Model Synthesis for ROS2-based Autonomous Applications**|Hazem Abaza et.al.|[2311.13333](http://arxiv.org/abs/2311.13333)|null|
