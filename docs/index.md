@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.10
+## Updated on 2023.12.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1257,7 +1257,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-07**|**Probabilistic volumetric speckle suppression in OCT using deep learning**|Bhaskara Rao Chintada et.al.|[2312.04460](http://arxiv.org/abs/2312.04460)|null|
+|**2023-12-07**|**Probabilistic volumetric speckle suppression in OCT using deep learning**|Bhaskara Rao Chintada et.al.|[2312.04460](http://arxiv.org/abs/2312.04460)|**[link](https://github.com/bhaskarachintada/dltnode)**|
 |**2023-12-07**|**Surrogate Modelling for Sea Ice Concentration using Lightweight Neural Ensemble**|Julia Borisova et.al.|[2312.04330](http://arxiv.org/abs/2312.04330)|null|
 |**2023-12-06**|**Novel class discovery meets foundation models for 3D semantic segmentation**|Luigi Riz et.al.|[2312.03782](http://arxiv.org/abs/2312.03782)|null|
 |**2023-12-06**|**Precision of Individual Shapley Value Explanations**|Lars Henry Berge Olsen et.al.|[2312.03485](http://arxiv.org/abs/2312.03485)|null|
