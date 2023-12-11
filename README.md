@@ -736,7 +736,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
-|**2023-12-05**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|null|
+|**2023-12-05**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029](http://arxiv.org/abs/2312.02029)|null|
 |**2023-12-04**|**Language-only Efficient Training of Zero-shot Composed Image Retrieval**|Geonmo Gu et.al.|[2312.01998](http://arxiv.org/abs/2312.01998)|**[link](https://github.com/navervision/lincir)**|
 |**2023-12-03**|**G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**|Che Liu et.al.|[2312.01522](http://arxiv.org/abs/2312.01522)|null|
@@ -853,7 +853,7 @@
 |**2023-07-19**|**Lazy Visual Localization via Motion Averaging**|Siyan Dong et.al.|[2307.09981](http://arxiv.org/abs/2307.09981)|null|
 |**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789](http://arxiv.org/abs/2307.09789)|null|
 |**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172](http://arxiv.org/abs/2307.09172)|null|
-|**2023-07-17**|**Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition**|Gabriele Trivigno et.al.|[2307.08417](http://arxiv.org/abs/2307.08417)|null|
+|**2023-07-17**|**Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition**|Gabriele Trivigno et.al.|[2307.08417](http://arxiv.org/abs/2307.08417)|**[link](https://github.com/ga1i13o/divide-and-classify)**|
 |**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316](http://arxiv.org/abs/2307.08316)|null|
 |**2023-07-20**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015](http://arxiv.org/abs/2307.08015)|**[link](https://github.com/shiyujiao/boosting3dofaccuracy)**|
 |**2023-07-10**|**Phoneme-retrieval; voice recognition; vowels recognition**|Brunello Tirozzi et.al.|[2307.07407](http://arxiv.org/abs/2307.07407)|null|
