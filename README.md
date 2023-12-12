@@ -24,7 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Partial End-to-end Reinforcement Learning for Robustness Against Modelling Error in Autonomous Racing**|Andrew Murdoch et.al.|[2312.06406](http://arxiv.org/abs/2312.06406)|null|
+|**2023-12-08**|**A Data-Driven Framework for Improving Public EV Charging Infrastructure: Modeling and Forecasting**|Nassr Al-Dahabreh et.al.|[2312.05333](http://arxiv.org/abs/2312.05333)|null|
 |**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|**[link](https://github.com/gvogiatzis/trafficgen)**|
+|**2023-12-11**|**LiDAR-based curb detection for ground truth annotation in automated driving validation**|Jose Luis Apellániz et.al.|[2312.00534](http://arxiv.org/abs/2312.00534)|null|
 |**2023-12-01**|**The Impact of Privacy and Security Attitudes and Concerns of Travellers on Their Willingness to Use Mobility-as-a-Service Systems**|Maria Sophia Heering et.al.|[2312.00519](http://arxiv.org/abs/2312.00519)|null|
 |**2023-11-29**|**ChatTraffic: Text-to-Traffic Generation via Diffusion Model**|Chengyang Zhang et.al.|[2311.16203](http://arxiv.org/abs/2311.16203)|**[link](https://github.com/ChyaZhang/ChatTraffic)**|
 |**2023-11-27**|**C-ITS Environment Modeling and Attack Modeling**|Jaewoong Choi et.al.|[2311.14327](http://arxiv.org/abs/2311.14327)|null|
@@ -483,6 +486,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-07**|**Image and AIS Data Fusion Technique for Maritime Computer Vision Applications**|Emre Gülsoylu et.al.|[2312.05270](http://arxiv.org/abs/2312.05270)|null|
 |**2023-12-08**|**Datasets, Models, and Algorithms for Multi-Sensor, Multi-agent Autonomy Using AVstack**|R. Spencer Hallyburton et.al.|[2312.04970](http://arxiv.org/abs/2312.04970)|null|
 |**2023-12-01**|**Virtual Fusion with Contrastive Learning for Single Sensor-based Activity Recognition**|Duc-Anh Nguyen et.al.|[2312.02185](http://arxiv.org/abs/2312.02185)|null|
 |**2023-12-04**|**Extreme-value modelling of migratory bird arrival dates: Insights from citizen science data**|Jonathan Koh et.al.|[2312.01870](http://arxiv.org/abs/2312.01870)|**[link](https://github.com/kohrrelation/mcmc_birds)**|
@@ -737,6 +741,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**Dynamic Weighted Combiner for Mixed-Modal Image Retrieval**|Fuxiang Huang et.al.|[2312.06179](http://arxiv.org/abs/2312.06179)|null|
 |**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
 |**2023-12-08**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029](http://arxiv.org/abs/2312.02029)|null|
@@ -1281,6 +1286,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**UOCS XIII. Study of the FUV bright stars in the open cluster NGC 2420 using ASTROSAT**|R. K. S. Yadav et.al.|[2312.06483](http://arxiv.org/abs/2312.06483)|null|
+|**2023-12-11**|**SimMining-3D: Altitude-Aware 3D Object Detection in Complex Mining Environments: A Novel Dataset and ROS-Based Automatic Annotation Pipeline**|Mehala Balamurali et.al.|[2312.06113](http://arxiv.org/abs/2312.06113)|null|
+|**2023-12-10**|**Wild Motion Unleashed: Markerless 3D Kinematics and Force Estimation in Cheetahs**|Zico da Silva et.al.|[2312.05879](http://arxiv.org/abs/2312.05879)|null|
+|**2023-12-10**|**Beyond One Model Fits All: Ensemble Deep Learning for Autonomous Vehicles**|Hemanth Manjunatha et.al.|[2312.05759](http://arxiv.org/abs/2312.05759)|null|
+|**2023-12-10**|**Discovery of a Magnetic Double-Faced DBA White Dwarf**|Adam Moss et.al.|[2312.05749](http://arxiv.org/abs/2312.05749)|null|
+|**2023-12-09**|**Fitting pseudo-S ${\rm \acute{e}}$rsic(Spergel) light profiles to galaxies in interferometric data: the excellence of the $uv$ -plane**|Qing-Hua Tan et.al.|[2312.05425](http://arxiv.org/abs/2312.05425)|null|
 |**2023-12-08**|**First GMVA observations with the upgraded NOEMA facility: VLBI imaging of BL Lacertae in a flaring state**|Dae-Won Kim et.al.|[2312.05191](http://arxiv.org/abs/2312.05191)|null|
 |**2023-12-07**|**Probabilistic volumetric speckle suppression in OCT using deep learning**|Bhaskara Rao Chintada et.al.|[2312.04460](http://arxiv.org/abs/2312.04460)|**[link](https://github.com/bhaskarachintada/dltnode)**|
 |**2023-12-07**|**Surrogate Modelling for Sea Ice Concentration using Lightweight Neural Ensemble**|Julia Borisova et.al.|[2312.04330](http://arxiv.org/abs/2312.04330)|null|
@@ -1314,6 +1325,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-11**|**SimMining-3D: Altitude-Aware 3D Object Detection in Complex Mining Environments: A Novel Dataset and ROS-Based Automatic Annotation Pipeline**|Mehala Balamurali et.al.|[2312.06113](http://arxiv.org/abs/2312.06113)|null|
 |**2023-12-07**|**Voice Recognition Robot with Real-Time Surveillance and Automation**|Lochan Basyal et.al.|[2312.04072](http://arxiv.org/abs/2312.04072)|null|
 |**2023-12-06**|**Novel class discovery meets foundation models for 3D semantic segmentation**|Luigi Riz et.al.|[2312.03782](http://arxiv.org/abs/2312.03782)|null|
 |**2023-12-06**|**PointMoment:Mixed-Moment-based Self-Supervised Representation Learning for 3D Point Clouds**|Xin Cao et.al.|[2312.03350](http://arxiv.org/abs/2312.03350)|null|
