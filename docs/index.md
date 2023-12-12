@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|null|
+|**2023-12-08**|**Synthesizing Traffic Datasets using Graph Neural Networks**|Daniel Rodriguez-Criado et.al.|[2312.05031](http://arxiv.org/abs/2312.05031)|**[link](https://github.com/gvogiatzis/trafficgen)**|
 |**2023-12-01**|**The Impact of Privacy and Security Attitudes and Concerns of Travellers on Their Willingness to Use Mobility-as-a-Service Systems**|Maria Sophia Heering et.al.|[2312.00519](http://arxiv.org/abs/2312.00519)|null|
 |**2023-11-29**|**ChatTraffic: Text-to-Traffic Generation via Diffusion Model**|Chengyang Zhang et.al.|[2311.16203](http://arxiv.org/abs/2311.16203)|**[link](https://github.com/ChyaZhang/ChatTraffic)**|
 |**2023-11-27**|**C-ITS Environment Modeling and Attack Modeling**|Jaewoong Choi et.al.|[2311.14327](http://arxiv.org/abs/2311.14327)|null|
