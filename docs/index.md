@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-16**|**Self-supervised Adaptive Weighting for Cooperative Perception in V2V Communications**|Chenguang Liu et.al.|[2312.10342](http://arxiv.org/abs/2312.10342)|null|
 |**2023-12-15**|**Methodologies for Future Vehicular Digital Twins**|Danilo Radovic et.al.|[2312.09902](http://arxiv.org/abs/2312.09902)|null|
 |**2023-12-15**|**Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception**|Xiao Wang et.al.|[2312.09812](http://arxiv.org/abs/2312.09812)|null|
 |**2023-12-14**|**A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing**|Lorenzo Lamberti et.al.|[2312.08991](http://arxiv.org/abs/2312.08991)|null|
@@ -737,6 +738,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
+|**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320](http://arxiv.org/abs/2312.10320)|null|
+|**2023-12-15**|**Data-Efficient Multimodal Fusion on a Single GPU**|Noël Vouitsis et.al.|[2312.10144](http://arxiv.org/abs/2312.10144)|**[link](https://github.com/layer6ai-labs/fusemix)**|
+|**2023-12-13**|**Advancements in Content-Based Image Retrieval: A Comprehensive Survey of Relevance Feedback Techniques**|Hamed Qazanfari et.al.|[2312.10089](http://arxiv.org/abs/2312.10089)|null|
 |**2023-12-15**|**Let All be Whitened: Multi-teacher Distillation for Efficient Visual Retrieval**|Zhe Ma et.al.|[2312.09716](http://arxiv.org/abs/2312.09716)|**[link](https://github.com/maryeon/whiten_mtd)**|
 |**2023-12-14**|**Training-free Zero-shot Composed Image Retrieval with Local Concept Reranking**|Shitong Sun et.al.|[2312.08924](http://arxiv.org/abs/2312.08924)|null|
 |**2023-12-13**|**C-BEV: Contrastive Bird's Eye View Training for Cross-View Image Retrieval and 3-DoF Pose Estimation**|Florian Fervers et.al.|[2312.08060](http://arxiv.org/abs/2312.08060)|null|
@@ -1281,6 +1286,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-18**|**Country-Scale Cropland Mapping in Data-Scarce Settings Using Deep Learning: A Case Study of Nigeria**|Joaquin Gajardo et.al.|[2312.10872](http://arxiv.org/abs/2312.10872)|null|
+|**2023-12-16**|**Paloma: A Benchmark for Evaluating Language Model Fit**|Ian Magnusson et.al.|[2312.10523](http://arxiv.org/abs/2312.10523)|null|
+|**2023-12-14**|**Introspecting the Happiness amongst University Students using Machine Learning**|Sakshi Ranjan et.al.|[2312.10092](http://arxiv.org/abs/2312.10092)|null|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372](http://arxiv.org/abs/2312.08372)|null|
 |**2023-12-13**|**Low Surface Brightness Galaxies selected by different model fitting**|Bing-qing Zhang et.al.|[2312.08179](http://arxiv.org/abs/2312.08179)|null|
 |**2023-12-11**|**Learning Polynomial Representations of Physical Objects with Application to Certifying Correct Packing Configurations**|Morgan Jones et.al.|[2312.06791](http://arxiv.org/abs/2312.06791)|null|
