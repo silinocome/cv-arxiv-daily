@@ -14,9 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Secure Authentication Mechanism for Cluster based Vehicular Adhoc Network (VANET): A Survey**|Rabia Nasir et.al.|[2312.12925](http://arxiv.org/abs/2312.12925)|null|
 |**2023-12-16**|**Self-supervised Adaptive Weighting for Cooperative Perception in V2V Communications**|Chenguang Liu et.al.|[2312.10342](http://arxiv.org/abs/2312.10342)|null|
 |**2023-12-15**|**Methodologies for Future Vehicular Digital Twins**|Danilo Radovic et.al.|[2312.09902](http://arxiv.org/abs/2312.09902)|null|
-|**2023-12-15**|**Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception**|Xiao Wang et.al.|[2312.09812](http://arxiv.org/abs/2312.09812)|null|
+|**2023-12-15**|**Structural Information Guided Multimodal Pre-training for Vehicle-centric Perception**|Xiao Wang et.al.|[2312.09812](http://arxiv.org/abs/2312.09812)|**[link](https://github.com/event-ahu/vehiclemae)**|
 |**2023-12-14**|**A Sim-to-Real Deep Learning-based Framework for Autonomous Nano-drone Racing**|Lorenzo Lamberti et.al.|[2312.08991](http://arxiv.org/abs/2312.08991)|null|
 |**2023-12-13**|**A Survey of Generative AI for Intelligent Transportation Systems**|Huan Yan et.al.|[2312.08248](http://arxiv.org/abs/2312.08248)|null|
 |**2023-12-13**|**Zero-Knowledge Proof of Traffic: A Deterministic and Privacy-Preserving Cross Verification Mechanism for Cooperative Perception Data**|Ye Tao et.al.|[2312.07948](http://arxiv.org/abs/2312.07948)|null|
@@ -305,6 +306,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Efficient Verification-Based Face Identification**|Amit Rozner et.al.|[2312.13240](http://arxiv.org/abs/2312.13240)|null|
 |**2023-12-19**|**IKT-BT: Indirect Knowledge Transfer Behavior Tree Framework for Multi-Robot Systems Through Communication Eavesdropping**|Sanjay Oruganti et.al.|[2312.11802](http://arxiv.org/abs/2312.11802)|**[link](https://github.com/herolab-uga/IKTBT-Release)**|
 |**2023-12-06**|**The Cost Function of a Two-Level Inventory System with identical retailers benefitting from Information Sharing**|Amir Hosein Afshar Sedigh et.al.|[2312.03898](http://arxiv.org/abs/2312.03898)|null|
 |**2023-12-02**|**Virtual Category Learning: A Semi-Supervised Learning Method for Dense Prediction with Extremely Limited Labels**|Changrui Chen et.al.|[2312.01169](http://arxiv.org/abs/2312.01169)|**[link](https://github.com/geoffreychen777/vc)**|
@@ -480,6 +482,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Gappy local conformal auto-encoders for heterogeneous data fusion: in praise of rigidity**|Erez Peterfreund et.al.|[2312.13155](http://arxiv.org/abs/2312.13155)|null|
 |**2023-12-18**|**From Generalized Laughter to Personalized Chuckles: Unleashing the Power of Data Fusion in Subjective Humor Detection**|Julita Bielaniewicz et.al.|[2312.11296](http://arxiv.org/abs/2312.11296)|null|
 |**2023-12-15**|**A wearable Gait Assessment Method for Lumbar Disc Herniation Based on Adaptive Kalman Filtering**|Yongsong Wang et.al.|[2312.09517](http://arxiv.org/abs/2312.09517)|null|
 |**2023-12-14**|**Learned Fusion: 3D Object Detection using Calibration-Free Transformer Feature Fusion**|Michael Fürst et.al.|[2312.09082](http://arxiv.org/abs/2312.09082)|null|
@@ -741,7 +744,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-19**|**VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering**|Chun-Mei Feng et.al.|[2312.12273](http://arxiv.org/abs/2312.12273)|null|
-|**2023-12-18**|**Advancing Image Retrieval with Few-Shot Learning and Relevance Feedback**|Boaz Lerner et.al.|[2312.11078](http://arxiv.org/abs/2312.11078)|null|
+|**2023-12-18**|**Advancing Image Retrieval with Few-Shot Learning and Relevance Feedback**|Boaz Lerner et.al.|[2312.11078](http://arxiv.org/abs/2312.11078)|**[link](https://github.com/eccv22-ood-workshop/eccv22-ood-workshop.github.io)**|
 |**2023-12-17**|**PNeRFLoc: Visual Localization with Point-based Neural Radiance Fields**|Boming Zhao et.al.|[2312.10649](http://arxiv.org/abs/2312.10649)|null|
 |**2023-12-16**|**Symmetrical Bidirectional Knowledge Alignment for Zero-Shot Sketch-Based Image Retrieval**|Decheng Liu et.al.|[2312.10320](http://arxiv.org/abs/2312.10320)|null|
 |**2023-12-15**|**Data-Efficient Multimodal Fusion on a Single GPU**|Noël Vouitsis et.al.|[2312.10144](http://arxiv.org/abs/2312.10144)|**[link](https://github.com/layer6ai-labs/fusemix)**|
@@ -1016,6 +1019,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480](http://arxiv.org/abs/2312.12480)|null|
 |**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
 |**2023-11-28**|**Riemannian Self-Attention Mechanism for SPD Networks**|Rui Wang et.al.|[2311.16738](http://arxiv.org/abs/2311.16738)|null|
 |**2023-11-27**|**A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor**|Jialin Liu et.al.|[2311.15609](http://arxiv.org/abs/2311.15609)|null|
@@ -1291,11 +1295,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Inferring the dynamics of ionic currents from recursive piecewise data assimilation of approximate neuron models**|Stephen A. Wells et.al.|[2312.12888](http://arxiv.org/abs/2312.12888)|null|
+|**2023-12-20**|**Realistic Rainy Weather Simulation for LiDARs in CARLA Simulator**|Donglin Yang et.al.|[2312.12772](http://arxiv.org/abs/2312.12772)|**[link](https://github.com/pjlab-adg/pcsim)**|
+|**2023-12-20**|**Magellan/M2FS and MMT/Hectochelle Spectroscopy of Dwarf Galaxies and Faint Star Clusters within the Galactic Halo**|Matthew G. Walker et.al.|[2312.12738](http://arxiv.org/abs/2312.12738)|null|
 |**2023-12-19**|**Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas**|Alperen Enes Bayar et.al.|[2312.11880](http://arxiv.org/abs/2312.11880)|null|
 |**2023-12-18**|**UniForCE: The Unimodality Forest Method for Clustering and Estimation of the Number of Clusters**|Georgios Vardakas et.al.|[2312.11323](http://arxiv.org/abs/2312.11323)|null|
-|**2023-12-18**|**Self-Supervised Learning for Image Super-Resolution and Deblurring**|Jérémy Scanvic et.al.|[2312.11232](http://arxiv.org/abs/2312.11232)|null|
-|**2023-12-18**|**ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding**|Lunhao Duan et.al.|[2312.11112](http://arxiv.org/abs/2312.11112)|null|
-|**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng et.al.|[2312.11051](http://arxiv.org/abs/2312.11051)|null|
+|**2023-12-18**|**Self-Supervised Learning for Image Super-Resolution and Deblurring**|Jérémy Scanvic et.al.|[2312.11232](http://arxiv.org/abs/2312.11232)|**[link](https://github.com/jscanvic/scale-equivariant-imaging)**|
+|**2023-12-18**|**ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding**|Lunhao Duan et.al.|[2312.11112](http://arxiv.org/abs/2312.11112)|**[link](https://github.com/lhduan/condaformer)**|
+|**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng et.al.|[2312.11051](http://arxiv.org/abs/2312.11051)|**[link](https://github.com/liangp/mcstn-3dsot)**|
 |**2023-12-18**|**Country-Scale Cropland Mapping in Data-Scarce Settings Using Deep Learning: A Case Study of Nigeria**|Joaquin Gajardo et.al.|[2312.10872](http://arxiv.org/abs/2312.10872)|**[link](https://github.com/joaquin-gajardo/nigeria-crop-mask)**|
 |**2023-12-16**|**Paloma: A Benchmark for Evaluating Language Model Fit**|Ian Magnusson et.al.|[2312.10523](http://arxiv.org/abs/2312.10523)|null|
 |**2023-12-14**|**Introspecting the Happiness amongst University Students using Machine Learning**|Sakshi Ranjan et.al.|[2312.10092](http://arxiv.org/abs/2312.10092)|null|
@@ -1340,9 +1347,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-20**|**Realistic Rainy Weather Simulation for LiDARs in CARLA Simulator**|Donglin Yang et.al.|[2312.12772](http://arxiv.org/abs/2312.12772)|**[link](https://github.com/pjlab-adg/pcsim)**|
 |**2023-12-19**|**Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas**|Alperen Enes Bayar et.al.|[2312.11880](http://arxiv.org/abs/2312.11880)|null|
-|**2023-12-18**|**ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding**|Lunhao Duan et.al.|[2312.11112](http://arxiv.org/abs/2312.11112)|null|
-|**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng et.al.|[2312.11051](http://arxiv.org/abs/2312.11051)|null|
+|**2023-12-18**|**ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding**|Lunhao Duan et.al.|[2312.11112](http://arxiv.org/abs/2312.11112)|**[link](https://github.com/lhduan/condaformer)**|
+|**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng et.al.|[2312.11051](http://arxiv.org/abs/2312.11051)|**[link](https://github.com/liangp/mcstn-3dsot)**|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372](http://arxiv.org/abs/2312.08372)|null|
 |**2023-12-10**|**Investigating YOLO Models Towards Outdoor Obstacle Detection For Visually Impaired People**|Chenhao He et.al.|[2312.07571](http://arxiv.org/abs/2312.07571)|null|
 |**2023-12-11**|**Learning Polynomial Representations of Physical Objects with Application to Certifying Correct Packing Configurations**|Morgan Jones et.al.|[2312.06791](http://arxiv.org/abs/2312.06791)|null|
