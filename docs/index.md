@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.20
+## Updated on 2023.12.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -305,7 +305,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-19**|**IKT-BT: Indirect Knowledge Transfer Behavior Tree Framework for Multi-Robot Systems Through Communication Eavesdropping**|Sanjay Oruganti et.al.|[2312.11802](http://arxiv.org/abs/2312.11802)|null|
+|**2023-12-19**|**IKT-BT: Indirect Knowledge Transfer Behavior Tree Framework for Multi-Robot Systems Through Communication Eavesdropping**|Sanjay Oruganti et.al.|[2312.11802](http://arxiv.org/abs/2312.11802)|**[link](https://github.com/herolab-uga/IKTBT-Release)**|
 |**2023-12-06**|**The Cost Function of a Two-Level Inventory System with identical retailers benefitting from Information Sharing**|Amir Hosein Afshar Sedigh et.al.|[2312.03898](http://arxiv.org/abs/2312.03898)|null|
 |**2023-12-02**|**Virtual Category Learning: A Semi-Supervised Learning Method for Dense Prediction with Extremely Limited Labels**|Changrui Chen et.al.|[2312.01169](http://arxiv.org/abs/2312.01169)|**[link](https://github.com/geoffreychen777/vc)**|
 |**2023-11-30**|**Fool the Hydra: Adversarial Attacks against Multi-view Object Detection Systems**|Bilel Tarchoun et.al.|[2312.00173](http://arxiv.org/abs/2312.00173)|null|
@@ -1296,7 +1296,7 @@ layout: default
 |**2023-12-18**|**Self-Supervised Learning for Image Super-Resolution and Deblurring**|Jérémy Scanvic et.al.|[2312.11232](http://arxiv.org/abs/2312.11232)|null|
 |**2023-12-18**|**ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding**|Lunhao Duan et.al.|[2312.11112](http://arxiv.org/abs/2312.11112)|null|
 |**2023-12-18**|**Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking**|Shihao Feng et.al.|[2312.11051](http://arxiv.org/abs/2312.11051)|null|
-|**2023-12-18**|**Country-Scale Cropland Mapping in Data-Scarce Settings Using Deep Learning: A Case Study of Nigeria**|Joaquin Gajardo et.al.|[2312.10872](http://arxiv.org/abs/2312.10872)|null|
+|**2023-12-18**|**Country-Scale Cropland Mapping in Data-Scarce Settings Using Deep Learning: A Case Study of Nigeria**|Joaquin Gajardo et.al.|[2312.10872](http://arxiv.org/abs/2312.10872)|**[link](https://github.com/joaquin-gajardo/nigeria-crop-mask)**|
 |**2023-12-16**|**Paloma: A Benchmark for Evaluating Language Model Fit**|Ian Magnusson et.al.|[2312.10523](http://arxiv.org/abs/2312.10523)|null|
 |**2023-12-14**|**Introspecting the Happiness amongst University Students using Machine Learning**|Sakshi Ranjan et.al.|[2312.10092](http://arxiv.org/abs/2312.10092)|null|
 |**2023-12-13**|**SAM-guided Graph Cut for 3D Instance Segmentation**|Haoyu Guo et.al.|[2312.08372](http://arxiv.org/abs/2312.08372)|null|
