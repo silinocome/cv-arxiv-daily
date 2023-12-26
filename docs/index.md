@@ -14,8 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Cybersecurity in Motion: A Survey of Challenges and Requirements for Future Test Facilities of CAVs**|Ioannis Mavromatis et.al.|[2312.14687](http://arxiv.org/abs/2312.14687)|null|
 |**2023-12-21**|**Towards Cooperative VRUs: Optimal Positioning Sampling for Pedestrian Awareness Messages**|Jorge Martín-Pérez et.al.|[2312.14072](http://arxiv.org/abs/2312.14072)|null|
-|**2023-12-21**|**The Smart Highway to Babel: the coexistence of different generations of Intelligent Transport Systems**|Oscar Amador et.al.|[2312.13649](http://arxiv.org/abs/2312.13649)|null|
+|**2023-12-22**|**The Smart Highway to Babel: the coexistence of different generations of Intelligent Transport Systems**|Oscar Amador et.al.|[2312.13649](http://arxiv.org/abs/2312.13649)|null|
 |**2023-12-20**|**Secure Authentication Mechanism for Cluster based Vehicular Adhoc Network (VANET): A Survey**|Rabia Nasir et.al.|[2312.12925](http://arxiv.org/abs/2312.12925)|null|
 |**2023-12-16**|**Self-supervised Adaptive Weighting for Cooperative Perception in V2V Communications**|Chenguang Liu et.al.|[2312.10342](http://arxiv.org/abs/2312.10342)|null|
 |**2023-12-15**|**Methodologies for Future Vehicular Digital Twins**|Danilo Radovic et.al.|[2312.09902](http://arxiv.org/abs/2312.09902)|null|
@@ -484,6 +485,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots**|Christian Lanegger et.al.|[2312.14730](http://arxiv.org/abs/2312.14730)|null|
 |**2023-12-20**|**Gappy local conformal auto-encoders for heterogeneous data fusion: in praise of rigidity**|Erez Peterfreund et.al.|[2312.13155](http://arxiv.org/abs/2312.13155)|null|
 |**2023-12-18**|**From Generalized Laughter to Personalized Chuckles: Unleashing the Power of Data Fusion in Subjective Humor Detection**|Julita Bielaniewicz et.al.|[2312.11296](http://arxiv.org/abs/2312.11296)|null|
 |**2023-12-15**|**A wearable Gait Assessment Method for Lumbar Disc Herniation Based on Adaptive Kalman Filtering**|Yongsong Wang et.al.|[2312.09517](http://arxiv.org/abs/2312.09517)|null|
@@ -1146,6 +1148,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2023-12-18**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
 |**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152](http://arxiv.org/abs/2312.02152)|**[link](https://github.com/georg-bn/rotation-steerers)**|
@@ -1297,6 +1300,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-22**|**A Comptonized Fireball Bubble Fits the Second Extragalactic Magnetar Giant Flare GRB 231115A**|Yi-Han Iris Yin et.al.|[2312.14833](http://arxiv.org/abs/2312.14833)|null|
+|**2023-12-22**|**The XXL survey LII : The evolution of radio AGN luminosity function determined via parametric methods from GMRT, ATCA, VLA and Cambridge interferometer observations**|B. Šlaus et.al.|[2312.14683](http://arxiv.org/abs/2312.14683)|null|
+|**2023-12-22**|**The Hierarchical Structure of Galactic Haloes: Differentiating Clusters from Stochastic Clumping with \textsc{AstroLink}**|William H. Oliver et.al.|[2312.14632](http://arxiv.org/abs/2312.14632)|null|
+|**2023-12-22**|**FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection**|Dongmei Zhang et.al.|[2312.14465](http://arxiv.org/abs/2312.14465)|null|
+|**2023-12-21**|**Friends with Costs and Benefits: Community Formation with Myopic, Boundedly-Rational Actors**|Naina Balepur et.al.|[2312.14293](http://arxiv.org/abs/2312.14293)|null|
 |**2023-12-20**|**Inferring the dynamics of ionic currents from recursive piecewise data assimilation of approximate neuron models**|Stephen A. Wells et.al.|[2312.12888](http://arxiv.org/abs/2312.12888)|null|
 |**2023-12-20**|**Realistic Rainy Weather Simulation for LiDARs in CARLA Simulator**|Donglin Yang et.al.|[2312.12772](http://arxiv.org/abs/2312.12772)|**[link](https://github.com/pjlab-adg/pcsim)**|
 |**2023-12-20**|**Magellan/M2FS and MMT/Hectochelle Spectroscopy of Dwarf Galaxies and Faint Star Clusters within the Galactic Halo**|Matthew G. Walker et.al.|[2312.12738](http://arxiv.org/abs/2312.12738)|null|
