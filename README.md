@@ -499,7 +499,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-25**|**Notes on Information Propagation in Noisy Multichannel Data Models: Insights into Sensor Selection and Fusion in Multimodal Biomedical Applications**|Reza Sameni et.al.|[2312.15725](http://arxiv.org/abs/2312.15725)|null|
+|**2023-12-28**|**AI Powered Road Network Prediction with Multi-Modal Data**|Necip Enes Gengec et.al.|[2312.17040](http://arxiv.org/abs/2312.17040)|null|
+|**2023-12-27**|**Multi-channel Sensor Network Construction, Data Fusion and Challenges for Smart Home**|He Zhang et.al.|[2312.16697](http://arxiv.org/abs/2312.16697)|null|
+|**2023-12-27**|**Autonomous Driving using Residual Sensor Fusion and Deep Reinforcement Learning**|Amin Jalal Aghdasian et.al.|[2312.16620](http://arxiv.org/abs/2312.16620)|null|
+|**2023-12-27**|**Notes on Information Propagation in Noisy Multichannel Data Models: Insights into Sensor Selection and Fusion in Multimodal Biomedical Applications**|Reza Sameni et.al.|[2312.15725](http://arxiv.org/abs/2312.15725)|null|
 |**2023-12-22**|**To Fuse or Not to Fuse: Measuring Consistency in Multi-Sensor Fusion for Aerial Robots**|Christian Lanegger et.al.|[2312.14730](http://arxiv.org/abs/2312.14730)|null|
 |**2023-12-20**|**Gappy local conformal auto-encoders for heterogeneous data fusion: in praise of rigidity**|Erez Peterfreund et.al.|[2312.13155](http://arxiv.org/abs/2312.13155)|null|
 |**2023-12-18**|**From Generalized Laughter to Personalized Chuckles: Unleashing the Power of Data Fusion in Subjective Humor Detection**|Julita Bielaniewicz et.al.|[2312.11296](http://arxiv.org/abs/2312.11296)|null|
@@ -764,6 +767,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**LIP-Loc: LiDAR Image Pretraining for Cross-Modal Localization**|Sai Shubodh Puligilla et.al.|[2312.16648](http://arxiv.org/abs/2312.16648)|null|
 |**2023-12-26**|**Recursive Distillation for Open-Set Distributed Robot Localization**|Kenta Tsukahara et.al.|[2312.15897](http://arxiv.org/abs/2312.15897)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
 |**2023-12-23**|**CaLDiff: Camera Localization in NeRF via Pose Diffusion**|Rashik Shrestha et.al.|[2312.15242](http://arxiv.org/abs/2312.15242)|null|
@@ -1045,6 +1049,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
 |**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480](http://arxiv.org/abs/2312.12480)|null|
 |**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
@@ -1328,6 +1333,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution**|Ying Wang et.al.|[2312.17174](http://arxiv.org/abs/2312.17174)|**[link](https://github.com/yingwangg/m2ib)**|
+|**2023-12-28**|**Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera**|Hansol Lee et.al.|[2312.16842](http://arxiv.org/abs/2312.16842)|null|
+|**2023-12-28**|**Similar but Different: A Survey of Ground Segmentation and Traversability Estimation for Terrestrial Robots**|Hyungae Lim et.al.|[2312.16839](http://arxiv.org/abs/2312.16839)|null|
+|**2023-12-27**|**A pipeline for multiple orange detection and tracking with 3-D fruit relocalization and neural-net based yield regression in commercial citrus orchards**|Thiago T. Santos et.al.|[2312.16724](http://arxiv.org/abs/2312.16724)|null|
+|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|null|
+|**2023-12-27**|**Degrees-of-freedom penalized piecewise regression**|Stefan Volz et.al.|[2312.16512](http://arxiv.org/abs/2312.16512)|**[link](https://github.com/SV-97/pcw-regrs)**|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-23**|**Learning Multi-Step Manipulation Tasks from A Single Human Demonstration**|Dingkun Guo et.al.|[2312.15346](http://arxiv.org/abs/2312.15346)|null|
 |**2023-12-23**|**Self-Supervised Depth Completion Guided by 3D Perception and Geometry Consistency**|Yu Cai et.al.|[2312.15263](http://arxiv.org/abs/2312.15263)|null|
@@ -1390,6 +1401,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|null|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-20**|**Realistic Rainy Weather Simulation for LiDARs in CARLA Simulator**|Donglin Yang et.al.|[2312.12772](http://arxiv.org/abs/2312.12772)|**[link](https://github.com/pjlab-adg/pcsim)**|
 |**2023-12-19**|**Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas**|Alperen Enes Bayar et.al.|[2312.11880](http://arxiv.org/abs/2312.11880)|null|
