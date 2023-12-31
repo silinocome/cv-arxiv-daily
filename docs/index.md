@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.30
+## Updated on 2023.12.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1315,7 +1315,7 @@ layout: default
 |**2023-12-28**|**Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera**|Hansol Lee et.al.|[2312.16842](http://arxiv.org/abs/2312.16842)|null|
 |**2023-12-28**|**Similar but Different: A Survey of Ground Segmentation and Traversability Estimation for Terrestrial Robots**|Hyungae Lim et.al.|[2312.16839](http://arxiv.org/abs/2312.16839)|null|
 |**2023-12-27**|**A pipeline for multiple orange detection and tracking with 3-D fruit relocalization and neural-net based yield regression in commercial citrus orchards**|Thiago T. Santos et.al.|[2312.16724](http://arxiv.org/abs/2312.16724)|null|
-|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|null|
+|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
 |**2023-12-27**|**Degrees-of-freedom penalized piecewise regression**|Stefan Volz et.al.|[2312.16512](http://arxiv.org/abs/2312.16512)|**[link](https://github.com/SV-97/pcw-regrs)**|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-23**|**Learning Multi-Step Manipulation Tasks from A Single Human Demonstration**|Dingkun Guo et.al.|[2312.15346](http://arxiv.org/abs/2312.15346)|null|
@@ -1377,7 +1377,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|null|
+|**2023-12-27**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li Qingyuan Xu Jing Zhang Tianyi Zhang Qian Yu Lu Sheng Dong Xu et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
 |**2023-12-20**|**Realistic Rainy Weather Simulation for LiDARs in CARLA Simulator**|Donglin Yang et.al.|[2312.12772](http://arxiv.org/abs/2312.12772)|**[link](https://github.com/pjlab-adg/pcsim)**|
 |**2023-12-19**|**Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas**|Alperen Enes Bayar et.al.|[2312.11880](http://arxiv.org/abs/2312.11880)|null|
