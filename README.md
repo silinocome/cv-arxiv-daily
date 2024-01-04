@@ -503,6 +503,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822](http://arxiv.org/abs/2401.01822)|null|
 |**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304](http://arxiv.org/abs/2401.01304)|null|
 |**2024-01-02**|**Privacy Preserving Personal Assistant with On-Device Diarization and Spoken Dialogue System for Home and Beyond**|Gérard Chollet et.al.|[2401.01146](http://arxiv.org/abs/2401.01146)|null|
 |**2023-12-28**|**AI Powered Road Network Prediction with Multi-Modal Data**|Necip Enes Gengec et.al.|[2312.17040](http://arxiv.org/abs/2312.17040)|null|
@@ -1187,6 +1188,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
+|**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574](http://arxiv.org/abs/2401.01574)|null|
 |**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|null|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2023-12-18**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
@@ -1342,12 +1345,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**A spatial mixture model for spaceborne lidar observations over mixed forest and non-forest land types**|Paul B. May et.al.|[2401.01848](http://arxiv.org/abs/2401.01848)|null|
+|**2024-01-02**|**Euclid preparation: TBD. The pre-launch Science Ground Segment simulation framework**|Euclid Collaboration et.al.|[2401.01452](http://arxiv.org/abs/2401.01452)|null|
 |**2024-01-01**|**Factor Importance Ranking and Selection using Total Indices**|Chaofan Huang et.al.|[2401.00800](http://arxiv.org/abs/2401.00800)|null|
 |**2023-12-29**|**A Fully Automated Pipeline Using Swin Transformers for Deep Learning-Based Blood Segmentation on Head CT Scans After Aneurysmal Subarachnoid Hemorrhage**|Sergio Garcia Garcia et.al.|[2312.17553](http://arxiv.org/abs/2312.17553)|null|
 |**2023-12-29**|**Comparing roughness descriptors for distinct terrain surfaces in point cloud data**|Lei Fan et.al.|[2312.17407](http://arxiv.org/abs/2312.17407)|null|
 |**2023-12-28**|**Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution**|Ying Wang et.al.|[2312.17174](http://arxiv.org/abs/2312.17174)|**[link](https://github.com/yingwangg/m2ib)**|
 |**2023-12-28**|**Dynamic Appearance Modeling of Clothed 3D Human Avatars using a Single Camera**|Hansol Lee et.al.|[2312.16842](http://arxiv.org/abs/2312.16842)|null|
-|**2023-12-28**|**Similar but Different: A Survey of Ground Segmentation and Traversability Estimation for Terrestrial Robots**|Hyungae Lim et.al.|[2312.16839](http://arxiv.org/abs/2312.16839)|null|
+|**2024-01-03**|**Similar but Different: A Survey of Ground Segmentation and Traversability Estimation for Terrestrial Robots**|Hyungtae Lim et.al.|[2312.16839](http://arxiv.org/abs/2312.16839)|null|
 |**2023-12-27**|**A pipeline for multiple orange detection and tracking with 3-D fruit relocalization and neural-net based yield regression in commercial citrus orchards**|Thiago T. Santos et.al.|[2312.16724](http://arxiv.org/abs/2312.16724)|null|
 |**2023-12-29**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
 |**2023-12-27**|**Degrees-of-freedom penalized piecewise regression**|Stefan Volz et.al.|[2312.16512](http://arxiv.org/abs/2312.16512)|**[link](https://github.com/SV-97/pcw-regrs)**|
@@ -1413,6 +1418,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-02**|**Off-Road LiDAR Intensity Based Semantic Segmentation**|Kasi Viswanath et.al.|[2401.01439](http://arxiv.org/abs/2401.01439)|**[link](https://github.com/moonlabiiserb/lidar-intensity-predictor)**|
 |**2023-12-29**|**Comparing roughness descriptors for distinct terrain surfaces in point cloud data**|Lei Fan et.al.|[2312.17407](http://arxiv.org/abs/2312.17407)|null|
 |**2023-12-29**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
 |**2023-12-26**|**VirtualPainting: Addressing Sparsity with Virtual Points and Distance-Aware Data Augmentation for 3D Object Detection**|Sudip Dhakal et.al.|[2312.16141](http://arxiv.org/abs/2312.16141)|null|
