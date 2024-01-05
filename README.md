@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications**|Abdulkadir Kose et.al.|[2401.02323](http://arxiv.org/abs/2401.02323)|null|
 |**2024-01-02**|**DTBS: Dual-Teacher Bi-directional Self-training for Domain Adaptation in Nighttime Semantic Segmentation**|Fanding Huang et.al.|[2401.01066](http://arxiv.org/abs/2401.01066)|**[link](https://github.com/hf618/dtbs)**|
 |**2024-01-02**|**A Survey on Graph Neural Networks in Intelligent Transportation Systems**|Hourun Li et.al.|[2401.00713](http://arxiv.org/abs/2401.00713)|null|
 |**2023-12-31**|**V2X communication coverage analysis for connected vehicles in intelligent transportation networks: A case study for the city of Xanthi, Greece**|Evangelos Bazinas et.al.|[2401.00465](http://arxiv.org/abs/2401.00465)|null|
@@ -324,6 +325,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-03**|**How does Observational Learning Impact Crowdfunding Outcomes for Backers, Project Creators and Platforms?**|Ayse Aslan et.al.|[2401.01995](http://arxiv.org/abs/2401.01995)|null|
 |**2024-01-01**|**Personalized Dynamic Pricing Policy for Electric Vehicles: Reinforcement learning approach**|Sangjun Bae et.al.|[2401.00661](http://arxiv.org/abs/2401.00661)|null|
 |**2023-12-20**|**Efficient Verification-Based Face Identification**|Amit Rozner et.al.|[2312.13240](http://arxiv.org/abs/2312.13240)|null|
 |**2023-12-19**|**IKT-BT: Indirect Knowledge Transfer Behavior Tree Framework for Multi-Robot Systems Through Communication Eavesdropping**|Sanjay Oruganti et.al.|[2312.11802](http://arxiv.org/abs/2312.11802)|**[link](https://github.com/herolab-uga/IKTBT-Release)**|
@@ -503,10 +505,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-03**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822](http://arxiv.org/abs/2401.01822)|null|
+|**2024-01-04**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822](http://arxiv.org/abs/2401.01822)|null|
 |**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304](http://arxiv.org/abs/2401.01304)|null|
 |**2024-01-02**|**Privacy Preserving Personal Assistant with On-Device Diarization and Spoken Dialogue System for Home and Beyond**|Gérard Chollet et.al.|[2401.01146](http://arxiv.org/abs/2401.01146)|null|
-|**2023-12-28**|**AI Powered Road Network Prediction with Multi-Modal Data**|Necip Enes Gengec et.al.|[2312.17040](http://arxiv.org/abs/2312.17040)|null|
+|**2023-12-28**|**AI Powered Road Network Prediction with Multi-Modal Data**|Necip Enes Gengec et.al.|[2312.17040](http://arxiv.org/abs/2312.17040)|**[link](https://github.com/nagellette/sentinel_traj_nn)**|
 |**2023-12-27**|**Multi-channel Sensor Network Construction, Data Fusion and Challenges for Smart Home**|He Zhang et.al.|[2312.16697](http://arxiv.org/abs/2312.16697)|null|
 |**2023-12-27**|**Autonomous Driving using Residual Sensor Fusion and Deep Reinforcement Learning**|Amin Jalal Aghdasian et.al.|[2312.16620](http://arxiv.org/abs/2312.16620)|null|
 |**2023-12-27**|**Notes on Information Propagation in Noisy Multichannel Data Models: Insights into Sensor Selection and Fusion in Multimodal Biomedical Applications**|Reza Sameni et.al.|[2312.15725](http://arxiv.org/abs/2312.15725)|null|
@@ -1345,6 +1347,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**SPT Clusters with DES and HST Weak Lensing. II. Cosmological Constraints from the Abundance of Massive Halos**|S. Bocquet et.al.|[2401.02075](http://arxiv.org/abs/2401.02075)|null|
 |**2024-01-03**|**A spatial mixture model for spaceborne lidar observations over mixed forest and non-forest land types**|Paul B. May et.al.|[2401.01848](http://arxiv.org/abs/2401.01848)|null|
 |**2024-01-02**|**Euclid preparation: TBD. The pre-launch Science Ground Segment simulation framework**|Euclid Collaboration et.al.|[2401.01452](http://arxiv.org/abs/2401.01452)|null|
 |**2024-01-01**|**Factor Importance Ranking and Selection using Total Indices**|Chaofan Huang et.al.|[2401.00800](http://arxiv.org/abs/2401.00800)|null|
