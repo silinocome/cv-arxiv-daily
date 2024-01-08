@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Predicting Traffic Flow with Federated Learning and Graph Neural with Asynchronous Computations Network**|Muhammad Yaqub et.al.|[2401.02723](http://arxiv.org/abs/2401.02723)|null|
 |**2024-01-04**|**Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications**|Abdulkadir Kose et.al.|[2401.02323](http://arxiv.org/abs/2401.02323)|null|
 |**2024-01-02**|**DTBS: Dual-Teacher Bi-directional Self-training for Domain Adaptation in Nighttime Semantic Segmentation**|Fanding Huang et.al.|[2401.01066](http://arxiv.org/abs/2401.01066)|**[link](https://github.com/hf618/dtbs)**|
 |**2024-01-02**|**A Survey on Graph Neural Networks in Intelligent Transportation Systems**|Hourun Li et.al.|[2401.00713](http://arxiv.org/abs/2401.00713)|null|
@@ -505,6 +506,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Fus-MAE: A cross-attention-based data fusion approach for Masked Autoencoders in remote sensing**|Hugo Chan-To-Hing et.al.|[2401.02764](http://arxiv.org/abs/2401.02764)|null|
 |**2024-01-04**|**HawkRover: An Autonomous mmWave Vehicular Communication Testbed with Multi-sensor Fusion and Deep Learning**|Ethan Zhu et.al.|[2401.01822](http://arxiv.org/abs/2401.01822)|null|
 |**2024-01-02**|**Experimental Validation of Sensor Fusion-based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles**|Sagar Dasgupta et.al.|[2401.01304](http://arxiv.org/abs/2401.01304)|null|
 |**2024-01-02**|**Privacy Preserving Personal Assistant with On-Device Diarization and Spoken Dialogue System for Home and Beyond**|Gérard Chollet et.al.|[2401.01146](http://arxiv.org/abs/2401.01146)|null|
@@ -776,6 +778,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**Benchmarking PathCLIP for Pathology Image Analysis**|Sunyi Zheng et.al.|[2401.02651](http://arxiv.org/abs/2401.02651)|null|
 |**2024-01-02**|**BEV-CLIP: Multi-modal BEV Retrieval Methodology for Complex Scene in Autonomous Driving**|Dafeng Wei et.al.|[2401.01065](http://arxiv.org/abs/2401.01065)|null|
 |**2023-12-31**|**Multi-Granularity Representation Learning for Sketch-based Dynamic Face Image Retrieval**|Liang Wang et.al.|[2401.00371](http://arxiv.org/abs/2401.00371)|**[link](https://github.com/ddw2aigroup2cqupt/mgrl)**|
 |**2023-12-29**|**Bayesian Recursive Information Optical Imaging: A Ghost Imaging Scheme Based on Bayesian Filtering**|Long-Kun Du et.al.|[2401.00032](http://arxiv.org/abs/2401.00032)|null|
@@ -1190,11 +1193,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574](http://arxiv.org/abs/2401.01574)|null|
 |**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|null|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
-|**2023-12-18**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
+|**2024-01-05**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
 |**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152](http://arxiv.org/abs/2312.02152)|**[link](https://github.com/georg-bn/rotation-steerers)**|
 |**2023-11-30**|**DSeg: Direct Line Segments Detection**|Berger Cyrille et.al.|[2311.18344](http://arxiv.org/abs/2311.18344)|null|
