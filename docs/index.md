@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**Physical Layer Security Performance of Dual RIS-aided V2V NOMA Communications**|Farshad Rostami Ghadi et.al.|[2401.04059](http://arxiv.org/abs/2401.04059)|null|
+|**2024-01-07**|**Real-Time Asphalt Pavement Layer Thickness Prediction Using Ground-Penetrating Radar Based on a Modified Extended Common Mid-Point (XCMP) Approach**|Siqi Wang et.al.|[2401.03375](http://arxiv.org/abs/2401.03375)|null|
 |**2024-01-05**|**Predicting Traffic Flow with Federated Learning and Graph Neural with Asynchronous Computations Network**|Muhammad Yaqub et.al.|[2401.02723](http://arxiv.org/abs/2401.02723)|null|
 |**2024-01-04**|**Multi-Agent Context Learning Strategy for Interference-Aware Beam Allocation in mmWave Vehicular Communications**|Abdulkadir Kose et.al.|[2401.02323](http://arxiv.org/abs/2401.02323)|null|
 |**2024-01-02**|**DTBS: Dual-Teacher Bi-directional Self-training for Domain Adaptation in Nighttime Semantic Segmentation**|Fanding Huang et.al.|[2401.01066](http://arxiv.org/abs/2401.01066)|**[link](https://github.com/hf618/dtbs)**|
@@ -1329,6 +1331,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**A Wasserstein Graph Distance Based on Distributions of Probabilistic Node Embeddings**|Michael Scholkemper et.al.|[2401.03913](http://arxiv.org/abs/2401.03913)|null|
+|**2024-01-08**|**Lessons Learned Reproducibility, Replicability, and When to Stop**|Milton S. Gomez et.al.|[2401.03736](http://arxiv.org/abs/2401.03736)|null|
 |**2024-01-04**|**SPT Clusters with DES and HST Weak Lensing. II. Cosmological Constraints from the Abundance of Massive Halos**|S. Bocquet et.al.|[2401.02075](http://arxiv.org/abs/2401.02075)|null|
 |**2024-01-03**|**A spatial mixture model for spaceborne lidar observations over mixed forest and non-forest land types**|Paul B. May et.al.|[2401.01848](http://arxiv.org/abs/2401.01848)|null|
 |**2024-01-02**|**Euclid preparation: TBD. The pre-launch Science Ground Segment simulation framework**|Euclid Collaboration et.al.|[2401.01452](http://arxiv.org/abs/2401.01452)|null|
