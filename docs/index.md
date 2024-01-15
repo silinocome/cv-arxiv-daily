@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[2401.06757](http://arxiv.org/abs/2401.06757)|null|
+|**2024-01-12**|**A Prototype on the Feasibility of Learning Spatial Provenance in XBee and LoRa Networks**|Manish Bansal et.al.|[2401.06638](http://arxiv.org/abs/2401.06638)|null|
 |**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040](http://arxiv.org/abs/2401.06040)|**[link](https://github.com/qqian99/wavgcrn)**|
 |**2024-01-10**|**Current Effect-eliminated Optimal Target Assignment and Motion Planning for a Multi-UUV System**|Danjie Zhu et.al.|[2401.05521](http://arxiv.org/abs/2401.05521)|null|
 |**2024-01-10**|**Digital Retina for IoV Towards 6G: Architecture, Opportunities, and Challenges**|Kan Zheng et.al.|[2401.04916](http://arxiv.org/abs/2401.04916)|null|
@@ -1347,7 +1349,7 @@ layout: default
 |**2024-01-04**|**SPT Clusters with DES and HST Weak Lensing. II. Cosmological Constraints from the Abundance of Massive Halos**|S. Bocquet et.al.|[2401.02075](http://arxiv.org/abs/2401.02075)|null|
 |**2024-01-03**|**A spatial mixture model for spaceborne lidar observations over mixed forest and non-forest land types**|Paul B. May et.al.|[2401.01848](http://arxiv.org/abs/2401.01848)|null|
 |**2024-01-02**|**Euclid preparation: TBD. The pre-launch Science Ground Segment simulation framework**|Euclid Collaboration et.al.|[2401.01452](http://arxiv.org/abs/2401.01452)|null|
-|**2024-01-01**|**Factor Importance Ranking and Selection using Total Indices**|Chaofan Huang et.al.|[2401.00800](http://arxiv.org/abs/2401.00800)|null|
+|**2024-01-12**|**Factor Importance Ranking and Selection using Total Indices**|Chaofan Huang et.al.|[2401.00800](http://arxiv.org/abs/2401.00800)|null|
 |**2023-12-29**|**A Fully Automated Pipeline Using Swin Transformers for Deep Learning-Based Blood Segmentation on Head CT Scans After Aneurysmal Subarachnoid Hemorrhage**|Sergio Garcia Garcia et.al.|[2312.17553](http://arxiv.org/abs/2312.17553)|null|
 |**2023-12-29**|**Comparing roughness descriptors for distinct terrain surfaces in point cloud data**|Lei Fan et.al.|[2312.17407](http://arxiv.org/abs/2312.17407)|null|
 |**2023-12-28**|**Visual Explanations of Image-Text Representations via Multi-Modal Information Bottleneck Attribution**|Ying Wang et.al.|[2312.17174](http://arxiv.org/abs/2312.17174)|**[link](https://github.com/yingwangg/m2ib)**|
@@ -1416,6 +1418,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**A Stochastic Approach to Classification Error Estimates in Convolutional Neural Networks**|Jan Peleska et.al.|[2401.06156](http://arxiv.org/abs/2401.06156)|null|
 |**2024-01-02**|**Off-Road LiDAR Intensity Based Semantic Segmentation**|Kasi Viswanath et.al.|[2401.01439](http://arxiv.org/abs/2401.01439)|**[link](https://github.com/moonlabiiserb/lidar-intensity-predictor)**|
 |**2023-12-29**|**Comparing roughness descriptors for distinct terrain surfaces in point cloud data**|Lei Fan et.al.|[2312.17407](http://arxiv.org/abs/2312.17407)|null|
 |**2023-12-29**|**Multi-modality Affinity Inference for Weakly Supervised 3D Semantic Segmentation**|Xiawei Li et.al.|[2312.16578](http://arxiv.org/abs/2312.16578)|**[link](https://github.com/sunny599/aaai24-3dwssg-mma)**|
