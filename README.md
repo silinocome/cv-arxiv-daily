@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**TUMTraf Event: Calibration and Fusion Resulting in a Dataset for Roadside Event-Based and RGB Cameras**|Christian Creß et.al.|[2401.08474](http://arxiv.org/abs/2401.08474)|null|
 |**2024-01-14**|**Vehicle Selection for C-V2X Mode 4 Based Federated Edge Learning Systems**|Qiong Wu et.al.|[2401.07224](http://arxiv.org/abs/2401.07224)|**[link](https://github.com/qiongwu86/vehicle-selection-for-c-v2x)**|
 |**2024-01-12**|**A Survey on the Applications of Frontier AI, Foundation Models, and Large Language Models to Intelligent Transportation Systems**|Mohamed R. Shoaib et.al.|[2401.06831](http://arxiv.org/abs/2401.06831)|null|
 |**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[2401.06757](http://arxiv.org/abs/2401.06757)|null|
@@ -336,6 +337,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**Exploring the Diversity of Music Experiences for Deaf and Hard of Hearing People**|Kyrie Zhixuan Zhou et.al.|[2401.09025](http://arxiv.org/abs/2401.09025)|null|
+|**2023-12-25**|**Digital Twins for Autonomous Driving: A Comprehensive Implementation and Demonstration**|Kui Wang et.al.|[2401.08653](http://arxiv.org/abs/2401.08653)|null|
 |**2024-01-03**|**How does Observational Learning Impact Crowdfunding Outcomes for Backers, Project Creators and Platforms?**|Ayse Aslan et.al.|[2401.01995](http://arxiv.org/abs/2401.01995)|null|
 |**2024-01-01**|**Personalized Dynamic Pricing Policy for Electric Vehicles: Reinforcement learning approach**|Sangjun Bae et.al.|[2401.00661](http://arxiv.org/abs/2401.00661)|null|
 |**2023-12-20**|**Efficient Verification-Based Face Identification**|Amit Rozner et.al.|[2312.13240](http://arxiv.org/abs/2312.13240)|null|
@@ -516,6 +519,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**A Multi-Agent Security Testbed for the Analysis of Attacks and Defenses in Collaborative Sensor Fusion**|R. Spencer Hallyburton et.al.|[2401.09387](http://arxiv.org/abs/2401.09387)|null|
+|**2024-01-17**|**Your blush gives you away: detecting hidden mental states with remote photoplethysmography and thermal imaging**|Ivan Liu et.al.|[2401.09145](http://arxiv.org/abs/2401.09145)|null|
+|**2024-01-16**|**TUMTraf Event: Calibration and Fusion Resulting in a Dataset for Roadside Event-Based and RGB Cameras**|Christian Creß et.al.|[2401.08474](http://arxiv.org/abs/2401.08474)|null|
 |**2024-01-16**|**Physics-informed Meta-instrument for eXperiments (PiMiX) with applications to fusion energy**|Zhehui Wang et.al.|[2401.08390](http://arxiv.org/abs/2401.08390)|null|
 |**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836](http://arxiv.org/abs/2401.05836)|null|
 |**2024-01-09**|**Spatio-temporal data fusion for the analysis of in situ and remote sensing data using the INLA-SPDE approach**|Shiyu He et.al.|[2401.04723](http://arxiv.org/abs/2401.04723)|null|
@@ -1370,10 +1376,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
+|**2024-01-16**|**PPSURF: Combining Patches and Point Convolutions for Detailed Surface Reconstruction**|Philipp Erler et.al.|[2401.08518](http://arxiv.org/abs/2401.08518)|**[link](https://github.com/cg-tuwien/ppsurf)**|
 |**2024-01-16**|**Personalized Federated Learning of Probabilistic Models: A PAC-Bayesian Approach**|Mahrokh Ghoddousi Boroujeni et.al.|[2401.08351](http://arxiv.org/abs/2401.08351)|null|
 |**2024-01-16**|**A Two-Step Longstaff Schwartz Monte Carlo Approach to Game Option Pricing**|Ce Wang et.al.|[2401.08093](http://arxiv.org/abs/2401.08093)|null|
 |**2024-01-15**|**Online Learning of Piecewise Polynomial Signed Distance Fields for Manipulation Tasks**|Ante Marić et.al.|[2401.07698](http://arxiv.org/abs/2401.07698)|null|
-|**2024-01-13**|**IVIM-Morph: Motion-compensated quantitative Intra-voxel Incoherent Motion (IVIM) analysis for functional fetal lung maturity assessment from diffusion-weighted MRI data**|Noga Kertes et.al.|[2401.07126](http://arxiv.org/abs/2401.07126)|**[link](https://github.com/technioncomputationalmrilab/qdwi-morph)**|
+|**2024-01-17**|**IVIM-Morph: Motion-compensated quantitative Intra-voxel Incoherent Motion (IVIM) analysis for functional fetal lung maturity assessment from diffusion-weighted MRI data**|Noga Kertes et.al.|[2401.07126](http://arxiv.org/abs/2401.07126)|**[link](https://github.com/technioncomputationalmrilab/qdwi-morph)**|
 |**2024-01-13**|**A simple stochastic nonlinear AR model with application to bubble**|Xuanling Yang et.al.|[2401.07038](http://arxiv.org/abs/2401.07038)|null|
 |**2024-01-13**|**Class-Imbalanced Semi-Supervised Learning for Large-Scale Point Cloud Semantic Segmentation via Decoupling Optimization**|Mengtian Li et.al.|[2401.06975](http://arxiv.org/abs/2401.06975)|null|
 |**2024-01-12**|**Local Gamma Augmentation for Ischemic Stroke Lesion Segmentation on MRI**|Jon Middleton et.al.|[2401.06893](http://arxiv.org/abs/2401.06893)|null|
@@ -1456,6 +1464,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**PPSURF: Combining Patches and Point Convolutions for Detailed Surface Reconstruction**|Philipp Erler et.al.|[2401.08518](http://arxiv.org/abs/2401.08518)|**[link](https://github.com/cg-tuwien/ppsurf)**|
 |**2024-01-15**|**Online Learning of Piecewise Polynomial Signed Distance Fields for Manipulation Tasks**|Ante Marić et.al.|[2401.07698](http://arxiv.org/abs/2401.07698)|null|
 |**2024-01-13**|**Class-Imbalanced Semi-Supervised Learning for Large-Scale Point Cloud Semantic Segmentation via Decoupling Optimization**|Mengtian Li et.al.|[2401.06975](http://arxiv.org/abs/2401.06975)|null|
 |**2023-12-21**|**A Stochastic Approach to Classification Error Estimates in Convolutional Neural Networks**|Jan Peleska et.al.|[2401.06156](http://arxiv.org/abs/2401.06156)|null|
