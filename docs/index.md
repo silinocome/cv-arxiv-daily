@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-14**|**Vehicle Selection for C-V2X Mode 4 Based Federated Edge Learning Systems**|Qiong Wu et.al.|[2401.07224](http://arxiv.org/abs/2401.07224)|null|
+|**2024-01-14**|**Vehicle Selection for C-V2X Mode 4 Based Federated Edge Learning Systems**|Qiong Wu et.al.|[2401.07224](http://arxiv.org/abs/2401.07224)|**[link](https://github.com/qiongwu86/vehicle-selection-for-c-v2x)**|
 |**2024-01-12**|**A Survey on the Applications of Frontier AI, Foundation Models, and Large Language Models to Intelligent Transportation Systems**|Mohamed R. Shoaib et.al.|[2401.06831](http://arxiv.org/abs/2401.06831)|null|
 |**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[2401.06757](http://arxiv.org/abs/2401.06757)|null|
 |**2024-01-12**|**A Prototype on the Feasibility of Learning Spatial Provenance in XBee and LoRa Networks**|Manish Bansal et.al.|[2401.06638](http://arxiv.org/abs/2401.06638)|null|
