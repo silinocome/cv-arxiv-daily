@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134](http://arxiv.org/abs/2401.10134)|null|
+|**2024-01-18**|**Traffic Smoothing Controllers for Autonomous Vehicles Using Deep Reinforcement Learning and Real-World Trajectory Data**|Nathan Lichtlé et.al.|[2401.09666](http://arxiv.org/abs/2401.09666)|null|
 |**2024-01-16**|**TUMTraf Event: Calibration and Fusion Resulting in a Dataset for Roadside Event-Based and RGB Cameras**|Christian Creß et.al.|[2401.08474](http://arxiv.org/abs/2401.08474)|null|
 |**2024-01-14**|**Vehicle Selection for C-V2X Mode 4 Based Federated Edge Learning Systems**|Qiong Wu et.al.|[2401.07224](http://arxiv.org/abs/2401.07224)|**[link](https://github.com/qiongwu86/vehicle-selection-for-c-v2x)**|
 |**2024-01-12**|**A Survey on the Applications of Frontier AI, Foundation Models, and Large Language Models to Intelligent Transportation Systems**|Mohamed R. Shoaib et.al.|[2401.06831](http://arxiv.org/abs/2401.06831)|null|
@@ -505,6 +507,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**A-KIT: Adaptive Kalman-Informed Transformer**|Nadav Cohen et.al.|[2401.09987](http://arxiv.org/abs/2401.09987)|null|
 |**2024-01-17**|**A Multi-Agent Security Testbed for the Analysis of Attacks and Defenses in Collaborative Sensor Fusion**|R. Spencer Hallyburton et.al.|[2401.09387](http://arxiv.org/abs/2401.09387)|null|
 |**2024-01-17**|**Your blush gives you away: detecting hidden mental states with remote photoplethysmography and thermal imaging**|Ivan Liu et.al.|[2401.09145](http://arxiv.org/abs/2401.09145)|null|
 |**2024-01-16**|**TUMTraf Event: Calibration and Fusion Resulting in a Dataset for Roadside Event-Based and RGB Cameras**|Christian Creß et.al.|[2401.08474](http://arxiv.org/abs/2401.08474)|null|
@@ -781,6 +784,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Cross-Modality Perturbation Synergy Attack for Person Re-identification**|Yunpeng Gong et.al.|[2401.10090](http://arxiv.org/abs/2401.10090)|null|
 |**2024-01-16**|**Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging**|Zahra Tabatabaei et.al.|[2401.08272](http://arxiv.org/abs/2401.08272)|null|
 |**2024-01-15**|**Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing**|Jakob Hackstein et.al.|[2401.07782](http://arxiv.org/abs/2401.07782)|**[link](https://github.com/jakhac/csmae)**|
 |**2024-01-14**|**HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval**|Zexuan Qiu et.al.|[2401.07212](http://arxiv.org/abs/2401.07212)|null|
@@ -1197,6 +1201,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
 |**2024-01-09**|**RomniStereo: Recurrent Omnidirectional Stereo Matching**|Hualie Jiang et.al.|[2401.04345](http://arxiv.org/abs/2401.04345)|**[link](https://github.com/halleyjiang/romnistereo)**|
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
@@ -1354,6 +1359,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-18**|**A Census of Photometrically Selected Little Red Dots at 4 < z < 9 in JWST Blank Fields**|Vasily Kokorev et.al.|[2401.09981](http://arxiv.org/abs/2401.09981)|null|
+|**2024-01-15**|**Testing CCC+TL Cosmology with Observed BAO Features**|Rajendra P. Gupta et.al.|[2401.09483](http://arxiv.org/abs/2401.09483)|null|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
 |**2024-01-16**|**PPSURF: Combining Patches and Point Convolutions for Detailed Surface Reconstruction**|Philipp Erler et.al.|[2401.08518](http://arxiv.org/abs/2401.08518)|**[link](https://github.com/cg-tuwien/ppsurf)**|
 |**2024-01-16**|**Personalized Federated Learning of Probabilistic Models: A PAC-Bayesian Approach**|Mahrokh Ghoddousi Boroujeni et.al.|[2401.08351](http://arxiv.org/abs/2401.08351)|null|
