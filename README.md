@@ -1381,7 +1381,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-18**|**A Census of Photometrically Selected Little Red Dots at 4 < z < 9 in JWST Blank Fields**|Vasily Kokorev et.al.|[2401.09981](http://arxiv.org/abs/2401.09981)|null|
+|**2024-01-18**|**A Census of Photometrically Selected Little Red Dots at 4 < z < 9 in JWST Blank Fields**|Vasily Kokorev et.al.|[2401.09981](http://arxiv.org/abs/2401.09981)|**[link](https://github.com/vasilykokorev/lrd_phot)**|
 |**2024-01-15**|**Testing CCC+TL Cosmology with Observed BAO Features**|Rajendra P. Gupta et.al.|[2401.09483](http://arxiv.org/abs/2401.09483)|null|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
 |**2024-01-16**|**PPSURF: Combining Patches and Point Convolutions for Detailed Surface Reconstruction**|Philipp Erler et.al.|[2401.08518](http://arxiv.org/abs/2401.08518)|**[link](https://github.com/cg-tuwien/ppsurf)**|
