@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges**|Ali Amiri et.al.|[2401.10643](http://arxiv.org/abs/2401.10643)|null|
 |**2024-01-18**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134](http://arxiv.org/abs/2401.10134)|null|
 |**2024-01-18**|**Traffic Smoothing Controllers for Autonomous Vehicles Using Deep Reinforcement Learning and Real-World Trajectory Data**|Nathan Lichtlé et.al.|[2401.09666](http://arxiv.org/abs/2401.09666)|null|
 |**2024-01-16**|**TUMTraf Event: Calibration and Fusion Resulting in a Dataset for Roadside Event-Based and RGB Cameras**|Christian Creß et.al.|[2401.08474](http://arxiv.org/abs/2401.08474)|null|
@@ -339,6 +340,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Deep Learning-based Embedded Intrusion Detection System for Automotive CAN**|Shashwat Khandelwal et.al.|[2401.10674](http://arxiv.org/abs/2401.10674)|null|
 |**2024-01-17**|**Exploring the Diversity of Music Experiences for Deaf and Hard of Hearing People**|Kyrie Zhixuan Zhou et.al.|[2401.09025](http://arxiv.org/abs/2401.09025)|null|
 |**2023-12-25**|**Digital Twins for Autonomous Driving: A Comprehensive Implementation and Demonstration**|Kui Wang et.al.|[2401.08653](http://arxiv.org/abs/2401.08653)|null|
 |**2024-01-03**|**How does Observational Learning Impact Crowdfunding Outcomes for Backers, Project Creators and Platforms?**|Ayse Aslan et.al.|[2401.01995](http://arxiv.org/abs/2401.01995)|null|
@@ -521,6 +523,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**|Ekin Ugurel et.al.|[2401.10890](http://arxiv.org/abs/2401.10890)|null|
 |**2024-01-18**|**A-KIT: Adaptive Kalman-Informed Transformer**|Nadav Cohen et.al.|[2401.09987](http://arxiv.org/abs/2401.09987)|null|
 |**2024-01-17**|**A Multi-Agent Security Testbed for the Analysis of Attacks and Defenses in Collaborative Sensor Fusion**|R. Spencer Hallyburton et.al.|[2401.09387](http://arxiv.org/abs/2401.09387)|null|
 |**2024-01-17**|**Your blush gives you away: detecting hidden mental states with remote photoplethysmography and thermal imaging**|Ivan Liu et.al.|[2401.09145](http://arxiv.org/abs/2401.09145)|null|
@@ -800,7 +803,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-18**|**Cross-Modality Perturbation Synergy Attack for Person Re-identification**|Yunpeng Gong et.al.|[2401.10090](http://arxiv.org/abs/2401.10090)|null|
+|**2024-01-19**|**CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**|Xiangshuo Qiao et.al.|[2401.10475](http://arxiv.org/abs/2401.10475)|null|
+|**2024-01-19**|**PhotoScout: Synthesis-Powered Multi-Modal Image Search**|Celeste Barnaby et.al.|[2401.10464](http://arxiv.org/abs/2401.10464)|null|
+|**2024-01-19**|**Cross-Modality Perturbation Synergy Attack for Person Re-identification**|Yunpeng Gong et.al.|[2401.10090](http://arxiv.org/abs/2401.10090)|null|
 |**2024-01-16**|**Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging**|Zahra Tabatabaei et.al.|[2401.08272](http://arxiv.org/abs/2401.08272)|null|
 |**2024-01-15**|**Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing**|Jakob Hackstein et.al.|[2401.07782](http://arxiv.org/abs/2401.07782)|**[link](https://github.com/jakhac/csmae)**|
 |**2024-01-14**|**HiHPQ: Hierarchical Hyperbolic Product Quantization for Unsupervised Image Retrieval**|Zexuan Qiu et.al.|[2401.07212](http://arxiv.org/abs/2401.07212)|null|
@@ -1221,6 +1226,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
 |**2024-01-09**|**RomniStereo: Recurrent Omnidirectional Stereo Matching**|Hualie Jiang et.al.|[2401.04345](http://arxiv.org/abs/2401.04345)|**[link](https://github.com/halleyjiang/romnistereo)**|
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
