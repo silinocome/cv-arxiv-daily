@@ -509,6 +509,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836](http://arxiv.org/abs/2401.11836)|null|
 |**2024-01-19**|**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**|Ekin Ugurel et.al.|[2401.10890](http://arxiv.org/abs/2401.10890)|null|
 |**2024-01-18**|**A-KIT: Adaptive Kalman-Informed Transformer**|Nadav Cohen et.al.|[2401.09987](http://arxiv.org/abs/2401.09987)|**[link](https://github.com/ansfl/a-kit)**|
 |**2024-01-17**|**A Multi-Agent Security Testbed for the Analysis of Attacks and Defenses in Collaborative Sensor Fusion**|R. Spencer Hallyburton et.al.|[2401.09387](http://arxiv.org/abs/2401.09387)|null|
@@ -1365,6 +1366,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836](http://arxiv.org/abs/2401.11836)|null|
+|**2024-01-21**|**Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Latent Dynamics Model**|Peng Zhou et.al.|[2401.11432](http://arxiv.org/abs/2401.11432)|null|
+|**2024-01-20**|**RoTIR: Rotation-Equivariant Network and Transformers for Fish Scale Image Registration**|Ruixiong Wang et.al.|[2401.11270](http://arxiv.org/abs/2401.11270)|null|
+|**2024-01-20**|**Efficient Data Reduction Strategies for Big Data and High-Dimensional LASSO Regressions**|Xin Wang et.al.|[2401.11070](http://arxiv.org/abs/2401.11070)|null|
+|**2024-01-19**|**Dust around massive stars is agnostic to galactic environment: New insights from PHAT/BEAST**|Christina Willecke Lindberg et.al.|[2401.10991](http://arxiv.org/abs/2401.10991)|null|
 |**2024-01-18**|**A Census of Photometrically Selected Little Red Dots at 4 < z < 9 in JWST Blank Fields**|Vasily Kokorev et.al.|[2401.09981](http://arxiv.org/abs/2401.09981)|**[link](https://github.com/vasilykokorev/lrd_phot)**|
 |**2024-01-15**|**Testing CCC+TL Cosmology with Observed BAO Features**|Rajendra P. Gupta et.al.|[2401.09483](http://arxiv.org/abs/2401.09483)|null|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
@@ -1453,6 +1459,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-21**|**Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Latent Dynamics Model**|Peng Zhou et.al.|[2401.11432](http://arxiv.org/abs/2401.11432)|null|
 |**2024-01-16**|**PPSURF: Combining Patches and Point Convolutions for Detailed Surface Reconstruction**|Philipp Erler et.al.|[2401.08518](http://arxiv.org/abs/2401.08518)|**[link](https://github.com/cg-tuwien/ppsurf)**|
 |**2024-01-15**|**Online Learning of Piecewise Polynomial Signed Distance Fields for Manipulation Tasks**|Ante Marić et.al.|[2401.07698](http://arxiv.org/abs/2401.07698)|null|
 |**2024-01-13**|**Class-Imbalanced Semi-Supervised Learning for Large-Scale Point Cloud Semantic Segmentation via Decoupling Optimization**|Mengtian Li et.al.|[2401.06975](http://arxiv.org/abs/2401.06975)|null|
