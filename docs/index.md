@@ -14,8 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Truck Parking Usage Prediction with Decomposed Graph Neural Networks**|Rei Tamaru et.al.|[2401.12920](http://arxiv.org/abs/2401.12920)|null|
 |**2024-01-19**|**A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges**|Ali Amiri et.al.|[2401.10643](http://arxiv.org/abs/2401.10643)|null|
-|**2024-01-18**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134](http://arxiv.org/abs/2401.10134)|null|
+|**2024-01-23**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134](http://arxiv.org/abs/2401.10134)|null|
 |**2024-01-18**|**Traffic Smoothing Controllers for Autonomous Vehicles Using Deep Reinforcement Learning and Real-World Trajectory Data**|Nathan Lichtlé et.al.|[2401.09666](http://arxiv.org/abs/2401.09666)|null|
 |**2024-01-16**|**TUMTraf Event: Calibration and Fusion Resulting in a Dataset for Roadside Event-Based and RGB Cameras**|Christian Creß et.al.|[2401.08474](http://arxiv.org/abs/2401.08474)|null|
 |**2024-01-14**|**Vehicle Selection for C-V2X Mode 4 Based Federated Edge Learning Systems**|Qiong Wu et.al.|[2401.07224](http://arxiv.org/abs/2401.07224)|**[link](https://github.com/qiongwu86/vehicle-selection-for-c-v2x)**|
@@ -328,6 +329,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Digital cloning of online social networks for language-sensitive agent-based modeling of misinformation spread**|Prateek Puri et.al.|[2401.12509](http://arxiv.org/abs/2401.12509)|null|
 |**2024-01-19**|**Deep Learning-based Embedded Intrusion Detection System for Automotive CAN**|Shashwat Khandelwal et.al.|[2401.10674](http://arxiv.org/abs/2401.10674)|null|
 |**2024-01-17**|**Exploring the Diversity of Music Experiences for Deaf and Hard of Hearing People**|Kyrie Zhixuan Zhou et.al.|[2401.09025](http://arxiv.org/abs/2401.09025)|null|
 |**2023-12-25**|**Digital Twins for Autonomous Driving: A Comprehensive Implementation and Demonstration**|Kui Wang et.al.|[2401.08653](http://arxiv.org/abs/2401.08653)|null|
@@ -1366,6 +1368,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836](http://arxiv.org/abs/2401.11836)|null|
 |**2024-01-21**|**Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Latent Dynamics Model**|Peng Zhou et.al.|[2401.11432](http://arxiv.org/abs/2401.11432)|null|
 |**2024-01-20**|**RoTIR: Rotation-Equivariant Network and Transformers for Fish Scale Image Registration**|Ruixiong Wang et.al.|[2401.11270](http://arxiv.org/abs/2401.11270)|null|
@@ -1459,6 +1462,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-21**|**Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Latent Dynamics Model**|Peng Zhou et.al.|[2401.11432](http://arxiv.org/abs/2401.11432)|null|
 |**2024-01-16**|**PPSURF: Combining Patches and Point Convolutions for Detailed Surface Reconstruction**|Philipp Erler et.al.|[2401.08518](http://arxiv.org/abs/2401.08518)|**[link](https://github.com/cg-tuwien/ppsurf)**|
 |**2024-01-15**|**Online Learning of Piecewise Polynomial Signed Distance Fields for Manipulation Tasks**|Ante Marić et.al.|[2401.07698](http://arxiv.org/abs/2401.07698)|null|
