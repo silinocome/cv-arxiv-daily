@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Enabling Seamless Data Security, Consensus, and Trading in Vehicular Networks**|Emanuel Vieira et.al.|[2401.13630](http://arxiv.org/abs/2401.13630)|null|
 |**2024-01-23**|**Truck Parking Usage Prediction with Decomposed Graph Neural Networks**|Rei Tamaru et.al.|[2401.12920](http://arxiv.org/abs/2401.12920)|null|
 |**2024-01-19**|**A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges**|Ali Amiri et.al.|[2401.10643](http://arxiv.org/abs/2401.10643)|null|
 |**2024-01-23**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134](http://arxiv.org/abs/2401.10134)|null|
@@ -341,7 +342,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-23**|**Digital cloning of online social networks for language-sensitive agent-based modeling of misinformation spread**|Prateek Puri et.al.|[2401.12509](http://arxiv.org/abs/2401.12509)|null|
+|**2024-01-24**|**Event-triggered adaptive consensus of heterogeneous multi-agent system under communication and actuator faults**|Leyi Zheng et.al.|[2401.13492](http://arxiv.org/abs/2401.13492)|null|
+|**2024-01-24**|**Digital cloning of online social networks for language-sensitive agent-based modeling of misinformation spread**|Prateek Puri et.al.|[2401.12509](http://arxiv.org/abs/2401.12509)|null|
 |**2024-01-19**|**Deep Learning-based Embedded Intrusion Detection System for Automotive CAN**|Shashwat Khandelwal et.al.|[2401.10674](http://arxiv.org/abs/2401.10674)|null|
 |**2024-01-17**|**Exploring the Diversity of Music Experiences for Deaf and Hard of Hearing People**|Kyrie Zhixuan Zhou et.al.|[2401.09025](http://arxiv.org/abs/2401.09025)|null|
 |**2023-12-25**|**Digital Twins for Autonomous Driving: A Comprehensive Implementation and Demonstration**|Kui Wang et.al.|[2401.08653](http://arxiv.org/abs/2401.08653)|null|
@@ -806,7 +808,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-19**|**CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**|Xiangshuo Qiao et.al.|[2401.10475](http://arxiv.org/abs/2401.10475)|null|
+|**2024-01-24**|**Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode**|Naresh Kumar Lahajal et.al.|[2401.13613](http://arxiv.org/abs/2401.13613)|null|
+|**2024-01-23**|**PlaceFormer: Transformer-based Visual Place Recognition using Multi-Scale Patch Selection and Fusion**|Shyam Sundar Kannan et.al.|[2401.13082](http://arxiv.org/abs/2401.13082)|null|
+|**2024-01-23**|**SemanticSLAM: Learning based Semantic Map Construction and Robust Camera Localization**|Mingyang Li et.al.|[2401.13076](http://arxiv.org/abs/2401.13076)|**[link](https://github.com/leomingyangli/semanticslam)**|
+|**2024-01-19**|**CBVS: A Large-Scale Chinese Image-Text Benchmark for Real-World Short Video Search Scenarios**|Xiangshuo Qiao et.al.|[2401.10475](http://arxiv.org/abs/2401.10475)|**[link](https://github.com/QQBrowserVideoSearch/CBVS-UniCLIP)**|
 |**2024-01-19**|**PhotoScout: Synthesis-Powered Multi-Modal Image Search**|Celeste Barnaby et.al.|[2401.10464](http://arxiv.org/abs/2401.10464)|null|
 |**2024-01-19**|**Cross-Modality Perturbation Synergy Attack for Person Re-identification**|Yunpeng Gong et.al.|[2401.10090](http://arxiv.org/abs/2401.10090)|null|
 |**2024-01-16**|**Siamese Content-based Search Engine for a More Transparent Skin and Breast Cancer Diagnosis through Histological Imaging**|Zahra Tabatabaei et.al.|[2401.08272](http://arxiv.org/abs/2401.08272)|null|
@@ -1229,6 +1234,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
 |**2024-01-09**|**RomniStereo: Recurrent Omnidirectional Stereo Matching**|Hualie Jiang et.al.|[2401.04345](http://arxiv.org/abs/2401.04345)|**[link](https://github.com/halleyjiang/romnistereo)**|
@@ -1390,13 +1396,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Acceleration of the Solar Wind by Ambipolar Electric Field**|Viviane Pierrard et.al.|[2401.13308](http://arxiv.org/abs/2401.13308)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836](http://arxiv.org/abs/2401.11836)|null|
 |**2024-01-21**|**Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Latent Dynamics Model**|Peng Zhou et.al.|[2401.11432](http://arxiv.org/abs/2401.11432)|null|
 |**2024-01-20**|**RoTIR: Rotation-Equivariant Network and Transformers for Fish Scale Image Registration**|Ruixiong Wang et.al.|[2401.11270](http://arxiv.org/abs/2401.11270)|null|
 |**2024-01-20**|**Efficient Data Reduction Strategies for Big Data and High-Dimensional LASSO Regressions**|Xin Wang et.al.|[2401.11070](http://arxiv.org/abs/2401.11070)|null|
 |**2024-01-19**|**Dust around massive stars is agnostic to galactic environment: New insights from PHAT/BEAST**|Christina Willecke Lindberg et.al.|[2401.10991](http://arxiv.org/abs/2401.10991)|null|
-|**2024-01-18**|**A Census of Photometrically Selected Little Red Dots at 4 < z < 9 in JWST Blank Fields**|Vasily Kokorev et.al.|[2401.09981](http://arxiv.org/abs/2401.09981)|**[link](https://github.com/vasilykokorev/lrd_phot)**|
+|**2024-01-24**|**A Census of Photometrically Selected Little Red Dots at 4 < z < 9 in JWST Blank Fields**|Vasily Kokorev et.al.|[2401.09981](http://arxiv.org/abs/2401.09981)|**[link](https://github.com/vasilykokorev/lrd_phot)**|
 |**2024-01-15**|**Testing CCC+TL Cosmology with Observed BAO Features**|Rajendra P. Gupta et.al.|[2401.09483](http://arxiv.org/abs/2401.09483)|null|
 |**2024-01-17**|**POP-3D: Open-Vocabulary 3D Occupancy Prediction from Images**|Antonin Vobecky et.al.|[2401.09413](http://arxiv.org/abs/2401.09413)|null|
 |**2024-01-16**|**PPSURF: Combining Patches and Point Convolutions for Detailed Surface Reconstruction**|Philipp Erler et.al.|[2401.08518](http://arxiv.org/abs/2401.08518)|**[link](https://github.com/cg-tuwien/ppsurf)**|
