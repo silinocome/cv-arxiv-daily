@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-25**|**The Role of Intelligent Transportation Systems and Artificial Intelligence in Energy Efficiency and Emission Reduction**|Omar Rinchi et.al.|[2401.14560](http://arxiv.org/abs/2401.14560)|null|
+|**2024-01-25**|**Learning When to See for Long-term Traffic Data Collection on Power-constrained Devices**|Ruixuan Zhang et.al.|[2401.14504](http://arxiv.org/abs/2401.14504)|null|
+|**2024-01-23**|**Multi-Agent Based Transfer Learning for Data-Driven Air Traffic Applications**|Chuhao Deng et.al.|[2401.14421](http://arxiv.org/abs/2401.14421)|null|
 |**2024-01-25**|**Progressive Multi-task Anti-Noise Learning and Distilling Frameworks for Fine-grained Vehicle Recognition**|Dichao Liu et.al.|[2401.14336](http://arxiv.org/abs/2401.14336)|**[link](https://github.com/dichao-liu/anti-noise_fgvr)**|
 |**2024-01-25**|**MIFI: MultI-camera Feature Integration for Roust 3D Distracted Driver Activity Recognition**|Jian Kuang et.al.|[2401.14115](http://arxiv.org/abs/2401.14115)|**[link](https://github.com/john828/mifi)**|
 |**2024-01-25**|**Cyber-Twin: Digital Twin-boosted Autonomous Attack Detection for Vehicular Ad-Hoc Networks**|Yagmur Yigit et.al.|[2401.14005](http://arxiv.org/abs/2401.14005)|null|
@@ -517,6 +520,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857](http://arxiv.org/abs/2401.14857)|null|
 |**2024-01-25**|**MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**|Xinyu Gao et.al.|[2401.14314](http://arxiv.org/abs/2401.14314)|null|
 |**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836](http://arxiv.org/abs/2401.11836)|null|
 |**2024-01-19**|**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**|Ekin Ugurel et.al.|[2401.10890](http://arxiv.org/abs/2401.10890)|**[link](https://github.com/ekinugurel/satmobfusion)**|
@@ -1222,7 +1226,7 @@ layout: default
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
-|**2024-01-09**|**RomniStereo: Recurrent Omnidirectional Stereo Matching**|Hualie Jiang et.al.|[2401.04345](http://arxiv.org/abs/2401.04345)|**[link](https://github.com/halleyjiang/romnistereo)**|
+|**2024-01-26**|**RomniStereo: Recurrent Omnidirectional Stereo Matching**|Hualie Jiang et.al.|[2401.04345](http://arxiv.org/abs/2401.04345)|**[link](https://github.com/halleyjiang/romnistereo)**|
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574](http://arxiv.org/abs/2401.01574)|null|
@@ -1379,6 +1383,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-26**|**Modeling the wavelength dependence of photo-response non-uniformity of a CCD sensor**|Zun Luo et.al.|[2401.14944](http://arxiv.org/abs/2401.14944)|null|
+|**2024-01-26**|**PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus**|Florian Kluger et.al.|[2401.14919](http://arxiv.org/abs/2401.14919)|null|
 |**2024-01-24**|**Acceleration of the Solar Wind by Ambipolar Electric Field**|Viviane Pierrard et.al.|[2401.13308](http://arxiv.org/abs/2401.13308)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836](http://arxiv.org/abs/2401.11836)|null|
