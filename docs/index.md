@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.30
+## Updated on 2024.01.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1393,7 +1393,7 @@ layout: default
 |**2024-01-29**|**DeFlow: Decoder of Scene Flow Network in Autonomous Driving**|Qingwen Zhang et.al.|[2401.16122](http://arxiv.org/abs/2401.16122)|**[link](https://github.com/kth-rpl/deflow)**|
 |**2024-01-26**|**Harnessing Deep Learning of Point Clouds for Inverse Control of 3D Shape Morphing**|Jue Wang et.al.|[2401.15219](http://arxiv.org/abs/2401.15219)|null|
 |**2024-01-26**|**Modeling the wavelength dependence of photo-response non-uniformity of a CCD sensor**|Zun Luo et.al.|[2401.14944](http://arxiv.org/abs/2401.14944)|null|
-|**2024-01-26**|**PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus**|Florian Kluger et.al.|[2401.14919](http://arxiv.org/abs/2401.14919)|null|
+|**2024-01-26**|**PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus**|Florian Kluger et.al.|[2401.14919](http://arxiv.org/abs/2401.14919)|**[link](https://github.com/fkluger/parsac)**|
 |**2024-01-24**|**Acceleration of the Solar Wind by Ambipolar Electric Field**|Viviane Pierrard et.al.|[2401.13308](http://arxiv.org/abs/2401.13308)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
 |**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836](http://arxiv.org/abs/2401.11836)|null|
