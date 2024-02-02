@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Vehicle Perception from Satellite**|Bin Zhao et.al.|[2402.00703](http://arxiv.org/abs/2402.00703)|**[link](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos)**|
+|**2024-02-01**|**Multi-scale Traffic Pattern Bank for Cross-city Few-shot Traffic Forecasting**|Zhanyu Liu et.al.|[2402.00397](http://arxiv.org/abs/2402.00397)|**[link](https://github.com/zhyliu00/mtpb)**|
 |**2024-01-30**|**Socially Aware V2X Localized QoS**|Rafael Kaliski et.al.|[2401.17457](http://arxiv.org/abs/2401.17457)|null|
 |**2024-01-30**|**URLLC-Aware Proactive UAV Placement in Internet of Vehicles**|Chen-Feng Liu et.al.|[2401.17451](http://arxiv.org/abs/2401.17451)|null|
 |**2024-01-30**|**Platoon Fundamental Diagram estimation can be Markovian: evidence from human- and self-driven vehicle trajectories**|Michail A. Makridis et.al.|[2401.17065](http://arxiv.org/abs/2401.17065)|null|
@@ -343,6 +345,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-30**|**Unlocking the Power of Multi-institutional Data: Integrating and Harmonizing Genomic Data Across Institutions**|Yuan Chen et.al.|[2402.00077](http://arxiv.org/abs/2402.00077)|null|
+|**2024-01-20**|**Optimized Task Assignment and Predictive Maintenance for Industrial Machines using Markov Decision Process**|Ali Nasir et.al.|[2402.00042](http://arxiv.org/abs/2402.00042)|null|
 |**2024-01-31**|**Drift Diffusion Model to understand (mis)information sharing dynamic in complex networks**|Lucila G. Alvarez-Zuzek et.al.|[2401.17846](http://arxiv.org/abs/2401.17846)|null|
 |**2024-01-24**|**Event-triggered adaptive consensus of heterogeneous multi-agent system under communication and actuator faults**|Leyi Zheng et.al.|[2401.13492](http://arxiv.org/abs/2401.13492)|null|
 |**2024-01-24**|**Digital cloning of online social networks for language-sensitive agent-based modeling of misinformation spread**|Prateek Puri et.al.|[2401.12509](http://arxiv.org/abs/2401.12509)|null|
@@ -527,6 +531,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**|Arindam Das et.al.|[2402.00637](http://arxiv.org/abs/2402.00637)|null|
+|**2024-02-01**|**Continuous-time Trajectory Estimation: A Comparative Study Between Gaussian Process and Spline-based Approaches**|Jacob Johnson et.al.|[2402.00399](http://arxiv.org/abs/2402.00399)|null|
+|**2024-02-01**|**SmartCooper: Vehicular Collaborative Perception with Adaptive Fusion and Judger Mechanism**|Yuang Zhang et.al.|[2402.00321](http://arxiv.org/abs/2402.00321)|null|
 |**2024-01-30**|**Understanding Electric Vehicle Ownership Using Data Fusion and Spatial Modeling**|Meiyu et.al.|[2401.17456](http://arxiv.org/abs/2401.17456)|null|
 |**2024-01-30**|**Efficient Gesture Recognition on Spiking Convolutional Networks Through Sensor Fusion of Event-Based and Depth Data**|Lea Steffen et.al.|[2401.17064](http://arxiv.org/abs/2401.17064)|null|
 |**2024-01-29**|**Scalable Factor Graph-Based Heterogeneous Bayesian DDF for Dynamic Systems**|Ofer Dagan et.al.|[2401.16301](http://arxiv.org/abs/2401.16301)|null|
@@ -812,6 +819,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330](http://arxiv.org/abs/2402.00330)|null|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
 |**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
@@ -1401,6 +1409,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**A Framework for Building Point Cloud Cleaning, Plane Detection and Semantic Segmentation**|Ilyass Abouelaziz et.al.|[2402.00692](http://arxiv.org/abs/2402.00692)|null|
+|**2024-01-31**|**A Uniform Analysis of Debris Disks with the Gemini Planet Imager II: Constraints on Dust Density Distribution Using Empirically-Informed Scattering Phase Functions**|Justin Hom et.al.|[2402.00214](http://arxiv.org/abs/2402.00214)|null|
+|**2024-01-31**|**Distance and Collision Probability Estimation from Gaussian Surface Models**|Kshitij Goel et.al.|[2402.00186](http://arxiv.org/abs/2402.00186)|null|
 |**2024-01-31**|**Three-Stage Adjusted Regression Forecasting (TSARF) for Software Defect Prediction**|Shadow Pritchard et.al.|[2401.17545](http://arxiv.org/abs/2401.17545)|null|
 |**2024-01-30**|**A Group Theoretic Metric for Robot State Estimation Leveraging Chebyshev Interpolation**|Varun Agrawal et.al.|[2401.17463](http://arxiv.org/abs/2401.17463)|null|
 |**2024-01-30**|**You Only Need One Step: Fast Super-Resolution with Stable Diffusion via Scale Distillation**|Mehdi Noroozi et.al.|[2401.17258](http://arxiv.org/abs/2401.17258)|null|
@@ -1503,6 +1514,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**A Framework for Building Point Cloud Cleaning, Plane Detection and Semantic Segmentation**|Ilyass Abouelaziz et.al.|[2402.00692](http://arxiv.org/abs/2402.00692)|null|
+|**2024-01-31**|**Distance and Collision Probability Estimation from Gaussian Surface Models**|Kshitij Goel et.al.|[2402.00186](http://arxiv.org/abs/2402.00186)|null|
 |**2024-01-29**|**DeFlow: Decoder of Scene Flow Network in Autonomous Driving**|Qingwen Zhang et.al.|[2401.16122](http://arxiv.org/abs/2401.16122)|**[link](https://github.com/kth-rpl/deflow)**|
 |**2024-01-26**|**Harnessing Deep Learning of Point Clouds for Inverse Control of 3D Shape Morphing**|Jue Wang et.al.|[2401.15219](http://arxiv.org/abs/2401.15219)|null|
 |**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
