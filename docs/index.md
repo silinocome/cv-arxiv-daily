@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**Simulation Framework for Vehicle and Electric Scooter Interaction**|Zhitong He et.al.|[2402.01104](http://arxiv.org/abs/2402.01104)|null|
 |**2024-02-01**|**Vehicle Perception from Satellite**|Bin Zhao et.al.|[2402.00703](http://arxiv.org/abs/2402.00703)|**[link](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos)**|
 |**2024-02-01**|**Multi-scale Traffic Pattern Bank for Cross-city Few-shot Traffic Forecasting**|Zhanyu Liu et.al.|[2402.00397](http://arxiv.org/abs/2402.00397)|**[link](https://github.com/zhyliu00/mtpb)**|
 |**2024-01-30**|**Socially Aware V2X Localized QoS**|Rafael Kaliski et.al.|[2401.17457](http://arxiv.org/abs/2401.17457)|null|
@@ -533,7 +534,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-01**|**Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**|Arindam Das et.al.|[2402.00637](http://arxiv.org/abs/2402.00637)|null|
 |**2024-02-01**|**Continuous-time Trajectory Estimation: A Comparative Study Between Gaussian Process and Spline-based Approaches**|Jacob Johnson et.al.|[2402.00399](http://arxiv.org/abs/2402.00399)|null|
-|**2024-02-01**|**SmartCooper: Vehicular Collaborative Perception with Adaptive Fusion and Judger Mechanism**|Yuang Zhang et.al.|[2402.00321](http://arxiv.org/abs/2402.00321)|null|
+|**2024-02-02**|**SmartCooper: Vehicular Collaborative Perception with Adaptive Fusion and Judger Mechanism**|Yuang Zhang et.al.|[2402.00321](http://arxiv.org/abs/2402.00321)|null|
 |**2024-01-30**|**Understanding Electric Vehicle Ownership Using Data Fusion and Spatial Modeling**|Meiyu et.al.|[2401.17456](http://arxiv.org/abs/2401.17456)|null|
 |**2024-01-30**|**Efficient Gesture Recognition on Spiking Convolutional Networks Through Sensor Fusion of Event-Based and Depth Data**|Lea Steffen et.al.|[2401.17064](http://arxiv.org/abs/2401.17064)|null|
 |**2024-01-29**|**Scalable Factor Graph-Based Heterogeneous Bayesian DDF for Dynamic Systems**|Ofer Dagan et.al.|[2401.16301](http://arxiv.org/abs/2401.16301)|null|
@@ -1409,6 +1410,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Ordered magnetic fields around the 3C 84 central black hole**|G. F. Paraschos et.al.|[2402.00927](http://arxiv.org/abs/2402.00927)|null|
 |**2024-02-01**|**A Framework for Building Point Cloud Cleaning, Plane Detection and Semantic Segmentation**|Ilyass Abouelaziz et.al.|[2402.00692](http://arxiv.org/abs/2402.00692)|null|
 |**2024-01-31**|**A Uniform Analysis of Debris Disks with the Gemini Planet Imager II: Constraints on Dust Density Distribution Using Empirically-Informed Scattering Phase Functions**|Justin Hom et.al.|[2402.00214](http://arxiv.org/abs/2402.00214)|null|
 |**2024-01-31**|**Distance and Collision Probability Estimation from Gaussian Surface Models**|Kshitij Goel et.al.|[2402.00186](http://arxiv.org/abs/2402.00186)|null|
