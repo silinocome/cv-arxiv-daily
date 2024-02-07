@@ -24,7 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-03**|**GPT-4V as Traffic Assistant: An In-depth Look at Vision Language Model on Complex Traffic Events**|Xingcheng Zhou et.al.|[2402.02205](http://arxiv.org/abs/2402.02205)|null|
+|**2024-02-06**|**Digital Twin Mobility Profiling: A Spatio-Temporal Graph Learning Approach**|Xin Chen et.al.|[2402.03750](http://arxiv.org/abs/2402.03750)|**[link](https://github.com/chenxino/dtmp)**|
+|**2024-02-06**|**On Learning Spatial Provenance in Privacy-Constrained Wireless Networks**|Manish Bansal et.al.|[2402.03702](http://arxiv.org/abs/2402.03702)|null|
+|**2024-02-06**|**GPT-4V as Traffic Assistant: An In-depth Look at Vision Language Model on Complex Traffic Events**|Xingcheng Zhou et.al.|[2402.02205](http://arxiv.org/abs/2402.02205)|null|
 |**2024-02-02**|**Outlier Accommodation for GNSS Precise Point Positioning using Risk-Averse State Estimation**|Wang Hu et.al.|[2402.01860](http://arxiv.org/abs/2402.01860)|null|
 |**2024-02-02**|**Simulation Framework for Vehicle and Electric Scooter Interaction**|Zhitong He et.al.|[2402.01104](http://arxiv.org/abs/2402.01104)|null|
 |**2024-02-01**|**Vehicle Perception from Satellite**|Bin Zhao et.al.|[2402.00703](http://arxiv.org/abs/2402.00703)|**[link](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos)**|
@@ -550,6 +552,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**Interpretable Multi-Source Data Fusion Through Latent Variable Gaussian Process**|Sandipp Krishnan Ravi et.al.|[2402.04146](http://arxiv.org/abs/2402.04146)|null|
 |**2024-02-05**|**AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion**|Mohamad Qadri et.al.|[2402.03309](http://arxiv.org/abs/2402.03309)|null|
 |**2024-02-01**|**Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**|Arindam Das et.al.|[2402.00637](http://arxiv.org/abs/2402.00637)|null|
 |**2024-02-01**|**Continuous-time Trajectory Estimation: A Comparative Study Between Gaussian Process and Spline-based Approaches**|Jacob Johnson et.al.|[2402.00399](http://arxiv.org/abs/2402.00399)|null|
@@ -1439,6 +1442,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**MMAUD: A Comprehensive Multi-Modal Anti-UAV Dataset for Modern Miniature Drone Threats**|Shenghai Yuan et.al.|[2402.03706](http://arxiv.org/abs/2402.03706)|**[link](https://github.com/ntu-aris/mmaud)**|
+|**2024-02-05**|**An end-to-end deep learning pipeline to derive blood input with partial volume corrections for automated parametric brain PET mapping**|Rugved Chavan et.al.|[2402.03414](http://arxiv.org/abs/2402.03414)|null|
 |**2024-02-04**|**Weisfeiler Leman for Euclidean Equivariant Machine Learning**|Snir Hordan et.al.|[2402.02484](http://arxiv.org/abs/2402.02484)|null|
 |**2024-02-03**|**BVI-Lowlight: Fully Registered Benchmark Dataset for Low-Light Video Enhancement**|Nantheera Anantrasirichai et.al.|[2402.01970](http://arxiv.org/abs/2402.01970)|null|
 |**2024-02-01**|**Ordered magnetic fields around the 3C 84 central black hole**|G. F. Paraschos et.al.|[2402.00927](http://arxiv.org/abs/2402.00927)|null|
