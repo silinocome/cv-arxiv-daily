@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-06**|**Digital Twin Mobility Profiling: A Spatio-Temporal Graph Learning Approach**|Xin Chen et.al.|[2402.03750](http://arxiv.org/abs/2402.03750)|**[link](https://github.com/chenxino/dtmp)**|
 |**2024-02-06**|**On Learning Spatial Provenance in Privacy-Constrained Wireless Networks**|Manish Bansal et.al.|[2402.03702](http://arxiv.org/abs/2402.03702)|null|
-|**2024-02-06**|**GPT-4V as Traffic Assistant: An In-depth Look at Vision Language Model on Complex Traffic Events**|Xingcheng Zhou et.al.|[2402.02205](http://arxiv.org/abs/2402.02205)|null|
+|**2024-02-07**|**GPT-4V as Traffic Assistant: An In-depth Look at Vision Language Model on Complex Traffic Events**|Xingcheng Zhou et.al.|[2402.02205](http://arxiv.org/abs/2402.02205)|null|
 |**2024-02-02**|**Outlier Accommodation for GNSS Precise Point Positioning using Risk-Averse State Estimation**|Wang Hu et.al.|[2402.01860](http://arxiv.org/abs/2402.01860)|null|
 |**2024-02-02**|**Simulation Framework for Vehicle and Electric Scooter Interaction**|Zhitong He et.al.|[2402.01104](http://arxiv.org/abs/2402.01104)|null|
 |**2024-02-01**|**Vehicle Perception from Satellite**|Bin Zhao et.al.|[2402.00703](http://arxiv.org/abs/2402.00703)|**[link](https://github.com/chenxi1510/vehicle-perception-from-satellite-videos)**|
@@ -350,6 +350,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**A Longitudinal Study of Italian and French Reddit Conversations Around the Russian Invasion of Ukraine**|Francesco Corso et.al.|[2402.04999](http://arxiv.org/abs/2402.04999)|null|
+|**2024-02-07**|**CataractBot: An LLM-Powered Expert-in-the-Loop Chatbot for Cataract Patients**|Pragnya Ramjee et.al.|[2402.04620](http://arxiv.org/abs/2402.04620)|null|
 |**2024-02-05**|**Solving Hierarchical Information-Sharing Dec-POMDPs: An Extensive-Form Game Approach**|Johan Peralez et.al.|[2402.02954](http://arxiv.org/abs/2402.02954)|null|
 |**2024-02-04**|**Quantum Secret Sharing Enhanced: Utilizing W States for Anonymous and Secure Communication**|Guo-Dong Li et.al.|[2402.02413](http://arxiv.org/abs/2402.02413)|null|
 |**2024-01-30**|**Unlocking the Power of Multi-institutional Data: Integrating and Harmonizing Genomic Data Across Institutions**|Yuan Chen et.al.|[2402.00077](http://arxiv.org/abs/2402.00077)|null|
@@ -538,6 +540,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Efficient Multi-Resolution Fusion for Remote Sensing Data with Label Uncertainty**|Hersh Vakharia et.al.|[2402.05045](http://arxiv.org/abs/2402.05045)|**[link](https://github.com/hvak/mimrf-bfm)**|
 |**2024-02-06**|**Interpretable Multi-Source Data Fusion Through Latent Variable Gaussian Process**|Sandipp Krishnan Ravi et.al.|[2402.04146](http://arxiv.org/abs/2402.04146)|null|
 |**2024-02-05**|**AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion**|Mohamad Qadri et.al.|[2402.03309](http://arxiv.org/abs/2402.03309)|null|
 |**2024-02-01**|**Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**|Arindam Das et.al.|[2402.00637](http://arxiv.org/abs/2402.00637)|null|
@@ -1420,6 +1423,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Collaborative Computing in Non-Terrestrial Networks: A Multi-Time-Scale Deep Reinforcement Learning Approach**|Yang Cao et.al.|[2402.04865](http://arxiv.org/abs/2402.04865)|null|
+|**2024-02-07**|**$Λ$ CDM Tensions: Localising Missing Physics through Consistency Checks**|Özgür Akarsu et.al.|[2402.04767](http://arxiv.org/abs/2402.04767)|null|
+|**2024-02-06**|**Association between Prefrontal fNIRS signals during Cognitive tasks and College scholastic ability test (CSAT) scores: Analysis using a quantum annealing approach**|Yeaju Kim et.al.|[2402.04287](http://arxiv.org/abs/2402.04287)|null|
 |**2024-02-06**|**MMAUD: A Comprehensive Multi-Modal Anti-UAV Dataset for Modern Miniature Drone Threats**|Shenghai Yuan et.al.|[2402.03706](http://arxiv.org/abs/2402.03706)|**[link](https://github.com/ntu-aris/mmaud)**|
 |**2024-02-05**|**An end-to-end deep learning pipeline to derive blood input with partial volume corrections for automated parametric brain PET mapping**|Rugved Chavan et.al.|[2402.03414](http://arxiv.org/abs/2402.03414)|null|
 |**2024-02-04**|**Weisfeiler Leman for Euclidean Equivariant Machine Learning**|Snir Hordan et.al.|[2402.02484](http://arxiv.org/abs/2402.02484)|null|
