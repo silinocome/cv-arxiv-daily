@@ -370,7 +370,7 @@
 |**2024-02-08**|**Empowering machine learning models with contextual knowledge for enhancing the detection of eating disorders in social media posts**|José Alberto Benítez-Andrades et.al.|[2402.05536](http://arxiv.org/abs/2402.05536)|null|
 |**2024-02-07**|**A Longitudinal Study of Italian and French Reddit Conversations Around the Russian Invasion of Ukraine**|Francesco Corso et.al.|[2402.04999](http://arxiv.org/abs/2402.04999)|**[link](https://github.com/orsofra/ls_frit_ukr)**|
 |**2024-02-07**|**CataractBot: An LLM-Powered Expert-in-the-Loop Chatbot for Cataract Patients**|Pragnya Ramjee et.al.|[2402.04620](http://arxiv.org/abs/2402.04620)|null|
-|**2024-02-09**|**MolTC: Towards Molecular Relational Modeling In Language Models**|Junfeng Fang et.al.|[2402.03781](http://arxiv.org/abs/2402.03781)|**[link](https://github.com/MangoKiller/MolTC)**|
+|**2024-02-13**|**MolTC: Towards Molecular Relational Modeling In Language Models**|Junfeng Fang et.al.|[2402.03781](http://arxiv.org/abs/2402.03781)|**[link](https://github.com/MangoKiller/MolTC)**|
 |**2024-02-09**|**Solving Hierarchical Information-Sharing Dec-POMDPs: An Extensive-Form Game Approach**|Johan Peralez et.al.|[2402.02954](http://arxiv.org/abs/2402.02954)|null|
 |**2024-02-04**|**Quantum Secret Sharing Enhanced: Utilizing W States for Anonymous and Secure Communication**|Guo-Dong Li et.al.|[2402.02413](http://arxiv.org/abs/2402.02413)|null|
 |**2024-01-30**|**Unlocking the Power of Multi-institutional Data: Integrating and Harmonizing Genomic Data Across Institutions**|Yuan Chen et.al.|[2402.00077](http://arxiv.org/abs/2402.00077)|null|
@@ -857,6 +857,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
+|**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359](http://arxiv.org/abs/2402.08359)|**[link](https://github.com/truongkhang/deviloc)**|
 |**2024-02-10**|**Semantic Object-level Modeling for Robust Visual Camera Relocalization**|Yifan Zhu et.al.|[2402.06951](http://arxiv.org/abs/2402.06951)|null|
 |**2024-02-09**|**Large Language Models for Captioning and Retrieving Remote Sensing Images**|João Daniel Silva et.al.|[2402.06475](http://arxiv.org/abs/2402.06475)|null|
 |**2024-02-09**|**PAS-SLAM: A Visual SLAM System for Planar Ambiguous Scenes**|Xinggang Hu et.al.|[2402.06131](http://arxiv.org/abs/2402.06131)|null|
@@ -1294,6 +1296,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
+|**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359](http://arxiv.org/abs/2402.08359)|**[link](https://github.com/truongkhang/deviloc)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
 |**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
