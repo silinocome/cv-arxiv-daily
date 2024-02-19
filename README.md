@@ -565,12 +565,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**BioFusionNet: Deep Learning-Based Survival Risk Stratification in ER+ Breast Cancer Through Multifeature and Multimodal Data Fusion**|Raktim Kumar Mondol et.al.|[2402.10717](http://arxiv.org/abs/2402.10717)|null|
 |**2024-02-15**|**An advanced data fabric architecture leveraging homomorphic encryption and federated learning**|Sakib Anwar Rieyan et.al.|[2402.09795](http://arxiv.org/abs/2402.09795)|null|
 |**2024-02-12**|**AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer**|Tanmoy Dam et.al.|[2402.07680](http://arxiv.org/abs/2402.07680)|**[link](https://github.com/sanjay-810/aydiv2)**|
 |**2024-02-11**|**The Impact of Domain Knowledge and Multi-Modality on Intelligent Molecular Property Prediction: A Systematic Survey**|Taojie Kuang et.al.|[2402.07249](http://arxiv.org/abs/2402.07249)|null|
 |**2024-02-07**|**Designing deep neural networks for driver intention recognition**|Koen Vellenga et.al.|[2402.05150](http://arxiv.org/abs/2402.05150)|null|
 |**2024-02-07**|**Efficient Multi-Resolution Fusion for Remote Sensing Data with Label Uncertainty**|Hersh Vakharia et.al.|[2402.05045](http://arxiv.org/abs/2402.05045)|**[link](https://github.com/hvak/mimrf-bfm)**|
-|**2024-02-06**|**Interpretable Multi-Source Data Fusion Through Latent Variable Gaussian Process**|Sandipp Krishnan Ravi et.al.|[2402.04146](http://arxiv.org/abs/2402.04146)|null|
+|**2024-02-16**|**Interpretable Multi-Source Data Fusion Through Latent Variable Gaussian Process**|Sandipp Krishnan Ravi et.al.|[2402.04146](http://arxiv.org/abs/2402.04146)|null|
 |**2024-02-05**|**AONeuS: A Neural Rendering Framework for Acoustic-Optical Sensor Fusion**|Mohamad Qadri et.al.|[2402.03309](http://arxiv.org/abs/2402.03309)|null|
 |**2024-02-01**|**Fisheye Camera and Ultrasonic Sensor Fusion For Near-Field Obstacle Perception in Bird's-Eye-View**|Arindam Das et.al.|[2402.00637](http://arxiv.org/abs/2402.00637)|null|
 |**2024-02-01**|**Continuous-time Trajectory Estimation: A Comparative Study Between Gaussian Process and Spline-based Approaches**|Jacob Johnson et.al.|[2402.00399](http://arxiv.org/abs/2402.00399)|null|
@@ -1470,6 +1471,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**In-medium static inter-quark potential on high resolution quenched lattices**|Rasmus N. Larsen et.al.|[2402.10819](http://arxiv.org/abs/2402.10819)|null|
+|**2024-02-15**|**Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**|Muhammad Arbab Arshad et.al.|[2402.10344](http://arxiv.org/abs/2402.10344)|null|
 |**2024-02-14**|**Irreducible Markov Chains on spaces of graphs with fixed degree-color sequences**|Félix Almendra-Hernández et.al.|[2402.09568](http://arxiv.org/abs/2402.09568)|null|
 |**2024-02-14**|**Lattice B-field correlators for heavy quarks**|Luis Altenkort et.al.|[2402.09337](http://arxiv.org/abs/2402.09337)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
