@@ -356,11 +356,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach**|Mohammad Heydari et.al.|[2402.12272](http://arxiv.org/abs/2402.12272)|null|
+|**2024-02-18**|**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration**|Jun Zhao et.al.|[2402.11550](http://arxiv.org/abs/2402.11550)|null|
 |**2024-02-15**|**Prompt-based Personalized Federated Learning for Medical Visual Question Answering**|He Zhu et.al.|[2402.09677](http://arxiv.org/abs/2402.09677)|null|
 |**2024-02-14**|**MEL: Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection**|Xubin Wang et.al.|[2402.08982](http://arxiv.org/abs/2402.08982)|**[link](https://github.com/wangxb96/mel)**|
 |**2024-02-12**|**News Recommendation with Attention Mechanism**|Tianrui Liu et.al.|[2402.07422](http://arxiv.org/abs/2402.07422)|null|
 |**2024-02-08**|**Empowering machine learning models with contextual knowledge for enhancing the detection of eating disorders in social media posts**|José Alberto Benítez-Andrades et.al.|[2402.05536](http://arxiv.org/abs/2402.05536)|null|
-|**2024-02-07**|**A Longitudinal Study of Italian and French Reddit Conversations Around the Russian Invasion of Ukraine**|Francesco Corso et.al.|[2402.04999](http://arxiv.org/abs/2402.04999)|**[link](https://github.com/orsofra/ls_frit_ukr)**|
+|**2024-02-19**|**A Longitudinal Study of Italian and French Reddit Conversations Around the Russian Invasion of Ukraine**|Francesco Corso et.al.|[2402.04999](http://arxiv.org/abs/2402.04999)|**[link](https://github.com/orsofra/ls_frit_ukr)**|
 |**2024-02-07**|**CataractBot: An LLM-Powered Expert-in-the-Loop Chatbot for Cataract Patients**|Pragnya Ramjee et.al.|[2402.04620](http://arxiv.org/abs/2402.04620)|null|
 |**2024-02-14**|**MolTC: Towards Molecular Relational Modeling In Language Models**|Junfeng Fang et.al.|[2402.03781](http://arxiv.org/abs/2402.03781)|**[link](https://github.com/MangoKiller/MolTC)**|
 |**2024-02-09**|**Solving Hierarchical Information-Sharing Dec-POMDPs: An Extensive-Form Game Approach**|Johan Peralez et.al.|[2402.02954](http://arxiv.org/abs/2402.02954)|null|
@@ -551,10 +553,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Multi-View Conformal Learning for Heterogeneous Sensor Fusion**|Enrique Garcia-Ceja et.al.|[2402.12307](http://arxiv.org/abs/2402.12307)|**[link](https://github.com/enriquegit/multiview-conformal-prediction-paper)**|
+|**2024-02-19**|**MultiFIX: An XAI-friendly feature inducing approach to building models from multimodal data**|Mafalda Malafaia et.al.|[2402.12183](http://arxiv.org/abs/2402.12183)|null|
+|**2024-02-19**|**Semantic Textual Similarity Assessment in Chest X-ray Reports Using a Domain-Specific Cosine-Based Metric**|Sayeh Gholipour Picha et.al.|[2402.11908](http://arxiv.org/abs/2402.11908)|**[link](https://github.com/sayeh1994/medical-corpus-semantic-similarity-evaluation)**|
+|**2024-02-19**|**MM-SurvNet: Deep Learning-Based Survival Risk Stratification in Breast Cancer Through Multimodal Data Fusion**|Raktim Kumar Mondol et.al.|[2402.11788](http://arxiv.org/abs/2402.11788)|null|
+|**2024-02-18**|**Towards Distributed and Intelligent Integrated Sensing and Communications for 6G Networks**|Emilio Calvanese Strinati et.al.|[2402.11630](http://arxiv.org/abs/2402.11630)|null|
 |**2024-02-16**|**BioFusionNet: Deep Learning-Based Survival Risk Stratification in ER+ Breast Cancer Through Multifeature and Multimodal Data Fusion**|Raktim Kumar Mondol et.al.|[2402.10717](http://arxiv.org/abs/2402.10717)|null|
 |**2024-02-15**|**An advanced data fabric architecture leveraging homomorphic encryption and federated learning**|Sakib Anwar Rieyan et.al.|[2402.09795](http://arxiv.org/abs/2402.09795)|null|
 |**2024-02-12**|**AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer**|Tanmoy Dam et.al.|[2402.07680](http://arxiv.org/abs/2402.07680)|**[link](https://github.com/sanjay-810/aydiv2)**|
-|**2024-02-11**|**The Impact of Domain Knowledge and Multi-Modality on Intelligent Molecular Property Prediction: A Systematic Survey**|Taojie Kuang et.al.|[2402.07249](http://arxiv.org/abs/2402.07249)|null|
+|**2024-02-18**|**The Impact of Domain Knowledge and Multi-Modality on Intelligent Molecular Property Prediction: A Systematic Survey**|Taojie Kuang et.al.|[2402.07249](http://arxiv.org/abs/2402.07249)|null|
 |**2024-02-07**|**Designing deep neural networks for driver intention recognition**|Koen Vellenga et.al.|[2402.05150](http://arxiv.org/abs/2402.05150)|null|
 |**2024-02-07**|**Efficient Multi-Resolution Fusion for Remote Sensing Data with Label Uncertainty**|Hersh Vakharia et.al.|[2402.05045](http://arxiv.org/abs/2402.05045)|**[link](https://github.com/hvak/mimrf-bfm)**|
 |**2024-02-16**|**Interpretable Multi-Source Data Fusion Through Latent Variable Gaussian Process**|Sandipp Krishnan Ravi et.al.|[2402.04146](http://arxiv.org/abs/2402.04146)|null|
@@ -1157,7 +1164,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-15**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
+|**2024-02-18**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
 |**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
 |**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480](http://arxiv.org/abs/2312.12480)|null|
@@ -1285,6 +1292,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
 |**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359](http://arxiv.org/abs/2402.08359)|**[link](https://github.com/truongkhang/deviloc)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
@@ -1449,6 +1457,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377](http://arxiv.org/abs/2402.12377)|null|
+|**2024-02-18**|**3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods**|Till Beemelmanns et.al.|[2402.11680](http://arxiv.org/abs/2402.11680)|**[link](https://github.com/ika-rwth-aachen/point-cloud-compression)**|
 |**2024-02-16**|**In-medium static inter-quark potential on high resolution quenched lattices**|Rasmus N. Larsen et.al.|[2402.10819](http://arxiv.org/abs/2402.10819)|null|
 |**2024-02-15**|**Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**|Muhammad Arbab Arshad et.al.|[2402.10344](http://arxiv.org/abs/2402.10344)|null|
 |**2024-02-14**|**Irreducible Markov Chains on spaces of graphs with fixed degree-color sequences**|Félix Almendra-Hernández et.al.|[2402.09568](http://arxiv.org/abs/2402.09568)|null|
@@ -1572,6 +1582,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-18**|**3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods**|Till Beemelmanns et.al.|[2402.11680](http://arxiv.org/abs/2402.11680)|**[link](https://github.com/ika-rwth-aachen/point-cloud-compression)**|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325](http://arxiv.org/abs/2402.09325)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-10**|**Reciprocal Visibility**|Rakesh John Amala Arokia Nathan et.al.|[2402.06991](http://arxiv.org/abs/2402.06991)|null|
 |**2024-02-08**|**Tightly Coupled Range Inertial Localization on a 3D Prior Map Based on Sliding Window Factor Graph Optimization**|Kenji Koide et.al.|[2402.05540](http://arxiv.org/abs/2402.05540)|null|
