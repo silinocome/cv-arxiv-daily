@@ -358,6 +358,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI**|Domenique Zipperling et.al.|[2402.19105](http://arxiv.org/abs/2402.19105)|null|
+|**2024-02-29**|**Multi-Fidelity Residual Neural Processes for Scalable Surrogate Modeling**|Ruijia Niu et.al.|[2402.18846](http://arxiv.org/abs/2402.18846)|null|
 |**2024-02-27**|**Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning**|Maurits Bleeker et.al.|[2402.17510](http://arxiv.org/abs/2402.17510)|null|
 |**2024-02-22**|**Privacy-Enhancing Collaborative Information Sharing through Federated Learning -- A Case of the Insurance Industry**|Panyi Dong et.al.|[2402.14983](http://arxiv.org/abs/2402.14983)|null|
 |**2024-02-19**|**Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach**|Mohammad Heydari et.al.|[2402.12272](http://arxiv.org/abs/2402.12272)|null|
@@ -557,6 +559,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook**|Xingchen Zou et.al.|[2402.19348](http://arxiv.org/abs/2402.19348)|**[link](https://github.com/yoshall/awesome-multimodal-urban-computing)**|
+|**2024-02-29**|**RoadRunner -- Learning Traversability Estimation for Autonomous Off-road Driving**|Jonas Frey et.al.|[2402.19341](http://arxiv.org/abs/2402.19341)|null|
+|**2024-02-28**|**Acoustic tactile sensing for mobile robot wheels**|Wilfred Mason et.al.|[2402.18682](http://arxiv.org/abs/2402.18682)|null|
 |**2024-02-28**|**UKF-Based Sensor Fusion for Joint-Torque Sensorless Humanoid Robots**|Ines Sorrentino et.al.|[2402.18380](http://arxiv.org/abs/2402.18380)|null|
 |**2024-02-28**|**Comparative Analysis of XGBoost and Minirocket Algortihms for Human Activity Recognition**|Celal Alagoz et.al.|[2402.18296](http://arxiv.org/abs/2402.18296)|null|
 |**2024-02-28**|**Distributed Intelligent Integrated Sensing and Communications: The 6G-DISAC Approach**|Emilio Calvanese Strinati et.al.|[2402.18271](http://arxiv.org/abs/2402.18271)|null|
@@ -870,7 +875,7 @@ layout: default
 |**2024-02-28**|**Balanced Similarity with Auxiliary Prompts: Towards Alleviating Text-to-Image Retrieval Bias for CLIP in Zero-shot Learning**|Hanyao Wang et.al.|[2402.18400](http://arxiv.org/abs/2402.18400)|null|
 |**2024-02-28**|**Representing 3D sparse map points and lines for camera relocalization**|Bach-Thuan Bui et.al.|[2402.18011](http://arxiv.org/abs/2402.18011)|**[link](https://github.com/ais-lab/pl2map)**|
 |**2024-02-27**|**Multimodal Learned Sparse Retrieval with Probabilistic Expansion Control**|Thong Nguyen et.al.|[2402.17535](http://arxiv.org/abs/2402.17535)|**[link](https://github.com/thongnt99/lsr-multimodal)**|
-|**2024-02-27**|**Active propulsion noise shaping for multi-rotor aircraft localization**|Serussi Gabriele et.al.|[2402.17289](http://arxiv.org/abs/2402.17289)|**[link](https://github.com/tamirshor7/ears_code)**|
+|**2024-02-29**|**Active propulsion noise shaping for multi-rotor aircraft localization**|Gabriele Serussi et.al.|[2402.17289](http://arxiv.org/abs/2402.17289)|**[link](https://github.com/tamirshor7/ears_code)**|
 |**2024-02-28**|**Text2Pic Swift: Enhancing Long-Text to Image Retrieval for Large-Scale Libraries**|Zijun Long et.al.|[2402.15276](http://arxiv.org/abs/2402.15276)|null|
 |**2024-02-23**|**Fine-tuning CLIP Text Encoders with Two-step Paraphrasing**|Hyunjae Kim et.al.|[2402.15120](http://arxiv.org/abs/2402.15120)|null|
 |**2024-02-15**|**Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task**|Mirko Nava et.al.|[2402.09886](http://arxiv.org/abs/2402.09886)|**[link](https://github.com/idsia-robotics/leds-as-pretext)**|
@@ -1478,6 +1483,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**StiefelGen: A Simple, Model Agnostic Approach for Time Series Data Augmentation over Riemannian Manifolds**|Prasad Cheema et.al.|[2402.19287](http://arxiv.org/abs/2402.19287)|null|
+|**2024-02-29**|**BP-DeepONet: A new method for cuffless blood pressure estimation using the physcis-informed DeepONet**|Lingfeng Li et.al.|[2402.18886](http://arxiv.org/abs/2402.18886)|null|
 |**2024-02-27**|**Advancing sleep detection by modelling weak label sets: A novel weakly supervised learning approach**|Matthias Boeker et.al.|[2402.17601](http://arxiv.org/abs/2402.17601)|null|
 |**2024-02-23**|**On a precessing jet-nozzle scenario with a common helical trajectory-pattern for blazar 3C345**|S. J. Qian et.al.|[2402.15157](http://arxiv.org/abs/2402.15157)|null|
 |**2024-02-22**|**Parsimonious Generative Machine Learning for Non-Gaussian Tail Modeling and Risk-Neutral Distribution Extraction**|Qi Wu et.al.|[2402.14368](http://arxiv.org/abs/2402.14368)|null|
@@ -1612,6 +1619,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**StiefelGen: A Simple, Model Agnostic Approach for Time Series Data Augmentation over Riemannian Manifolds**|Prasad Cheema et.al.|[2402.19287](http://arxiv.org/abs/2402.19287)|null|
 |**2024-02-19**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
 |**2024-02-23**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[2402.12532](http://arxiv.org/abs/2402.12532)|null|
 |**2024-02-18**|**3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods**|Till Beemelmanns et.al.|[2402.11680](http://arxiv.org/abs/2402.11680)|**[link](https://github.com/ika-rwth-aachen/point-cloud-compression)**|
