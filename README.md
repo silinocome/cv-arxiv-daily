@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-02**|**A Hybrid Model for Traffic Incident Detection based on Generative Adversarial Networks and Transformer Model**|Xinying Lu et.al.|[2403.01147](http://arxiv.org/abs/2403.01147)|null|
+|**2024-03-01**|**Comparative Study of Simulators for Vehicular Networks**|Rida Saghir et.al.|[2403.00546](http://arxiv.org/abs/2403.00546)|null|
 |**2024-02-28**|**Token-based Vehicular Security System (TVSS): Scalable, Secure, Low-latency Public Key Infrastructure for Connected Vehicles**|Abdulrahman Bin Rabiah et.al.|[2402.18365](http://arxiv.org/abs/2402.18365)|null|
 |**2024-02-28**|**Decentralised Traffic Incident Detection via Network Lasso**|Qiyuan Zhu et.al.|[2402.18167](http://arxiv.org/abs/2402.18167)|null|
 |**2024-02-13**|**An Adaptive System Architecture for Multimodal Intelligent Transportation Systems**|Muhammad Farooq et.al.|[2402.08817](http://arxiv.org/abs/2402.08817)|null|
@@ -370,6 +372,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-01**|**Multi-Task Learning Using Uncertainty to Weigh Losses for Heterogeneous Face Attribute Estimation**|Huaqing Yuan et.al.|[2403.00561](http://arxiv.org/abs/2403.00561)|null|
 |**2024-02-29**|**CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI**|Domenique Zipperling et.al.|[2402.19105](http://arxiv.org/abs/2402.19105)|null|
 |**2024-02-29**|**Multi-Fidelity Residual Neural Processes for Scalable Surrogate Modeling**|Ruijia Niu et.al.|[2402.18846](http://arxiv.org/abs/2402.18846)|null|
 |**2024-02-27**|**Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning**|Maurits Bleeker et.al.|[2402.17510](http://arxiv.org/abs/2402.17510)|null|
@@ -574,7 +577,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-02-29**|**Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook**|Xingchen Zou et.al.|[2402.19348](http://arxiv.org/abs/2402.19348)|**[link](https://github.com/yoshall/awesome-multimodal-urban-computing)**|
-|**2024-02-29**|**RoadRunner -- Learning Traversability Estimation for Autonomous Off-road Driving**|Jonas Frey et.al.|[2402.19341](http://arxiv.org/abs/2402.19341)|null|
+|**2024-03-03**|**RoadRunner - Learning Traversability Estimation for Autonomous Off-road Driving**|Jonas Frey et.al.|[2402.19341](http://arxiv.org/abs/2402.19341)|null|
 |**2024-02-28**|**Acoustic tactile sensing for mobile robot wheels**|Wilfred Mason et.al.|[2402.18682](http://arxiv.org/abs/2402.18682)|null|
 |**2024-02-28**|**UKF-Based Sensor Fusion for Joint-Torque Sensorless Humanoid Robots**|Ines Sorrentino et.al.|[2402.18380](http://arxiv.org/abs/2402.18380)|null|
 |**2024-02-28**|**Comparative Analysis of XGBoost and Minirocket Algortihms for Human Activity Recognition**|Celal Alagoz et.al.|[2402.18296](http://arxiv.org/abs/2402.18296)|null|
@@ -887,6 +890,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-01**|**Asymmetric Feature Fusion for Image Retrieval**|Hui Wu et.al.|[2403.00671](http://arxiv.org/abs/2403.00671)|null|
+|**2024-03-01**|**Structure Similarity Preservation Learning for Asymmetric Image Retrieval**|Hui Wu et.al.|[2403.00648](http://arxiv.org/abs/2403.00648)|null|
 |**2024-02-28**|**Unsupervised Cross-Domain Image Retrieval via Prototypical Optimal Transport**|Bin Li et.al.|[2402.18411](http://arxiv.org/abs/2402.18411)|**[link](https://github.com/hcvlab/protoot)**|
 |**2024-02-28**|**Balanced Similarity with Auxiliary Prompts: Towards Alleviating Text-to-Image Retrieval Bias for CLIP in Zero-shot Learning**|Hanyao Wang et.al.|[2402.18400](http://arxiv.org/abs/2402.18400)|null|
 |**2024-02-28**|**Representing 3D sparse map points and lines for camera relocalization**|Bach-Thuan Bui et.al.|[2402.18011](http://arxiv.org/abs/2402.18011)|**[link](https://github.com/ais-lab/pl2map)**|
@@ -1505,11 +1510,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-01**|**Point Could Mamba: Point Cloud Learning via State Space Model**|Tao Zhang et.al.|[2403.00762](http://arxiv.org/abs/2403.00762)|**[link](https://github.com/zhang-tao-whu/pcm)**|
 |**2024-02-29**|**StiefelGen: A Simple, Model Agnostic Approach for Time Series Data Augmentation over Riemannian Manifolds**|Prasad Cheema et.al.|[2402.19287](http://arxiv.org/abs/2402.19287)|null|
 |**2024-02-29**|**BP-DeepONet: A new method for cuffless blood pressure estimation using the physcis-informed DeepONet**|Lingfeng Li et.al.|[2402.18886](http://arxiv.org/abs/2402.18886)|null|
 |**2024-02-27**|**Advancing sleep detection by modelling weak label sets: A novel weakly supervised learning approach**|Matthias Boeker et.al.|[2402.17601](http://arxiv.org/abs/2402.17601)|null|
 |**2024-02-23**|**On a precessing jet-nozzle scenario with a common helical trajectory-pattern for blazar 3C345**|S. J. Qian et.al.|[2402.15157](http://arxiv.org/abs/2402.15157)|null|
-|**2024-02-22**|**Parsimonious Generative Machine Learning for Non-Gaussian Tail Modeling and Risk-Neutral Distribution Extraction**|Qi Wu et.al.|[2402.14368](http://arxiv.org/abs/2402.14368)|null|
+|**2024-03-04**|**Parsimonious Generative Machine Learning for Non-Gaussian Tail Modeling and Risk-Neutral Distribution Extraction**|Qi Wu et.al.|[2402.14368](http://arxiv.org/abs/2402.14368)|null|
 |**2024-02-21**|**The Quasar 3C 47: Extreme Population B Jetted Source With Double-peaked Profile**|Shimeles Terefe Mengistue et.al.|[2402.14094](http://arxiv.org/abs/2402.14094)|null|
 |**2024-02-21**|**SaGE: Evaluating Moral Consistency in Large Language Models**|Vamshi Krishna Bonagiri et.al.|[2402.13709](http://arxiv.org/abs/2402.13709)|**[link](https://github.com/vnnm404/SaGE)**|
 |**2024-02-20**|**Estimation methods for estimands using the treatment policy strategy; a simulation study based on the PIONEER 1 Trial**|James Bell et.al.|[2402.12850](http://arxiv.org/abs/2402.12850)|null|
@@ -1643,6 +1649,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-01**|**Point Could Mamba: Point Cloud Learning via State Space Model**|Tao Zhang et.al.|[2403.00762](http://arxiv.org/abs/2403.00762)|**[link](https://github.com/zhang-tao-whu/pcm)**|
 |**2024-02-29**|**StiefelGen: A Simple, Model Agnostic Approach for Time Series Data Augmentation over Riemannian Manifolds**|Prasad Cheema et.al.|[2402.19287](http://arxiv.org/abs/2402.19287)|null|
 |**2024-02-19**|**Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics**|Siqi Miao et.al.|[2402.12535](http://arxiv.org/abs/2402.12535)|**[link](https://github.com/graph-com/hept)**|
 |**2024-02-23**|**Scalable Human-Machine Point Cloud Compression**|Mateen Ulhaq et.al.|[2402.12532](http://arxiv.org/abs/2402.12532)|null|
