@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive**|Pengzhou Cheng et.al.|[2403.04293](http://arxiv.org/abs/2403.04293)|null|
 |**2024-03-04**|**TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models**|Yilong Ren et.al.|[2403.02221](http://arxiv.org/abs/2403.02221)|null|
 |**2024-03-02**|**A Hybrid Model for Traffic Incident Detection based on Generative Adversarial Networks and Transformer Model**|Xinying Lu et.al.|[2403.01147](http://arxiv.org/abs/2403.01147)|null|
 |**2024-03-01**|**Comparative Study of Simulators for Vehicular Networks**|Rida Saghir et.al.|[2403.00546](http://arxiv.org/abs/2403.00546)|null|
@@ -879,6 +880,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-06**|**Self-supervised Photographic Image Layout Representation Learning**|Zhaoran Zhao et.al.|[2403.03740](http://arxiv.org/abs/2403.03740)|**[link](https://github.com/cv-xueba/image-layout-learning)**|
 |**2024-03-04**|**Multi-Spectral Remote Sensing Image Retrieval Using Geospatial Foundation Models**|Benedikt Blumenstiel et.al.|[2403.02059](http://arxiv.org/abs/2403.02059)|**[link](https://github.com/ibm/remote-sensing-image-retrieval)**|
 |**2024-03-03**|**Image2Sentence based Asymmetrical Zero-shot Composed Image Retrieval**|Yongchao Du et.al.|[2403.01431](http://arxiv.org/abs/2403.01431)|null|
@@ -1330,7 +1332,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-06**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
+|**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
+|**2024-03-07**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
 |**2024-02-21**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
 |**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
@@ -1497,11 +1500,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-07**|**Calibrated rank volatility stabilized models for large equity markets**|David Itkin et.al.|[2403.04674](http://arxiv.org/abs/2403.04674)|null|
 |**2024-03-06**|**Reducing the dimensionality and granularity in hierarchical categorical variables**|Paul Wilsens et.al.|[2403.03613](http://arxiv.org/abs/2403.03613)|**[link](https://github.com/paulwilsens/reducing-hierarchical-cat)**|
 |**2024-03-06**|**Detecting transitions between collective motion regimes using functional hypothesis test of the time-varying persistence homology**|Thevasha Sathiyakumar et.al.|[2403.03428](http://arxiv.org/abs/2403.03428)|null|
 |**2024-03-05**|**AI Insights: A Case Study on Utilizing ChatGPT Intelligence for Research Paper Analysis**|Anjalee De Silva et.al.|[2403.03293](http://arxiv.org/abs/2403.03293)|null|
 |**2024-03-05**|**Periodically activated physics-informed neural networks for assimilation tasks for three-dimensional Rayleigh-Benard convection**|Michael Mommert et.al.|[2403.02970](http://arxiv.org/abs/2403.02970)|null|
-|**2024-03-05**|**False Positive Sampling-based Data Augmentation for Enhanced 3D Object Detection Accuracy**|Jiyong Oh et.al.|[2403.02639](http://arxiv.org/abs/2403.02639)|null|
+|**2024-03-07**|**False Positive Sampling-based Data Augmentation for Enhanced 3D Object Detection Accuracy**|Jiyong Oh et.al.|[2403.02639](http://arxiv.org/abs/2403.02639)|null|
 |**2024-03-04**|**The Epoch of Giant Planet Migration Planet Search Program. II. A Young Hot Jupiter Candidate around the AB Dor Member HS Psc**|Quang H. Tran et.al.|[2403.02378](http://arxiv.org/abs/2403.02378)|null|
 |**2024-03-04**|**Point2Building: Reconstructing Buildings from Airborne LiDAR Point Clouds**|Yujia Liu et.al.|[2403.02136](http://arxiv.org/abs/2403.02136)|null|
 |**2024-03-04**|**Sensor-based Multi-Robot Search and Coverage with Spatial Separation in Unstructured Environments**|Xinyi Wang et.al.|[2403.01710](http://arxiv.org/abs/2403.01710)|null|
