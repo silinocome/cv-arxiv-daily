@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-10**|**Towards In-Vehicle Multi-Task Facial Attribute Recognition: Investigating Synthetic Data and Vision Foundation Models**|Esmaeil Seraj et.al.|[2403.06088](http://arxiv.org/abs/2403.06088)|null|
 |**2024-03-08**|**BjTT: A Large-scale Multimodal Dataset for Traffic Prediction**|Chengyang Zhang et.al.|[2403.05029](http://arxiv.org/abs/2403.05029)|**[link](https://github.com/ChyaZhang/ChatTraffic)**|
 |**2024-03-07**|**MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive**|Pengzhou Cheng et.al.|[2403.04293](http://arxiv.org/abs/2403.04293)|null|
 |**2024-03-04**|**TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models**|Yilong Ren et.al.|[2403.02221](http://arxiv.org/abs/2403.02221)|null|
@@ -31,6 +32,7 @@
 |**2024-03-01**|**Comparative Study of Simulators for Vehicular Networks**|Rida Saghir et.al.|[2403.00546](http://arxiv.org/abs/2403.00546)|null|
 |**2024-02-28**|**Token-based Vehicular Security System (TVSS): Scalable, Secure, Low-latency Public Key Infrastructure for Connected Vehicles**|Abdulrahman Bin Rabiah et.al.|[2402.18365](http://arxiv.org/abs/2402.18365)|null|
 |**2024-02-28**|**Decentralised Traffic Incident Detection via Network Lasso**|Qiyuan Zhu et.al.|[2402.18167](http://arxiv.org/abs/2402.18167)|null|
+|**2024-02-21**|**Surround-View Fisheye Optics in Computer Vision and Simulation: Survey and Challenges**|Daniel Jakab et.al.|[2402.12041](http://arxiv.org/abs/2402.12041)|null|
 |**2024-02-13**|**An Adaptive System Architecture for Multimodal Intelligent Transportation Systems**|Muhammad Farooq et.al.|[2402.08817](http://arxiv.org/abs/2402.08817)|null|
 |**2024-02-13**|**Data Analytics for Intermodal Freight Transportation Applications**|Nathan Huynh et.al.|[2402.08707](http://arxiv.org/abs/2402.08707)|null|
 |**2024-02-12**|**Continuous Assurance of Autonomous Vehicle Behavior Through Machine Learned Correctness Properties**|Matthew Litton et.al.|[2402.07791](http://arxiv.org/abs/2402.07791)|null|
@@ -375,6 +377,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-10**|**Transformer based Multitask Learning for Image Captioning and Object Detection**|Debolena Basak et.al.|[2403.06292](http://arxiv.org/abs/2403.06292)|null|
+|**2024-03-08**|**SimEngine: A Modular Framework for Statistical Simulations in R**|Avi Kenny et.al.|[2403.05698](http://arxiv.org/abs/2403.05698)|null|
 |**2024-03-08**|**TIPS: Threat Sharing Information Platform for Enhanced Security**|Lakshmi Rama Kiran Pasumarthy et.al.|[2403.05210](http://arxiv.org/abs/2403.05210)|null|
 |**2024-03-06**|**Model Parallelism on Distributed Infrastructure: A Literature Review from Theory to LLM Case-Studies**|Felix Brakel et.al.|[2403.03699](http://arxiv.org/abs/2403.03699)|null|
 |**2024-03-04**|**Target Localization and Performance Trade-Offs in Cooperative ISAC Systems: A Scheme Based on 5G NR OFDM Signals**|Zhenkun Zhang et.al.|[2403.02028](http://arxiv.org/abs/2403.02028)|null|
@@ -899,7 +903,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-08**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002](http://arxiv.org/abs/2403.05002)|null|
+|**2024-03-11**|**EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**|Gabriele Berton et.al.|[2403.06758](http://arxiv.org/abs/2403.06758)|**[link](https://github.com/gmberton/earthloc)**|
+|**2024-03-11**|**Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**|Stefan Denner et.al.|[2403.06567](http://arxiv.org/abs/2403.06567)|null|
+|**2024-03-10**|**Texture image retrieval using a classification and contourlet-based features**|Asal Rouhafzay et.al.|[2403.06048](http://arxiv.org/abs/2403.06048)|null|
+|**2024-03-11**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002](http://arxiv.org/abs/2403.05002)|null|
 |**2024-03-07**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-06**|**Self-supervised Photographic Image Layout Representation Learning**|Zhaoran Zhao et.al.|[2403.03740](http://arxiv.org/abs/2403.03740)|**[link](https://github.com/cv-xueba/image-layout-learning)**|
 |**2024-03-04**|**Multi-Spectral Remote Sensing Image Retrieval Using Geospatial Foundation Models**|Benedikt Blumenstiel et.al.|[2403.02059](http://arxiv.org/abs/2403.02059)|**[link](https://github.com/ibm/remote-sensing-image-retrieval)**|
@@ -1363,7 +1370,7 @@
 |**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
 |**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359](http://arxiv.org/abs/2402.08359)|**[link](https://github.com/truongkhang/deviloc)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
-|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
+|**2024-03-11**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357](http://arxiv.org/abs/2401.13357)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886](http://arxiv.org/abs/2401.10886)|null|
 |**2024-01-18**|**Question-Answer Cross Language Image Matching for Weakly Supervised Semantic Segmentation**|Songhe Deng et.al.|[2401.09883](http://arxiv.org/abs/2401.09883)|**[link](https://github.com/cvi-szu/qa-clims)**|
@@ -1526,6 +1533,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952](http://arxiv.org/abs/2403.06952)|null|
+|**2024-03-11**|**Shape Non-rigid Kinematics (SNK): A Zero-Shot Method for Non-Rigid Shape Matching via Unsupervised Functional Map Regularized Reconstruction**|Souhaib Attaiki et.al.|[2403.06804](http://arxiv.org/abs/2403.06804)|null|
+|**2024-03-11**|**epsilon-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition**|Batuhan Cengiz et.al.|[2403.06661](http://arxiv.org/abs/2403.06661)|null|
+|**2024-03-11**|**Latent Semantic Consensus For Deterministic Geometric Model Fitting**|Guobao Xiao et.al.|[2403.06444](http://arxiv.org/abs/2403.06444)|**[link](https://github.com/guobaoxiao/lsc)**|
+|**2024-03-09**|**Investigating the Soft X-ray Spectra of Solar Flare Onsets**|Anant Telikicherla et.al.|[2403.05992](http://arxiv.org/abs/2403.05992)|null|
 |**2024-03-07**|**Calibrated rank volatility stabilized models for large equity markets**|David Itkin et.al.|[2403.04674](http://arxiv.org/abs/2403.04674)|null|
 |**2024-03-06**|**Reducing the dimensionality and granularity in hierarchical categorical variables**|Paul Wilsens et.al.|[2403.03613](http://arxiv.org/abs/2403.03613)|**[link](https://github.com/paulwilsens/reducing-hierarchical-cat)**|
 |**2024-03-06**|**Detecting transitions between collective motion regimes using functional hypothesis test of the time-varying persistence homology**|Thevasha Sathiyakumar et.al.|[2403.03428](http://arxiv.org/abs/2403.03428)|null|
@@ -1675,6 +1687,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**epsilon-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition**|Batuhan Cengiz et.al.|[2403.06661](http://arxiv.org/abs/2403.06661)|null|
 |**2024-03-06**|**Detecting transitions between collective motion regimes using functional hypothesis test of the time-varying persistence homology**|Thevasha Sathiyakumar et.al.|[2403.03428](http://arxiv.org/abs/2403.03428)|null|
 |**2024-03-04**|**Point2Building: Reconstructing Buildings from Airborne LiDAR Point Clouds**|Yujia Liu et.al.|[2403.02136](http://arxiv.org/abs/2403.02136)|null|
 |**2024-03-04**|**Sensor-based Multi-Robot Search and Coverage with Spatial Separation in Unstructured Environments**|Xinyi Wang et.al.|[2403.01710](http://arxiv.org/abs/2403.01710)|null|
