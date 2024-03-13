@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**A Survey on Federated Learning in Intelligent Transportation Systems**|Rongqing Zhang et.al.|[2403.07444](http://arxiv.org/abs/2403.07444)|null|
 |**2024-03-10**|**Towards In-Vehicle Multi-Task Facial Attribute Recognition: Investigating Synthetic Data and Vision Foundation Models**|Esmaeil Seraj et.al.|[2403.06088](http://arxiv.org/abs/2403.06088)|null|
 |**2024-03-08**|**BjTT: A Large-scale Multimodal Dataset for Traffic Prediction**|Chengyang Zhang et.al.|[2403.05029](http://arxiv.org/abs/2403.05029)|**[link](https://github.com/ChyaZhang/ChatTraffic)**|
 |**2024-03-07**|**MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive**|Pengzhou Cheng et.al.|[2403.04293](http://arxiv.org/abs/2403.04293)|null|
@@ -586,6 +587,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Evacuation Management Framework towards Smart City-wide Intelligent Emergency Interactive Response System**|Anuj Abraham et.al.|[2403.07003](http://arxiv.org/abs/2403.07003)|null|
 |**2024-03-08**|**OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[2403.05329](http://arxiv.org/abs/2403.05329)|null|
 |**2024-03-04**|**COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks**|Zijian Huang et.al.|[2403.02329](http://arxiv.org/abs/2403.02329)|null|
 |**2024-03-03**|**OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2403.01644](http://arxiv.org/abs/2403.01644)|null|
@@ -903,6 +905,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**|Subhadeep Koley et.al.|[2403.07234](http://arxiv.org/abs/2403.07234)|**[link](https://github.com/subhadeepkoley/demosketch2rgb)**|
+|**2024-03-12**|**You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval**|Subhadeep Koley et.al.|[2403.07222](http://arxiv.org/abs/2403.07222)|null|
+|**2024-03-12**|**Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**|Subhadeep Koley et.al.|[2403.07214](http://arxiv.org/abs/2403.07214)|null|
+|**2024-03-11**|**How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?**|Subhadeep Koley et.al.|[2403.07203](http://arxiv.org/abs/2403.07203)|null|
 |**2024-03-11**|**EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**|Gabriele Berton et.al.|[2403.06758](http://arxiv.org/abs/2403.06758)|**[link](https://github.com/gmberton/earthloc)**|
 |**2024-03-11**|**Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**|Stefan Denner et.al.|[2403.06567](http://arxiv.org/abs/2403.06567)|null|
 |**2024-03-10**|**Texture image retrieval using a classification and contourlet-based features**|Asal Rouhafzay et.al.|[2403.06048](http://arxiv.org/abs/2403.06048)|null|
@@ -1533,6 +1539,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Supporting Annotators with Affordances for Efficiently Labeling Conversational Data**|Austin Z. Henley et.al.|[2403.07762](http://arxiv.org/abs/2403.07762)|null|
+|**2024-03-12**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706](http://arxiv.org/abs/2403.07706)|null|
 |**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952](http://arxiv.org/abs/2403.06952)|null|
 |**2024-03-11**|**Shape Non-rigid Kinematics (SNK): A Zero-Shot Method for Non-Rigid Shape Matching via Unsupervised Functional Map Regularized Reconstruction**|Souhaib Attaiki et.al.|[2403.06804](http://arxiv.org/abs/2403.06804)|null|
 |**2024-03-11**|**epsilon-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition**|Batuhan Cengiz et.al.|[2403.06661](http://arxiv.org/abs/2403.06661)|null|
@@ -1687,6 +1695,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-12**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706](http://arxiv.org/abs/2403.07706)|null|
 |**2024-03-11**|**epsilon-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition**|Batuhan Cengiz et.al.|[2403.06661](http://arxiv.org/abs/2403.06661)|null|
 |**2024-03-06**|**Detecting transitions between collective motion regimes using functional hypothesis test of the time-varying persistence homology**|Thevasha Sathiyakumar et.al.|[2403.03428](http://arxiv.org/abs/2403.03428)|null|
 |**2024-03-04**|**Point2Building: Reconstructing Buildings from Airborne LiDAR Point Clouds**|Yujia Liu et.al.|[2403.02136](http://arxiv.org/abs/2403.02136)|null|
