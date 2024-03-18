@@ -146,7 +146,7 @@ layout: default
 |**2023-09-27**|**Overcoming the Fear of the Dark: Occlusion-Aware Model-Predictive Planning for Automated Vehicles Using Risk Fields**|Chris van der Ploeg et.al.|[2309.15501](http://arxiv.org/abs/2309.15501)|null|
 |**2023-09-28**|**Semantic Map Learning of Traffic Light to Lane Assignment based on Motion Data**|Thomas Monninger et.al.|[2309.14793](http://arxiv.org/abs/2309.14793)|**[link](https://github.com/map-learning/tl2la)**|
 |**2023-09-26**|**Exploring the impact of automated vehicles lane-changing behavior on urban network efficiency**|Alberto Pelizza et.al.|[2309.14731](http://arxiv.org/abs/2309.14731)|null|
-|**2023-09-24**|**Advancements in 3D Lane Detection Using LiDAR Point Clouds: From Data Collection to Model Development**|Runkai Zhao et.al.|[2309.13596](http://arxiv.org/abs/2309.13596)|null|
+|**2023-09-24**|**Advancements in 3D Lane Detection Using LiDAR Point Clouds: From Data Collection to Model Development**|Runkai Zhao et.al.|[2309.13596](http://arxiv.org/abs/2309.13596)|**[link](https://github.com/runkaizhao/liladet)**|
 |**2023-09-23**|**Consensus Algorithms of Distributed Ledger Technology -- A Comprehensive Analysis**|Ahmad J. Alkhodair et.al.|[2309.13498](http://arxiv.org/abs/2309.13498)|null|
 |**2023-09-22**|**SurrealDriver: Designing Generative Driver Agent Simulation Framework in Urban Contexts based on Large Language Model**|Ye Jin et.al.|[2309.13193](http://arxiv.org/abs/2309.13193)|null|
 |**2023-09-22**|**Analytical Model of 5G V2X Mode 2 for Sporadic Traffic**|Dmitry Bankov et.al.|[2309.12901](http://arxiv.org/abs/2309.12901)|null|
@@ -379,7 +379,7 @@ layout: default
 |**2024-02-27**|**Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning**|Maurits Bleeker et.al.|[2402.17510](http://arxiv.org/abs/2402.17510)|**[link](https://github.com/mauritsbleeker/svl-framework)**|
 |**2024-02-22**|**Privacy-Enhancing Collaborative Information Sharing through Federated Learning -- A Case of the Insurance Industry**|Panyi Dong et.al.|[2402.14983](http://arxiv.org/abs/2402.14983)|null|
 |**2024-02-19**|**Analysis of Persian News Agencies on Instagram, A Words Co-occurrence Graph-based Approach**|Mohammad Heydari et.al.|[2402.12272](http://arxiv.org/abs/2402.12272)|null|
-|**2024-02-18**|**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration**|Jun Zhao et.al.|[2402.11550](http://arxiv.org/abs/2402.11550)|null|
+|**2024-02-18**|**LongAgent: Scaling Language Models to 128k Context through Multi-Agent Collaboration**|Jun Zhao et.al.|[2402.11550](http://arxiv.org/abs/2402.11550)|**[link](https://github.com/zuucan/needleinahaystack-plus)**|
 |**2024-02-15**|**Prompt-based Personalized Federated Learning for Medical Visual Question Answering**|He Zhu et.al.|[2402.09677](http://arxiv.org/abs/2402.09677)|null|
 |**2024-02-14**|**MEL: Efficient Multi-Task Evolutionary Learning for High-Dimensional Feature Selection**|Xubin Wang et.al.|[2402.08982](http://arxiv.org/abs/2402.08982)|**[link](https://github.com/wangxb96/mel)**|
 |**2024-02-20**|**News Recommendation with Attention Mechanism**|Tianrui Liu et.al.|[2402.07422](http://arxiv.org/abs/2402.07422)|null|
@@ -928,7 +928,7 @@ layout: default
 |**2024-02-03**|**Zero-shot sketch-based remote sensing image retrieval based on multi-level and attention-guided tokenization**|Bo Yang et.al.|[2402.02141](http://arxiv.org/abs/2402.02141)|**[link](https://github.com/snowstormfly/cross-modal-retrieval-mlagt)**|
 |**2024-02-01**|**Night-Rider: Nocturnal Vision-aided Localization in Streetlight Maps Using Invariant Extended Kalman Filtering**|Tianxiao Gao et.al.|[2402.00330](http://arxiv.org/abs/2402.00330)|**[link](https://github.com/imrl/night-rider)**|
 |**2024-01-31**|**Improved Scene Landmark Detection for Camera Localization**|Tien Do et.al.|[2401.18083](http://arxiv.org/abs/2401.18083)|**[link](https://github.com/microsoft/scenelandmarklocalization)**|
-|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|null|
+|**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592](http://arxiv.org/abs/2401.17592)|**[link](https://github.com/vignywang/awesome-local-feature-matching)**|
 |**2024-01-29**|**Bridging Generative and Discriminative Models for Unified Visual Perception with Diffusion Priors**|Shiyin Dong et.al.|[2401.16459](http://arxiv.org/abs/2401.16459)|null|
 |**2024-01-29**|**Cross-Modal Coordination Across a Diverse Set of Input Modalities**|Jorge Sánchez et.al.|[2401.16347](http://arxiv.org/abs/2401.16347)|null|
 |**2024-01-27**|**Transformer-based Clipped Contrastive Quantization Learning for Unsupervised Image Retrieval**|Ayush Dubey et.al.|[2401.15362](http://arxiv.org/abs/2401.15362)|null|
