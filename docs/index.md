@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**V2AIX: A Multi-Modal Real-World Dataset of ETSI ITS V2X Messages in Public Road Traffic**|Guido Kueppers et.al.|[2403.10221](http://arxiv.org/abs/2403.10221)|null|
+|**2024-03-15**|**Prediction of Vessel Arrival Time to Pilotage Area Using Multi-Data Fusion and Deep Learning**|Xiaocai Zhang et.al.|[2403.09969](http://arxiv.org/abs/2403.09969)|null|
 |**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/abs/2403.09079)|**[link](https://github.com/yuantianyuan01/presight)**|
 |**2024-03-13**|**Multi-Objective Optimization Using Adaptive Distributed Reinforcement Learning**|Jing Tan et.al.|[2403.08879](http://arxiv.org/abs/2403.08879)|null|
 |**2024-03-14**|**A Survey on Federated Learning in Intelligent Transportation Systems**|Rongqing Zhang et.al.|[2403.07444](http://arxiv.org/abs/2403.07444)|null|
@@ -575,6 +577,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Prediction of Vessel Arrival Time to Pilotage Area Using Multi-Data Fusion and Deep Learning**|Xiaocai Zhang et.al.|[2403.09969](http://arxiv.org/abs/2403.09969)|null|
 |**2024-03-14**|**DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification**|Qianqian Wu et.al.|[2403.09367](http://arxiv.org/abs/2403.09367)|null|
 |**2024-03-13**|**Safe Road-Crossing by Autonomous Wheelchairs: a Novel Dataset and its Experimental Evaluation**|Carlo Grigioni et.al.|[2403.08984](http://arxiv.org/abs/2403.08984)|null|
 |**2024-03-13**|**LIX: Implicitly Infusing Spatial Geometric Prior Knowledge into Visual Semantic Segmentation for Autonomous Driving**|Sicen Guo et.al.|[2403.08215](http://arxiv.org/abs/2403.08215)|null|
@@ -894,6 +897,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
 |**2024-03-13**|**PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models**|Siddharth Mishra-Sharma et.al.|[2403.08851](http://arxiv.org/abs/2403.08851)|**[link](https://github.com/smsharma/paperclip-hubble)**|
 |**2024-03-12**|**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**|Subhadeep Koley et.al.|[2403.07234](http://arxiv.org/abs/2403.07234)|**[link](https://github.com/subhadeepkoley/demosketch2rgb)**|
@@ -1356,6 +1360,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**Local positional graphs and attentive local features for a data and runtime-efficient hierarchical place recognition pipeline**|Fangming Yuan et.al.|[2403.10283](http://arxiv.org/abs/2403.10283)|null|
+|**2024-03-15**|**Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning**|Meixuan Li et.al.|[2403.10252](http://arxiv.org/abs/2403.10252)|null|
 |**2024-03-14**|**Virtual birefringence imaging and histological staining of amyloid deposits in label-free tissue using autofluorescence microscopy and deep learning**|Xilin Yang et.al.|[2403.09100](http://arxiv.org/abs/2403.09100)|null|
 |**2024-03-13**|**Matching Non-Identical Objects**|Yusuke Marumo et.al.|[2403.08227](http://arxiv.org/abs/2403.08227)|null|
 |**2024-03-11**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
@@ -1526,6 +1532,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085](http://arxiv.org/abs/2403.10085)|**[link](https://github.com/guiyuzhao/vrhcf)**|
+|**2024-03-15**|**Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Jingyi Xu et.al.|[2403.10001](http://arxiv.org/abs/2403.10001)|**[link](https://github.com/etrontech/vfmseg)**|
+|**2024-03-15**|**MEDPNet: Achieving High-Precision Adaptive Registration for Complex Die Castings**|Yu Du et.al.|[2403.09996](http://arxiv.org/abs/2403.09996)|null|
+|**2024-03-15**|**Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration**|Usama Ali et.al.|[2403.09988](http://arxiv.org/abs/2403.09988)|null|
 |**2024-03-14**|**Score-Guided Diffusion for 3D Human Recovery**|Anastasis Stathopoulos et.al.|[2403.09623](http://arxiv.org/abs/2403.09623)|**[link](https://github.com/statho/scorehmr)**|
 |**2024-03-14**|**Twenty ways to estimate the Log Gaussian Cox Process model with point and aggregated case data: the rts2 package for R**|Samuel I Watson et.al.|[2403.09448](http://arxiv.org/abs/2403.09448)|null|
 |**2024-03-14**|**Perspective-Equivariant Imaging: an Unsupervised Framework for Multispectral Pansharpening**|Andrew Wang et.al.|[2403.09327](http://arxiv.org/abs/2403.09327)|null|
@@ -1687,9 +1697,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085](http://arxiv.org/abs/2403.10085)|**[link](https://github.com/guiyuzhao/vrhcf)**|
+|**2024-03-15**|**Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Jingyi Xu et.al.|[2403.10001](http://arxiv.org/abs/2403.10001)|**[link](https://github.com/etrontech/vfmseg)**|
+|**2024-03-15**|**MEDPNet: Achieving High-Precision Adaptive Registration for Complex Die Castings**|Yu Du et.al.|[2403.09996](http://arxiv.org/abs/2403.09996)|null|
+|**2024-03-15**|**Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration**|Usama Ali et.al.|[2403.09988](http://arxiv.org/abs/2403.09988)|null|
 |**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|null|
 |**2024-03-13**|**DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition**|Hebeizi Li et.al.|[2403.08318](http://arxiv.org/abs/2403.08318)|null|
-|**2024-03-12**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706](http://arxiv.org/abs/2403.07706)|null|
+|**2024-03-15**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706](http://arxiv.org/abs/2403.07706)|null|
 |**2024-03-11**|**epsilon-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition**|Batuhan Cengiz et.al.|[2403.06661](http://arxiv.org/abs/2403.06661)|null|
 |**2024-03-06**|**Detecting transitions between collective motion regimes using functional hypothesis test of the time-varying persistence homology**|Thevasha Sathiyakumar et.al.|[2403.03428](http://arxiv.org/abs/2403.03428)|null|
 |**2024-03-04**|**Point2Building: Reconstructing Buildings from Airborne LiDAR Point Clouds**|Yujia Liu et.al.|[2403.02136](http://arxiv.org/abs/2403.02136)|null|
