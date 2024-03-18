@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.17
+## Updated on 2024.03.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -19,7 +19,7 @@ layout: default
 |**2024-03-14**|**A Survey on Federated Learning in Intelligent Transportation Systems**|Rongqing Zhang et.al.|[2403.07444](http://arxiv.org/abs/2403.07444)|null|
 |**2024-03-10**|**Towards In-Vehicle Multi-Task Facial Attribute Recognition: Investigating Synthetic Data and Vision Foundation Models**|Esmaeil Seraj et.al.|[2403.06088](http://arxiv.org/abs/2403.06088)|null|
 |**2024-03-14**|**BjTT: A Large-scale Multimodal Dataset for Traffic Prediction**|Chengyang Zhang et.al.|[2403.05029](http://arxiv.org/abs/2403.05029)|**[link](https://github.com/ChyaZhang/ChatTraffic)**|
-|**2024-03-07**|**MKF-ADS: A Multi-Knowledge Fused Anomaly Detection System for Automotive**|Pengzhou Cheng et.al.|[2403.04293](http://arxiv.org/abs/2403.04293)|null|
+|**2024-03-15**|**MKF-ADS: Multi-Knowledge Fusion Based Self-supervised Anomaly Detection System for Control Area Network**|Pengzhou Cheng et.al.|[2403.04293](http://arxiv.org/abs/2403.04293)|null|
 |**2024-03-04**|**TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models**|Yilong Ren et.al.|[2403.02221](http://arxiv.org/abs/2403.02221)|null|
 |**2024-03-02**|**A Hybrid Model for Traffic Incident Detection based on Generative Adversarial Networks and Transformer Model**|Xinying Lu et.al.|[2403.01147](http://arxiv.org/abs/2403.01147)|null|
 |**2024-03-01**|**Comparative Study of Simulators for Vehicular Networks**|Rida Saghir et.al.|[2403.00546](http://arxiv.org/abs/2403.00546)|null|
