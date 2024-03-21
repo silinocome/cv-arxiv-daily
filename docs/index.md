@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -908,7 +908,7 @@ layout: default
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
 |**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
 |**2024-03-13**|**Training Self-localization Models for Unseen Unfamiliar Places via Teacher-to-Student Data-Free Knowledge Transfer**|Kenta Tsukahara et.al.|[2403.10552](http://arxiv.org/abs/2403.10552)|null|
-|**2024-03-15**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
+|**2024-03-20**|**Leveraging Neural Radiance Field in Descriptor Synthesis for Keypoints Scene Coordinate Regression**|Huy-Hoang Bui et.al.|[2403.10297](http://arxiv.org/abs/2403.10297)|**[link](https://github.com/ais-lab/descriptorsynthesis4feat2map)**|
 |**2024-03-14**|**The NeRFect Match: Exploring NeRF Features for Visual Localization**|Qunjie Zhou et.al.|[2403.09577](http://arxiv.org/abs/2403.09577)|null|
 |**2024-03-13**|**PAPERCLIP: Associating Astronomical Observations and Natural Language with Multi-Modal Models**|Siddharth Mishra-Sharma et.al.|[2403.08851](http://arxiv.org/abs/2403.08851)|**[link](https://github.com/smsharma/paperclip-hubble)**|
 |**2024-03-12**|**It's All About Your Sketch: Democratising Sketch Control in Diffusion Models**|Subhadeep Koley et.al.|[2403.07234](http://arxiv.org/abs/2403.07234)|**[link](https://github.com/subhadeepkoley/demosketch2rgb)**|
@@ -1247,7 +1247,7 @@ layout: default
 |**2023-12-27**|**Bezier-based Regression Feature Descriptor for Deformable Linear Objects**|Fangqing Chen et.al.|[2312.16502](http://arxiv.org/abs/2312.16502)|null|
 |**2023-12-24**|**Residual Learning for Image Point Descriptors**|Rashik Shrestha et.al.|[2312.15471](http://arxiv.org/abs/2312.15471)|null|
 |**2023-12-19**|**Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation**|Jiaming Liu et.al.|[2312.12480](http://arxiv.org/abs/2312.12480)|null|
-|**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|null|
+|**2023-11-28**|**Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features**|Niladri Shekhar Dutt et.al.|[2311.17024](http://arxiv.org/abs/2311.17024)|**[link](https://github.com/niladridutt/Diffusion-3D-Features)**|
 |**2023-11-28**|**Riemannian Self-Attention Mechanism for SPD Networks**|Rui Wang et.al.|[2311.16738](http://arxiv.org/abs/2311.16738)|null|
 |**2023-11-27**|**A manometric feature descriptor with linear-SVM to distinguish esophageal contraction vigor**|Jialin Liu et.al.|[2311.15609](http://arxiv.org/abs/2311.15609)|null|
 |**2023-11-21**|**Instance-aware 3D Semantic Segmentation powered by Shape Generators and Classifiers**|Bo Sun et.al.|[2311.12291](http://arxiv.org/abs/2311.12291)|null|
