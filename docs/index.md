@@ -14,7 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-15**|**V2AIX: A Multi-Modal Real-World Dataset of ETSI ITS V2X Messages in Public Road Traffic**|Guido Kueppers et.al.|[2403.10221](http://arxiv.org/abs/2403.10221)|null|
+|**2024-03-20**|**Quantum-Secure Certificate-Less Conditional Privacy-Preserving Authentication for VANET**|Girraj Kumar Verma et.al.|[2403.13743](http://arxiv.org/abs/2403.13743)|null|
+|**2024-03-20**|**Multi-agent Reinforcement Traffic Signal Control based on Interpretable Influence Mechanism and Biased ReLU Approximation**|Zhiyue Luo et.al.|[2403.13639](http://arxiv.org/abs/2403.13639)|null|
+|**2024-03-15**|**V2AIX: A Multi-Modal Real-World Dataset of ETSI ITS V2X Messages in Public Road Traffic**|Guido Kueppers et.al.|[2403.10221](http://arxiv.org/abs/2403.10221)|**[link](https://github.com/ika-rwth-aachen/etsi_its_messages)**|
 |**2024-03-15**|**Prediction of Vessel Arrival Time to Pilotage Area Using Multi-Data Fusion and Deep Learning**|Xiaocai Zhang et.al.|[2403.09969](http://arxiv.org/abs/2403.09969)|null|
 |**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/abs/2403.09079)|**[link](https://github.com/yuantianyuan01/presight)**|
 |**2024-03-13**|**Multi-Objective Optimization Using Adaptive Distributed Reinforcement Learning**|Jing Tan et.al.|[2403.08879](http://arxiv.org/abs/2403.08879)|null|
@@ -370,6 +372,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Bridging deep learning force fields and electronic structures with a physics-informed approach**|Yubo Qi et.al.|[2403.13675](http://arxiv.org/abs/2403.13675)|null|
+|**2024-03-20**|**Decentralized Federated Learning: Model Update Tracking Under Imperfect Information Sharing**|Vishnu Pandi Chellapandi et.al.|[2403.13247](http://arxiv.org/abs/2403.13247)|null|
 |**2024-03-10**|**Transformer based Multitask Learning for Image Captioning and Object Detection**|Debolena Basak et.al.|[2403.06292](http://arxiv.org/abs/2403.06292)|null|
 |**2024-03-08**|**SimEngine: A Modular Framework for Statistical Simulations in R**|Avi Kenny et.al.|[2403.05698](http://arxiv.org/abs/2403.05698)|null|
 |**2024-03-08**|**TIPS: Threat Sharing Information Platform for Enhanced Security**|Lakshmi Rama Kiran Pasumarthy et.al.|[2403.05210](http://arxiv.org/abs/2403.05210)|null|
@@ -577,8 +581,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment with Multiple Sensors for Large-Scale Localization and Mapping**|Yuxuan Zhou et.al.|[2403.13714](http://arxiv.org/abs/2403.13714)|null|
+|**2024-03-20**|**HyperFusion: A Hypernetwork Approach to Multimodal Integration of Tabular and Medical Imaging Data for Predictive Modeling**|Daniel Duenias et.al.|[2403.13319](http://arxiv.org/abs/2403.13319)|null|
+|**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170](http://arxiv.org/abs/2403.13170)|null|
 |**2024-03-19**|**Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**|Kurran Singh et.al.|[2403.12837](http://arxiv.org/abs/2403.12837)|null|
-|**2024-03-19**|**Multimodal Fusion Method with Spatiotemporal Sequences and Relationship Learning for Valence-Arousal Estimation**|Jun Yu et.al.|[2403.12425](http://arxiv.org/abs/2403.12425)|null|
+|**2024-03-20**|**Multimodal Fusion Method with Spatiotemporal Sequences and Relationship Learning for Valence-Arousal Estimation**|Jun Yu et.al.|[2403.12425](http://arxiv.org/abs/2403.12425)|null|
 |**2024-03-18**|**3DGS-Calib: 3D Gaussian Splatting for Multimodal SpatioTemporal Calibration**|Quentin Herau et.al.|[2403.11577](http://arxiv.org/abs/2403.11577)|null|
 |**2024-03-16**|**Integration of 5G and Motion Sensors for Vehicular Positioning: A Loosely-Coupled Approach**|Sharief Saleh et.al.|[2403.10872](http://arxiv.org/abs/2403.10872)|null|
 |**2024-03-15**|**Prediction of Vessel Arrival Time to Pilotage Area Using Multi-Data Fusion and Deep Learning**|Xiaocai Zhang et.al.|[2403.09969](http://arxiv.org/abs/2403.09969)|null|
@@ -901,6 +908,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Leveraging High-Resolution Features for Improved Deep Hashing-based Image Retrieval**|Aymene Berriche et.al.|[2403.13747](http://arxiv.org/abs/2403.13747)|null|
+|**2024-03-20**|**Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval**|Haoyu Liu et.al.|[2403.13317](http://arxiv.org/abs/2403.13317)|null|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800](http://arxiv.org/abs/2403.12800)|null|
 |**2024-03-19**|**Quantixar: High-performance Vector Data Management System**|Gulshan Yadav et.al.|[2403.12583](http://arxiv.org/abs/2403.12583)|null|
 |**2024-03-17**|**3DGS-ReLoc: 3D Gaussian Splatting for Map Representation and Visual ReLocalization**|Peng Jiang et.al.|[2403.11367](http://arxiv.org/abs/2403.11367)|null|
@@ -1371,6 +1380,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Unifying Local and Global Multimodal Features for Place Recognition in Aliased and Low-Texture Environments**|Alberto García-Hernández et.al.|[2403.13395](http://arxiv.org/abs/2403.13395)|null|
 |**2024-03-19**|**HCPM: Hierarchical Candidates Pruning for Efficient Detector-Free Matching**|Ying Chen et.al.|[2403.12543](http://arxiv.org/abs/2403.12543)|null|
 |**2024-03-16**|**Refining Knowledge Transfer on Audio-Image Temporal Agreement for Audio-Text Cross Retrieval**|Shunsuke Tsubaki et.al.|[2403.10756](http://arxiv.org/abs/2403.10756)|null|
 |**2024-03-16**|**Vector search with small radiuses**|Gergely Szilvasy et.al.|[2403.10746](http://arxiv.org/abs/2403.10746)|null|
@@ -1546,6 +1556,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470](http://arxiv.org/abs/2403.13470)|**[link](https://github.com/prbonn/lidiff)**|
+|**2024-03-20**|**Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**|Kewei Wang et.al.|[2403.13261](http://arxiv.org/abs/2403.13261)|**[link](https://github.com/kwwcv/selfmotion)**|
+|**2024-03-20**|**Distributionally Robust Hospital Capacity Expansion Planning under Stochastic and Correlated Patient Demand**|Aliaa Alnaggar et.al.|[2403.13234](http://arxiv.org/abs/2403.13234)|null|
+|**2024-03-19**|**Training Survival Models using Scoring Rules**|Philipp Kopper et.al.|[2403.13150](http://arxiv.org/abs/2403.13150)|null|
+|**2024-03-19**|**Probabilistic Circuits with Constraints via Convex Optimization**|Soroush Ghandi et.al.|[2403.13125](http://arxiv.org/abs/2403.13125)|null|
+|**2024-03-19**|**Impact of the disk magnetization on MHD disk wind signature**|Sudeb Ranjan Datta et.al.|[2403.13077](http://arxiv.org/abs/2403.13077)|null|
 |**2024-03-19**|**Robust Numerical Methods for Nonlinear Regression**|Peng Liu et.al.|[2403.12759](http://arxiv.org/abs/2403.12759)|null|
 |**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[2403.11695](http://arxiv.org/abs/2403.11695)|null|
 |**2024-03-16**|**Frizzle: Combining spectra or images by forward modeling**|David W. Hogg et.al.|[2403.11011](http://arxiv.org/abs/2403.11011)|null|
@@ -1715,11 +1731,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470](http://arxiv.org/abs/2403.13470)|**[link](https://github.com/prbonn/lidiff)**|
+|**2024-03-20**|**Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**|Kewei Wang et.al.|[2403.13261](http://arxiv.org/abs/2403.13261)|**[link](https://github.com/kwwcv/selfmotion)**|
 |**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[2403.11695](http://arxiv.org/abs/2403.11695)|null|
 |**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085](http://arxiv.org/abs/2403.10085)|**[link](https://github.com/guiyuzhao/vrhcf)**|
 |**2024-03-15**|**Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Jingyi Xu et.al.|[2403.10001](http://arxiv.org/abs/2403.10001)|**[link](https://github.com/etrontech/vfmseg)**|
 |**2024-03-15**|**MEDPNet: Achieving High-Precision Adaptive Registration for Complex Die Castings**|Yu Du et.al.|[2403.09996](http://arxiv.org/abs/2403.09996)|null|
-|**2024-03-15**|**Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration**|Usama Ali et.al.|[2403.09988](http://arxiv.org/abs/2403.09988)|null|
+|**2024-03-15**|**Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration**|Usama Ali et.al.|[2403.09988](http://arxiv.org/abs/2403.09988)|**[link](https://github.com/uts-ri/idmp)**|
 |**2024-03-14**|**VIRUS-NeRF -- Vision, InfraRed and UltraSonic based Neural Radiance Fields**|Nicolaj Schmid et.al.|[2403.09477](http://arxiv.org/abs/2403.09477)|null|
 |**2024-03-13**|**DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition**|Hebeizi Li et.al.|[2403.08318](http://arxiv.org/abs/2403.08318)|null|
 |**2024-03-15**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706](http://arxiv.org/abs/2403.07706)|null|
