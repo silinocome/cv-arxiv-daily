@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**A LiDAR-Aided Channel Model for Vehicular Intelligent Sensing-Communication Integration**|Ziwei Huang et.al.|[2403.14185](http://arxiv.org/abs/2403.14185)|null|
+|**2024-03-20**|**Zero-Knowledge Proof of Distinct Identity: a Standard-compatible Sybil-resistant Pseudonym Extension for C-ITS**|Ye Tao et.al.|[2403.14020](http://arxiv.org/abs/2403.14020)|null|
 |**2024-03-20**|**Quantum-Secure Certificate-Less Conditional Privacy-Preserving Authentication for VANET**|Girraj Kumar Verma et.al.|[2403.13743](http://arxiv.org/abs/2403.13743)|null|
 |**2024-03-20**|**Multi-agent Reinforcement Traffic Signal Control based on Interpretable Influence Mechanism and Biased ReLU Approximation**|Zhiyue Luo et.al.|[2403.13639](http://arxiv.org/abs/2403.13639)|null|
 |**2024-03-15**|**V2AIX: A Multi-Modal Real-World Dataset of ETSI ITS V2X Messages in Public Road Traffic**|Guido Kueppers et.al.|[2403.10221](http://arxiv.org/abs/2403.10221)|**[link](https://github.com/ika-rwth-aachen/etsi_its_messages)**|
@@ -924,6 +926,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Enhancing Historical Image Retrieval with Compositional Cues**|Tingyu Lin et.al.|[2403.14287](http://arxiv.org/abs/2403.14287)|**[link](https://github.com/linty5/ccbir)**|
 |**2024-03-20**|**Leveraging High-Resolution Features for Improved Deep Hashing-based Image Retrieval**|Aymene Berriche et.al.|[2403.13747](http://arxiv.org/abs/2403.13747)|null|
 |**2024-03-20**|**Flickr30K-CFQ: A Compact and Fragmented Query Dataset for Text-image Retrieval**|Haoyu Liu et.al.|[2403.13317](http://arxiv.org/abs/2403.13317)|null|
 |**2024-03-19**|**Learning Neural Volumetric Pose Features for Camera Localization**|Jingyu Lin et.al.|[2403.12800](http://arxiv.org/abs/2403.12800)|null|
@@ -1579,7 +1582,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470](http://arxiv.org/abs/2403.13470)|**[link](https://github.com/prbonn/lidiff)**|
-|**2024-03-20**|**Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**|Kewei Wang et.al.|[2403.13261](http://arxiv.org/abs/2403.13261)|**[link](https://github.com/kwwcv/selfmotion)**|
+|**2024-03-21**|**Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**|Kewei Wang et.al.|[2403.13261](http://arxiv.org/abs/2403.13261)|**[link](https://github.com/kwwcv/selfmotion)**|
 |**2024-03-20**|**Distributionally Robust Hospital Capacity Expansion Planning under Stochastic and Correlated Patient Demand**|Aliaa Alnaggar et.al.|[2403.13234](http://arxiv.org/abs/2403.13234)|null|
 |**2024-03-19**|**Training Survival Models using Scoring Rules**|Philipp Kopper et.al.|[2403.13150](http://arxiv.org/abs/2403.13150)|null|
 |**2024-03-19**|**Probabilistic Circuits with Constraints via Convex Optimization**|Soroush Ghandi et.al.|[2403.13125](http://arxiv.org/abs/2403.13125)|null|
@@ -1755,8 +1758,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer**|Tianye Ding et.al.|[2403.14626](http://arxiv.org/abs/2403.14626)|null|
 |**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470](http://arxiv.org/abs/2403.13470)|**[link](https://github.com/prbonn/lidiff)**|
-|**2024-03-20**|**Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**|Kewei Wang et.al.|[2403.13261](http://arxiv.org/abs/2403.13261)|**[link](https://github.com/kwwcv/selfmotion)**|
+|**2024-03-21**|**Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**|Kewei Wang et.al.|[2403.13261](http://arxiv.org/abs/2403.13261)|**[link](https://github.com/kwwcv/selfmotion)**|
 |**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[2403.11695](http://arxiv.org/abs/2403.11695)|null|
 |**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085](http://arxiv.org/abs/2403.10085)|**[link](https://github.com/guiyuzhao/vrhcf)**|
 |**2024-03-15**|**Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Jingyi Xu et.al.|[2403.10001](http://arxiv.org/abs/2403.10001)|**[link](https://github.com/etrontech/vfmseg)**|
