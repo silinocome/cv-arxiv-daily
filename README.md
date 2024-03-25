@@ -488,7 +488,7 @@
 |**2023-05-30**|**Cooperative Thresholded Lasso for Sparse Linear Bandit**|Haniyeh Barghi et.al.|[2305.19161](http://arxiv.org/abs/2305.19161)|null|
 |**2023-05-26**|**Transitioning towards fit-for-purpose Public Health Surveillance Systems**|Maria N. Anastasiadou et.al.|[2305.16821](http://arxiv.org/abs/2305.16821)|null|
 |**2023-05-25**|**Dynamic Inter-treatment Information Sharing for Heterogeneous Treatment Effects Estimation**|Vinod Kumar Chauhan et.al.|[2305.15984](http://arxiv.org/abs/2305.15984)|**[link](https://github.com/jmdvinodjmd/HyperITE)**|
-|**2023-05-24**|**Distributed Online Rollout for Multivehicle Routing in Unmapped Environments**|Jamison W. Weber et.al.|[2305.15596](http://arxiv.org/abs/2305.15596)|null|
+|**2023-05-24**|**Distributed Online Rollout for Multivehicle Routing in Unmapped Environments**|Jamison W. Weber et.al.|[2305.15596](http://arxiv.org/abs/2305.15596)|**[link](https://github.com/sopslab/distributed-multi-agent-rollout)**|
 |**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser et.al.|[2305.14553](http://arxiv.org/abs/2305.14553)|null|
 |**2023-05-21**|**A Deeper (Autoregressive) Approach to Non-Convergent Discourse Parsing**|Yoav Tulpan et.al.|[2305.12510](http://arxiv.org/abs/2305.12510)|null|
 |**2023-05-19**|**MD3: The Multi-Dialect Dataset of Dialogues**|Jacob Eisenstein et.al.|[2305.11355](http://arxiv.org/abs/2305.11355)|null|
@@ -577,7 +577,7 @@
 |**2022-08-03**|**On the Relocation Behaviour of Ride-sourcing Drivers**|Peyman Ashkrof et.al.|[2208.02323](http://arxiv.org/abs/2208.02323)|null|
 |**2022-08-02**|**CAPD: A Context-Aware, Policy-Driven Framework for Secure and Resilient IoBT Operations**|Sai Sree Laya Chukkapalli et.al.|[2208.01703](http://arxiv.org/abs/2208.01703)|null|
 |**2022-08-31**|**Joint optimal beamforming and power control in cell-free massive MIMO**|Lorenzo Miretti et.al.|[2208.01385](http://arxiv.org/abs/2208.01385)|null|
-|**2022-07-18**|**Turning the information-sharing dial: efficient inference from different data sources**|Emily C. Hector et.al.|[2207.08886](http://arxiv.org/abs/2207.08886)|null|
+|**2022-07-18**|**Turning the information-sharing dial: efficient inference from different data sources**|Emily C. Hector et.al.|[2207.08886](http://arxiv.org/abs/2207.08886)|**[link](https://github.com/ehector/isedi)**|
 |**2023-03-19**|**Encoding, decoding, and causality between complex networks**|Yang Tian et.al.|[2207.06606](http://arxiv.org/abs/2207.06606)|**[link](https://github.com/doloming/analytic-relations-between-complex-networks-encoding-decoding-and-causality)**|
 |**2022-07-12**|**Information Design for Vehicle-to-Vehicle Communication**|Brendan T. Gould et.al.|[2207.06411](http://arxiv.org/abs/2207.06411)|**[link](https://github.com/descon-uccs/gould-trptc-2022)**|
 |**2022-07-13**|**Social media sharing by political elites: An asymmetric American exceptionalism**|Jana Lasser et.al.|[2207.06313](http://arxiv.org/abs/2207.06313)|null|
@@ -1149,7 +1149,7 @@
 |**2023-06-15**|**Prompt Performance Prediction for Generative IR**|Nicolas Bizzozzero et.al.|[2306.08915](http://arxiv.org/abs/2306.08915)|null|
 |**2023-06-15**|**Graph Convolution Based Efficient Re-Ranking for Visual Retrieval**|Yuqi Zhang et.al.|[2306.08792](http://arxiv.org/abs/2306.08792)|**[link](https://github.com/WesleyZhang1991/GCN_rerank)**|
 |**2023-06-13**|**GeneCIS: A Benchmark for General Conditional Image Similarity**|Sagar Vaze et.al.|[2306.07969](http://arxiv.org/abs/2306.07969)|null|
-|**2023-06-13**|**MOFI: Learning Image Representations from Noisy Entity Annotated Images**|Wentao Wu et.al.|[2306.07952](http://arxiv.org/abs/2306.07952)|null|
+|**2023-06-13**|**MOFI: Learning Image Representations from Noisy Entity Annotated Images**|Wentao Wu et.al.|[2306.07952](http://arxiv.org/abs/2306.07952)|**[link](https://github.com/apple/ml-mofi)**|
 |**2023-06-12**|**Zero-shot Composed Text-Image Retrieval**|Yikun Liu et.al.|[2306.07272](http://arxiv.org/abs/2306.07272)|**[link](https://github.com/Code-kunkun/ZS-CIR)**|
 |**2023-06-12**|**Sticker820K: Empowering Interactive Retrieval with Stickers**|Sijie Zhao et.al.|[2306.06870](http://arxiv.org/abs/2306.06870)|null|
 |**2023-06-11**|**Self-Enhancement Improves Text-Image Retrieval in Foundation Visual-Language Models**|Yuguang Yang et.al.|[2306.06691](http://arxiv.org/abs/2306.06691)|null|
@@ -1413,7 +1413,7 @@
 |**2024-03-18**|**Matching Non-Identical Objects**|Yusuke Marumo et.al.|[2403.08227](http://arxiv.org/abs/2403.08227)|null|
 |**2024-03-11**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
 |**2024-03-07**|**Scene Depth Estimation from Traditional Oriental Landscape Paintings**|Sungho Kang et.al.|[2403.03408](http://arxiv.org/abs/2403.03408)|null|
-|**2024-02-21**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|null|
+|**2024-02-21**|**Visual Style Prompting with Swapping Self-Attention**|Jaeseok Jeong et.al.|[2402.12974](http://arxiv.org/abs/2402.12974)|**[link](https://github.com/naver-ai/Visual-Style-Prompting)**|
 |**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095](http://arxiv.org/abs/2402.11095)|null|
 |**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671](http://arxiv.org/abs/2402.08671)|null|
 |**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359](http://arxiv.org/abs/2402.08359)|**[link](https://github.com/truongkhang/deviloc)**|
@@ -1594,12 +1594,12 @@
 |**2024-03-15**|**VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering**|Guiyu Zhao et.al.|[2403.10085](http://arxiv.org/abs/2403.10085)|**[link](https://github.com/guiyuzhao/vrhcf)**|
 |**2024-03-15**|**Visual Foundation Models Boost Cross-Modal Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Jingyi Xu et.al.|[2403.10001](http://arxiv.org/abs/2403.10001)|**[link](https://github.com/etrontech/vfmseg)**|
 |**2024-03-15**|**MEDPNet: Achieving High-Precision Adaptive Registration for Complex Die Castings**|Yu Du et.al.|[2403.09996](http://arxiv.org/abs/2403.09996)|null|
-|**2024-03-15**|**Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration**|Usama Ali et.al.|[2403.09988](http://arxiv.org/abs/2403.09988)|null|
+|**2024-03-15**|**Interactive Distance Field Mapping and Planning to Enable Human-Robot Collaboration**|Usama Ali et.al.|[2403.09988](http://arxiv.org/abs/2403.09988)|**[link](https://github.com/uts-ri/idmp)**|
 |**2024-03-14**|**Score-Guided Diffusion for 3D Human Recovery**|Anastasis Stathopoulos et.al.|[2403.09623](http://arxiv.org/abs/2403.09623)|**[link](https://github.com/statho/scorehmr)**|
 |**2024-03-14**|**Twenty ways to estimate the Log Gaussian Cox Process model with point and aggregated case data: the rts2 package for R**|Samuel I Watson et.al.|[2403.09448](http://arxiv.org/abs/2403.09448)|null|
 |**2024-03-14**|**Perspective-Equivariant Imaging: an Unsupervised Framework for Multispectral Pansharpening**|Andrew Wang et.al.|[2403.09327](http://arxiv.org/abs/2403.09327)|null|
 |**2024-03-13**|**Generating Synthetic Computed Tomography for Radiotherapy: SynthRAD2023 Challenge Report**|Evi M. C. Huijben et.al.|[2403.08447](http://arxiv.org/abs/2403.08447)|null|
-|**2024-03-13**|**RAF-GI: Towards Robust, Accurate and Fast-Convergent Gradient Inversion Attack in Federated Learning**|Can Liu et.al.|[2403.08383](http://arxiv.org/abs/2403.08383)|null|
+|**2024-03-13**|**RAF-GI: Towards Robust, Accurate and Fast-Convergent Gradient Inversion Attack in Federated Learning**|Can Liu et.al.|[2403.08383](http://arxiv.org/abs/2403.08383)|**[link](https://github.com/Koukyosyumei/AIJack)**|
 |**2024-03-13**|**DrFER: Learning Disentangled Representations for 3D Facial Expression Recognition**|Hebeizi Li et.al.|[2403.08318](http://arxiv.org/abs/2403.08318)|null|
 |**2024-03-13**|**Probing the stellar populations and star formation history of early-type galaxies at $0 < z < 1.1$ in the rest-frame ultraviolet**|Sadman Ali et.al.|[2403.08301](http://arxiv.org/abs/2403.08301)|null|
 |**2024-03-12**|**Supporting Annotators with Affordances for Efficiently Labeling Conversational Data**|Austin Z. Henley et.al.|[2403.07762](http://arxiv.org/abs/2403.07762)|null|
