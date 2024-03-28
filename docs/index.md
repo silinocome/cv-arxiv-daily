@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1586,7 +1586,7 @@ layout: default
 |**2024-03-25**|**Precise characterisation of HD 15337 with CHEOPS: a laboratory for planet formation and evolution**|N. M. Rosário et.al.|[2403.16621](http://arxiv.org/abs/2403.16621)|null|
 |**2024-03-25**|**Towards Cooperative Maneuver Planning in Mixed Traffic at Urban Intersections**|Marvin Klimke et.al.|[2403.16478](http://arxiv.org/abs/2403.16478)|null|
 |**2024-03-25**|**Is There a One-Model-Fits-All Approach to Information Extraction? Revisiting Task Definition Biases**|Wenhao Huang et.al.|[2403.16396](http://arxiv.org/abs/2403.16396)|null|
-|**2024-03-25**|**An image-computable model of speeded decision-making**|Paul I. Jaffe et.al.|[2403.16382](http://arxiv.org/abs/2403.16382)|null|
+|**2024-03-25**|**An image-computable model of speeded decision-making**|Paul I. Jaffe et.al.|[2403.16382](http://arxiv.org/abs/2403.16382)|**[link](https://github.com/pauljaffe/vam)**|
 |**2024-03-22**|**Modular Deep Active Learning Framework for Image Annotation: A Technical Report for the Ophthalmo-AI Project**|Md Abdul Kadir et.al.|[2403.15143](http://arxiv.org/abs/2403.15143)|null|
 |**2024-03-22**|**PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation**|Adrian Röfer et.al.|[2403.15107](http://arxiv.org/abs/2403.15107)|null|
 |**2024-03-21**|**Osmosis: RGBD Diffusion Prior for Underwater Image Restoration**|Opher Bar Nathan et.al.|[2403.14837](http://arxiv.org/abs/2403.14837)|null|
