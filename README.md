@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-27**|**Ensuring Safe Autonomy: Navigating the Future of Autonomous Vehicles**|Patrick Wolf et.al.|[2403.19006](http://arxiv.org/abs/2403.19006)|null|
 |**2024-03-26**|**Optical Flow Based Detection and Tracking of Moving Objects for Autonomous Vehicles**|MReza Alipour Sormoli et.al.|[2403.17779](http://arxiv.org/abs/2403.17779)|null|
 |**2024-03-25**|**A Semi-Lagrangian Approach for Time and Energy Path Planning Optimization in Static Flow Fields**|Víctor C. da S. Campos et.al.|[2403.16859](http://arxiv.org/abs/2403.16859)|null|
 |**2024-03-25**|**V2X-PC: Vehicle-to-everything Collaborative Perception via Point Cluster**|Si Liu et.al.|[2403.16635](http://arxiv.org/abs/2403.16635)|null|
@@ -392,6 +393,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Multi-Agent Team Access Monitoring: Environments that Benefit from Target Information Sharing**|Andrew Dudash et.al.|[2403.19375](http://arxiv.org/abs/2403.19375)|null|
 |**2024-03-27**|**TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes**|Liangyu Xu et.al.|[2403.18238](http://arxiv.org/abs/2403.18238)|null|
 |**2024-03-26**|**Consensus formation in quality-sensitive interdependent agent systems**|David March-Pons et.al.|[2403.14856](http://arxiv.org/abs/2403.14856)|null|
 |**2024-03-20**|**Bridging deep learning force fields and electronic structures with a physics-informed approach**|Yubo Qi et.al.|[2403.13675](http://arxiv.org/abs/2403.13675)|**[link](https://github.com/yuboqiuab/multifunctional)**|
@@ -943,6 +945,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
 |**2024-03-27**|**AIR-HLoc: Adaptive Image Retrieval for Efficient Visual Localisation**|Changkun Liu et.al.|[2403.18281](http://arxiv.org/abs/2403.18281)|null|
 |**2024-03-26**|**Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**|Dongjin Kim et.al.|[2403.17420](http://arxiv.org/abs/2403.17420)|**[link](https://github.com/visualaikhu/noprior_multissl)**|
 |**2024-03-24**|**Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval**|Yucheng Suo et.al.|[2403.16005](http://arxiv.org/abs/2403.16005)|null|
@@ -1607,6 +1610,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**Simulating Relational Event Histories -- Why and How**|Rumana Lakdawala et.al.|[2403.19329](http://arxiv.org/abs/2403.19329)|null|
+|**2024-03-28**|**Removing the need for ground truth UWB data collection: self-supervised ranging error correction using deep reinforcement learning**|Dieter Coppens et.al.|[2403.19262](http://arxiv.org/abs/2403.19262)|null|
 |**2024-03-27**|**Sailing Through Point Clouds: Safe Navigation Using Point Cloud Based Control Barrier Functions**|Bolun Dai et.al.|[2403.18206](http://arxiv.org/abs/2403.18206)|null|
 |**2024-03-26**|**SSF3D: Strict Semi-Supervised 3D Object Detection with Switching Filter**|Songbur Wong et.al.|[2403.17390](http://arxiv.org/abs/2403.17390)|null|
 |**2024-03-25**|**Sparse inference in Poisson Log-Normal model by approximating the L0-norm**|Togo Jean Yves Kioye et.al.|[2403.17087](http://arxiv.org/abs/2403.17087)|null|
