@@ -397,7 +397,7 @@
 |**2024-03-28**|**Multi-Agent Team Access Monitoring: Environments that Benefit from Target Information Sharing**|Andrew Dudash et.al.|[2403.19375](http://arxiv.org/abs/2403.19375)|null|
 |**2024-03-27**|**TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes**|Liangyu Xu et.al.|[2403.18238](http://arxiv.org/abs/2403.18238)|null|
 |**2024-03-26**|**Consensus formation in quality-sensitive interdependent agent systems**|David March-Pons et.al.|[2403.14856](http://arxiv.org/abs/2403.14856)|null|
-|**2024-03-20**|**Bridging deep learning force fields and electronic structures with a physics-informed approach**|Yubo Qi et.al.|[2403.13675](http://arxiv.org/abs/2403.13675)|**[link](https://github.com/yuboqiuab/multifunctional)**|
+|**2024-04-01**|**Bridging deep learning force fields and electronic structures with a physics-informed approach**|Yubo Qi et.al.|[2403.13675](http://arxiv.org/abs/2403.13675)|**[link](https://github.com/yuboqiuab/multifunctional)**|
 |**2024-03-24**|**FedNMUT -- Federated Noisy Model Update Tracking Convergence Analysis**|Vishnu Pandi Chellapandi et.al.|[2403.13247](http://arxiv.org/abs/2403.13247)|null|
 |**2024-03-10**|**Transformer based Multitask Learning for Image Captioning and Object Detection**|Debolena Basak et.al.|[2403.06292](http://arxiv.org/abs/2403.06292)|null|
 |**2024-03-08**|**SimEngine: A Modular Framework for Statistical Simulations in R**|Avi Kenny et.al.|[2403.05698](http://arxiv.org/abs/2403.05698)|null|
@@ -1614,7 +1614,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-29**|**Enhancing Lithological Mapping with Spatially Constrained Bayesian Network (SCB-Net): An Approach for Field Data-Constrained Predictions with Uncertainty Evaluation**|Victor Silva dos Santos et.al.|[2403.20195](http://arxiv.org/abs/2403.20195)|**[link](https://github.com/victsnet/scb-net)**|
-|**2024-03-28**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886](http://arxiv.org/abs/2403.19886)|null|
+|**2024-04-01**|**BundledSLAM: An Accurate Visual SLAM System Using Multiple Cameras**|Han Song et.al.|[2403.19886](http://arxiv.org/abs/2403.19886)|null|
 |**2024-03-28**|**Localization and Offline Mapping of High-Voltage Substations in Rough Terrain Using a Ground Vehicle**|Ioannis Alamanos et.al.|[2403.19875](http://arxiv.org/abs/2403.19875)|null|
 |**2024-03-28**|**Simulating Relational Event Histories -- Why and How**|Rumana Lakdawala et.al.|[2403.19329](http://arxiv.org/abs/2403.19329)|null|
 |**2024-03-28**|**Removing the need for ground truth UWB data collection: self-supervised ranging error correction using deep reinforcement learning**|Dieter Coppens et.al.|[2403.19262](http://arxiv.org/abs/2403.19262)|null|
