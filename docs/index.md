@@ -1608,6 +1608,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Deep Neural Networks with 3D Point Clouds for Empirical Friction Measurements in Hydrodynamic Flood Models**|Francisco Haces-Garcia et.al.|[2404.02234](http://arxiv.org/abs/2404.02234)|**[link](https://github.com/f-haces/lidarmanning)**|
+|**2024-04-02**|**What is to be gained by ensemble models in analysis of spectroscopic data?**|Katarina Domijan et.al.|[2404.02184](http://arxiv.org/abs/2404.02184)|**[link](https://github.com/domijan/ensemblepapercode)**|
 |**2024-04-02**|**Measurement of the mesonic decay branch of the $\bar{K}\!N\!N$ quasi-bound state**|T. Yamaga et.al.|[2404.01773](http://arxiv.org/abs/2404.01773)|null|
 |**2024-04-01**|**Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data**|Matthias Gerstgrasser et.al.|[2404.01413](http://arxiv.org/abs/2404.01413)|null|
 |**2024-04-01**|**Meta Episodic learning with Dynamic Task Sampling for CLIP-based Point Cloud Classification**|Shuvozit Ghose et.al.|[2404.00857](http://arxiv.org/abs/2404.00857)|null|
@@ -1803,6 +1805,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Deep Neural Networks with 3D Point Clouds for Empirical Friction Measurements in Hydrodynamic Flood Models**|Francisco Haces-Garcia et.al.|[2404.02234](http://arxiv.org/abs/2404.02234)|**[link](https://github.com/f-haces/lidarmanning)**|
 |**2024-04-01**|**Meta Episodic learning with Dynamic Task Sampling for CLIP-based Point Cloud Classification**|Shuvozit Ghose et.al.|[2404.00857](http://arxiv.org/abs/2404.00857)|null|
 |**2024-04-01**|**Transfer Learning with Point Transformers**|Kartik Gupta et.al.|[2404.00846](http://arxiv.org/abs/2404.00846)|null|
 |**2024-03-30**|**Accurate Cutting-point Estimation for Robotic Lychee Harvesting through Geometry-aware Learning**|Gengming Zhang et.al.|[2404.00364](http://arxiv.org/abs/2404.00364)|null|
