@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.04
+## Updated on 2024.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-02**|**CARLOS: An Open, Modular, and Scalable Simulation Framework for the Development and Testing of Software for C-ITS**|Christian Geller et.al.|[2404.01836](http://arxiv.org/abs/2404.01836)|null|
+|**2024-04-04**|**CARLOS: An Open, Modular, and Scalable Simulation Framework for the Development and Testing of Software for C-ITS**|Christian Geller et.al.|[2404.01836](http://arxiv.org/abs/2404.01836)|null|
 |**2024-04-01**|**The Radar Ghost Dataset -- An Evaluation of Ghost Objects in Automotive Radar Data**|Florian Kraus et.al.|[2404.01437](http://arxiv.org/abs/2404.01437)|null|
 |**2024-04-01**|**Scalable Radar-based ITS: Self-localization and Occupancy Heat Map for Traffic Analysis**|Longfei Han et.al.|[2404.01166](http://arxiv.org/abs/2404.01166)|null|
 |**2024-03-29**|**LeGo-Drive: Language-enhanced Goal-oriented Closed-Loop End-to-End Autonomous Driving**|Pranjal Paul et.al.|[2403.20116](http://arxiv.org/abs/2403.20116)|null|
@@ -598,7 +598,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-02**|**Tell and show: Combining multiple modalities to communicate manipulation tasks to a robot**|Petr Vanc et.al.|[2404.01702](http://arxiv.org/abs/2404.01702)|null|
-|**2024-03-31**|**Measuring audio prompt adherence with distribution-based embedding distances**|Maarten Grachten et.al.|[2404.00775](http://arxiv.org/abs/2404.00775)|null|
+|**2024-04-04**|**Measuring audio prompt adherence with distribution-based embedding distances**|Maarten Grachten et.al.|[2404.00775](http://arxiv.org/abs/2404.00775)|null|
 |**2024-03-31**|**End-to-End Autonomous Driving through V2X Cooperation**|Haibao Yu et.al.|[2404.00717](http://arxiv.org/abs/2404.00717)|**[link](https://github.com/air-thu/univ2x)**|
 |**2024-03-30**|**Self-Corrective Sensor Fusion for Drone Positioning in Indoor Facilities**|Francisco Javier González-Castaño et.al.|[2404.00426](http://arxiv.org/abs/2404.00426)|null|
 |**2024-03-30**|**Advancing Multimodal Data Fusion in Pain Recognition: A Strategy Leveraging Statistical Correlation and Human-Centered Perspectives**|Xingrui Gu et.al.|[2404.00320](http://arxiv.org/abs/2404.00320)|null|
