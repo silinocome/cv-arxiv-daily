@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191](http://arxiv.org/abs/2404.03191)|null|
+|**2024-04-03**|**Explainable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|null|
 |**2024-04-04**|**CARLOS: An Open, Modular, and Scalable Simulation Framework for the Development and Testing of Software for C-ITS**|Christian Geller et.al.|[2404.01836](http://arxiv.org/abs/2404.01836)|null|
 |**2024-04-01**|**The Radar Ghost Dataset -- An Evaluation of Ghost Objects in Automotive Radar Data**|Florian Kraus et.al.|[2404.01437](http://arxiv.org/abs/2404.01437)|null|
 |**2024-04-01**|**Scalable Radar-based ITS: Self-localization and Occupancy Heat Map for Traffic Analysis**|Longfei Han et.al.|[2404.01166](http://arxiv.org/abs/2404.01166)|null|
@@ -397,6 +399,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Permissible Knowledge Pooling**|Huimin Dong et.al.|[2404.03418](http://arxiv.org/abs/2404.03418)|null|
 |**2024-03-28**|**Multi-Agent Team Access Monitoring: Environments that Benefit from Target Information Sharing**|Andrew Dudash et.al.|[2403.19375](http://arxiv.org/abs/2403.19375)|null|
 |**2024-03-27**|**TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes**|Liangyu Xu et.al.|[2403.18238](http://arxiv.org/abs/2403.18238)|null|
 |**2024-03-26**|**Consensus formation in quality-sensitive interdependent agent systems**|David March-Pons et.al.|[2403.14856](http://arxiv.org/abs/2403.14856)|null|
@@ -611,6 +614,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**HAPNet: Toward Superior RGB-Thermal Scene Parsing via Hybrid, Asymmetric, and Progressive Heterogeneous Feature Fusion**|Jiahang Li et.al.|[2404.03527](http://arxiv.org/abs/2404.03527)|**[link](https://github.com/LiJiahang617/HAPNet)**|
+|**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368](http://arxiv.org/abs/2404.03368)|null|
 |**2024-04-02**|**Tell and show: Combining multiple modalities to communicate manipulation tasks to a robot**|Petr Vanc et.al.|[2404.01702](http://arxiv.org/abs/2404.01702)|null|
 |**2024-04-04**|**Measuring audio prompt adherence with distribution-based embedding distances**|Maarten Grachten et.al.|[2404.00775](http://arxiv.org/abs/2404.00775)|null|
 |**2024-03-31**|**End-to-End Autonomous Driving through V2X Cooperation**|Haibao Yu et.al.|[2404.00717](http://arxiv.org/abs/2404.00717)|**[link](https://github.com/air-thu/univ2x)**|
