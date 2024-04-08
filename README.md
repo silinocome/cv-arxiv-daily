@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Dynamic Risk Assessment Methodology with an LDM-based System for Parking Scenarios**|Paola Natalia Cañas et.al.|[2404.04040](http://arxiv.org/abs/2404.04040)|null|
+|**2024-04-05**|**Validation of critical maneuvers based on shared control**|Mauricio Marcano et.al.|[2404.04011](http://arxiv.org/abs/2404.04011)|null|
+|**2024-04-03**|**Cultural influence on autonomous vehicles acceptance**|Chowdhury Shahriar Muzammel et.al.|[2404.03694](http://arxiv.org/abs/2404.03694)|null|
 |**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191](http://arxiv.org/abs/2404.03191)|null|
 |**2024-04-03**|**Explainable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|null|
 |**2024-04-04**|**CARLOS: An Open, Modular, and Scalable Simulation Framework for the Development and Testing of Software for C-ITS**|Christian Geller et.al.|[2404.01836](http://arxiv.org/abs/2404.01836)|**[link](https://github.com/ika-rwth-aachen/carlos)**|
@@ -1635,6 +1638,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**A MUSE View of the Core of the Giant Low Surface Brightness Galaxy Malin 1**|Evelyn J. Johnston et.al.|[2404.04099](http://arxiv.org/abs/2404.04099)|null|
+|**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906](http://arxiv.org/abs/2404.03906)|null|
 |**2024-04-02**|**Deep Neural Networks with 3D Point Clouds for Empirical Friction Measurements in Hydrodynamic Flood Models**|Francisco Haces-Garcia et.al.|[2404.02234](http://arxiv.org/abs/2404.02234)|**[link](https://github.com/f-haces/lidarmanning)**|
 |**2024-04-02**|**What is to be gained by ensemble models in analysis of spectroscopic data?**|Katarina Domijan et.al.|[2404.02184](http://arxiv.org/abs/2404.02184)|**[link](https://github.com/domijan/ensemblepapercode)**|
 |**2024-04-02**|**Measurement of the mesonic decay branch of the $\bar{K}\!N\!N$ quasi-bound state**|T. Yamaga et.al.|[2404.01773](http://arxiv.org/abs/2404.01773)|null|
