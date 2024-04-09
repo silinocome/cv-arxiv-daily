@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-07**|**PlateSegFL: A Privacy-Preserving License Plate Detection Using Federated Segmentation Learning**|Md. Shahriar Rahman Anuvab et.al.|[2404.05049](http://arxiv.org/abs/2404.05049)|null|
 |**2024-04-05**|**Dynamic Risk Assessment Methodology with an LDM-based System for Parking Scenarios**|Paola Natalia Cañas et.al.|[2404.04040](http://arxiv.org/abs/2404.04040)|null|
 |**2024-04-05**|**Validation of critical maneuvers based on shared control**|Mauricio Marcano et.al.|[2404.04011](http://arxiv.org/abs/2404.04011)|null|
 |**2024-04-03**|**Cultural influence on autonomous vehicles acceptance**|Chowdhury Shahriar Muzammel et.al.|[2404.03694](http://arxiv.org/abs/2404.03694)|null|
@@ -402,6 +403,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Information Sale on Network**|Jihwan Do et.al.|[2404.05546](http://arxiv.org/abs/2404.05546)|null|
+|**2024-04-08**|**iVPT: Improving Task-relevant Information Sharing in Visual Prompt Tuning by Cross-layer Dynamic Connection**|Nan Zhou et.al.|[2404.05207](http://arxiv.org/abs/2404.05207)|null|
+|**2024-04-07**|**Optimality of Decentralized Symmetric Policies for Stochastic Teams with Mean-Field Information Sharing**|Sina Sanjari et.al.|[2404.04957](http://arxiv.org/abs/2404.04957)|null|
 |**2024-04-04**|**Permissible Knowledge Pooling**|Huimin Dong et.al.|[2404.03418](http://arxiv.org/abs/2404.03418)|null|
 |**2024-03-28**|**Multi-Agent Team Access Monitoring: Environments that Benefit from Target Information Sharing**|Andrew Dudash et.al.|[2403.19375](http://arxiv.org/abs/2403.19375)|null|
 |**2024-03-27**|**TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes**|Liangyu Xu et.al.|[2403.18238](http://arxiv.org/abs/2403.18238)|null|
@@ -617,6 +621,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164](http://arxiv.org/abs/2404.05164)|null|
+|**2024-04-06**|**DifFUSER: Diffusion Model for Robust Multi-Sensor Fusion in 3D Object Detection and BEV Segmentation**|Duy-Tho Le et.al.|[2404.04629](http://arxiv.org/abs/2404.04629)|null|
+|**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492](http://arxiv.org/abs/2404.04492)|null|
+|**2024-04-05**|**A Ground Mobile Robot for Autonomous Terrestrial Laser Scanning-Based Field Phenotyping**|Javier Rodriguez-Sanchez et.al.|[2404.04404](http://arxiv.org/abs/2404.04404)|null|
 |**2024-04-06**|**HAPNet: Toward Superior RGB-Thermal Scene Parsing via Hybrid, Asymmetric, and Progressive Heterogeneous Feature Fusion**|Jiahang Li et.al.|[2404.03527](http://arxiv.org/abs/2404.03527)|**[link](https://github.com/LiJiahang617/HAPNet)**|
 |**2024-04-04**|**Graph Neural Networks for Electric and Hydraulic Data Fusion to Enhance Short-term Forecasting of Pumped-storage Hydroelectricity**|Raffael Theiler et.al.|[2404.03368](http://arxiv.org/abs/2404.03368)|null|
 |**2024-04-02**|**Tell and show: Combining multiple modalities to communicate manipulation tasks to a robot**|Petr Vanc et.al.|[2404.01702](http://arxiv.org/abs/2404.01702)|null|
@@ -962,6 +970,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-07**|**Weakly Supervised Deep Hyperspherical Quantization for Image Retrieval**|Jinpeng Wang et.al.|[2404.04998](http://arxiv.org/abs/2404.04998)|**[link](https://github.com/gimpong/AAAI21-WSDHQ)**|
+|**2024-04-06**|**Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning**|Juncheng Yang et.al.|[2404.04538](http://arxiv.org/abs/2404.04538)|null|
 |**2024-04-01**|**On Train-Test Class Overlap and Detection for Image Retrieval**|Chull Hwan Song et.al.|[2404.01524](http://arxiv.org/abs/2404.01524)|**[link](https://github.com/dealicious-inc/rgldv2-clean)**|
 |**2024-04-01**|**NVINS: Robust Visual Inertial Navigation Fused with NeRF-augmented Camera Pose Regressor and Uncertainty Quantification**|Juyeop Han et.al.|[2404.01400](http://arxiv.org/abs/2404.01400)|null|
 |**2024-03-31**|**On the Estimation of Image-matching Uncertainty in Visual Place Recognition**|Mubariz Zaffar et.al.|[2404.00546](http://arxiv.org/abs/2404.00546)|null|
@@ -1638,6 +1648,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**Unsupervised Training of Convex Regularizers using Maximum Likelihood Estimation**|Hong Ye Tan et.al.|[2404.05445](http://arxiv.org/abs/2404.05445)|null|
+|**2024-04-08**|**BayesPPDSurv: An R Package for Bayesian Sample Size Determination Using the Power and Normalized Power Prior for Time-To-Event Data**|Yueqi Shen et.al.|[2404.05118](http://arxiv.org/abs/2404.05118)|null|
+|**2024-04-07**|**DL-EWF: Deep Learning Empowering Women's Fashion with Grounded-Segment-Anything Segmentation for Body Shape Classification**|Fatemeh Asghari et.al.|[2404.04891](http://arxiv.org/abs/2404.04891)|null|
+|**2024-04-05**|**Generating Synthetic Ground Truth Distributions for Multi-step Trajectory Prediction using Probabilistic Composite Bézier Curves**|Ronny Hug et.al.|[2404.04397](http://arxiv.org/abs/2404.04397)|null|
 |**2024-04-05**|**A MUSE View of the Core of the Giant Low Surface Brightness Galaxy Malin 1**|Evelyn J. Johnston et.al.|[2404.04099](http://arxiv.org/abs/2404.04099)|null|
 |**2024-04-05**|**Deep Phase Coded Image Prior**|Nimrod Shabtay et.al.|[2404.03906](http://arxiv.org/abs/2404.03906)|null|
 |**2024-04-02**|**Deep Neural Networks with 3D Point Clouds for Empirical Friction Measurements in Hydrodynamic Flood Models**|Francisco Haces-Garcia et.al.|[2404.02234](http://arxiv.org/abs/2404.02234)|**[link](https://github.com/f-haces/lidarmanning)**|
