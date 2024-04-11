@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Agent-driven Generative Semantic Communication for Remote Surveillance**|Wanting Yang et.al.|[2404.06997](http://arxiv.org/abs/2404.06997)|null|
+|**2024-04-10**|**Spatiotemporal Analysis of Shared Situation Awareness among Connected Vehicles**|Seungmo Kim et.al.|[2404.06902](http://arxiv.org/abs/2404.06902)|null|
+|**2024-04-10**|**Responsible Federated Learning in Smart Transportation: Outlooks and Challenges**|Xiaowen Huang et.al.|[2404.06777](http://arxiv.org/abs/2404.06777)|null|
+|**2024-04-10**|**Enhancing Safety in Mixed Traffic: Learning-Based Modeling and Efficient Control of Autonomous and Human-Driven Vehicles**|Jie Wang et.al.|[2404.06732](http://arxiv.org/abs/2404.06732)|**[link](https://github.com/jwangjie/mixed-traffic-gp-mpc)**|
 |**2024-04-09**|**NR-V2X Quality of Service Prediction Through Machine Learning with Nested Cross-Validation Scheme**|Ibrahim Yazici et.al.|[2404.06286](http://arxiv.org/abs/2404.06286)|null|
 |**2024-04-09**|**Label-Efficient 3D Object Detection For Road-Side Units**|Minh-Quan Dao et.al.|[2404.06256](http://arxiv.org/abs/2404.06256)|null|
 |**2024-04-07**|**PlateSegFL: A Privacy-Preserving License Plate Detection Using Federated Segmentation Learning**|Md. Shahriar Rahman Anuvab et.al.|[2404.05049](http://arxiv.org/abs/2404.05049)|null|
@@ -393,6 +397,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Spiral Scanning and Self-Supervised Image Reconstruction Enable Ultra-Sparse Sampling Multispectral Photoacoustic Tomography**|Yutian Zhong et.al.|[2404.06695](http://arxiv.org/abs/2404.06695)|null|
 |**2024-04-08**|**Information Sale on Network**|Jihwan Do et.al.|[2404.05546](http://arxiv.org/abs/2404.05546)|null|
 |**2024-04-08**|**iVPT: Improving Task-relevant Information Sharing in Visual Prompt Tuning by Cross-layer Dynamic Connection**|Nan Zhou et.al.|[2404.05207](http://arxiv.org/abs/2404.05207)|null|
 |**2024-04-07**|**Optimality of Decentralized Symmetric Policies for Stochastic Teams with Mean-Field Information Sharing**|Sina Sanjari et.al.|[2404.04957](http://arxiv.org/abs/2404.04957)|null|
@@ -609,6 +614,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles**|Zhengru Fang et.al.|[2404.06891](http://arxiv.org/abs/2404.06891)|null|
+|**2024-04-09**|**A General Identification Algorithm For Data Fusion Problems Under Systematic Selection**|Jaron J. R. Lee et.al.|[2404.06602](http://arxiv.org/abs/2404.06602)|null|
 |**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165](http://arxiv.org/abs/2404.06165)|null|
 |**2024-04-08**|**Downscaling GRACE-derived ocean bottom pressure anomalies using self-supervised data fusion**|Junyang Gou et.al.|[2404.05818](http://arxiv.org/abs/2404.05818)|null|
 |**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164](http://arxiv.org/abs/2404.05164)|null|
@@ -958,6 +965,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Semantically-correlated memories in a dense associative model**|Thomas F Burns et.al.|[2404.07123](http://arxiv.org/abs/2404.07123)|null|
+|**2024-04-09**|**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**|Luca Barsellotti et.al.|[2404.06542](http://arxiv.org/abs/2404.06542)|null|
 |**2024-04-09**|**Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping**|Anas Gouda et.al.|[2404.06277](http://arxiv.org/abs/2404.06277)|null|
 |**2024-04-07**|**Weakly Supervised Deep Hyperspherical Quantization for Image Retrieval**|Jinpeng Wang et.al.|[2404.04998](http://arxiv.org/abs/2404.04998)|**[link](https://github.com/gimpong/AAAI21-WSDHQ)**|
 |**2024-04-06**|**Soft-Prompting with Graph-of-Thought for Multi-modal Representation Learning**|Juncheng Yang et.al.|[2404.04538](http://arxiv.org/abs/2404.04538)|null|
@@ -1632,6 +1641,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots**|Yuan Wang et.al.|[2404.07168](http://arxiv.org/abs/2404.07168)|null|
+|**2024-04-10**|**The NANOGrav 15 yr Data Set: Looking for Signs of Discreteness in the Gravitational-wave Background**|Gabriella Agazie et.al.|[2404.07020](http://arxiv.org/abs/2404.07020)|null|
+|**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/abs/2404.06814)|null|
 |**2024-04-09**|**Tests of the Kerr Hypothesis with MAXI J1803-298 Using Different RELXILL_NK Flavors**|Jie Liao et.al.|[2404.06020](http://arxiv.org/abs/2404.06020)|null|
 |**2024-04-08**|**Unsupervised Training of Convex Regularizers using Maximum Likelihood Estimation**|Hong Ye Tan et.al.|[2404.05445](http://arxiv.org/abs/2404.05445)|null|
 |**2024-04-08**|**BayesPPDSurv: An R Package for Bayesian Sample Size Determination Using the Power and Normalized Power Prior for Time-To-Event Data**|Yueqi Shen et.al.|[2404.05118](http://arxiv.org/abs/2404.05118)|null|
@@ -1836,6 +1848,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/abs/2404.06814)|null|
 |**2024-04-02**|**Deep Neural Networks with 3D Point Clouds for Empirical Friction Measurements in Hydrodynamic Flood Models**|Francisco Haces-Garcia et.al.|[2404.02234](http://arxiv.org/abs/2404.02234)|**[link](https://github.com/f-haces/lidarmanning)**|
 |**2024-04-01**|**Meta Episodic learning with Dynamic Task Sampling for CLIP-based Point Cloud Classification**|Shuvozit Ghose et.al.|[2404.00857](http://arxiv.org/abs/2404.00857)|null|
 |**2024-04-01**|**Transfer Learning with Point Transformers**|Kartik Gupta et.al.|[2404.00846](http://arxiv.org/abs/2404.00846)|null|
