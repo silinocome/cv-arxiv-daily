@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-14**|**Exploring Generative AI for Sim2Real in Driving Data Synthesis**|Haonan Zhao et.al.|[2404.09111](http://arxiv.org/abs/2404.09111)|null|
 |**2024-04-12**|**Efficient Sensors Selection for Traffic Flow Monitoring: An Overview of Model-Based Techniques leveraging Network Observability**|Marco Fabris et.al.|[2404.08588](http://arxiv.org/abs/2404.08588)|null|
 |**2024-04-11**|**An Application Layer Multi-Hop Collective Perception Service for Vehicular Adhoc Networks**|Vincent Albert Wolff et.al.|[2404.07761](http://arxiv.org/abs/2404.07761)|null|
 |**2024-04-10**|**Agent-driven Generative Semantic Communication for Remote Surveillance**|Wanting Yang et.al.|[2404.06997](http://arxiv.org/abs/2404.06997)|null|
@@ -399,6 +400,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System**|Genjia Liu et.al.|[2404.09496](http://arxiv.org/abs/2404.09496)|null|
+|**2024-04-12**|**Multi-Branch Generative Models for Multichannel Imaging with an Application to PET/CT Joint Reconstruction**|Noel Jeffrey Pinton et.al.|[2404.08748](http://arxiv.org/abs/2404.08748)|null|
 |**2024-04-12**|**Collective Bayesian Decision-Making in a Swarm of Miniaturized Robots for Surface Inspection**|Thiemen Siemensma et.al.|[2404.08390](http://arxiv.org/abs/2404.08390)|null|
 |**2024-04-12**|**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**|Hongqiao Lian et.al.|[2404.08242](http://arxiv.org/abs/2404.08242)|null|
 |**2024-04-10**|**Spiral Scanning and Self-Supervised Image Reconstruction Enable Ultra-Sparse Sampling Multispectral Photoacoustic Tomography**|Yutian Zhong et.al.|[2404.06695](http://arxiv.org/abs/2404.06695)|**[link](https://github.com/zhongniuniu/u3s-pat)**|
@@ -621,7 +624,7 @@ layout: default
 |**2024-04-12**|**A Data Fusion Model for Meteorological Data using the INLA-SPDE method**|Stephen Jun Villejo et.al.|[2404.08533](http://arxiv.org/abs/2404.08533)|null|
 |**2024-04-11**|**The Survey on Multi-Source Data Fusion in Cyber-Physical-Social Systems:Foundational Infrastructure for Industrial Metaverses and Industries 5.0**|Xiao Wang et.al.|[2404.07476](http://arxiv.org/abs/2404.07476)|null|
 |**2024-04-10**|**PACP: Priority-Aware Collaborative Perception for Connected and Autonomous Vehicles**|Zhengru Fang et.al.|[2404.06891](http://arxiv.org/abs/2404.06891)|null|
-|**2024-04-09**|**A General Identification Algorithm For Data Fusion Problems Under Systematic Selection**|Jaron J. R. Lee et.al.|[2404.06602](http://arxiv.org/abs/2404.06602)|null|
+|**2024-04-15**|**A General Identification Algorithm For Data Fusion Problems Under Systematic Selection**|Jaron J. R. Lee et.al.|[2404.06602](http://arxiv.org/abs/2404.06602)|null|
 |**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165](http://arxiv.org/abs/2404.06165)|null|
 |**2024-04-08**|**Downscaling GRACE-derived ocean bottom pressure anomalies using self-supervised data fusion**|Junyang Gou et.al.|[2404.05818](http://arxiv.org/abs/2404.05818)|null|
 |**2024-04-08**|**Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes**|Yu Sheng et.al.|[2404.05164](http://arxiv.org/abs/2404.05164)|null|
@@ -971,6 +974,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**CREST: Cross-modal Resonance through Evidential Deep Learning for Enhanced Zero-Shot Learning**|Haojian Huang et.al.|[2404.09640](http://arxiv.org/abs/2404.09640)|**[link](https://github.com/JethroJames/CREST)**|
 |**2024-04-11**|**PRAM: Place Recognition Anywhere Model for Efficient Visual Localization**|Fei Xue et.al.|[2404.07785](http://arxiv.org/abs/2404.07785)|null|
 |**2024-04-11**|**Semantically-correlated memories in a dense associative model**|Thomas F Burns et.al.|[2404.07123](http://arxiv.org/abs/2404.07123)|**[link](https://github.com/tfburns/cdam)**|
 |**2024-04-09**|**Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation**|Luca Barsellotti et.al.|[2404.06542](http://arxiv.org/abs/2404.06542)|null|
@@ -1465,6 +1469,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692](http://arxiv.org/abs/2404.09692)|null|
+|**2024-04-13**|**DeDoDe v2: Analyzing and Improving the DeDoDe Keypoint Detector**|Johan Edstedt et.al.|[2404.08928](http://arxiv.org/abs/2404.08928)|**[link](https://github.com/parskatt/dedode)**|
 |**2024-04-09**|**Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences**|Axel Barroso-Laguna et.al.|[2404.06337](http://arxiv.org/abs/2404.06337)|**[link](https://github.com/nianticlabs/mickey)**|
 |**2024-04-01**|**Marrying NeRF with Feature Matching for One-step Pose Estimation**|Ronghan Chen et.al.|[2404.00891](http://arxiv.org/abs/2404.00891)|null|
 |**2024-04-01**|**3MOS: Multi-sources, Multi-resolutions, and Multi-scenes dataset for Optical-SAR image matching**|Yibin Ye et.al.|[2404.00838](http://arxiv.org/abs/2404.00838)|null|
@@ -1648,10 +1654,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-14**|**SyntStereo2Real: Edge-Aware GAN for Remote Sensing Image-to-Image Translation while Maintaining Stereo Constraint**|Vasudha Venkatesan et.al.|[2404.09277](http://arxiv.org/abs/2404.09277)|null|
+|**2024-04-14**|**StreakNet-Arch: An Anti-scattering Network-based Architecture for Underwater Carrier LiDAR-Radar Imaging**|Xuelong Li et.al.|[2404.09158](http://arxiv.org/abs/2404.09158)|**[link](https://github.com/bestanhongjun/streaknet)**|
 |**2024-04-12**|**Analyzing Decades-Long Environmental Changes in Namibia Using Archival Aerial Photography and Deep Learning**|Girmaw Abebe Tadesse et.al.|[2404.08544](http://arxiv.org/abs/2404.08544)|null|
 |**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748](http://arxiv.org/abs/2404.07748)|null|
 |**2024-04-10**|**Proper motion study of the 6.7 GHz methanol maser rings. I. A sample of sources with little variation**|A. Bartkiewicz et.al.|[2404.07333](http://arxiv.org/abs/2404.07333)|null|
-|**2024-04-10**|**Comparing Compressed and Full-modeling Analyses with FOLPS: Implications for DESI 2024 and beyond**|H. E. Noriega et.al.|[2404.07269](http://arxiv.org/abs/2404.07269)|**[link](https://github.com/henoriega/folps-nu)**|
+|**2024-04-14**|**Comparing Compressed and Full-modeling Analyses with FOLPS: Implications for DESI 2024 and beyond**|H. E. Noriega et.al.|[2404.07269](http://arxiv.org/abs/2404.07269)|**[link](https://github.com/henoriega/folps-nu)**|
 |**2024-04-10**|**Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots**|Yuan Wang et.al.|[2404.07168](http://arxiv.org/abs/2404.07168)|null|
 |**2024-04-10**|**The NANOGrav 15 yr Data Set: Looking for Signs of Discreteness in the Gravitational-wave Background**|Gabriella Agazie et.al.|[2404.07020](http://arxiv.org/abs/2404.07020)|null|
 |**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/abs/2404.06814)|null|
@@ -1859,6 +1867,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-14**|**StreakNet-Arch: An Anti-scattering Network-based Architecture for Underwater Carrier LiDAR-Radar Imaging**|Xuelong Li et.al.|[2404.09158](http://arxiv.org/abs/2404.09158)|**[link](https://github.com/bestanhongjun/streaknet)**|
 |**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748](http://arxiv.org/abs/2404.07748)|null|
 |**2024-04-11**|**Point cloud obstacle detection with the map filtration**|Lukas Kratochvila et.al.|[2404.07730](http://arxiv.org/abs/2404.07730)|null|
 |**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/abs/2404.06814)|null|
