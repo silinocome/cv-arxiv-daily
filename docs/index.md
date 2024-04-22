@@ -165,7 +165,7 @@ layout: default
 |**2023-10-10**|**V2X-AHD:Vehicle-to-Everything Cooperation Perception via Asymmetric Heterogenous Distillation Network**|Caizhen He et.al.|[2310.06603](http://arxiv.org/abs/2310.06603)|**[link](https://github.com/feeling0414-lab/V2X-AHD)**|
 |**2023-10-09**|**Large-Scale OD Matrix Estimation with A Deep Learning Method**|Zheli Xiong et.al.|[2310.05753](http://arxiv.org/abs/2310.05753)|null|
 |**2023-10-10**|**Enhancing Cross-Dataset Performance of Distracted Driving Detection With Score-Softmax Classifier**|Cong Duan et.al.|[2310.05202](http://arxiv.org/abs/2310.05202)|**[link](https://github.com/congduan-hnu/ssoftmax)**|
-|**2023-10-08**|**An Anomaly Behavior Analysis Framework for Securing Autonomous Vehicle Perception**|Murad Mehrab Abrar et.al.|[2310.05041](http://arxiv.org/abs/2310.05041)|null|
+|**2023-10-08**|**An Anomaly Behavior Analysis Framework for Securing Autonomous Vehicle Perception**|Murad Mehrab Abrar et.al.|[2310.05041](http://arxiv.org/abs/2310.05041)|**[link](https://github.com/mehrab-abrar/avp-dataset)**|
 |**2023-10-07**|**Federated Self-Supervised Learning of Monocular Depth Estimators for Autonomous Vehicles**|Elton F. de S. Soares et.al.|[2310.04837](http://arxiv.org/abs/2310.04837)|null|
 |**2023-10-06**|**A Deeply Supervised Semantic Segmentation Method Based on GAN**|Wei Zhao et.al.|[2310.04081](http://arxiv.org/abs/2310.04081)|null|
 |**2023-10-05**|**Time-Optimal Trajectory Planning in Highway Scenarios using Basis-Spline Parameterization**|Philip Dorpmüller et.al.|[2310.03359](http://arxiv.org/abs/2310.03359)|null|
@@ -1022,7 +1022,7 @@ layout: default
 |**2024-03-12**|**Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**|Subhadeep Koley et.al.|[2403.07214](http://arxiv.org/abs/2403.07214)|null|
 |**2024-03-11**|**How to Handle Sketch-Abstraction in Sketch-Based Image Retrieval?**|Subhadeep Koley et.al.|[2403.07203](http://arxiv.org/abs/2403.07203)|null|
 |**2024-03-11**|**EarthLoc: Astronaut Photography Localization by Indexing Earth from Space**|Gabriele Berton et.al.|[2403.06758](http://arxiv.org/abs/2403.06758)|**[link](https://github.com/gmberton/earthloc)**|
-|**2024-03-11**|**Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**|Stefan Denner et.al.|[2403.06567](http://arxiv.org/abs/2403.06567)|null|
+|**2024-03-11**|**Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology**|Stefan Denner et.al.|[2403.06567](http://arxiv.org/abs/2403.06567)|**[link](https://github.com/mic-dkfz/foundation-models-for-cbmir)**|
 |**2024-03-10**|**Texture image retrieval using a classification and contourlet-based features**|Asal Rouhafzay et.al.|[2403.06048](http://arxiv.org/abs/2403.06048)|null|
 |**2024-03-11**|**LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map**|Xinrui Wu et.al.|[2403.05002](http://arxiv.org/abs/2403.05002)|**[link](https://github.com/irmvlab/lhmap-loc)**|
 |**2024-03-11**|**Efficient LoFTR: Semi-Dense Local Feature Matching with Sparse-Like Speed**|Yifan Wang et.al.|[2403.04765](http://arxiv.org/abs/2403.04765)|null|
@@ -1203,7 +1203,7 @@ layout: default
 |**2023-07-19**|**Quantum Optics based Algorithm for Measuring the Similarity between Images**|Vivek Mehta et.al.|[2307.09789](http://arxiv.org/abs/2307.09789)|null|
 |**2023-07-18**|**Jean-Luc Picard at Touché 2023: Comparing Image Generation, Stance Detection and Feature Matching for Image Retrieval for Arguments**|Max Moebius et.al.|[2307.09172](http://arxiv.org/abs/2307.09172)|null|
 |**2023-07-17**|**Divide&Classify: Fine-Grained Classification for City-Wide Visual Place Recognition**|Gabriele Trivigno et.al.|[2307.08417](http://arxiv.org/abs/2307.08417)|**[link](https://github.com/ga1i13o/divide-and-classify)**|
-|**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316](http://arxiv.org/abs/2307.08316)|null|
+|**2023-07-17**|**Bridging the Gap: Multi-Level Cross-Modality Joint Alignment for Visible-Infrared Person Re-Identification**|Tengfei Liang et.al.|[2307.08316](http://arxiv.org/abs/2307.08316)|**[link](https://github.com/workingcoder/MCJA)**|
 |**2023-07-20**|**Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer**|Yujiao Shi et.al.|[2307.08015](http://arxiv.org/abs/2307.08015)|**[link](https://github.com/shiyujiao/boosting3dofaccuracy)**|
 |**2023-07-10**|**Phoneme-retrieval; voice recognition; vowels recognition**|Brunello Tirozzi et.al.|[2307.07407](http://arxiv.org/abs/2307.07407)|null|
 |**2023-07-14**|**Risk Controlled Image Retrieval**|Kaiwen Cai et.al.|[2307.07336](http://arxiv.org/abs/2307.07336)|null|
@@ -1831,7 +1831,7 @@ layout: default
 |**2023-12-23**|**Self-Supervised Depth Completion Guided by 3D Perception and Geometry Consistency**|Yu Cai et.al.|[2312.15263](http://arxiv.org/abs/2312.15263)|null|
 |**2023-12-22**|**A Comptonized Fireball Bubble Fits the Second Extragalactic Magnetar Giant Flare GRB 231115A**|Yi-Han Iris Yin et.al.|[2312.14833](http://arxiv.org/abs/2312.14833)|null|
 |**2023-12-22**|**The XXL survey LII : The evolution of radio AGN luminosity function determined via parametric methods from GMRT, ATCA, VLA and Cambridge interferometer observations**|B. Šlaus et.al.|[2312.14683](http://arxiv.org/abs/2312.14683)|null|
-|**2023-12-22**|**The Hierarchical Structure of Galactic Haloes: Differentiating Clusters from Stochastic Clumping with \textsc{AstroLink}**|William H. Oliver et.al.|[2312.14632](http://arxiv.org/abs/2312.14632)|null|
+|**2023-12-22**|**The Hierarchical Structure of Galactic Haloes: Differentiating Clusters from Stochastic Clumping with \textsc{AstroLink}**|William H. Oliver et.al.|[2312.14632](http://arxiv.org/abs/2312.14632)|**[link](https://github.com/william-h-oliver/astrolink)**|
 |**2023-12-22**|**FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection**|Dongmei Zhang et.al.|[2312.14465](http://arxiv.org/abs/2312.14465)|null|
 |**2023-12-21**|**Friends with Costs and Benefits: Community Formation with Myopic, Boundedly-Rational Actors**|Naina Balepur et.al.|[2312.14293](http://arxiv.org/abs/2312.14293)|null|
 |**2023-12-20**|**Inferring the dynamics of ionic currents from recursive piecewise data assimilation of approximate neuron models**|Stephen A. Wells et.al.|[2312.12888](http://arxiv.org/abs/2312.12888)|null|
