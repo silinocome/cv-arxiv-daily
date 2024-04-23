@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-20**|**ST-SSMs: Spatial-Temporal Selective State of Space Model for Traffic Forecasting**|Zhiqi Shao et.al.|[2404.13257](http://arxiv.org/abs/2404.13257)|null|
 |**2024-04-17**|**Urban traffic resilience control -- An ecological resilience perspective**|Shengling Gao et.al.|[2404.11082](http://arxiv.org/abs/2404.11082)|null|
 |**2024-04-16**|**Trajectory Planning using Reinforcement Learning for Interactive Overtaking Maneuvers in Autonomous Racing Scenarios**|Levent Ögretmen et.al.|[2404.10658](http://arxiv.org/abs/2404.10658)|null|
 |**2024-04-16**|**AllTheDocks road safety dataset: A cyclist's perspective and experience**|Chia-Yen Chiang et.al.|[2404.10528](http://arxiv.org/abs/2404.10528)|null|
@@ -640,6 +641,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**A multi-robot system for the detection of explosive devices**|Ken Hasselmann et.al.|[2404.14167](http://arxiv.org/abs/2404.14167)|null|
+|**2024-04-21**|**In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review**|Lequn Chen et.al.|[2404.13673](http://arxiv.org/abs/2404.13673)|null|
+|**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102](http://arxiv.org/abs/2404.13102)|null|
 |**2024-04-17**|**Soil Fertility Prediction Using Combined USB-microscope Based Soil Image, Auxiliary Variables, and Portable X-Ray Fluorescence Spectrometry**|Shubhadip Dasgupta et.al.|[2404.12415](http://arxiv.org/abs/2404.12415)|null|
 |**2024-04-18**|**DF-DM: A foundational process model for multimodal data fusion in the artificial intelligence era**|David Restrepo et.al.|[2404.12278](http://arxiv.org/abs/2404.12278)|null|
 |**2024-04-17**|**Event Cameras Meet SPADs for High-Speed, Low-Bandwidth Imaging**|Manasi Muglikar et.al.|[2404.11511](http://arxiv.org/abs/2404.11511)|null|
@@ -998,6 +1002,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**EcoPull: Sustainable IoT Image Retrieval Empowered by TinyML Models**|Mathias Thorsager et.al.|[2404.14236](http://arxiv.org/abs/2404.14236)|null|
+|**2024-04-22**|**Hierarchical localization with panoramic views and triplet loss functions**|Marcos Alfaro et.al.|[2404.14117](http://arxiv.org/abs/2404.14117)|null|
+|**2024-04-20**|**High-fidelity Endoscopic Image Synthesis by Utilizing Depth-guided Neural Surfaces**|Baoru Huang et.al.|[2404.13437](http://arxiv.org/abs/2404.13437)|null|
+|**2024-04-20**|**Collaborative Visual Place Recognition through Federated Learning**|Mattia Dutto et.al.|[2404.13324](http://arxiv.org/abs/2404.13324)|null|
 |**2024-04-17**|**Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives**|Zhangchi Feng et.al.|[2404.11317](http://arxiv.org/abs/2404.11317)|null|
 |**2024-04-17**|**Spatial-Aware Image Retrieval: A Hyperdimensional Computing Approach for Efficient Similarity Hashing**|Sanggeon Yun et.al.|[2404.11025](http://arxiv.org/abs/2404.11025)|null|
 |**2024-04-16**|**SPVLoc: Semantic Panoramic Viewport Matching for 6D Camera Localization in Unseen Environments**|Niklas Gard et.al.|[2404.10527](http://arxiv.org/abs/2404.10527)|**[link](https://github.com/fraunhoferhhi/spvloc)**|
@@ -1500,6 +1508,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
 |**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302](http://arxiv.org/abs/2404.11302)|**[link](https://github.com/pro1944191/semanticalignnet)**|
 |**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626](http://arxiv.org/abs/2404.10626)|null|
 |**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692](http://arxiv.org/abs/2404.09692)|null|
@@ -1689,6 +1698,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Constraining the emergent dark energy models with cosmology-independent observational data**|GuangZhen Wang et.al.|[2404.14237](http://arxiv.org/abs/2404.14237)|null|
+|**2024-04-22**|**Elicitability and identifiability of tail risk measures**|Tobias Fissler et.al.|[2404.14136](http://arxiv.org/abs/2404.14136)|null|
+|**2024-04-22**|**CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction**|Wenhao Lan et.al.|[2404.14042](http://arxiv.org/abs/2404.14042)|null|
+|**2024-04-22**|**PM-VIS: High-Performance Box-Supervised Video Instance Segmentation**|Zhangjing Yang et.al.|[2404.13863](http://arxiv.org/abs/2404.13863)|null|
+|**2024-04-21**|**MathNet: A Data-Centric Approach for Printed Mathematical Expression Recognition**|Felix M. Schmitt-Koopmann et.al.|[2404.13667](http://arxiv.org/abs/2404.13667)|null|
+|**2024-04-19**|**Cosmic-Ray Propagation Models Elucidate the Prospects for Antinuclei Detection**|Pedro De La Torre Luque et.al.|[2404.13114](http://arxiv.org/abs/2404.13114)|null|
 |**2024-04-19**|**PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation**|Tianyuan Zhang et.al.|[2404.13026](http://arxiv.org/abs/2404.13026)|null|
 |**2024-04-18**|**SGRU: A High-Performance Structured Gated Recurrent Unit for Traffic Flow Prediction**|Wenfeng Zhang et.al.|[2404.11854](http://arxiv.org/abs/2404.11854)|null|
 |**2024-04-17**|**Reuse out-of-year data to enhance land cover mappingvia feature disentanglement and contrastive learning**|Cassio F. Dantas et.al.|[2404.11114](http://arxiv.org/abs/2404.11114)|null|
@@ -1913,6 +1928,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Immersive Rover Control and Obstacle Detection based on Extended Reality and Artificial Intelligence**|Sofía Coloma et.al.|[2404.14095](http://arxiv.org/abs/2404.14095)|null|
+|**2024-04-22**|**CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction**|Wenhao Lan et.al.|[2404.14042](http://arxiv.org/abs/2404.14042)|null|
 |**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
 |**2024-04-14**|**StreakNet-Arch: An Anti-scattering Network-based Architecture for Underwater Carrier LiDAR-Radar Imaging**|Xuelong Li et.al.|[2404.09158](http://arxiv.org/abs/2404.09158)|**[link](https://github.com/bestanhongjun/streaknet)**|
 |**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748](http://arxiv.org/abs/2404.07748)|null|
