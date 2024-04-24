@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Deep Multi-View Channel-Wise Spatio-Temporal Network for Traffic Flow Prediction**|Hao Miao et.al.|[2404.15034](http://arxiv.org/abs/2404.15034)|null|
+|**2024-04-23**|**Evaluation of Teleoperation Concepts to solve Automated Vehicle Disengagements**|David Brecht et.al.|[2404.15030](http://arxiv.org/abs/2404.15030)|null|
 |**2024-04-20**|**ST-SSMs: Spatial-Temporal Selective State of Space Model for Traffic Forecasting**|Zhiqi Shao et.al.|[2404.13257](http://arxiv.org/abs/2404.13257)|null|
 |**2024-04-17**|**Urban traffic resilience control -- An ecological resilience perspective**|Shengling Gao et.al.|[2404.11082](http://arxiv.org/abs/2404.11082)|null|
 |**2024-04-16**|**Trajectory Planning using Reinforcement Learning for Interactive Overtaking Maneuvers in Autonomous Racing Scenarios**|Levent Ögretmen et.al.|[2404.10658](http://arxiv.org/abs/2404.10658)|null|
@@ -627,6 +629,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**ContextualFusion: Context-Based Multi-Sensor Fusion for 3D Object Detection in Adverse Operating Conditions**|Shounak Sural et.al.|[2404.14780](http://arxiv.org/abs/2404.14780)|null|
+|**2024-04-21**|**Multifidelity Surrogate Models: A New Data Fusion Perspective**|Daniel N Wilke et.al.|[2404.14456](http://arxiv.org/abs/2404.14456)|null|
 |**2024-04-22**|**A multi-robot system for the detection of explosive devices**|Ken Hasselmann et.al.|[2404.14167](http://arxiv.org/abs/2404.14167)|null|
 |**2024-04-21**|**In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review**|Lequn Chen et.al.|[2404.13673](http://arxiv.org/abs/2404.13673)|null|
 |**2024-04-19**|**Single-sample image-fusion upsampling of fluorescence lifetime images**|Valentin Kapitány et.al.|[2404.13102](http://arxiv.org/abs/2404.13102)|null|
@@ -1358,6 +1362,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 |**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885](http://arxiv.org/abs/2403.19885)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
 |**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
 |**2024-02-25**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724](http://arxiv.org/abs/2402.09724)|null|
@@ -1488,6 +1493,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
 |**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302](http://arxiv.org/abs/2404.11302)|**[link](https://github.com/pro1944191/semanticalignnet)**|
 |**2024-04-16**|**Exploring selective image matching methods for zero-shot and few-sample unsupervised domain adaptation of urban canopy prediction**|John Francis et.al.|[2404.10626](http://arxiv.org/abs/2404.10626)|null|
@@ -1676,6 +1682,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**The mosaic permutation test: an exact and nonparametric goodness-of-fit test for factor models**|Asher Spector et.al.|[2404.15017](http://arxiv.org/abs/2404.15017)|null|
+|**2024-04-23**|**Assessing Human Judgment Forecasts in the Rapid Spread of the Mpox Outbreak: Insights and Challenges for Pandemic Preparedness**|Thomas McAndrew et.al.|[2404.14686](http://arxiv.org/abs/2404.14686)|null|
+|**2024-04-23**|**Machine Vision Based Assessment of Fall Color Changes in Apple Trees: Exploring Relationship with Leaf Nitrogen Concentration**|Achyut Paudel et.al.|[2404.14653](http://arxiv.org/abs/2404.14653)|null|
 |**2024-04-22**|**Constraining the emergent dark energy models with cosmology-independent observational data**|GuangZhen Wang et.al.|[2404.14237](http://arxiv.org/abs/2404.14237)|null|
 |**2024-04-22**|**Elicitability and identifiability of tail risk measures**|Tobias Fissler et.al.|[2404.14136](http://arxiv.org/abs/2404.14136)|null|
 |**2024-04-22**|**CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction**|Wenhao Lan et.al.|[2404.14042](http://arxiv.org/abs/2404.14042)|null|
@@ -1904,6 +1913,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Machine Vision Based Assessment of Fall Color Changes in Apple Trees: Exploring Relationship with Leaf Nitrogen Concentration**|Achyut Paudel et.al.|[2404.14653](http://arxiv.org/abs/2404.14653)|null|
 |**2024-04-22**|**Immersive Rover Control and Obstacle Detection based on Extended Reality and Artificial Intelligence**|Sofía Coloma et.al.|[2404.14095](http://arxiv.org/abs/2404.14095)|null|
 |**2024-04-22**|**CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction**|Wenhao Lan et.al.|[2404.14042](http://arxiv.org/abs/2404.14042)|null|
 |**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
