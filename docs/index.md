@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -413,7 +413,7 @@ layout: default
 |**2024-04-10**|**Spiral Scanning and Self-Supervised Image Reconstruction Enable Ultra-Sparse Sampling Multispectral Photoacoustic Tomography**|Yutian Zhong et.al.|[2404.06695](http://arxiv.org/abs/2404.06695)|**[link](https://github.com/zhongniuniu/u3s-pat)**|
 |**2024-04-08**|**Information Sale on Network**|Jihwan Do et.al.|[2404.05546](http://arxiv.org/abs/2404.05546)|null|
 |**2024-04-08**|**iVPT: Improving Task-relevant Information Sharing in Visual Prompt Tuning by Cross-layer Dynamic Connection**|Nan Zhou et.al.|[2404.05207](http://arxiv.org/abs/2404.05207)|null|
-|**2024-04-07**|**Optimality of Decentralized Symmetric Policies for Stochastic Teams with Mean-Field Information Sharing**|Sina Sanjari et.al.|[2404.04957](http://arxiv.org/abs/2404.04957)|null|
+|**2024-04-23**|**Optimality of Decentralized Symmetric Policies for Stochastic Teams with Mean-Field Information Sharing**|Sina Sanjari et.al.|[2404.04957](http://arxiv.org/abs/2404.04957)|null|
 |**2024-04-04**|**Permissible Knowledge Pooling**|Huimin Dong et.al.|[2404.03418](http://arxiv.org/abs/2404.03418)|null|
 |**2024-03-28**|**Multi-Agent Team Access Monitoring: Environments that Benefit from Target Information Sharing**|Andrew Dudash et.al.|[2403.19375](http://arxiv.org/abs/2403.19375)|null|
 |**2024-03-27**|**TAFormer: A Unified Target-Aware Transformer for Video and Motion Joint Prediction in Aerial Scenes**|Liangyu Xu et.al.|[2403.18238](http://arxiv.org/abs/2403.18238)|null|
@@ -1907,7 +1907,7 @@ layout: default
 |**2024-04-22**|**Immersive Rover Control and Obstacle Detection based on Extended Reality and Artificial Intelligence**|Sofía Coloma et.al.|[2404.14095](http://arxiv.org/abs/2404.14095)|null|
 |**2024-04-22**|**CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction**|Wenhao Lan et.al.|[2404.14042](http://arxiv.org/abs/2404.14042)|null|
 |**2024-04-17**|**Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection**|Nawfal Guefrachi et.al.|[2404.10978](http://arxiv.org/abs/2404.10978)|null|
-|**2024-04-14**|**StreakNet-Arch: An Anti-scattering Network-based Architecture for Underwater Carrier LiDAR-Radar Imaging**|Xuelong Li et.al.|[2404.09158](http://arxiv.org/abs/2404.09158)|**[link](https://github.com/bestanhongjun/streaknet)**|
+|**2024-04-23**|**StreakNet-Arch: An Anti-scattering Network-based Architecture for Underwater Carrier LiDAR-Radar Imaging**|Xuelong Li et.al.|[2404.09158](http://arxiv.org/abs/2404.09158)|**[link](https://github.com/bestanhongjun/streaknet)**|
 |**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748](http://arxiv.org/abs/2404.07748)|null|
 |**2024-04-11**|**Point cloud obstacle detection with the map filtration**|Lukas Kratochvila et.al.|[2404.07730](http://arxiv.org/abs/2404.07730)|null|
 |**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/abs/2404.06814)|null|
