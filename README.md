@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548](http://arxiv.org/abs/2404.16548)|null|
 |**2024-04-23**|**Deep Multi-View Channel-Wise Spatio-Temporal Network for Traffic Flow Prediction**|Hao Miao et.al.|[2404.15034](http://arxiv.org/abs/2404.15034)|null|
 |**2024-04-23**|**Evaluation of Teleoperation Concepts to solve Automated Vehicle Disengagements**|David Brecht et.al.|[2404.15030](http://arxiv.org/abs/2404.15030)|null|
 |**2024-04-20**|**ST-SSMs: Spatial-Temporal Selective State of Space Model for Traffic Forecasting**|Zhiqi Shao et.al.|[2404.13257](http://arxiv.org/abs/2404.13257)|null|
@@ -644,6 +645,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548](http://arxiv.org/abs/2404.16548)|null|
+|**2024-04-24**|**Unimodal and Multimodal Sensor Fusion for Wearable Activity Recognition**|Hymalai Bello et.al.|[2404.16005](http://arxiv.org/abs/2404.16005)|null|
 |**2024-04-23**|**ContextualFusion: Context-Based Multi-Sensor Fusion for 3D Object Detection in Adverse Operating Conditions**|Shounak Sural et.al.|[2404.14780](http://arxiv.org/abs/2404.14780)|null|
 |**2024-04-21**|**Multifidelity Surrogate Models: A New Data Fusion Perspective**|Daniel N Wilke et.al.|[2404.14456](http://arxiv.org/abs/2404.14456)|null|
 |**2024-04-22**|**A multi-robot system for the detection of explosive devices**|Ken Hasselmann et.al.|[2404.14167](http://arxiv.org/abs/2404.14167)|null|
@@ -1007,6 +1010,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**|Ryoya Nara et.al.|[2404.16398](http://arxiv.org/abs/2404.16398)|null|
+|**2024-04-24**|**Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**|Haokun Wen et.al.|[2404.15875](http://arxiv.org/abs/2404.15875)|null|
+|**2024-04-24**|**DVF: Advancing Robust and Accurate Fine-Grained Image Retrieval with Retrieval Guidelines**|Xin Jiang et.al.|[2404.15771](http://arxiv.org/abs/2404.15771)|null|
 |**2024-04-23**|**Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval**|Young Kyun Jang et.al.|[2404.15516](http://arxiv.org/abs/2404.15516)|null|
 |**2024-04-22**|**EcoPull: Sustainable IoT Image Retrieval Empowered by TinyML Models**|Mathias Thorsager et.al.|[2404.14236](http://arxiv.org/abs/2404.14236)|null|
 |**2024-04-22**|**Hierarchical localization with panoramic views and triplet loss functions**|Marcos Alfaro et.al.|[2404.14117](http://arxiv.org/abs/2404.14117)|**[link](https://github.com/marcosalfaro/tripletnetworksindoorlocalization)**|
@@ -1515,6 +1521,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
 |**2024-04-17**|**A Semantic Segmentation-guided Approach for Ground-to-Aerial Image Matching**|Francesco Pro et.al.|[2404.11302](http://arxiv.org/abs/2404.11302)|**[link](https://github.com/pro1944191/semanticalignnet)**|
@@ -1706,6 +1713,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**3D deep learning for enhanced atom probe tomography analysis of nanoscale microstructures**|Jiwei Yu et.al.|[2404.16524](http://arxiv.org/abs/2404.16524)|null|
+|**2024-04-25**|**Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud**|Ayumu Saito et.al.|[2404.16432](http://arxiv.org/abs/2404.16432)|null|
+|**2024-04-24**|**Building-PCC: Building Point Cloud Completion Benchmarks**|Weixiao Gao et.al.|[2404.15644](http://arxiv.org/abs/2404.15644)|null|
 |**2024-04-24**|**Mapping Incidence and Prevalence Peak Data for SIR Forecasting Applications**|Alexander C. Murph et.al.|[2404.15572](http://arxiv.org/abs/2404.15572)|null|
 |**2024-04-23**|**KiDS-SBI: Simulation-Based Inference Analysis of KiDS-1000 Cosmic Shear**|Maximilian von Wietersheim-Kramsta et.al.|[2404.15402](http://arxiv.org/abs/2404.15402)|null|
 |**2024-04-23**|**The mosaic permutation test: an exact and nonparametric goodness-of-fit test for factor models**|Asher Spector et.al.|[2404.15017](http://arxiv.org/abs/2404.15017)|null|
@@ -1941,6 +1951,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-25**|**3D deep learning for enhanced atom probe tomography analysis of nanoscale microstructures**|Jiwei Yu et.al.|[2404.16524](http://arxiv.org/abs/2404.16524)|null|
+|**2024-04-25**|**Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud**|Ayumu Saito et.al.|[2404.16432](http://arxiv.org/abs/2404.16432)|null|
+|**2024-04-25**|**Robot Swarm Control Based on Smoothed Particle Hydrodynamics for Obstacle-Unaware Navigation**|Michikuni Eguchi et.al.|[2404.16309](http://arxiv.org/abs/2404.16309)|null|
+|**2024-04-24**|**Building-PCC: Building Point Cloud Completion Benchmarks**|Weixiao Gao et.al.|[2404.15644](http://arxiv.org/abs/2404.15644)|null|
 |**2024-04-23**|**Machine Vision Based Assessment of Fall Color Changes in Apple Trees: Exploring Relationship with Leaf Nitrogen Concentration**|Achyut Paudel et.al.|[2404.14653](http://arxiv.org/abs/2404.14653)|null|
 |**2024-04-22**|**Immersive Rover Control and Obstacle Detection based on Extended Reality and Artificial Intelligence**|Sofía Coloma et.al.|[2404.14095](http://arxiv.org/abs/2404.14095)|null|
 |**2024-04-22**|**CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction**|Wenhao Lan et.al.|[2404.14042](http://arxiv.org/abs/2404.14042)|null|
