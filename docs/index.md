@@ -824,7 +824,7 @@ layout: default
 |**2023-09-07**|**Fully Onboard SLAM for Distributed Mapping with a Swarm of Nano-Drones**|Carl Friess et.al.|[2309.03678](http://arxiv.org/abs/2309.03678)|null|
 |**2023-09-06**|**Spatial data fusion adjusting for preferential sampling using INLA and SPDE**|Ruiman Zhong et.al.|[2309.03316](http://arxiv.org/abs/2309.03316)|null|
 |**2023-09-01**|**Sherlock Holmes Doesn't Play Dice: The significance of Evidence Theory for the Social and Life Sciences**|V. L. Raju Chinthalapati et.al.|[2309.03222](http://arxiv.org/abs/2309.03222)|null|
-|**2023-09-06**|**Indoor Localization Using Radio, Vision and Audio Sensors: Real-Life Data Validation and Discussion**|Ilayda Yaman et.al.|[2309.02961](http://arxiv.org/abs/2309.02961)|null|
+|**2023-09-06**|**Indoor Localization Using Radio, Vision and Audio Sensors: Real-Life Data Validation and Discussion**|Ilayda Yaman et.al.|[2309.02961](http://arxiv.org/abs/2309.02961)|**[link](https://github.com/ilaydayaman/luvira_dataset)**|
 |**2023-09-03**|**Distributed averaging for accuracy prediction in networked systems**|Christel Sirocchi et.al.|[2309.01144](http://arxiv.org/abs/2309.01144)|null|
 |**2023-09-02**|**Consensus-based Distributed Variational Multi-object Tracker in Multi-Sensor Network**|Qing Li et.al.|[2309.00807](http://arxiv.org/abs/2309.00807)|null|
 |**2023-09-02**|**Online Targetless Radar-Camera Extrinsic Calibration Based on the Common Features of Radar and Camera**|Lei Cheng et.al.|[2309.00787](http://arxiv.org/abs/2309.00787)|null|
@@ -1693,7 +1693,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-25**|**3D deep learning for enhanced atom probe tomography analysis of nanoscale microstructures**|Jiwei Yu et.al.|[2404.16524](http://arxiv.org/abs/2404.16524)|null|
 |**2024-04-25**|**Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud**|Ayumu Saito et.al.|[2404.16432](http://arxiv.org/abs/2404.16432)|null|
-|**2024-04-24**|**Building-PCC: Building Point Cloud Completion Benchmarks**|Weixiao Gao et.al.|[2404.15644](http://arxiv.org/abs/2404.15644)|null|
+|**2024-04-24**|**Building-PCC: Building Point Cloud Completion Benchmarks**|Weixiao Gao et.al.|[2404.15644](http://arxiv.org/abs/2404.15644)|**[link](https://github.com/tudelft3d/building-pcc-building-point-cloud-completion-benchmarks)**|
 |**2024-04-24**|**Mapping Incidence and Prevalence Peak Data for SIR Forecasting Applications**|Alexander C. Murph et.al.|[2404.15572](http://arxiv.org/abs/2404.15572)|null|
 |**2024-04-23**|**KiDS-SBI: Simulation-Based Inference Analysis of KiDS-1000 Cosmic Shear**|Maximilian von Wietersheim-Kramsta et.al.|[2404.15402](http://arxiv.org/abs/2404.15402)|null|
 |**2024-04-23**|**The mosaic permutation test: an exact and nonparametric goodness-of-fit test for factor models**|Asher Spector et.al.|[2404.15017](http://arxiv.org/abs/2404.15017)|null|
@@ -1704,7 +1704,7 @@ layout: default
 |**2024-04-22**|**CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction**|Wenhao Lan et.al.|[2404.14042](http://arxiv.org/abs/2404.14042)|null|
 |**2024-04-22**|**PM-VIS: High-Performance Box-Supervised Video Instance Segmentation**|Zhangjing Yang et.al.|[2404.13863](http://arxiv.org/abs/2404.13863)|null|
 |**2024-04-21**|**MathNet: A Data-Centric Approach for Printed Mathematical Expression Recognition**|Felix M. Schmitt-Koopmann et.al.|[2404.13667](http://arxiv.org/abs/2404.13667)|null|
-|**2024-04-19**|**Cosmic-Ray Propagation Models Elucidate the Prospects for Antinuclei Detection**|Pedro De La Torre Luque et.al.|[2404.13114](http://arxiv.org/abs/2404.13114)|null|
+|**2024-04-19**|**Cosmic-Ray Propagation Models Elucidate the Prospects for Antinuclei Detection**|Pedro De La Torre Luque et.al.|[2404.13114](http://arxiv.org/abs/2404.13114)|**[link](https://github.com/tospines/customised-dragon-versions)**|
 |**2024-04-19**|**PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation**|Tianyuan Zhang et.al.|[2404.13026](http://arxiv.org/abs/2404.13026)|null|
 |**2024-04-18**|**SGRU: A High-Performance Structured Gated Recurrent Unit for Traffic Flow Prediction**|Wenfeng Zhang et.al.|[2404.11854](http://arxiv.org/abs/2404.11854)|null|
 |**2024-04-17**|**Reuse out-of-year data to enhance land cover mappingvia feature disentanglement and contrastive learning**|Cassio F. Dantas et.al.|[2404.11114](http://arxiv.org/abs/2404.11114)|null|
@@ -1776,7 +1776,7 @@ layout: default
 |**2024-03-12**|**Supporting Annotators with Affordances for Efficiently Labeling Conversational Data**|Austin Z. Henley et.al.|[2403.07762](http://arxiv.org/abs/2403.07762)|null|
 |**2024-03-12**|**Fast and Simple Explainability for Point Cloud Networks**|Meir Yossef Levi et.al.|[2403.07706](http://arxiv.org/abs/2403.07706)|null|
 |**2024-03-11**|**SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data**|Jialu Li et.al.|[2403.06952](http://arxiv.org/abs/2403.06952)|null|
-|**2024-03-11**|**Shape Non-rigid Kinematics (SNK): A Zero-Shot Method for Non-Rigid Shape Matching via Unsupervised Functional Map Regularized Reconstruction**|Souhaib Attaiki et.al.|[2403.06804](http://arxiv.org/abs/2403.06804)|null|
+|**2024-03-11**|**Shape Non-rigid Kinematics (SNK): A Zero-Shot Method for Non-Rigid Shape Matching via Unsupervised Functional Map Regularized Reconstruction**|Souhaib Attaiki et.al.|[2403.06804](http://arxiv.org/abs/2403.06804)|**[link](https://github.com/pvnieo/snk)**|
 |**2024-03-11**|**epsilon-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition**|Batuhan Cengiz et.al.|[2403.06661](http://arxiv.org/abs/2403.06661)|null|
 |**2024-03-11**|**Latent Semantic Consensus For Deterministic Geometric Model Fitting**|Guobao Xiao et.al.|[2403.06444](http://arxiv.org/abs/2403.06444)|**[link](https://github.com/guobaoxiao/lsc)**|
 |**2024-03-09**|**Investigating the Soft X-ray Spectra of Solar Flare Onsets**|Anant Telikicherla et.al.|[2403.05992](http://arxiv.org/abs/2403.05992)|null|
@@ -1930,7 +1930,7 @@ layout: default
 |**2024-04-25**|**3D deep learning for enhanced atom probe tomography analysis of nanoscale microstructures**|Jiwei Yu et.al.|[2404.16524](http://arxiv.org/abs/2404.16524)|null|
 |**2024-04-25**|**Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud**|Ayumu Saito et.al.|[2404.16432](http://arxiv.org/abs/2404.16432)|null|
 |**2024-04-25**|**Robot Swarm Control Based on Smoothed Particle Hydrodynamics for Obstacle-Unaware Navigation**|Michikuni Eguchi et.al.|[2404.16309](http://arxiv.org/abs/2404.16309)|null|
-|**2024-04-24**|**Building-PCC: Building Point Cloud Completion Benchmarks**|Weixiao Gao et.al.|[2404.15644](http://arxiv.org/abs/2404.15644)|null|
+|**2024-04-24**|**Building-PCC: Building Point Cloud Completion Benchmarks**|Weixiao Gao et.al.|[2404.15644](http://arxiv.org/abs/2404.15644)|**[link](https://github.com/tudelft3d/building-pcc-building-point-cloud-completion-benchmarks)**|
 |**2024-04-23**|**Machine Vision Based Assessment of Fall Color Changes in Apple Trees: Exploring Relationship with Leaf Nitrogen Concentration**|Achyut Paudel et.al.|[2404.14653](http://arxiv.org/abs/2404.14653)|null|
 |**2024-04-22**|**Immersive Rover Control and Obstacle Detection based on Extended Reality and Artificial Intelligence**|Sofía Coloma et.al.|[2404.14095](http://arxiv.org/abs/2404.14095)|null|
 |**2024-04-22**|**CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction**|Wenhao Lan et.al.|[2404.14042](http://arxiv.org/abs/2404.14042)|null|
