@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Collaborative Control Method of Transit Signal Priority Based on Cooperative Game and Reinforcement Learning**|Hao Qin et.al.|[2404.19683](http://arxiv.org/abs/2404.19683)|null|
+|**2024-04-29**|**Micro-Macro Spatial-Temporal Graph-based Encoder-Decoder for Map-Constrained Trajectory Recovery**|Tonglong Wei et.al.|[2404.19141](http://arxiv.org/abs/2404.19141)|null|
 |**2024-04-29**|**Reactive Composition of UAV Delivery Services in Urban Environments**|Woojin Lee et.al.|[2404.18363](http://arxiv.org/abs/2404.18363)|null|
 |**2024-04-27**|**3D Extended Object Tracking by Fusing Roadside Sparse Radar Point Clouds and Pixel Keypoints**|Jiayin Deng et.al.|[2404.17903](http://arxiv.org/abs/2404.17903)|null|
 |**2024-04-26**|**Enhancing Track Management Systems with Vehicle-To-Vehicle Enabled Sensor Fusion**|Thomas Billington et.al.|[2404.17697](http://arxiv.org/abs/2404.17697)|null|
@@ -636,6 +638,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-29**|**Landmark Alternating Diffusion**|Sing-Yuan Yeh et.al.|[2404.19649](http://arxiv.org/abs/2404.19649)|null|
+|**2024-04-25**|**GuideWalk -- Heterogeneous Data Fusion for Enhanced Learning -- A Multiclass Document Classification Case**|Sarmad N. Mohammed et.al.|[2404.18942](http://arxiv.org/abs/2404.18942)|null|
 |**2024-04-29**|**Multisensor Data Fusion for Automatized Insect Monitoring (KInsecta)**|Martin Tschaikner et.al.|[2404.18504](http://arxiv.org/abs/2404.18504)|null|
 |**2024-04-28**|**Online,Target-Free LiDAR-Camera Extrinsic Calibration via Cross-Modal Mask Matching**|Zhiwei Huang et.al.|[2404.18083](http://arxiv.org/abs/2404.18083)|null|
 |**2024-04-27**|**Efficient Bi-manipulation using RGBD Multi-model Fusion based on Attention Mechanism**|Jian Shen et.al.|[2404.17811](http://arxiv.org/abs/2404.17811)|null|
@@ -1004,6 +1008,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Large Language Model Informed Patent Image Retrieval**|Hao-Cheng Lo et.al.|[2404.19360](http://arxiv.org/abs/2404.19360)|null|
+|**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
 |**2024-04-29**|**Enhancing Interactive Image Retrieval With Query Rewriting Using Large Language Models and Vision Language Models**|Hongyi Zhu et.al.|[2404.18746](http://arxiv.org/abs/2404.18746)|null|
 |**2024-04-29**|**Dual-Modal Prompting for Sketch-Based Image Retrieval**|Liying Gao et.al.|[2404.18695](http://arxiv.org/abs/2404.18695)|null|
 |**2024-04-29**|**Semantic Line Combination Detector**|Jinwon Ko et.al.|[2404.18399](http://arxiv.org/abs/2404.18399)|**[link](https://github.com/jinwon-ko/slcd)**|
@@ -1385,6 +1391,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-25**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 |**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885](http://arxiv.org/abs/2403.19885)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
 |**2024-02-25**|**A Feature Matching Method Based on Multi-Level Refinement Strategy**|Shaojie Zhang et.al.|[2402.13488](http://arxiv.org/abs/2402.13488)|null|
@@ -1516,6 +1523,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
+|**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
 |**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|null|
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
@@ -1707,13 +1716,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-30**|**Quater-GCN: Enhancing 3D Human Pose Estimation with Orientation and Semi-supervised Training**|Xingyu Song et.al.|[2404.19279](http://arxiv.org/abs/2404.19279)|null|
+|**2024-04-29**|**Associating LOFAR Galactic Faraday structures with the warm neutral medium**|F. Boulanger et.al.|[2404.19002](http://arxiv.org/abs/2404.19002)|null|
+|**2024-04-29**|**"I'm in the Bluesky Tonight": Insights from a Year Worth of Social Data**|Andrea Failla et.al.|[2404.18984](http://arxiv.org/abs/2404.18984)|null|
 |**2024-04-29**|**Leveraging PointNet and PointNet++ for Lyft Point Cloud Classification Challenge**|Rajat K. Doshi et.al.|[2404.18665](http://arxiv.org/abs/2404.18665)|null|
 |**2024-04-27**|**Thinking inside the bounds: Improved error distributions for indifference point data analysis and simulation via beta regression using common discounting functions**|Mingang Kim et.al.|[2404.18000](http://arxiv.org/abs/2404.18000)|null|
 |**2024-04-27**|**PWEXP: An R Package Using Piecewise Exponential Model for Study Design and Event/Timeline Prediction**|Tianchen Xu et.al.|[2404.17772](http://arxiv.org/abs/2404.17772)|null|
 |**2024-04-25**|**3D deep learning for enhanced atom probe tomography analysis of nanoscale microstructures**|Jiwei Yu et.al.|[2404.16524](http://arxiv.org/abs/2404.16524)|null|
 |**2024-04-25**|**Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud**|Ayumu Saito et.al.|[2404.16432](http://arxiv.org/abs/2404.16432)|null|
 |**2024-04-24**|**Building-PCC: Building Point Cloud Completion Benchmarks**|Weixiao Gao et.al.|[2404.15644](http://arxiv.org/abs/2404.15644)|**[link](https://github.com/tudelft3d/building-pcc-building-point-cloud-completion-benchmarks)**|
-|**2024-04-24**|**Mapping Incidence and Prevalence Peak Data for SIR Forecasting Applications**|Alexander C. Murph et.al.|[2404.15572](http://arxiv.org/abs/2404.15572)|null|
+|**2024-04-24**|**Mapping Incidence and Prevalence Peak Data for SIR Forecasting Applications**|Alexander C. Murph et.al.|[2404.15572](http://arxiv.org/abs/2404.15572)|**[link](https://github.com/lanl/precog)**|
 |**2024-04-23**|**KiDS-SBI: Simulation-Based Inference Analysis of KiDS-1000 Cosmic Shear**|Maximilian von Wietersheim-Kramsta et.al.|[2404.15402](http://arxiv.org/abs/2404.15402)|null|
 |**2024-04-23**|**The mosaic permutation test: an exact and nonparametric goodness-of-fit test for factor models**|Asher Spector et.al.|[2404.15017](http://arxiv.org/abs/2404.15017)|null|
 |**2024-04-23**|**Assessing Human Judgment Forecasts in the Rapid Spread of the Mpox Outbreak: Insights and Challenges for Pandemic Preparedness**|Thomas McAndrew et.al.|[2404.14686](http://arxiv.org/abs/2404.14686)|null|
