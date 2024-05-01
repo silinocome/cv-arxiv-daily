@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.30
+## Updated on 2024.05.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -413,7 +413,7 @@ layout: default
 |**2024-04-29**|**Unraveling the Italian and English Telegram Conspiracy Spheres through Message Forwarding**|Lorenzo Alvisi et.al.|[2404.18602](http://arxiv.org/abs/2404.18602)|null|
 |**2024-04-27**|**Verco: Learning Coordinated Verbal Communication for Multi-agent Reinforcement Learning**|Dapeng Li et.al.|[2404.17780](http://arxiv.org/abs/2404.17780)|null|
 |**2024-04-25**|**Decentralized Exchangeable Stochastic Dynamic Teams in Continuous-time, their Mean-Field Limits and Optimality of Symmetric Policies**|Sina Sanjari et.al.|[2404.15581](http://arxiv.org/abs/2404.15581)|null|
-|**2024-04-18**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/abs/2404.12538)|null|
+|**2024-04-30**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/abs/2404.12538)|null|
 |**2024-04-15**|**Unsupervised Federated Optimization at the Edge: D2D-Enabled Learning without Labels**|Satyavrat Wagle et.al.|[2404.09861](http://arxiv.org/abs/2404.09861)|null|
 |**2024-04-15**|**Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System**|Genjia Liu et.al.|[2404.09496](http://arxiv.org/abs/2404.09496)|null|
 |**2024-04-12**|**Multi-Branch Generative Models for Multichannel Imaging with an Application to PET/CT Joint Reconstruction**|Noel Jeffrey Pinton et.al.|[2404.08748](http://arxiv.org/abs/2404.08748)|null|
@@ -1009,7 +1009,7 @@ layout: default
 |**2024-04-29**|**Semantic Line Combination Detector**|Jinwon Ko et.al.|[2404.18399](http://arxiv.org/abs/2404.18399)|**[link](https://github.com/jinwon-ko/slcd)**|
 |**2024-04-26**|**Learning text-to-video retrieval from image captioning**|Lucas Ventura et.al.|[2404.17498](http://arxiv.org/abs/2404.17498)|null|
 |**2024-04-25**|**CriSp: Leveraging Tread Depth Maps for Enhanced Crime-Scene Shoeprint Matching**|Samia Shafique et.al.|[2404.16972](http://arxiv.org/abs/2404.16972)|null|
-|**2024-04-25**|**Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**|Ryoya Nara et.al.|[2404.16398](http://arxiv.org/abs/2404.16398)|null|
+|**2024-04-29**|**Revisiting Relevance Feedback for CLIP-based Interactive Image Retrieval**|Ryoya Nara et.al.|[2404.16398](http://arxiv.org/abs/2404.16398)|null|
 |**2024-04-24**|**Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval**|Haokun Wen et.al.|[2404.15875](http://arxiv.org/abs/2404.15875)|**[link](https://github.com/haokunwen/dqu-cir)**|
 |**2024-04-24**|**DVF: Advancing Robust and Accurate Fine-Grained Image Retrieval with Retrieval Guidelines**|Xin Jiang et.al.|[2404.15771](http://arxiv.org/abs/2404.15771)|null|
 |**2024-04-23**|**Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval**|Young Kyun Jang et.al.|[2404.15516](http://arxiv.org/abs/2404.15516)|null|
