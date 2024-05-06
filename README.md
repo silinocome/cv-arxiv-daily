@@ -584,7 +584,7 @@
 |**2023-01-06**|**Learning Personalized Brain Functional Connectivity of MDD Patients from Multiple Sites via Federated Bayesian Networks**|Shuai Liu et.al.|[2301.02423](http://arxiv.org/abs/2301.02423)|null|
 |**2022-12-29**|**Learning 3D Human Pose Estimation from Dozens of Datasets using a Geometry-Aware Autoencoder to Bridge Between Skeleton Formats**|István Sárándi et.al.|[2212.14474](http://arxiv.org/abs/2212.14474)|null|
 |**2022-12-28**|**NeMo: 3D Neural Motion Fields from Multiple Video Instances of the Same Action**|Kuan-Chieh Wang et.al.|[2212.13660](http://arxiv.org/abs/2212.13660)|**[link](https://github.com/wangkua1/nemo-cvpr2023)**|
-|**2022-12-19**|**Direct covariance matrix estimation with compositional data**|Aaron J. Molstad et.al.|[2212.09833](http://arxiv.org/abs/2212.09833)|null|
+|**2022-12-19**|**Direct covariance matrix estimation with compositional data**|Aaron J. Molstad et.al.|[2212.09833](http://arxiv.org/abs/2212.09833)|**[link](https://github.com/ajmolstad/sppdcc)**|
 |**2023-04-25**|**Comparing Approaches to Distributed Control of Fluid Systems based on Multi-Agent Systems**|Kevin T. Logan et.al.|[2212.08450](http://arxiv.org/abs/2212.08450)|null|
 |**2022-12-14**|**MA-GCL: Model Augmentation Tricks for Graph Contrastive Learning**|Xumeng Gong et.al.|[2212.07035](http://arxiv.org/abs/2212.07035)|**[link](https://github.com/gxm1141/ma-gcl)**|
 |**2022-12-13**|**Edge-Assisted V2X Motion Planning and Power Control Under Channel Uncertainty**|Zongze Li et.al.|[2212.06459](http://arxiv.org/abs/2212.06459)|null|
@@ -1757,8 +1757,8 @@
 |**2024-04-24**|**Building-PCC: Building Point Cloud Completion Benchmarks**|Weixiao Gao et.al.|[2404.15644](http://arxiv.org/abs/2404.15644)|**[link](https://github.com/tudelft3d/building-pcc-building-point-cloud-completion-benchmarks)**|
 |**2024-04-24**|**Mapping Incidence and Prevalence Peak Data for SIR Forecasting Applications**|Alexander C. Murph et.al.|[2404.15572](http://arxiv.org/abs/2404.15572)|**[link](https://github.com/lanl/precog)**|
 |**2024-04-23**|**KiDS-SBI: Simulation-Based Inference Analysis of KiDS-1000 Cosmic Shear**|Maximilian von Wietersheim-Kramsta et.al.|[2404.15402](http://arxiv.org/abs/2404.15402)|null|
-|**2024-04-23**|**The mosaic permutation test: an exact and nonparametric goodness-of-fit test for factor models**|Asher Spector et.al.|[2404.15017](http://arxiv.org/abs/2404.15017)|null|
-|**2024-04-23**|**Assessing Human Judgment Forecasts in the Rapid Spread of the Mpox Outbreak: Insights and Challenges for Pandemic Preparedness**|Thomas McAndrew et.al.|[2404.14686](http://arxiv.org/abs/2404.14686)|null|
+|**2024-04-23**|**The mosaic permutation test: an exact and nonparametric goodness-of-fit test for factor models**|Asher Spector et.al.|[2404.15017](http://arxiv.org/abs/2404.15017)|**[link](https://github.com/amspector100/mosaic_factor_paper)**|
+|**2024-04-23**|**Assessing Human Judgment Forecasts in the Rapid Spread of the Mpox Outbreak: Insights and Challenges for Pandemic Preparedness**|Thomas McAndrew et.al.|[2404.14686](http://arxiv.org/abs/2404.14686)|**[link](https://github.com/computationaluncertaintylab/mpox_eval)**|
 |**2024-04-23**|**Machine Vision Based Assessment of Fall Color Changes in Apple Trees: Exploring Relationship with Leaf Nitrogen Concentration**|Achyut Paudel et.al.|[2404.14653](http://arxiv.org/abs/2404.14653)|null|
 |**2024-04-22**|**Constraining the emergent dark energy models with cosmology-independent observational data**|GuangZhen Wang et.al.|[2404.14237](http://arxiv.org/abs/2404.14237)|null|
 |**2024-04-22**|**Elicitability and identifiability of tail risk measures**|Tobias Fissler et.al.|[2404.14136](http://arxiv.org/abs/2404.14136)|null|
