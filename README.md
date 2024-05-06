@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
+|**2024-05-02**|**Q-learning-based Opportunistic Communication for Real-time Mobile Air Quality Monitoring Systems**|Trung Thanh Nguyen et.al.|[2405.01609](http://arxiv.org/abs/2405.01609)|null|
 |**2024-05-02**|**Towards Understanding Worldwide Cross-cultural Differences in Implicit Driving Cues: Review, Comparative Analysis, and Research Roadmap**|Yongqi Dong et.al.|[2405.01119](http://arxiv.org/abs/2405.01119)|null|
 |**2024-05-02**|**Fuzzy Q-Learning-Based Opportunistic Communication for MEC-Enhanced Vehicular Crowdsensing**|Trung Thanh Nguyen et.al.|[2405.01057](http://arxiv.org/abs/2405.01057)|null|
 |**2024-05-02**|**Leverage Multi-source Traffic Demand Data Fusion with Transformer Model for Urban Parking Prediction**|Yin Huang et.al.|[2405.01055](http://arxiv.org/abs/2405.01055)|null|
@@ -655,6 +657,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Multipath-based SLAM with Cooperation and Map Fusion**|Erik Leitinger et.al.|[2405.02126](http://arxiv.org/abs/2405.02126)|null|
 |**2024-05-02**|**Leverage Multi-source Traffic Demand Data Fusion with Transformer Model for Urban Parking Prediction**|Yin Huang et.al.|[2405.01055](http://arxiv.org/abs/2405.01055)|null|
 |**2024-04-29**|**Landmark Alternating Diffusion**|Sing-Yuan Yeh et.al.|[2404.19649](http://arxiv.org/abs/2404.19649)|null|
 |**2024-04-25**|**GuideWalk -- Heterogeneous Data Fusion for Enhanced Learning -- A Multiclass Document Classification Case**|Sarmad N. Mohammed et.al.|[2404.18942](http://arxiv.org/abs/2404.18942)|null|
@@ -1743,6 +1746,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**Forecasting Ferry Passenger Flow Using Long-Short Term Memory Neural Networks**|Daniel Fesalbon et.al.|[2405.02098](http://arxiv.org/abs/2405.02098)|null|
+|**2024-05-03**|**An Onboard Framework for Staircases Modeling Based on Point Clouds**|Chun Qing et.al.|[2405.01918](http://arxiv.org/abs/2405.01918)|null|
+|**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
+|**2024-05-02**|**JWST Imaging of the Closest Globular Clusters -- II. Discovery of Brown Dwarfs in NGC 6397 and Measurement of Age from the Brown Dwarf Cooling Sequence, using SANDee - a New Grid of Model Isochrones across the Hydrogen-Burning Limit**|Roman Gerasimov et.al.|[2405.01634](http://arxiv.org/abs/2405.01634)|null|
 |**2024-05-02**|**Insight-HXMT View of the BHC Swift J1727.8-1613 during its outburst in 2023**|Kaushik Chatterjee et.al.|[2405.01498](http://arxiv.org/abs/2405.01498)|null|
 |**2024-05-02**|**Hypergraph $p$ -Laplacian regularization on point clouds for data interpolation**|Kehan Shi et.al.|[2405.01109](http://arxiv.org/abs/2405.01109)|null|
 |**2024-05-01**|**Individual-level models of disease transmission incorporating piecewise spatial risk functions**|Chinmoy Roy Rahul et.al.|[2405.00835](http://arxiv.org/abs/2405.00835)|null|
@@ -1990,6 +1997,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**An Onboard Framework for Staircases Modeling Based on Point Clouds**|Chun Qing et.al.|[2405.01918](http://arxiv.org/abs/2405.01918)|null|
+|**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
 |**2024-05-02**|**Hypergraph $p$ -Laplacian regularization on point clouds for data interpolation**|Kehan Shi et.al.|[2405.01109](http://arxiv.org/abs/2405.01109)|null|
 |**2024-04-29**|**Leveraging PointNet and PointNet++ for Lyft Point Cloud Classification Challenge**|Rajat K. Doshi et.al.|[2404.18665](http://arxiv.org/abs/2404.18665)|null|
 |**2024-04-25**|**3D deep learning for enhanced atom probe tomography analysis of nanoscale microstructures**|Jiwei Yu et.al.|[2404.16524](http://arxiv.org/abs/2404.16524)|null|
