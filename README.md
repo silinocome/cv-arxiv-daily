@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Roadside Units Assisted Localized Automated Vehicle Maneuvering: An Offline Reinforcement Learning Approach**|Kui Wang et.al.|[2405.03935](http://arxiv.org/abs/2405.03935)|null|
 |**2024-05-05**|**Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management**|Bingzhang Wang et.al.|[2405.03076](http://arxiv.org/abs/2405.03076)|null|
 |**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
 |**2024-05-02**|**Q-learning-based Opportunistic Communication for Real-time Mobile Air Quality Monitoring Systems**|Trung Thanh Nguyen et.al.|[2405.01609](http://arxiv.org/abs/2405.01609)|null|
@@ -658,6 +659,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Global Scale Self-Supervised Channel Charting with Sensor Fusion**|Omid Esrafilian et.al.|[2405.04357](http://arxiv.org/abs/2405.04357)|null|
+|**2024-05-07**|**Unified End-to-End V2X Cooperative Autonomous Driving**|Zhiwei Li et.al.|[2405.03971](http://arxiv.org/abs/2405.03971)|null|
+|**2024-05-06**|**Interpretable Data Fusion for Distributed Learning: A Representative Approach via Gradient Matching**|Mengchen Fan et.al.|[2405.03782](http://arxiv.org/abs/2405.03782)|null|
 |**2024-05-03**|**Multipath-based SLAM with Cooperation and Map Fusion**|Erik Leitinger et.al.|[2405.02126](http://arxiv.org/abs/2405.02126)|null|
 |**2024-05-02**|**Leverage Multi-source Traffic Demand Data Fusion with Transformer Model for Urban Parking Prediction**|Yin Huang et.al.|[2405.01055](http://arxiv.org/abs/2405.01055)|null|
 |**2024-04-29**|**Landmark Alternating Diffusion**|Sing-Yuan Yeh et.al.|[2404.19649](http://arxiv.org/abs/2404.19649)|null|
@@ -1032,10 +1036,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Breast Histopathology Image Retrieval by Attention-based Adversarially Regularized Variational Graph Autoencoder with Contrastive Learning-Based Feature Extraction**|Nematollah Saeidi et.al.|[2405.04211](http://arxiv.org/abs/2405.04211)|null|
 |**2024-05-06**|**A New Robust Partial $p$ -Wasserstein-Based Metric for Comparing Distributions**|Sharath Raghvendra et.al.|[2405.03664](http://arxiv.org/abs/2405.03664)|null|
 |**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
 |**2024-05-06**|**Adapting Dual-encoder Vision-language Models for Paraphrased Retrieval**|Jiacheng Cheng et.al.|[2405.03190](http://arxiv.org/abs/2405.03190)|null|
-|**2024-05-05**|**iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval**|Lorenzo Agnolucci et.al.|[2405.02951](http://arxiv.org/abs/2405.02951)|**[link](https://github.com/miccunifi/searle)**|
+|**2024-05-05**|**iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval**|Lorenzo Agnolucci et.al.|[2405.02951](http://arxiv.org/abs/2405.02951)|**[link](https://github.com/miccunifi/circo)**|
 |**2024-05-01**|**Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval**|Young Kyun Jang et.al.|[2405.00571](http://arxiv.org/abs/2405.00571)|null|
 |**2024-04-30**|**Large Language Model Informed Patent Image Retrieval**|Hao-Cheng Lo et.al.|[2404.19360](http://arxiv.org/abs/2404.19360)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
@@ -1751,6 +1756,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-07**|**Efficient Online Set-valued Classification with Bandit Feedback**|Zhou Wang et.al.|[2405.04393](http://arxiv.org/abs/2405.04393)|null|
+|**2024-05-06**|**Merging Parameter Estimation and Classification Using LASSO**|Le Wang et.al.|[2405.03783](http://arxiv.org/abs/2405.03783)|null|
+|**2024-05-06**|**Comprehensive view on a $z\sim6.5$ radio-loud QSO: from the radio to the optical/NIR to the X-ray band**|Luca Ighina et.al.|[2405.03741](http://arxiv.org/abs/2405.03741)|null|
 |**2024-05-06**|**CCDM: Continuous Conditional Diffusion Models for Image Generation**|Xin Ding et.al.|[2405.03546](http://arxiv.org/abs/2405.03546)|**[link](https://github.com/ubcdingxin/ccdm)**|
 |**2024-05-03**|**Simulation-based Inference of Developmental EEG Maturation with the Spectral Graph Model**|Danilo Bernardo et.al.|[2405.02524](http://arxiv.org/abs/2405.02524)|null|
 |**2024-05-03**|**Forecasting Ferry Passenger Flow Using Long-Short Term Memory Neural Networks**|Daniel Fesalbon et.al.|[2405.02098](http://arxiv.org/abs/2405.02098)|null|
