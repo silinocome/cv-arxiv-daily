@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**A trust management framework for vehicular ad hoc networks**|Rezvi Shahariar et.al.|[2405.04885](http://arxiv.org/abs/2405.04885)|null|
+|**2024-05-08**|**The Need Of Trustworthy Announcements To Achieve Driving Comfort**|Rezvi Shahariar et.al.|[2405.04878](http://arxiv.org/abs/2405.04878)|null|
+|**2024-05-08**|**xMTrans: Temporal Attentive Cross-Modality Fusion Transformer for Long-Term Traffic Prediction**|Huy Quang Ung et.al.|[2405.04841](http://arxiv.org/abs/2405.04841)|null|
 |**2024-05-07**|**Roadside Units Assisted Localized Automated Vehicle Maneuvering: An Offline Reinforcement Learning Approach**|Kui Wang et.al.|[2405.03935](http://arxiv.org/abs/2405.03935)|null|
 |**2024-05-05**|**Traffic Performance GPT (TP-GPT): Real-Time Data Informed Intelligent ChatBot for Transportation Surveillance and Management**|Bingzhang Wang et.al.|[2405.03076](http://arxiv.org/abs/2405.03076)|null|
 |**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
@@ -419,6 +422,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Network mutual information measures for graph similarity**|Helcio Felippe et.al.|[2405.05177](http://arxiv.org/abs/2405.05177)|null|
 |**2024-04-29**|**Unraveling the Italian and English Telegram Conspiracy Spheres through Message Forwarding**|Lorenzo Alvisi et.al.|[2404.18602](http://arxiv.org/abs/2404.18602)|null|
 |**2024-04-27**|**Verco: Learning Coordinated Verbal Communication for Multi-agent Reinforcement Learning**|Dapeng Li et.al.|[2404.17780](http://arxiv.org/abs/2404.17780)|null|
 |**2024-04-25**|**Decentralized Exchangeable Stochastic Dynamic Teams in Continuous-time, their Mean-Field Limits and Optimality of Symmetric Policies**|Sina Sanjari et.al.|[2404.15581](http://arxiv.org/abs/2404.15581)|null|
@@ -645,6 +649,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**G-Loc: Tightly-coupled Graph Localization with Prior Topo-metric Information**|Lorenzo Montano-Oliván et.al.|[2405.05059](http://arxiv.org/abs/2405.05059)|null|
 |**2024-05-07**|**Global Scale Self-Supervised Channel Charting with Sensor Fusion**|Omid Esrafilian et.al.|[2405.04357](http://arxiv.org/abs/2405.04357)|null|
 |**2024-05-07**|**Unified End-to-End V2X Cooperative Autonomous Driving**|Zhiwei Li et.al.|[2405.03971](http://arxiv.org/abs/2405.03971)|null|
 |**2024-05-06**|**Interpretable Data Fusion for Distributed Learning: A Representative Approach via Gradient Matching**|Mengchen Fan et.al.|[2405.03782](http://arxiv.org/abs/2405.03782)|null|
@@ -1409,6 +1414,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-25**|**Adaptive Local Binary Pattern: A Novel Feature Descriptor for Enhanced Analysis of Kidney Abnormalities in CT Scan Images using ensemble based Machine Learning Approach**|Tahmim Hossain et.al.|[2404.14560](http://arxiv.org/abs/2404.14560)|null|
 |**2024-03-28**|**Towards Long Term SLAM on Thermal Imagery**|Colin Keil et.al.|[2403.19885](http://arxiv.org/abs/2403.19885)|**[link](https://github.com/neufieldrobotics/irslam_baseline)**|
@@ -1734,6 +1740,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Information Geometric Framework For Point Cloud Data**|Amit Vishwakarma et.al.|[2405.04864](http://arxiv.org/abs/2405.04864)|null|
+|**2024-05-08**|**Amplitude analysis of $B^0 \to K^0_S K^+ K^-$ decays in a quasi-two-body QCD factorization approach**|J. -P. Dedonder et.al.|[2405.04838](http://arxiv.org/abs/2405.04838)|null|
+|**2024-05-07**|**First Constraints on the ISM Conditions of a Low Mass, Highly Obscured z=4.27 Main Sequence Galaxy**|Andrew Mizener et.al.|[2405.04582](http://arxiv.org/abs/2405.04582)|null|
 |**2024-05-07**|**Efficient Online Set-valued Classification with Bandit Feedback**|Zhou Wang et.al.|[2405.04393](http://arxiv.org/abs/2405.04393)|null|
 |**2024-05-06**|**Merging Parameter Estimation and Classification Using LASSO**|Le Wang et.al.|[2405.03783](http://arxiv.org/abs/2405.03783)|null|
 |**2024-05-06**|**Comprehensive view on a $z\sim6.5$ radio-loud QSO: from the radio to the optical/NIR to the X-ray band**|Luca Ighina et.al.|[2405.03741](http://arxiv.org/abs/2405.03741)|null|
@@ -1988,6 +1997,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-08**|**Information Geometric Framework For Point Cloud Data**|Amit Vishwakarma et.al.|[2405.04864](http://arxiv.org/abs/2405.04864)|null|
 |**2024-05-03**|**An Onboard Framework for Staircases Modeling Based on Point Clouds**|Chun Qing et.al.|[2405.01918](http://arxiv.org/abs/2405.01918)|null|
 |**2024-05-02**|**PointCompress3D -- A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems**|Walter Zimmer et.al.|[2405.01750](http://arxiv.org/abs/2405.01750)|null|
 |**2024-05-02**|**Hypergraph $p$ -Laplacian regularization on point clouds for data interpolation**|Kehan Shi et.al.|[2405.01109](http://arxiv.org/abs/2405.01109)|null|
