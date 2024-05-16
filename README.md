@@ -671,6 +671,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**Task-Oriented Mulsemedia Communication using Unified Perceiver and Conformal Prediction in 6G Metaverse Systems**|Hongzhi Guo et.al.|[2405.08949](http://arxiv.org/abs/2405.08949)|null|
 |**2024-05-14**|**The RoboDrive Challenge: Drive Anytime Anywhere in Any Condition**|Lingdong Kong et.al.|[2405.08816](http://arxiv.org/abs/2405.08816)|null|
 |**2024-05-15**|**Enhancing Reinforcement Learning in Sensor Fusion: A Comparative Analysis of Cubature and Sampling-based Integration Methods for Rover Search Planning**|Jan-Hendrik Ewers et.al.|[2405.08691](http://arxiv.org/abs/2405.08691)|null|
 |**2024-05-14**|**Cryptography-Based Privacy-Preserving Method for Distributed Optimization over Time-Varying Directed Graphs with Enhanced Efficiency**|Bing Liu et.al.|[2405.08518](http://arxiv.org/abs/2405.08518)|null|
@@ -1055,6 +1056,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**|Farnaz Khun Jush et.al.|[2405.09334](http://arxiv.org/abs/2405.09334)|null|
+|**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001](http://arxiv.org/abs/2405.09001)|null|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
 |**2024-05-14**|**HybridHash: Hybrid Convolutional and Self-Attention Deep Hashing for Image Retrieval**|Chao He et.al.|[2405.07524](http://arxiv.org/abs/2405.07524)|**[link](https://github.com/shuaichaochao/hybridhash)**|
 |**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429](http://arxiv.org/abs/2405.07429)|null|
@@ -1785,6 +1788,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-15**|**Outlier-resilient model fitting via percentile losses: Methods for general and convex residuals**|João Domingos et.al.|[2405.09436](http://arxiv.org/abs/2405.09436)|null|
+|**2024-05-15**|**Digging into the ultraviolet luminosity functions of galaxies at high redshifts: galaxies evolution, reionization, and cosmological parameters**|Yi-Ying Wang et.al.|[2405.09350](http://arxiv.org/abs/2405.09350)|null|
+|**2024-05-15**|**Two models for the orbital modulation of $γ$ -rays in Cyg X-3**|Anton Dmytriiev et.al.|[2405.09154](http://arxiv.org/abs/2405.09154)|null|
 |**2024-05-14**|**Gradient Estimation and Variance Reduction in Stochastic and Deterministic Models**|Ronan Keane et.al.|[2405.08661](http://arxiv.org/abs/2405.08661)|null|
 |**2024-05-14**|**Hybrid Event-Frame Neural Spike Detector for Neuromorphic Implantable BMI**|Vivek Mohan et.al.|[2405.08292](http://arxiv.org/abs/2405.08292)|null|
 |**2024-05-11**|**Retrieval Enhanced Zero-Shot Video Captioning**|Yunchuan Ma et.al.|[2405.07046](http://arxiv.org/abs/2405.07046)|null|
