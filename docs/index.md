@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.18
+## Updated on 2024.05.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -427,7 +427,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-05-14**|**Learning Multi-Agent Communication from Graph Modeling Perspective**|Shengchao Hu et.al.|[2405.08550](http://arxiv.org/abs/2405.08550)|null|
+|**2024-05-14**|**Learning Multi-Agent Communication from Graph Modeling Perspective**|Shengchao Hu et.al.|[2405.08550](http://arxiv.org/abs/2405.08550)|**[link](https://github.com/charleshsc/CommFormer)**|
 |**2024-05-09**|**Common information in well-mixing graphs and applications to information-theoretic cryptography**|Geoffroy Caillat-Grenier et.al.|[2405.05831](http://arxiv.org/abs/2405.05831)|null|
 |**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497](http://arxiv.org/abs/2405.05497)|null|
 |**2024-05-08**|**Network mutual information measures for graph similarity**|Helcio Felippe et.al.|[2405.05177](http://arxiv.org/abs/2405.05177)|**[link](https://github.com/hfelippe/network-mi)**|
@@ -436,7 +436,7 @@ layout: default
 |**2024-04-25**|**Decentralized Exchangeable Stochastic Dynamic Teams in Continuous-time, their Mean-Field Limits and Optimality of Symmetric Policies**|Sina Sanjari et.al.|[2404.15581](http://arxiv.org/abs/2404.15581)|null|
 |**2024-04-30**|**TrACT: A Training Dynamics Aware Contrastive Learning Framework for Long-tail Trajectory Prediction**|Junrui Zhang et.al.|[2404.12538](http://arxiv.org/abs/2404.12538)|null|
 |**2024-04-15**|**Unsupervised Federated Optimization at the Edge: D2D-Enabled Learning without Labels**|Satyavrat Wagle et.al.|[2404.09861](http://arxiv.org/abs/2404.09861)|null|
-|**2024-04-15**|**Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System**|Genjia Liu et.al.|[2404.09496](http://arxiv.org/abs/2404.09496)|null|
+|**2024-04-15**|**Towards Collaborative Autonomous Driving: Simulation Platform and End-to-End System**|Genjia Liu et.al.|[2404.09496](http://arxiv.org/abs/2404.09496)|**[link](https://github.com/collaborativeperception/v2xverse)**|
 |**2024-04-12**|**Multi-Branch Generative Models for Multichannel Imaging with an Application to PET/CT Joint Reconstruction**|Noel Jeffrey Pinton et.al.|[2404.08748](http://arxiv.org/abs/2404.08748)|null|
 |**2024-04-12**|**Collective Bayesian Decision-Making in a Swarm of Miniaturized Robots for Surface Inspection**|Thiemen Siemensma et.al.|[2404.08390](http://arxiv.org/abs/2404.08390)|null|
 |**2024-04-12**|**RLEMMO: Evolutionary Multimodal Optimization Assisted By Deep Reinforcement Learning**|Hongqiao Lian et.al.|[2404.08242](http://arxiv.org/abs/2404.08242)|null|
@@ -1045,7 +1045,7 @@ layout: default
 |**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001](http://arxiv.org/abs/2405.09001)|null|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
 |**2024-05-14**|**HybridHash: Hybrid Convolutional and Self-Attention Deep Hashing for Image Retrieval**|Chao He et.al.|[2405.07524](http://arxiv.org/abs/2405.07524)|**[link](https://github.com/shuaichaochao/hybridhash)**|
-|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429](http://arxiv.org/abs/2405.07429)|null|
+|**2024-05-13**|**JointLoc: A Real-time Visual Localization Framework for Planetary UAVs Based on Joint Relative and Absolute Pose Estimation**|Xubo Luo et.al.|[2405.07429](http://arxiv.org/abs/2405.07429)|**[link](https://github.com/luoxubo/jointloc)**|
 |**2024-05-07**|**Breast Histopathology Image Retrieval by Attention-based Adversarially Regularized Variational Graph Autoencoder with Contrastive Learning-Based Feature Extraction**|Nematollah Saeidi et.al.|[2405.04211](http://arxiv.org/abs/2405.04211)|null|
 |**2024-05-06**|**A New Robust Partial $p$ -Wasserstein-Based Metric for Comparing Distributions**|Sharath Raghvendra et.al.|[2405.03664](http://arxiv.org/abs/2405.03664)|null|
 |**2024-05-06**|**Knowledge-aware Text-Image Retrieval for Remote Sensing Images**|Li Mi et.al.|[2405.03373](http://arxiv.org/abs/2405.03373)|null|
