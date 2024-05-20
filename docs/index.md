@@ -427,6 +427,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|null|
 |**2024-05-14**|**Learning Multi-Agent Communication from Graph Modeling Perspective**|Shengchao Hu et.al.|[2405.08550](http://arxiv.org/abs/2405.08550)|**[link](https://github.com/charleshsc/CommFormer)**|
 |**2024-05-09**|**Common information in well-mixing graphs and applications to information-theoretic cryptography**|Geoffroy Caillat-Grenier et.al.|[2405.05831](http://arxiv.org/abs/2405.05831)|null|
 |**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497](http://arxiv.org/abs/2405.05497)|null|
@@ -1767,6 +1768,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-17**|**Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory**|Jonas Kälble et.al.|[2405.10575](http://arxiv.org/abs/2405.10575)|**[link](https://github.com/boschresearch/evidential-occupancy)**|
+|**2024-05-17**|**Improved AdaBoost for Virtual Reality Experience Prediction Based on Long Short-Term Memory Network**|Wenhan Fan et.al.|[2405.10515](http://arxiv.org/abs/2405.10515)|null|
 |**2024-05-16**|**A new dimension in the variability of AGB stars: convection patterns size changes with pulsation**|A. Rosales-Guzmán et.al.|[2405.10164](http://arxiv.org/abs/2405.10164)|null|
 |**2024-05-15**|**Outlier-resilient model fitting via percentile losses: Methods for general and convex residuals**|João Domingos et.al.|[2405.09436](http://arxiv.org/abs/2405.09436)|null|
 |**2024-05-15**|**Digging into the ultraviolet luminosity functions of galaxies at high redshifts: galaxies evolution, reionization, and cosmological parameters**|Yi-Ying Wang et.al.|[2405.09350](http://arxiv.org/abs/2405.09350)|null|
