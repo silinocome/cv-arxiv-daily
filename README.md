@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-18**|**Hierarchical Reinforcement Learning Empowered Task Offloading in V2I Networks**|Xinyu You et.al.|[2405.11352](http://arxiv.org/abs/2405.11352)|null|
 |**2024-05-14**|**BeACONS: A Blockchain-enabled Authentication and Communications Network for Scalable IoV**|Qi Shi et.al.|[2405.08651](http://arxiv.org/abs/2405.08651)|null|
 |**2024-05-14**|**Realtime Global Optimization of a Fail-Safe Emergency Stop Maneuver for Arbitrary Electrical / Electronical Failures in Automated Driving**|F. Duerr et.al.|[2405.08401](http://arxiv.org/abs/2405.08401)|null|
 |**2024-05-13**|**Radio Resource Management and Path Planning in Intelligent Transportation Systems via Reinforcement Learning for Environmental Sustainability**|S. Norouzi et.al.|[2405.08053](http://arxiv.org/abs/2405.08053)|null|
@@ -439,7 +440,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-17**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|null|
+|**2024-05-20**|**Learning to connect in action: Measuring and understanding the emergence of boundary spanners in volatile times**|Vittorio Nespeca et.al.|[2405.11998](http://arxiv.org/abs/2405.11998)|null|
+|**2024-05-19**|**AMMeBa: A Large-Scale Survey and Dataset of Media-Based Misinformation In-The-Wild**|Nicholas Dufour et.al.|[2405.11697](http://arxiv.org/abs/2405.11697)|null|
+|**2024-05-18**|**Multi-scale Information Sharing and Selection Network with Boundary Attention for Polyp Segmentation**|Xiaolu Kang et.al.|[2405.11151](http://arxiv.org/abs/2405.11151)|null|
+|**2024-05-20**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|null|
 |**2024-05-14**|**Learning Multi-Agent Communication from Graph Modeling Perspective**|Shengchao Hu et.al.|[2405.08550](http://arxiv.org/abs/2405.08550)|**[link](https://github.com/charleshsc/CommFormer)**|
 |**2024-05-09**|**Common information in well-mixing graphs and applications to information-theoretic cryptography**|Geoffroy Caillat-Grenier et.al.|[2405.05831](http://arxiv.org/abs/2405.05831)|null|
 |**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497](http://arxiv.org/abs/2405.05497)|null|
@@ -1057,6 +1061,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**UAV-VisLoc: A Large-scale Dataset for UAV Visual Localization**|Wenjia Xu et.al.|[2405.11936](http://arxiv.org/abs/2405.11936)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
 |**2024-05-15**|**Content-Based Image Retrieval for Multi-Class Volumetric Radiology Images: A Benchmark Study**|Farnaz Khun Jush et.al.|[2405.09334](http://arxiv.org/abs/2405.09334)|null|
 |**2024-05-14**|**BEVRender: Vision-based Cross-view Vehicle Registration in Off-road GNSS-denied Environment**|Lihong Jin et.al.|[2405.09001](http://arxiv.org/abs/2405.09001)|null|
@@ -1790,6 +1795,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
+|**2024-05-18**|**Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**|Hyungtae Lim et.al.|[2405.11176](http://arxiv.org/abs/2405.11176)|null|
 |**2024-05-17**|**Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory**|Jonas Kälble et.al.|[2405.10575](http://arxiv.org/abs/2405.10575)|**[link](https://github.com/boschresearch/evidential-occupancy)**|
 |**2024-05-17**|**Improved AdaBoost for Virtual Reality Experience Prediction Based on Long Short-Term Memory Network**|Wenhan Fan et.al.|[2405.10515](http://arxiv.org/abs/2405.10515)|null|
 |**2024-05-16**|**A new dimension in the variability of AGB stars: convection patterns size changes with pulsation**|A. Rosales-Guzmán et.al.|[2405.10164](http://arxiv.org/abs/2405.10164)|null|
@@ -2060,6 +2067,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
 |**2024-05-10**|**Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration**|Li Ling et.al.|[2405.06279](http://arxiv.org/abs/2405.06279)|**[link](https://github.com/luxiya01/mbes-registration-data)**|
 |**2024-05-08**|**Information Geometric Framework For Point Cloud Data**|Amit Vishwakarma et.al.|[2405.04864](http://arxiv.org/abs/2405.04864)|null|
 |**2024-05-03**|**An Onboard Framework for Staircases Modeling Based on Point Clouds**|Chun Qing et.al.|[2405.01918](http://arxiv.org/abs/2405.01918)|null|
