@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-22**|**Cognitive Internet of Vulnerable Road Users in Traffic: Predictive Neural Modulations of Road Crossing Intention**|Xiaoshan Zhou et.al.|[2405.13955](http://arxiv.org/abs/2405.13955)|null|
+|**2024-05-21**|**Empowering Urban Traffic Management: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis**|Nawfal Guefrachi et.al.|[2405.13202](http://arxiv.org/abs/2405.13202)|null|
 |**2024-05-21**|**MOSS: A Large-scale Open Microscopic Traffic Simulation System**|Jun Zhang et.al.|[2405.12520](http://arxiv.org/abs/2405.12520)|null|
 |**2024-05-21**|**Data Sharing at the Edge of the Network: A Disturbance Resilient Multi-modal ITS**|Igor Mikolasek et.al.|[2405.12431](http://arxiv.org/abs/2405.12431)|null|
 |**2024-05-18**|**Hierarchical Reinforcement Learning Empowered Task Offloading in V2I Networks**|Xinyu You et.al.|[2405.11352](http://arxiv.org/abs/2405.11352)|null|
@@ -430,6 +432,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Quantifying Multivariate Graph Dependencies: Theory and Estimation for Multiplex Graphs**|Anda Skeja et.al.|[2405.14482](http://arxiv.org/abs/2405.14482)|null|
+|**2024-05-23**|**Bayesian optimisation with improved information sharing for the variational quantum eigensolver**|Milena Röhrs et.al.|[2405.14353](http://arxiv.org/abs/2405.14353)|null|
 |**2024-05-21**|**Exact predicates, exact constructions and combinatorics for mesh CSG**|Bruno Lévy et.al.|[2405.12949](http://arxiv.org/abs/2405.12949)|null|
 |**2024-05-21**|**BIMM: Brain Inspired Masked Modeling for Video Representation Learning**|Zhifan Wan et.al.|[2405.12757](http://arxiv.org/abs/2405.12757)|null|
 |**2024-05-20**|**Learning to connect in action: Measuring and understanding the emergence of boundary spanners in volatile times**|Vittorio Nespeca et.al.|[2405.11998](http://arxiv.org/abs/2405.11998)|null|
@@ -1582,6 +1586,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|null|
 |**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
@@ -1779,6 +1784,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Flatten Anything: Unsupervised Neural Surface Parameterization**|Qijian Zhang et.al.|[2405.14633](http://arxiv.org/abs/2405.14633)|null|
+|**2024-05-23**|**When predict can also explain: few-shot prediction to select better neural latents**|Kabir Dabholkar et.al.|[2405.14425](http://arxiv.org/abs/2405.14425)|null|
+|**2024-05-22**|**Actor-critic algorithms for fiber sampling problems**|Ivan Gvozdanović et.al.|[2405.13950](http://arxiv.org/abs/2405.13950)|null|
+|**2024-05-22**|**Score-based Generative Models with Adaptive Momentum**|Ziqing Wen et.al.|[2405.13726](http://arxiv.org/abs/2405.13726)|null|
+|**2024-05-22**|**The ESO-VLT MIKiS survey reloaded: the internal kinematics of the core of M75**|Silvia Leanza et.al.|[2405.13558](http://arxiv.org/abs/2405.13558)|null|
+|**2024-05-21**|**Empowering Urban Traffic Management: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis**|Nawfal Guefrachi et.al.|[2405.13202](http://arxiv.org/abs/2405.13202)|null|
 |**2024-05-21**|**An Experimental Study of C-Band Channel Model in Integrated LEO Satellite and Terrestrial Systems**|Hung Nguyen-Kha et.al.|[2405.12839](http://arxiv.org/abs/2405.12839)|null|
 |**2024-05-20**|**Robust 1-norm periodograms for analysis of noisy non-Gaussian time series with irregular cadences: Application to VLBI astrometry of quasars**|Valeri V. Makarov et.al.|[2405.12324](http://arxiv.org/abs/2405.12324)|null|
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
@@ -2051,6 +2062,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Flatten Anything: Unsupervised Neural Surface Parameterization**|Qijian Zhang et.al.|[2405.14633](http://arxiv.org/abs/2405.14633)|null|
+|**2024-05-21**|**Empowering Urban Traffic Management: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis**|Nawfal Guefrachi et.al.|[2405.13202](http://arxiv.org/abs/2405.13202)|null|
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
 |**2024-05-10**|**Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration**|Li Ling et.al.|[2405.06279](http://arxiv.org/abs/2405.06279)|**[link](https://github.com/luxiya01/mbes-registration-data)**|
 |**2024-05-08**|**Information Geometric Framework For Point Cloud Data**|Amit Vishwakarma et.al.|[2405.04864](http://arxiv.org/abs/2405.04864)|null|
