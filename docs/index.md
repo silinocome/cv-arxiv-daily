@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1793,7 +1793,7 @@ layout: default
 |**2024-05-21**|**An Experimental Study of C-Band Channel Model in Integrated LEO Satellite and Terrestrial Systems**|Hung Nguyen-Kha et.al.|[2405.12839](http://arxiv.org/abs/2405.12839)|null|
 |**2024-05-20**|**Robust 1-norm periodograms for analysis of noisy non-Gaussian time series with irregular cadences: Application to VLBI astrometry of quasars**|Valeri V. Makarov et.al.|[2405.12324](http://arxiv.org/abs/2405.12324)|null|
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
-|**2024-05-18**|**Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**|Hyungtae Lim et.al.|[2405.11176](http://arxiv.org/abs/2405.11176)|null|
+|**2024-05-24**|**Outlier-Robust Long-Term Robotic Mapping Leveraging Ground Segmentation**|Hyungtae Lim et.al.|[2405.11176](http://arxiv.org/abs/2405.11176)|null|
 |**2024-05-17**|**Accurate Training Data for Occupancy Map Prediction in Automated Driving Using Evidence Theory**|Jonas Kälble et.al.|[2405.10575](http://arxiv.org/abs/2405.10575)|**[link](https://github.com/boschresearch/evidential-occupancy)**|
 |**2024-05-17**|**Improved AdaBoost for Virtual Reality Experience Prediction Based on Long Short-Term Memory Network**|Wenhan Fan et.al.|[2405.10515](http://arxiv.org/abs/2405.10515)|null|
 |**2024-05-16**|**A new dimension in the variability of AGB stars: convection patterns size changes with pulsation**|A. Rosales-Guzmán et.al.|[2405.10164](http://arxiv.org/abs/2405.10164)|null|
