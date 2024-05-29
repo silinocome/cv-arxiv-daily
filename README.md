@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**A Mobility Equity Metric for Multi-Modal Intelligent Transportation Systems**|Heeseung Bang et.al.|[2405.17599](http://arxiv.org/abs/2405.17599)|null|
 |**2024-05-27**|**Enhanced Automotive Radar Collaborative Sensing By Exploiting Constructive Interference**|Lifan Xu et.al.|[2405.17297](http://arxiv.org/abs/2405.17297)|null|
 |**2024-05-27**|**A Two-Level Stochastic Model for the Lateral Movement of Vehicles Within Their Lane Under Homogeneous Traffic Conditions**|Nicole Neis et.al.|[2405.17080](http://arxiv.org/abs/2405.17080)|null|
 |**2024-05-22**|**Cognitive Internet of Vulnerable Road Users in Traffic: Predictive Neural Modulations of Road Crossing Intention**|Xiaoshan Zhou et.al.|[2405.13955](http://arxiv.org/abs/2405.13955)|null|
@@ -446,6 +447,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Bayesian Nonparametrics for Principal Stratification with Continuous Post-Treatment Variables**|Dafne Zorzetto et.al.|[2405.17669](http://arxiv.org/abs/2405.17669)|null|
+|**2024-05-24**|**eQMARL: Entangled Quantum Multi-Agent Reinforcement Learning for Distributed Cooperation over Quantum Channels**|Alexander DeRieux et.al.|[2405.17486](http://arxiv.org/abs/2405.17486)|null|
 |**2024-05-23**|**Quantifying Multivariate Graph Dependencies: Theory and Estimation for Multiplex Graphs**|Anda Skeja et.al.|[2405.14482](http://arxiv.org/abs/2405.14482)|null|
 |**2024-05-23**|**Bayesian optimisation with improved information sharing for the variational quantum eigensolver**|Milena Röhrs et.al.|[2405.14353](http://arxiv.org/abs/2405.14353)|null|
 |**2024-05-21**|**Exact predicates, exact constructions and combinatorics for mesh CSG**|Bruno Lévy et.al.|[2405.12949](http://arxiv.org/abs/2405.12949)|null|
@@ -1077,6 +1080,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**AdapNet: Adaptive Noise-Based Network for Low-Quality Image Retrieval**|Sihe Zhang et.al.|[2405.17718](http://arxiv.org/abs/2405.17718)|null|
 |**2024-05-26**|**MCGMapper: Light-Weight Incremental Structure from Motion and Visual Localization With Planar Markers and Camera Groups**|Yusen Xie et.al.|[2405.16599](http://arxiv.org/abs/2405.16599)|null|
 |**2024-05-24**|**Composed Image Retrieval for Remote Sensing**|Bill Psomas et.al.|[2405.15587](http://arxiv.org/abs/2405.15587)|null|
 |**2024-05-24**|**Self-distilled Dynamic Fusion Network for Language-based Fashion Retrieval**|Yiming Wu et.al.|[2405.15451](http://arxiv.org/abs/2405.15451)|null|
@@ -1817,6 +1821,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**Understanding stellar populations in thin & thick discs of edge-on galaxies with MUSE -- I. The case of the reignited S0 galaxy ESO 544-27**|Devang Somawanshi et.al.|[2405.17999](http://arxiv.org/abs/2405.17999)|null|
+|**2024-05-28**|**fMRI predictors based on language models of increasing complexity recover brain left lateralization**|Laurent Bonnasse-Gahot et.al.|[2405.17992](http://arxiv.org/abs/2405.17992)|null|
 |**2024-05-27**|**Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model**|Kuan-Chih Huang et.al.|[2405.17427](http://arxiv.org/abs/2405.17427)|**[link](https://github.com/kuanchihhuang/reason3d)**|
 |**2024-05-27**|**Hardness-Aware Scene Synthesis for Semi-Supervised 3D Object Detection**|Shuai Zeng et.al.|[2405.17422](http://arxiv.org/abs/2405.17422)|**[link](https://github.com/wzzheng/hass)**|
 |**2024-05-27**|**Non-Unitary Quantum Machine Learning**|Jamie Heredge et.al.|[2405.17388](http://arxiv.org/abs/2405.17388)|null|
