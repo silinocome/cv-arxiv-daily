@@ -124,7 +124,7 @@ layout: default
 |**2024-01-24**|**Enabling Seamless Data Security, Consensus, and Trading in Vehicular Networks**|Emanuel Vieira et.al.|[2401.13630](http://arxiv.org/abs/2401.13630)|null|
 |**2024-01-23**|**Truck Parking Usage Prediction with Decomposed Graph Neural Networks**|Rei Tamaru et.al.|[2401.12920](http://arxiv.org/abs/2401.12920)|null|
 |**2024-01-19**|**A Comprehensive Survey on Deep-Learning-based Vehicle Re-Identification: Models, Data Sets and Challenges**|Ali Amiri et.al.|[2401.10643](http://arxiv.org/abs/2401.10643)|null|
-|**2024-01-23**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134](http://arxiv.org/abs/2401.10134)|null|
+|**2024-01-23**|**Spatial-Temporal Large Language Model for Traffic Prediction**|Chenxi Liu et.al.|[2401.10134](http://arxiv.org/abs/2401.10134)|**[link](https://github.com/ChenxiLiu-HNU/ST-LLM)**|
 |**2024-01-18**|**Traffic Smoothing Controllers for Autonomous Vehicles Using Deep Reinforcement Learning and Real-World Trajectory Data**|Nathan Lichtlé et.al.|[2401.09666](http://arxiv.org/abs/2401.09666)|null|
 |**2024-01-16**|**TUMTraf Event: Calibration and Fusion Resulting in a Dataset for Roadside Event-Based and RGB Cameras**|Christian Creß et.al.|[2401.08474](http://arxiv.org/abs/2401.08474)|null|
 |**2024-01-14**|**Vehicle Selection for C-V2X Mode 4 Based Federated Edge Learning Systems**|Qiong Wu et.al.|[2401.07224](http://arxiv.org/abs/2401.07224)|**[link](https://github.com/qiongwu86/vehicle-selection-for-c-v2x)**|
@@ -1225,7 +1225,7 @@ layout: default
 |**2023-11-29**|**Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce**|Chang Liu et.al.|[2311.17954](http://arxiv.org/abs/2311.17954)|null|
 |**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|null|
 |**2023-11-27**|**Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**|Samuele Poppi et.al.|[2311.16254](http://arxiv.org/abs/2311.16254)|**[link](https://github.com/aimagelab/safe-clip)**|
-|**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|null|
+|**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|**[link](https://github.com/xsc1234/invisible-relevance-bias)**|
 |**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752](http://arxiv.org/abs/2311.13752)|**[link](https://github.com/abachaa/3d-mir)**|
 |**2023-11-22**|**Medical Image Retrieval Using Pretrained Embeddings**|Farnaz Khun Jush et.al.|[2311.13547](http://arxiv.org/abs/2311.13547)|null|
 |**2023-11-21**|**Attribute-Aware Deep Hashing with Self-Consistency for Large-Scale Fine-Grained Image Retrieval**|Xiu-Shen Wei et.al.|[2311.12894](http://arxiv.org/abs/2311.12894)|null|
@@ -1832,7 +1832,7 @@ layout: default
 |**2024-05-24**|**Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding**|Yuhang Liu et.al.|[2405.15274](http://arxiv.org/abs/2405.15274)|null|
 |**2024-05-23**|**Flatten Anything: Unsupervised Neural Surface Parameterization**|Qijian Zhang et.al.|[2405.14633](http://arxiv.org/abs/2405.14633)|null|
 |**2024-05-23**|**When predict can also explain: few-shot prediction to select better neural latents**|Kabir Dabholkar et.al.|[2405.14425](http://arxiv.org/abs/2405.14425)|null|
-|**2024-05-22**|**Actor-critic algorithms for fiber sampling problems**|Ivan Gvozdanović et.al.|[2405.13950](http://arxiv.org/abs/2405.13950)|null|
+|**2024-05-22**|**Actor-critic algorithms for fiber sampling problems**|Ivan Gvozdanović et.al.|[2405.13950](http://arxiv.org/abs/2405.13950)|**[link](https://github.com/DLR-RM/stable-baselines3)**|
 |**2024-05-22**|**Score-based Generative Models with Adaptive Momentum**|Ziqing Wen et.al.|[2405.13726](http://arxiv.org/abs/2405.13726)|null|
 |**2024-05-22**|**The ESO-VLT MIKiS survey reloaded: the internal kinematics of the core of M75**|Silvia Leanza et.al.|[2405.13558](http://arxiv.org/abs/2405.13558)|null|
 |**2024-05-21**|**Empowering Urban Traffic Management: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis**|Nawfal Guefrachi et.al.|[2405.13202](http://arxiv.org/abs/2405.13202)|null|
