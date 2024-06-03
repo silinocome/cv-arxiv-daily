@@ -692,6 +692,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Data Fusion for Heterogeneous Treatment Effect Estimation with Multi-Task Gaussian Processes**|Evangelos Dimitriou et.al.|[2405.20957](http://arxiv.org/abs/2405.20957)|null|
+|**2024-05-29**|**On the Condition Monitoring of Bolted Joints through Acoustic Emission and Deep Transfer Learning: Generalization, Ordinal Loss and Super-Convergence**|Emmanuel Ramasso et.al.|[2405.20887](http://arxiv.org/abs/2405.20887)|null|
 |**2024-05-29**|**Causal Data Fusion with Quantum Confounders**|Pedro Lauand et.al.|[2405.19278](http://arxiv.org/abs/2405.19278)|null|
 |**2024-05-29**|**Quantum Non-classicality from Causal Data Fusion**|Pedro Lauand et.al.|[2405.19252](http://arxiv.org/abs/2405.19252)|null|
 |**2024-05-29**|**Vulnerable Road User Detection and Safety Enhancement: A Comprehensive Survey**|Renato M. Silva et.al.|[2405.19202](http://arxiv.org/abs/2405.19202)|null|
@@ -1087,6 +1089,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985](http://arxiv.org/abs/2405.20985)|null|
 |**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333](http://arxiv.org/abs/2405.19333)|null|
 |**2024-05-29**|**ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions**|Honglin Lin et.al.|[2405.19226](http://arxiv.org/abs/2405.19226)|null|
 |**2024-05-30**|**CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval**|Xintong Jiang et.al.|[2405.19149](http://arxiv.org/abs/2405.19149)|null|
@@ -1833,6 +1836,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Generalized Semi-Supervised Learning via Self-Supervised Feature Adaptation**|Jiachen Liang et.al.|[2405.20596](http://arxiv.org/abs/2405.20596)|null|
 |**2024-05-30**|**Role of Spatial Curvature in a Dark Energy Interacting Model**|Trupti Patil et.al.|[2405.20170](http://arxiv.org/abs/2405.20170)|null|
 |**2024-05-30**|**Measurement of ${}_Λ^{3}\mathrm{H}$ production in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}$ = 5.02 TeV**|ALICE Collaboration et.al.|[2405.19839](http://arxiv.org/abs/2405.19839)|null|
 |**2024-05-29**|**Morse Theory for Chromatic Delaunay Triangulations**|Abhinav Natarajan et.al.|[2405.19303](http://arxiv.org/abs/2405.19303)|null|
