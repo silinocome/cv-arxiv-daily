@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Quantum Computing in Intelligent Transportation Systems: A Survey**|Yifan Zhuang et.al.|[2406.00862](http://arxiv.org/abs/2406.00862)|null|
+|**2024-06-01**|**Pedestrian intention prediction in Adverse Weather Conditions with Spiking Neural Networks and Dynamic Vision Sensors**|Mustafa Sakhai et.al.|[2406.00473](http://arxiv.org/abs/2406.00473)|null|
 |**2024-05-30**|**Speed Profile Definition for GLOSA Implementation on Buses Based on Statistical Analysis of Experimental Data**|Daniele Vignarca et.al.|[2405.20261](http://arxiv.org/abs/2405.20261)|null|
 |**2024-05-29**|**Adaptive and Parallel Split Federated Learning in Vehicular Edge Computing**|Xianke Qiang et.al.|[2405.18707](http://arxiv.org/abs/2405.18707)|null|
 |**2024-05-27**|**A Mobility Equity Metric for Multi-Modal Intelligent Transportation Systems**|Heeseung Bang et.al.|[2405.17599](http://arxiv.org/abs/2405.17599)|null|
@@ -437,6 +439,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Whistle: Data-Efficient Multilingual and Crosslingual Speech Recognition via Weakly Phonetic Supervision**|Saierdaer Yusuyin et.al.|[2406.02166](http://arxiv.org/abs/2406.02166)|**[link](https://github.com/thu-spmi/cat)**|
+|**2024-06-03**|**A Game-Theoretic Approach to Privacy-Utility Tradeoff in Sharing Genomic Summary Statistics**|Tao Zhang et.al.|[2406.01811](http://arxiv.org/abs/2406.01811)|null|
+|**2024-06-03**|**Hybrid-Learning Video Moment Retrieval across Multi-Domain Labels**|Weitong Cai et.al.|[2406.01791](http://arxiv.org/abs/2406.01791)|null|
 |**2024-05-29**|**Partial Information Decomposition for Data Interpretability and Feature Selection**|Charles Westphal et.al.|[2405.19212](http://arxiv.org/abs/2405.19212)|null|
 |**2024-05-27**|**Bayesian Nonparametrics for Principal Stratification with Continuous Post-Treatment Variables**|Dafne Zorzetto et.al.|[2405.17669](http://arxiv.org/abs/2405.17669)|null|
 |**2024-05-24**|**eQMARL: Entangled Quantum Multi-Agent Reinforcement Learning for Distributed Cooperation over Quantum Channels**|Alexander DeRieux et.al.|[2405.17486](http://arxiv.org/abs/2405.17486)|null|
@@ -1073,6 +1078,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Can CLIP help CLIP in learning 3D?**|Cristian Sbrolli et.al.|[2406.02202](http://arxiv.org/abs/2406.02202)|null|
+|**2024-06-03**|**Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP**|Sriram Balasubramanian et.al.|[2406.01583](http://arxiv.org/abs/2406.01583)|null|
+|**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|null|
+|**2024-06-02**|**Visual place recognition for aerial imagery: A survey**|Ivan Moskalenko et.al.|[2406.00885](http://arxiv.org/abs/2406.00885)|**[link](https://github.com/prime-slam/aero-vloc)**|
+|**2024-06-01**|**NuRF: Nudging the Particle Filter in Radiance Fields for Robot Visual Localization**|Wugang Meng et.al.|[2406.00312](http://arxiv.org/abs/2406.00312)|null|
 |**2024-05-31**|**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**|Linli Yao et.al.|[2405.20985](http://arxiv.org/abs/2405.20985)|null|
 |**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333](http://arxiv.org/abs/2405.19333)|null|
 |**2024-05-29**|**ContextBLIP: Doubly Contextual Alignment for Contrastive Image Retrieval from Linguistically Complex Descriptions**|Honglin Lin et.al.|[2405.19226](http://arxiv.org/abs/2405.19226)|null|
@@ -1814,6 +1824,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**System-Aware Neural ODE Processes for Few-Shot Bayesian Optimization**|Jixiang Qing et.al.|[2406.02352](http://arxiv.org/abs/2406.02352)|null|
+|**2024-06-03**|**An Open Multilingual System for Scoring Readability of Wikipedia**|Mykola Trokhymovych et.al.|[2406.01835](http://arxiv.org/abs/2406.01835)|null|
+|**2024-06-02**|**Using 3-D LiDAR Data for Safe Physical Human-Robot Interaction**|Sarthak Arora et.al.|[2406.00869](http://arxiv.org/abs/2406.00869)|null|
+|**2024-06-02**|**Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor**|Lei Liu et.al.|[2406.00791](http://arxiv.org/abs/2406.00791)|null|
+|**2024-06-02**|**A Partition-insensitive Parallel Framework for Distributed Model Fitting**|Xiaofei Wu et.al.|[2406.00703](http://arxiv.org/abs/2406.00703)|null|
+|**2024-06-01**|**Kernel-based Minimal Distributed Charges: A Conformationally Dependent ESP-Model for Molecular Simulations**|Eric Boittier et.al.|[2406.00513](http://arxiv.org/abs/2406.00513)|null|
+|**2024-06-01**|**Diffusion-based Image Generation for In-distribution Data Augmentation in Surface Defect Detection**|Luigi Capogrosso et.al.|[2406.00501](http://arxiv.org/abs/2406.00501)|**[link](https://github.com/intelligolabs/in_and_out)**|
 |**2024-05-31**|**Generalized Semi-Supervised Learning via Self-Supervised Feature Adaptation**|Jiachen Liang et.al.|[2405.20596](http://arxiv.org/abs/2405.20596)|null|
 |**2024-05-30**|**Role of Spatial Curvature in a Dark Energy Interacting Model**|Trupti Patil et.al.|[2405.20170](http://arxiv.org/abs/2405.20170)|null|
 |**2024-05-30**|**Measurement of ${}_Λ^{3}\mathrm{H}$ production in Pb-Pb collisions at $\sqrt{s_{\mathrm{NN}}}$ = 5.02 TeV**|ALICE Collaboration et.al.|[2405.19839](http://arxiv.org/abs/2405.19839)|null|
@@ -2112,6 +2129,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Towards Railways Remote Driving: Analysis of Video Streaming Latency and Adaptive Rate Control**|Daniel Mejias et.al.|[2406.02062](http://arxiv.org/abs/2406.02062)|null|
+|**2024-06-02**|**Using 3-D LiDAR Data for Safe Physical Human-Robot Interaction**|Sarthak Arora et.al.|[2406.00869](http://arxiv.org/abs/2406.00869)|null|
+|**2024-06-02**|**Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor**|Lei Liu et.al.|[2406.00791](http://arxiv.org/abs/2406.00791)|null|
 |**2024-05-29**|**Morse Theory for Chromatic Delaunay Triangulations**|Abhinav Natarajan et.al.|[2405.19303](http://arxiv.org/abs/2405.19303)|null|
 |**2024-05-27**|**Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model**|Kuan-Chih Huang et.al.|[2405.17427](http://arxiv.org/abs/2405.17427)|**[link](https://github.com/kuanchihhuang/reason3d)**|
 |**2024-05-27**|**Hardness-Aware Scene Synthesis for Semi-Supervised 3D Object Detection**|Shuai Zeng et.al.|[2405.17422](http://arxiv.org/abs/2405.17422)|**[link](https://github.com/wzzheng/hass)**|
