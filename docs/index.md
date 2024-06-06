@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-04**|**Improved context-sensitive transformer model for inland vessel trajectory prediction**|Kathrin Donandt et.al.|[2406.02771](http://arxiv.org/abs/2406.02771)|null|
+|**2024-06-04**|**Short-term Inland Vessel Trajectory Prediction with Encoder-Decoder Models**|Kathrin Donandt et.al.|[2406.02770](http://arxiv.org/abs/2406.02770)|null|
+|**2024-06-03**|**Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting**|Zhanyu Liu et.al.|[2406.02614](http://arxiv.org/abs/2406.02614)|null|
 |**2024-06-04**|**Quantum Computing in Intelligent Transportation Systems: A Survey**|Yifan Zhuang et.al.|[2406.00862](http://arxiv.org/abs/2406.00862)|null|
 |**2024-06-01**|**Pedestrian intention prediction in Adverse Weather Conditions with Spiking Neural Networks and Dynamic Vision Sensors**|Mustafa Sakhai et.al.|[2406.00473](http://arxiv.org/abs/2406.00473)|null|
 |**2024-05-30**|**Speed Profile Definition for GLOSA Implementation on Buses Based on Statistical Analysis of Experimental Data**|Daniele Vignarca et.al.|[2405.20261](http://arxiv.org/abs/2405.20261)|null|
@@ -683,6 +686,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129](http://arxiv.org/abs/2406.03129)|null|
 |**2024-05-31**|**Data Fusion for Heterogeneous Treatment Effect Estimation with Multi-Task Gaussian Processes**|Evangelos Dimitriou et.al.|[2405.20957](http://arxiv.org/abs/2405.20957)|**[link](https://github.com/evandimitriou/causalicm)**|
 |**2024-05-29**|**On the Condition Monitoring of Bolted Joints through Acoustic Emission and Deep Transfer Learning: Generalization, Ordinal Loss and Super-Convergence**|Emmanuel Ramasso et.al.|[2405.20887](http://arxiv.org/abs/2405.20887)|null|
 |**2024-05-29**|**Causal Data Fusion with Quantum Confounders**|Pedro Lauand et.al.|[2405.19278](http://arxiv.org/abs/2405.19278)|null|
@@ -1078,6 +1082,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**|Saehyung Lee et.al.|[2406.03411](http://arxiv.org/abs/2406.03411)|**[link](https://github.com/saehyung-lee/plugir)**|
+|**2024-06-04**|**MeshVPR: Citywide Visual Place Recognition Using 3D Meshes**|Gabriele Berton et.al.|[2406.02776](http://arxiv.org/abs/2406.02776)|null|
 |**2024-06-04**|**Can CLIP help CLIP in learning 3D?**|Cristian Sbrolli et.al.|[2406.02202](http://arxiv.org/abs/2406.02202)|null|
 |**2024-06-03**|**Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP**|Sriram Balasubramanian et.al.|[2406.01583](http://arxiv.org/abs/2406.01583)|null|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|**[link](https://github.com/gbarbarani/MorseDet)**|
@@ -1626,6 +1632,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|**[link](https://github.com/google-research/omniglue)**|
 |**2024-05-14**|**Shape-aware synthesis of pathological lung CT scans using CycleGAN for enhanced semi-supervised lung segmentation**|Rezkellah Noureddine Khiati et.al.|[2405.08556](http://arxiv.org/abs/2405.08556)|**[link](https://github.com/noureddinekhiati/semi-supervised-lung-segmentation)**|
@@ -1824,6 +1831,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Identification of PK-PD Insulin Models using Experimental GIR Data**|Kirstine Sylvest Freil et.al.|[2406.03178](http://arxiv.org/abs/2406.03178)|null|
+|**2024-06-04**|**First VLBI detection of Fornax A**|G. F. Paraschos et.al.|[2406.02660](http://arxiv.org/abs/2406.02660)|null|
 |**2024-06-04**|**System-Aware Neural ODE Processes for Few-Shot Bayesian Optimization**|Jixiang Qing et.al.|[2406.02352](http://arxiv.org/abs/2406.02352)|null|
 |**2024-06-03**|**An Open Multilingual System for Scoring Readability of Wikipedia**|Mykola Trokhymovych et.al.|[2406.01835](http://arxiv.org/abs/2406.01835)|null|
 |**2024-06-02**|**Using 3-D LiDAR Data for Safe Physical Human-Robot Interaction**|Sarthak Arora et.al.|[2406.00869](http://arxiv.org/abs/2406.00869)|null|
@@ -2129,6 +2138,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-05**|**Real-time Motion Planning for autonomous vehicles in dynamic environments**|Mohammad Dehghani Tezerjani et.al.|[2406.02916](http://arxiv.org/abs/2406.02916)|null|
 |**2024-06-04**|**Towards Railways Remote Driving: Analysis of Video Streaming Latency and Adaptive Rate Control**|Daniel Mejias et.al.|[2406.02062](http://arxiv.org/abs/2406.02062)|null|
 |**2024-06-02**|**Using 3-D LiDAR Data for Safe Physical Human-Robot Interaction**|Sarthak Arora et.al.|[2406.00869](http://arxiv.org/abs/2406.00869)|null|
 |**2024-06-02**|**Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor**|Lei Liu et.al.|[2406.00791](http://arxiv.org/abs/2406.00791)|null|
