@@ -28,7 +28,7 @@
 |**2024-06-05**|**MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**|Jianping Zhou et.al.|[2406.03511](http://arxiv.org/abs/2406.03511)|null|
 |**2024-06-04**|**Improved context-sensitive transformer model for inland vessel trajectory prediction**|Kathrin Donandt et.al.|[2406.02771](http://arxiv.org/abs/2406.02771)|null|
 |**2024-06-04**|**Short-term Inland Vessel Trajectory Prediction with Encoder-Decoder Models**|Kathrin Donandt et.al.|[2406.02770](http://arxiv.org/abs/2406.02770)|null|
-|**2024-06-06**|**Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting**|Zhanyu Liu et.al.|[2406.02614](http://arxiv.org/abs/2406.02614)|null|
+|**2024-06-06**|**Frequency Enhanced Pre-training for Cross-city Few-shot Traffic Forecasting**|Zhanyu Liu et.al.|[2406.02614](http://arxiv.org/abs/2406.02614)|**[link](https://github.com/zhyliu00/FEPCross)**|
 |**2024-06-04**|**Quantum Computing in Intelligent Transportation Systems: A Survey**|Yifan Zhuang et.al.|[2406.00862](http://arxiv.org/abs/2406.00862)|null|
 |**2024-06-01**|**Pedestrian intention prediction in Adverse Weather Conditions with Spiking Neural Networks and Dynamic Vision Sensors**|Mustafa Sakhai et.al.|[2406.00473](http://arxiv.org/abs/2406.00473)|null|
 |**2024-05-30**|**Speed Profile Definition for GLOSA Implementation on Buses Based on Statistical Analysis of Experimental Data**|Daniele Vignarca et.al.|[2405.20261](http://arxiv.org/abs/2405.20261)|null|
