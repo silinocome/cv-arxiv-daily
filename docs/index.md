@@ -444,6 +444,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-08**|**Joint Cooperative Clustering and Power Control for Energy-Efficient Cell-Free XL-MIMO with Multi-Agent Reinforcement Learning**|Ziheng Liu et.al.|[2406.05481](http://arxiv.org/abs/2406.05481)|null|
+|**2024-06-07**|**A Three-groups Non-local Model for Combining Heterogeneous Data Sources to Identify Genes Associated with Parkinson's Disease**|Troy P. Wixson et.al.|[2406.05262](http://arxiv.org/abs/2406.05262)|null|
 |**2024-06-06**|**Quantum Communication: From Fundamentals to Recent Trends, Challenges and Open Problems**|Hrishikesh Dutta et.al.|[2406.04492](http://arxiv.org/abs/2406.04492)|null|
 |**2024-06-04**|**Whistle: Data-Efficient Multilingual and Crosslingual Speech Recognition via Weakly Phonetic Supervision**|Saierdaer Yusuyin et.al.|[2406.02166](http://arxiv.org/abs/2406.02166)|**[link](https://github.com/thu-spmi/cat)**|
 |**2024-06-03**|**A Game-Theoretic Approach to Privacy-Utility Tradeoff in Sharing Genomic Summary Statistics**|Tao Zhang et.al.|[2406.01811](http://arxiv.org/abs/2406.01811)|null|
@@ -689,6 +691,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Stabilized Adaptive Steering for 3D Sonar Microphone Arrays with IMU Sensor Fusion**|Wouter Jansen et.al.|[2406.06255](http://arxiv.org/abs/2406.06255)|null|
+|**2024-06-07**|**Harnessing Multimodal Sensing for Multi-user Beamforming in mmWave Systems**|Kartik Patel et.al.|[2406.05300](http://arxiv.org/abs/2406.05300)|null|
 |**2024-06-06**|**Stereo-Depth Fusion through Virtual Pattern Projection**|Luca Bartolomei et.al.|[2406.04345](http://arxiv.org/abs/2406.04345)|**[link](https://github.com/bartn8/vppstereo)**|
 |**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129](http://arxiv.org/abs/2406.03129)|null|
 |**2024-05-31**|**Data Fusion for Heterogeneous Treatment Effect Estimation with Multi-Task Gaussian Processes**|Evangelos Dimitriou et.al.|[2405.20957](http://arxiv.org/abs/2405.20957)|**[link](https://github.com/evandimitriou/causalicm)**|
@@ -1086,6 +1090,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Multicam-SLAM: Non-overlapping Multi-camera SLAM for Indirect Visual Localization and Navigation**|Shenghao Li et.al.|[2406.06374](http://arxiv.org/abs/2406.06374)|**[link](https://github.com/alterpang/multi_orb_slam)**|
+|**2024-06-09**|**Unified Text-to-Image Generation and Retrieval**|Leigang Qu et.al.|[2406.05814](http://arxiv.org/abs/2406.05814)|null|
+|**2024-06-07**|**The Unmet Promise of Synthetic Training Images: Using Retrieved Real Images Performs Better**|Scott Geng et.al.|[2406.05184](http://arxiv.org/abs/2406.05184)|**[link](https://github.com/scottgeng00/unmet-promise)**|
 |**2024-06-07**|**PQPP: A Joint Benchmark for Text-to-Image Prompt and Query Performance Prediction**|Eduard Poesina et.al.|[2406.04746](http://arxiv.org/abs/2406.04746)|**[link](https://github.com/eduard6421/pqpp)**|
 |**2024-06-06**|**GLACE: Global Local Accelerated Coordinate Encoding**|Fangjinhua Wang et.al.|[2406.04340](http://arxiv.org/abs/2406.04340)|**[link](https://github.com/cvg/glace)**|
 |**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[2406.03835](http://arxiv.org/abs/2406.03835)|null|
@@ -1647,7 +1654,7 @@ layout: default
 |**2024-05-13**|**Authentic Hand Avatar from a Phone Scan via Universal Hand Model**|Gyeongsik Moon et.al.|[2405.07933](http://arxiv.org/abs/2405.07933)|null|
 |**2024-04-30**|**A Light-weight Transformer-based Self-supervised Matching Network for Heterogeneous Images**|Wang Zhang et.al.|[2404.19311](http://arxiv.org/abs/2404.19311)|null|
 |**2024-04-30**|**XFeat: Accelerated Features for Lightweight Image Matching**|Guilherme Potje et.al.|[2404.19174](http://arxiv.org/abs/2404.19174)|null|
-|**2024-04-27**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|**[link](https://github.com/disungatullina/minbackprop)**|
+|**2024-06-10**|**MinBackProp -- Backpropagating through Minimal Solvers**|Diana Sungatullina et.al.|[2404.17993](http://arxiv.org/abs/2404.17993)|**[link](https://github.com/disungatullina/minbackprop)**|
 |**2024-04-25**|**Transformer-Based Local Feature Matching for Multimodal Image Registration**|Remi Delaunay et.al.|[2404.16802](http://arxiv.org/abs/2404.16802)|null|
 |**2024-04-23**|**FINEMATCH: Aspect-based Fine-grained Image and Text Mismatch Detection and Correction**|Hang Hua et.al.|[2404.14715](http://arxiv.org/abs/2404.14715)|null|
 |**2024-04-22**|**Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer**|Eric Brachmann et.al.|[2404.14351](http://arxiv.org/abs/2404.14351)|null|
@@ -1838,6 +1845,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning**|Xiaoting Lyu et.al.|[2406.06207](http://arxiv.org/abs/2406.06207)|null|
+|**2024-06-10**|**Multi-Generational Black Hole Population Analysis with an Astrophysically Informed Mass Function**|Yannick Ulrich et.al.|[2406.06109](http://arxiv.org/abs/2406.06109)|null|
+|**2024-06-07**|**Measuring Fairness in Large-Scale Recommendation Systems with Missing Labels**|Yulong Dong et.al.|[2406.05247](http://arxiv.org/abs/2406.05247)|null|
 |**2024-06-06**|**Time delay of fast radio burst population with respect to the star formation history**|Hai-Nan Lin et.al.|[2406.03809](http://arxiv.org/abs/2406.03809)|null|
 |**2024-06-05**|**Identification of PK-PD Insulin Models using Experimental GIR Data**|Kirstine Sylvest Freil et.al.|[2406.03178](http://arxiv.org/abs/2406.03178)|null|
 |**2024-06-04**|**First VLBI detection of Fornax A**|G. F. Paraschos et.al.|[2406.02660](http://arxiv.org/abs/2406.02660)|null|
