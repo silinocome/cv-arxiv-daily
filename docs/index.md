@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Multiagent Multitraversal Multimodal Self-Driving: Open MARS Dataset**|Yiming Li et.al.|[2406.09383](http://arxiv.org/abs/2406.09383)|null|
 |**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[2406.03611](http://arxiv.org/abs/2406.03611)|**[link](https://github.com/cyprienquemeneur/fedpylot)**|
 |**2024-06-05**|**MagiNet: Mask-Aware Graph Imputation Network for Incomplete Traffic Data**|Jianping Zhou et.al.|[2406.03511](http://arxiv.org/abs/2406.03511)|null|
 |**2024-06-04**|**Improved context-sensitive transformer model for inland vessel trajectory prediction**|Kathrin Donandt et.al.|[2406.02771](http://arxiv.org/abs/2406.02771)|null|
@@ -444,6 +445,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Applying Multi-Agent Negotiation to Solve the Production Routing Problem With Privacy Preserving**|Luiza Pellin Biasoto et.al.|[2406.09214](http://arxiv.org/abs/2406.09214)|null|
 |**2024-06-11**|**"It answers questions that I didn't know I had": Ph.D. Students' Evaluation of an Information Sharing Knowledge Graph**|Stanislava Gardasevic et.al.|[2406.07730](http://arxiv.org/abs/2406.07730)|null|
 |**2024-06-08**|**Joint Cooperative Clustering and Power Control for Energy-Efficient Cell-Free XL-MIMO with Multi-Agent Reinforcement Learning**|Ziheng Liu et.al.|[2406.05481](http://arxiv.org/abs/2406.05481)|null|
 |**2024-06-07**|**A Three-groups Non-local Model for Combining Heterogeneous Data Sources to Identify Genes Associated with Parkinson's Disease**|Troy P. Wixson et.al.|[2406.05262](http://arxiv.org/abs/2406.05262)|null|
@@ -692,6 +694,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
 |**2024-06-10**|**Stabilized Adaptive Steering for 3D Sonar Microphone Arrays with IMU Sensor Fusion**|Wouter Jansen et.al.|[2406.06255](http://arxiv.org/abs/2406.06255)|null|
 |**2024-06-07**|**Harnessing Multimodal Sensing for Multi-user Beamforming in mmWave Systems**|Kartik Patel et.al.|[2406.05300](http://arxiv.org/abs/2406.05300)|null|
 |**2024-06-06**|**Stereo-Depth Fusion through Virtual Pattern Projection**|Luca Bartolomei et.al.|[2406.04345](http://arxiv.org/abs/2406.04345)|**[link](https://github.com/bartn8/vppstereo)**|
@@ -1091,6 +1094,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317](http://arxiv.org/abs/2406.09317)|null|
+|**2024-06-13**|**Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval**|Jaeseok Byun et.al.|[2406.09188](http://arxiv.org/abs/2406.09188)|null|
+|**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773](http://arxiv.org/abs/2406.08773)|null|
 |**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463](http://arxiv.org/abs/2406.08463)|null|
 |**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457](http://arxiv.org/abs/2406.08457)|**[link](https://github.com/kamwoh/concepthash)**|
 |**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
@@ -1851,6 +1857,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**Computer vision-based model for detecting turning lane features on Florida's public roadways**|Richard Boadu Antwi et.al.|[2406.08822](http://arxiv.org/abs/2406.08822)|null|
+|**2024-06-13**|**Improved methods for empirical Bayes multivariate multiple testing and effect size estimation**|Yunqi Yang et.al.|[2406.08784](http://arxiv.org/abs/2406.08784)|null|
+|**2024-06-12**|**A Plug-and-Play Untrained Neural Network for Full Waveform Inversion in Reconstructing Sound Speed Images of Ultrasound Computed Tomography**|Weicheng Yan et.al.|[2406.08523](http://arxiv.org/abs/2406.08523)|null|
 |**2024-06-12**|**PRIBOOT: A New Data-Driven Expert for Improved Driving Simulations**|Daniel Coelho et.al.|[2406.08421](http://arxiv.org/abs/2406.08421)|null|
 |**2024-06-12**|**inlamemi: An R package for missing data imputation and measurement error modelling using INLA**|Emma Skarstein et.al.|[2406.08172](http://arxiv.org/abs/2406.08172)|null|
 |**2024-06-12**|**On Annotation-free Optimization of Video Coding for Machines**|Marc Windsheimer et.al.|[2406.07938](http://arxiv.org/abs/2406.07938)|null|
