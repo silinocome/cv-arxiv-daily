@@ -147,7 +147,7 @@
 |**2024-01-16**|**TUMTraf Event: Calibration and Fusion Resulting in a Dataset for Roadside Event-Based and RGB Cameras**|Christian Creß et.al.|[2401.08474](http://arxiv.org/abs/2401.08474)|null|
 |**2024-01-14**|**Vehicle Selection for C-V2X Mode 4 Based Federated Edge Learning Systems**|Qiong Wu et.al.|[2401.07224](http://arxiv.org/abs/2401.07224)|**[link](https://github.com/qiongwu86/vehicle-selection-for-c-v2x)**|
 |**2024-01-12**|**A Survey on the Applications of Frontier AI, Foundation Models, and Large Language Models to Intelligent Transportation Systems**|Mohamed R. Shoaib et.al.|[2401.06831](http://arxiv.org/abs/2401.06831)|null|
-|**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[2401.06757](http://arxiv.org/abs/2401.06757)|null|
+|**2024-01-12**|**Synthetic Data Generation Framework, Dataset, and Efficient Deep Model for Pedestrian Intention Prediction**|Muhammad Naveed Riaz et.al.|[2401.06757](http://arxiv.org/abs/2401.06757)|**[link](https://github.com/NomiMalik0207/PedSynth-and-PedGNN-for-Pedestrian-Intention-Prediction)**|
 |**2024-01-12**|**A Prototype on the Feasibility of Learning Spatial Provenance in XBee and LoRa Networks**|Manish Bansal et.al.|[2401.06638](http://arxiv.org/abs/2401.06638)|null|
 |**2024-01-11**|**Wavelet-Inspired Multiscale Graph Convolutional Recurrent Network for Traffic Forecasting**|Qipeng Qian et.al.|[2401.06040](http://arxiv.org/abs/2401.06040)|**[link](https://github.com/qqian99/wavgcrn)**|
 |**2024-01-10**|**Current Effect-eliminated Optimal Target Assignment and Motion Planning for a Multi-UUV System**|Danjie Zhu et.al.|[2401.05521](http://arxiv.org/abs/2401.05521)|null|
@@ -475,7 +475,7 @@
 |**2024-05-20**|**Learning to connect in action: Measuring and understanding the emergence of boundary spanners in volatile times**|Vittorio Nespeca et.al.|[2405.11998](http://arxiv.org/abs/2405.11998)|null|
 |**2024-05-21**|**AMMeBa: A Large-Scale Survey and Dataset of Media-Based Misinformation In-The-Wild**|Nicholas Dufour et.al.|[2405.11697](http://arxiv.org/abs/2405.11697)|null|
 |**2024-05-18**|**Multi-scale Information Sharing and Selection Network with Boundary Attention for Polyp Segmentation**|Xiaolu Kang et.al.|[2405.11151](http://arxiv.org/abs/2405.11151)|null|
-|**2024-05-20**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|null|
+|**2024-05-20**|**Language Models can Exploit Cross-Task In-context Learning for Data-Scarce Novel Tasks**|Anwoy Chatterjee et.al.|[2405.10548](http://arxiv.org/abs/2405.10548)|**[link](https://github.com/c-anwoy/cross-task-icl)**|
 |**2024-05-14**|**Learning Multi-Agent Communication from Graph Modeling Perspective**|Shengchao Hu et.al.|[2405.08550](http://arxiv.org/abs/2405.08550)|**[link](https://github.com/charleshsc/CommFormer)**|
 |**2024-05-09**|**Common information in well-mixing graphs and applications to information-theoretic cryptography**|Geoffroy Caillat-Grenier et.al.|[2405.05831](http://arxiv.org/abs/2405.05831)|null|
 |**2024-05-09**|**Multi-Level Feature Fusion Network for Lightweight Stereo Image Super-Resolution**|Yunxiang Li et.al.|[2405.05497](http://arxiv.org/abs/2405.05497)|null|
@@ -1892,7 +1892,7 @@
 |**2024-06-11**|**Comparative Analysis of $k$ -essence and Quintessence Scalar Field Models: A Data Analysis Approach**|Saddam Hussain et.al.|[2406.07179](http://arxiv.org/abs/2406.07179)|null|
 |**2024-06-10**|**Compass: A Comprehensive Tool for Accurate and Efficient Molecular Docking in Inference and Fine-Tuning**|Ahmet Sarigun et.al.|[2406.06841](http://arxiv.org/abs/2406.06841)|**[link](https://github.com/bimsbbioinfo/compass)**|
 |**2024-06-10**|**Lurking in the shadows: Unveiling Stealthy Backdoor Attacks against Personalized Federated Learning**|Xiaoting Lyu et.al.|[2406.06207](http://arxiv.org/abs/2406.06207)|null|
-|**2024-06-10**|**Multi-Generational Black Hole Population Analysis with an Astrophysically Informed Mass Function**|Yannick Ulrich et.al.|[2406.06109](http://arxiv.org/abs/2406.06109)|null|
+|**2024-06-10**|**Multi-Generational Black Hole Population Analysis with an Astrophysically Informed Mass Function**|Yannick Ulrich et.al.|[2406.06109](http://arxiv.org/abs/2406.06109)|**[link](https://github.com/multipass-black-holes/multipass)**|
 |**2024-06-07**|**Measuring Fairness in Large-Scale Recommendation Systems with Missing Labels**|Yulong Dong et.al.|[2406.05247](http://arxiv.org/abs/2406.05247)|null|
 |**2024-06-06**|**Time delay of fast radio burst population with respect to the star formation history**|Hai-Nan Lin et.al.|[2406.03809](http://arxiv.org/abs/2406.03809)|null|
 |**2024-06-05**|**Identification of PK-PD Insulin Models using Experimental GIR Data**|Kirstine Sylvest Freil et.al.|[2406.03178](http://arxiv.org/abs/2406.03178)|null|
@@ -1902,7 +1902,7 @@
 |**2024-06-02**|**Using 3-D LiDAR Data for Safe Physical Human-Robot Interaction**|Sarthak Arora et.al.|[2406.00869](http://arxiv.org/abs/2406.00869)|null|
 |**2024-06-02**|**Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor**|Lei Liu et.al.|[2406.00791](http://arxiv.org/abs/2406.00791)|null|
 |**2024-06-02**|**A Partition-insensitive Parallel Framework for Distributed Model Fitting**|Xiaofei Wu et.al.|[2406.00703](http://arxiv.org/abs/2406.00703)|null|
-|**2024-06-01**|**Kernel-based Minimal Distributed Charges: A Conformationally Dependent ESP-Model for Molecular Simulations**|Eric Boittier et.al.|[2406.00513](http://arxiv.org/abs/2406.00513)|null|
+|**2024-06-01**|**Kernel-based Minimal Distributed Charges: A Conformationally Dependent ESP-Model for Molecular Simulations**|Eric Boittier et.al.|[2406.00513](http://arxiv.org/abs/2406.00513)|**[link](https://github.com/MMunibas/kMDCM)**|
 |**2024-06-01**|**Diffusion-based Image Generation for In-distribution Data Augmentation in Surface Defect Detection**|Luigi Capogrosso et.al.|[2406.00501](http://arxiv.org/abs/2406.00501)|**[link](https://github.com/intelligolabs/in_and_out)**|
 |**2024-05-31**|**Generalized Semi-Supervised Learning via Self-Supervised Feature Adaptation**|Jiachen Liang et.al.|[2405.20596](http://arxiv.org/abs/2405.20596)|null|
 |**2024-05-30**|**Role of Spatial Curvature in a Dark Energy Interacting Model**|Trupti Patil et.al.|[2405.20170](http://arxiv.org/abs/2405.20170)|null|
