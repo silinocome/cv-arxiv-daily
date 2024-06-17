@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -694,7 +694,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-13**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
+|**2024-06-14**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
 |**2024-06-10**|**Stabilized Adaptive Steering for 3D Sonar Microphone Arrays with IMU Sensor Fusion**|Wouter Jansen et.al.|[2406.06255](http://arxiv.org/abs/2406.06255)|null|
 |**2024-06-07**|**Harnessing Multimodal Sensing for Multi-user Beamforming in mmWave Systems**|Kartik Patel et.al.|[2406.05300](http://arxiv.org/abs/2406.05300)|null|
 |**2024-06-06**|**Stereo-Depth Fusion through Virtual Pattern Projection**|Luca Bartolomei et.al.|[2406.04345](http://arxiv.org/abs/2406.04345)|**[link](https://github.com/bartn8/vppstereo)**|
@@ -703,7 +703,7 @@ layout: default
 |**2024-05-29**|**On the Condition Monitoring of Bolted Joints through Acoustic Emission and Deep Transfer Learning: Generalization, Ordinal Loss and Super-Convergence**|Emmanuel Ramasso et.al.|[2405.20887](http://arxiv.org/abs/2405.20887)|null|
 |**2024-05-29**|**Causal Data Fusion with Quantum Confounders**|Pedro Lauand et.al.|[2405.19278](http://arxiv.org/abs/2405.19278)|null|
 |**2024-05-29**|**Quantum Non-classicality from Causal Data Fusion**|Pedro Lauand et.al.|[2405.19252](http://arxiv.org/abs/2405.19252)|null|
-|**2024-06-07**|**Vulnerable Road User Detection and Safety Enhancement: A Comprehensive Survey**|Renato M. Silva et.al.|[2405.19202](http://arxiv.org/abs/2405.19202)|null|
+|**2024-06-14**|**Vulnerable Road User Detection and Safety Enhancement: A Comprehensive Survey**|Renato M. Silva et.al.|[2405.19202](http://arxiv.org/abs/2405.19202)|null|
 |**2024-05-29**|**Adaptive and Efficient Learning with Blockwise Missing and Semi-Supervised Data**|Yiming Li et.al.|[2405.18722](http://arxiv.org/abs/2405.18722)|null|
 |**2024-05-27**|**Fusing uncalibrated IMUs and handheld smartphone video to reconstruct knee kinematics**|J. D. Peiffer et.al.|[2405.17368](http://arxiv.org/abs/2405.17368)|null|
 |**2024-05-27**|**All-day Depth Completion**|Vadim Ezhov et.al.|[2405.17315](http://arxiv.org/abs/2405.17315)|null|
@@ -1859,7 +1859,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-13**|**Computer vision-based model for detecting turning lane features on Florida's public roadways**|Richard Boadu Antwi et.al.|[2406.08822](http://arxiv.org/abs/2406.08822)|null|
 |**2024-06-13**|**Improved methods for empirical Bayes multivariate multiple testing and effect size estimation**|Yunqi Yang et.al.|[2406.08784](http://arxiv.org/abs/2406.08784)|null|
-|**2024-06-12**|**A Plug-and-Play Untrained Neural Network for Full Waveform Inversion in Reconstructing Sound Speed Images of Ultrasound Computed Tomography**|Weicheng Yan et.al.|[2406.08523](http://arxiv.org/abs/2406.08523)|null|
+|**2024-06-14**|**A Plug-and-Play Untrained Neural Network for Full Waveform Inversion in Reconstructing Sound Speed Images of Ultrasound Computed Tomography**|Weicheng Yan et.al.|[2406.08523](http://arxiv.org/abs/2406.08523)|null|
 |**2024-06-12**|**PRIBOOT: A New Data-Driven Expert for Improved Driving Simulations**|Daniel Coelho et.al.|[2406.08421](http://arxiv.org/abs/2406.08421)|null|
 |**2024-06-12**|**inlamemi: An R package for missing data imputation and measurement error modelling using INLA**|Emma Skarstein et.al.|[2406.08172](http://arxiv.org/abs/2406.08172)|null|
 |**2024-06-12**|**On Annotation-free Optimization of Video Coding for Machines**|Marc Windsheimer et.al.|[2406.07938](http://arxiv.org/abs/2406.07938)|null|
