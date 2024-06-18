@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -451,7 +451,7 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## Collaborative Perception
 
@@ -702,12 +702,13 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## sensor fusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Globally Optimal GNSS Multi-Antenna Lever Arm Calibration**|Thomas Wodtko et.al.|[2406.09866](http://arxiv.org/abs/2406.09866)|null|
 |**2024-06-14**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
 |**2024-06-10**|**Stabilized Adaptive Steering for 3D Sonar Microphone Arrays with IMU Sensor Fusion**|Wouter Jansen et.al.|[2406.06255](http://arxiv.org/abs/2406.06255)|null|
 |**2024-06-07**|**Harnessing Multimodal Sensing for Multi-user Beamforming in mmWave Systems**|Kartik Patel et.al.|[2406.05300](http://arxiv.org/abs/2406.05300)|null|
@@ -1104,12 +1105,14 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107](http://arxiv.org/abs/2406.10107)|null|
+|**2024-06-14**|**BiVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval**|Imanol Miranda et.al.|[2406.09952](http://arxiv.org/abs/2406.09952)|**[link](https://github.com/imirandam/bivlc)**|
 |**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317](http://arxiv.org/abs/2406.09317)|null|
 |**2024-06-13**|**Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval**|Jaeseok Byun et.al.|[2406.09188](http://arxiv.org/abs/2406.09188)|null|
 |**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773](http://arxiv.org/abs/2406.08773)|null|
@@ -1533,7 +1536,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## Detection
 
@@ -1672,12 +1675,13 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## Matching
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|**[link](https://github.com/google-research/omniglue)**|
@@ -1873,12 +1877,14 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## ground segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/abs/2406.09624)|null|
+|**2024-06-13**|**A quantitative explanation of the cyclotron-line variation in accreting magnetic neutron stars of super-critical luminosity**|Nick Loudas et.al.|[2406.09511](http://arxiv.org/abs/2406.09511)|null|
 |**2024-06-13**|**Computer vision-based model for detecting turning lane features on Florida's public roadways**|Richard Boadu Antwi et.al.|[2406.08822](http://arxiv.org/abs/2406.08822)|null|
 |**2024-06-13**|**Improved methods for empirical Bayes multivariate multiple testing and effect size estimation**|Yunqi Yang et.al.|[2406.08784](http://arxiv.org/abs/2406.08784)|null|
 |**2024-06-14**|**A Plug-and-Play Untrained Neural Network for Full Waveform Inversion in Reconstructing Sound Speed Images of Ultrasound Computed Tomography**|Weicheng Yan et.al.|[2406.08523](http://arxiv.org/abs/2406.08523)|null|
@@ -2198,12 +2204,13 @@
 |**2023-11-22**|**Exploring Physically-Motivated Models to Fit Gamma-Ray Burst Spectra**|Suraj Poolakkil et.al.|[2311.13566](http://arxiv.org/abs/2311.13566)|null|
 |**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 ## point cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/abs/2406.09624)|null|
 |**2024-06-05**|**Real-time Motion Planning for autonomous vehicles in dynamic environments**|Mohammad Dehghani Tezerjani et.al.|[2406.02916](http://arxiv.org/abs/2406.02916)|null|
 |**2024-06-04**|**Towards Railways Remote Driving: Analysis of Video Streaming Latency and Adaptive Rate Control**|Daniel Mejias et.al.|[2406.02062](http://arxiv.org/abs/2406.02062)|null|
 |**2024-06-02**|**Using 3-D LiDAR Data for Safe Physical Human-Robot Interaction**|Sarthak Arora et.al.|[2406.00869](http://arxiv.org/abs/2406.00869)|null|
@@ -2314,7 +2321,7 @@
 |**2023-11-05**|**Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook**|Huang Zhang et.al.|[2311.02608](http://arxiv.org/abs/2311.02608)|null|
 |**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552](http://arxiv.org/abs/2311.02552)|**[link](https://github.com/robotic-vision-lab/implicit-point-voxel-features-network)**|
 
-<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

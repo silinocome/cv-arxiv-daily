@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -694,6 +694,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Globally Optimal GNSS Multi-Antenna Lever Arm Calibration**|Thomas Wodtko et.al.|[2406.09866](http://arxiv.org/abs/2406.09866)|null|
 |**2024-06-14**|**Deep learning empowered sensor fusion to improve infant movement classification**|Tomas Kulvicius et.al.|[2406.09014](http://arxiv.org/abs/2406.09014)|null|
 |**2024-06-10**|**Stabilized Adaptive Steering for 3D Sonar Microphone Arrays with IMU Sensor Fusion**|Wouter Jansen et.al.|[2406.06255](http://arxiv.org/abs/2406.06255)|null|
 |**2024-06-07**|**Harnessing Multimodal Sensing for Multi-user Beamforming in mmWave Systems**|Kartik Patel et.al.|[2406.05300](http://arxiv.org/abs/2406.05300)|null|
@@ -1094,6 +1095,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107](http://arxiv.org/abs/2406.10107)|null|
+|**2024-06-14**|**BiVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval**|Imanol Miranda et.al.|[2406.09952](http://arxiv.org/abs/2406.09952)|**[link](https://github.com/imirandam/bivlc)**|
 |**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317](http://arxiv.org/abs/2406.09317)|null|
 |**2024-06-13**|**Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval**|Jaeseok Byun et.al.|[2406.09188](http://arxiv.org/abs/2406.09188)|null|
 |**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773](http://arxiv.org/abs/2406.08773)|null|
@@ -1658,6 +1661,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Grounding Image Matching in 3D with MASt3R**|Vincent Leroy et.al.|[2406.09756](http://arxiv.org/abs/2406.09756)|null|
 |**2024-06-05**|**A Self-Supervised Denoising Strategy for Underwater Acoustic Camera Imageries**|Xiaoteng Zhou et.al.|[2406.02914](http://arxiv.org/abs/2406.02914)|null|
 |**2024-05-22**|**Affine-based Deformable Attention and Selective Fusion for Semi-dense Matching**|Hongkai Chen et.al.|[2405.13874](http://arxiv.org/abs/2405.13874)|null|
 |**2024-05-21**|**OmniGlue: Generalizable Feature Matching with Foundation Model Guidance**|Hanwen Jiang et.al.|[2405.12979](http://arxiv.org/abs/2405.12979)|**[link](https://github.com/google-research/omniglue)**|
@@ -1857,6 +1861,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/abs/2406.09624)|null|
+|**2024-06-13**|**A quantitative explanation of the cyclotron-line variation in accreting magnetic neutron stars of super-critical luminosity**|Nick Loudas et.al.|[2406.09511](http://arxiv.org/abs/2406.09511)|null|
 |**2024-06-13**|**Computer vision-based model for detecting turning lane features on Florida's public roadways**|Richard Boadu Antwi et.al.|[2406.08822](http://arxiv.org/abs/2406.08822)|null|
 |**2024-06-13**|**Improved methods for empirical Bayes multivariate multiple testing and effect size estimation**|Yunqi Yang et.al.|[2406.08784](http://arxiv.org/abs/2406.08784)|null|
 |**2024-06-14**|**A Plug-and-Play Untrained Neural Network for Full Waveform Inversion in Reconstructing Sound Speed Images of Ultrasound Computed Tomography**|Weicheng Yan et.al.|[2406.08523](http://arxiv.org/abs/2406.08523)|null|
@@ -2180,6 +2186,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/abs/2406.09624)|null|
 |**2024-06-05**|**Real-time Motion Planning for autonomous vehicles in dynamic environments**|Mohammad Dehghani Tezerjani et.al.|[2406.02916](http://arxiv.org/abs/2406.02916)|null|
 |**2024-06-04**|**Towards Railways Remote Driving: Analysis of Video Streaming Latency and Adaptive Rate Control**|Daniel Mejias et.al.|[2406.02062](http://arxiv.org/abs/2406.02062)|null|
 |**2024-06-02**|**Using 3-D LiDAR Data for Safe Physical Human-Robot Interaction**|Sarthak Arora et.al.|[2406.00869](http://arxiv.org/abs/2406.00869)|null|
