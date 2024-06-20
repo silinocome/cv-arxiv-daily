@@ -1900,7 +1900,7 @@
 |**2024-06-18**|**Generalized Moving Least-Squares for Solving Vector-valued PDEs on Unknown Manifolds**|Rongji Li et.al.|[2406.12210](http://arxiv.org/abs/2406.12210)|null|
 |**2024-06-17**|**Bayesian Hierarchical Modelling of Noisy Gamma Processes: Model Formulation, Identifiability, Model Fitting, and Extensions to Unit-to-Unit Variability**|Ryan Leadbetter et.al.|[2406.11216](http://arxiv.org/abs/2406.11216)|**[link](https://github.com/rleadbett/Bayesian_hierarchical_modelling_of_noisy_gamma_processes)**|
 |**2024-06-16**|**Learning Relighting and Intrinsic Decomposition in Neural Radiance Fields**|Yixiong Yang et.al.|[2406.11077](http://arxiv.org/abs/2406.11077)|null|
-|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/abs/2406.09624)|null|
+|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/abs/2406.09624)|**[link](https://github.com/mohamedelrefaie/drivaernet)**|
 |**2024-06-13**|**A quantitative explanation of the cyclotron-line variation in accreting magnetic neutron stars of super-critical luminosity**|Nick Loudas et.al.|[2406.09511](http://arxiv.org/abs/2406.09511)|null|
 |**2024-06-13**|**Computer vision-based model for detecting turning lane features on Florida's public roadways**|Richard Boadu Antwi et.al.|[2406.08822](http://arxiv.org/abs/2406.08822)|null|
 |**2024-06-13**|**Improved methods for empirical Bayes multivariate multiple testing and effect size estimation**|Yunqi Yang et.al.|[2406.08784](http://arxiv.org/abs/2406.08784)|null|
@@ -2229,7 +2229,7 @@
 |---|---|---|---|---|
 |**2024-06-18**|**Scan-to-BIM for As-built Roads: Automatic Road Digital Twinning from Semantically Labeled Point Cloud Data**|Yuexiong Ding et.al.|[2406.12404](http://arxiv.org/abs/2406.12404)|null|
 |**2024-06-18**|**Generalized Moving Least-Squares for Solving Vector-valued PDEs on Unknown Manifolds**|Rongji Li et.al.|[2406.12210](http://arxiv.org/abs/2406.12210)|null|
-|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/abs/2406.09624)|null|
+|**2024-06-13**|**DrivAerNet++: A Large-Scale Multimodal Car Dataset with Computational Fluid Dynamics Simulations and Deep Learning Benchmarks**|Mohamed Elrefaie et.al.|[2406.09624](http://arxiv.org/abs/2406.09624)|**[link](https://github.com/mohamedelrefaie/drivaernet)**|
 |**2024-06-05**|**Real-time Motion Planning for autonomous vehicles in dynamic environments**|Mohammad Dehghani Tezerjani et.al.|[2406.02916](http://arxiv.org/abs/2406.02916)|null|
 |**2024-06-04**|**Towards Railways Remote Driving: Analysis of Video Streaming Latency and Adaptive Rate Control**|Daniel Mejias et.al.|[2406.02062](http://arxiv.org/abs/2406.02062)|null|
 |**2024-06-02**|**Using 3-D LiDAR Data for Safe Physical Human-Robot Interaction**|Sarthak Arora et.al.|[2406.00869](http://arxiv.org/abs/2406.00869)|null|
