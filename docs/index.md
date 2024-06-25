@@ -14,8 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**VigilEye -- Artificial Intelligence-based Real-time Driver Drowsiness Detection**|Sandeep Singh Sengar et.al.|[2406.15646](http://arxiv.org/abs/2406.15646)|**[link](https://github.com/luffy7001/driver-s-drowsiness-detection)**|
 |**2024-06-20**|**The Use of Multimodal Large Language Models to Detect Objects from Thermal Images: Transportation Applications**|Huthaifa I. Ashqar et.al.|[2406.13898](http://arxiv.org/abs/2406.13898)|null|
-|**2024-06-22**|**Enhancing Travel Choice Modeling with Large Language Models: A Prompt-Learning Approach**|Xuehao Zhai et.al.|[2406.13558](http://arxiv.org/abs/2406.13558)|**[link](https://github.com/zachtian/LLM_Choice_Modeling)**|
+|**2024-06-22**|**Enhancing Travel Choice Modeling with Large Language Models: A Prompt-Learning Approach**|Xuehao Zhai et.al.|[2406.13558](http://arxiv.org/abs/2406.13558)|null|
 |**2024-06-18**|**Traffic Prediction considering Multiple Levels of Spatial-temporal Information: A Multi-scale Graph Wavelet-based Approach**|Zilin Bian et.al.|[2406.13038](http://arxiv.org/abs/2406.13038)|null|
 |**2024-06-14**|**Interpretable Cascading Mixture-of-Experts for Urban Traffic Congestion Prediction**|Wenzhao Jiang et.al.|[2406.12923](http://arxiv.org/abs/2406.12923)|null|
 |**2024-06-15**|**Object Detection using Oriented Window Learning Vi-sion Transformer: Roadway Assets Recognition**|Taqwa Alhadidi et.al.|[2406.10712](http://arxiv.org/abs/2406.10712)|null|
@@ -453,7 +454,7 @@ layout: default
 |**2024-06-20**|**SeCTIS: A Framework to Secure CTI Sharing**|Dincy R. Arikkat et.al.|[2406.14102](http://arxiv.org/abs/2406.14102)|null|
 |**2024-06-17**|**Secure Cross-Chain Provenance for Digital Forensics Collaboration**|Asma Jodeiri Akbarfam et.al.|[2406.11729](http://arxiv.org/abs/2406.11729)|null|
 |**2024-06-17**|**Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**|Min Hua et.al.|[2406.11653](http://arxiv.org/abs/2406.11653)|null|
-|**2024-06-22**|**Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment**|Jianan Jiang et.al.|[2406.11551](http://arxiv.org/abs/2406.11551)|null|
+|**2024-06-22**|**Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment**|Jianan Jiang et.al.|[2406.11551](http://arxiv.org/abs/2406.11551)|**[link](https://github.com/exponentiai/effnet)**|
 |**2024-06-17**|**Federated Face Forgery Detection Learning with Personalized Representation**|Decheng Liu et.al.|[2406.11145](http://arxiv.org/abs/2406.11145)|null|
 |**2024-06-13**|**Applying Multi-Agent Negotiation to Solve the Production Routing Problem With Privacy Preserving**|Luiza Pellin Biasoto et.al.|[2406.09214](http://arxiv.org/abs/2406.09214)|null|
 |**2024-06-18**|**"It answers questions that I didn't know I had": Ph.D. Students' Evaluation of an Information Sharing Knowledge Graph**|Stanislava Gardasevic et.al.|[2406.07730](http://arxiv.org/abs/2406.07730)|null|
@@ -1109,10 +1110,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|null|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|null|
 |**2024-06-17**|**Matching Query Image Against Selected NeRF Feature for Efficient and Scalable Localization**|Huaiji Zhou et.al.|[2406.11766](http://arxiv.org/abs/2406.11766)|null|
-|**2024-06-22**|**Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment**|Jianan Jiang et.al.|[2406.11551](http://arxiv.org/abs/2406.11551)|null|
+|**2024-06-22**|**Simple Yet Efficient: Towards Self-Supervised FG-SBIR with Unified Sample Feature Alignment**|Jianan Jiang et.al.|[2406.11551](http://arxiv.org/abs/2406.11551)|**[link](https://github.com/exponentiai/effnet)**|
 |**2024-06-17**|**They're All Doctors: Synthesizing Diverse Counterfactuals to Mitigate Associative Bias**|Salma Abdel Magid et.al.|[2406.11331](http://arxiv.org/abs/2406.11331)|null|
 |**2024-06-17**|**Accurate and Fast Pixel Retrieval with Spatial and Uncertainty Aware Hypergraph Diffusion**|Guoyuan An et.al.|[2406.11242](http://arxiv.org/abs/2406.11242)|null|
 |**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107](http://arxiv.org/abs/2406.10107)|null|
@@ -1883,6 +1885,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Compact Model Parameter Extraction via Derivative-Free Optimization**|Rafael Perez Martinez et.al.|[2406.16355](http://arxiv.org/abs/2406.16355)|null|
+|**2024-06-24**|**Anomaly Detection of Tabular Data Using LLMs**|Aodong Li et.al.|[2406.16308](http://arxiv.org/abs/2406.16308)|null|
+|**2024-06-19**|**Hidden Variables unseen by Random Forests**|Ricardo Blum et.al.|[2406.15500](http://arxiv.org/abs/2406.15500)|null|
 |**2024-06-20**|**Multistructured accretion flow of Sgr A* II: Signatures of a Cool Accretion Disk in Hydrodynamic Simulations of Stellar Winds**|Mayura Balakrishnan et.al.|[2406.14631](http://arxiv.org/abs/2406.14631)|null|
 |**2024-06-19**|**LQCD constrained magnetic field dependent coupling constant in an effective model**|Shijun Mao et.al.|[2406.13531](http://arxiv.org/abs/2406.13531)|null|
 |**2024-06-19**|**Deep Learning-Based 3D Instance and Semantic Segmentation: A Review**|Siddiqui Muhammad Yasir et.al.|[2406.13308](http://arxiv.org/abs/2406.13308)|null|
@@ -2217,6 +2222,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-22**|**DISHA: Low-Energy Sparse Transformer at Edge for Outdoor Navigation for the Visually Impaired Individuals**|Praveen Nagil et.al.|[2406.15864](http://arxiv.org/abs/2406.15864)|null|
 |**2024-06-19**|**Deep Learning-Based 3D Instance and Semantic Segmentation: A Review**|Siddiqui Muhammad Yasir et.al.|[2406.13308](http://arxiv.org/abs/2406.13308)|null|
 |**2024-06-18**|**Scan-to-BIM for As-built Roads: Automatic Road Digital Twinning from Semantically Labeled Point Cloud Data**|Yuexiong Ding et.al.|[2406.12404](http://arxiv.org/abs/2406.12404)|null|
 |**2024-06-18**|**Generalized Moving Least-Squares for Solving Vector-valued PDEs on Unknown Manifolds**|Rongji Li et.al.|[2406.12210](http://arxiv.org/abs/2406.12210)|null|
