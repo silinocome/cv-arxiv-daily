@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset**|Joao Morais et.al.|[2406.17908](http://arxiv.org/abs/2406.17908)|null|
 |**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[2406.17265](http://arxiv.org/abs/2406.17265)|null|
 |**2024-06-21**|**VigilEye -- Artificial Intelligence-based Real-time Driver Drowsiness Detection**|Sandeep Singh Sengar et.al.|[2406.15646](http://arxiv.org/abs/2406.15646)|**[link](https://github.com/luffy7001/driver-s-drowsiness-detection)**|
 |**2024-06-20**|**The Use of Multimodal Large Language Models to Detect Objects from Thermal Images: Transportation Applications**|Huthaifa I. Ashqar et.al.|[2406.13898](http://arxiv.org/abs/2406.13898)|null|
@@ -464,6 +465,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Bidirectional-Reachable Hierarchical Reinforcement Learning with Mutually Responsive Policies**|Yu Luo et.al.|[2406.18053](http://arxiv.org/abs/2406.18053)|**[link](https://github.com/roythuly/brhpo)**|
+|**2024-06-25**|**AI Risk Categorization Decoded (AIR 2024): From Government Regulations to Corporate Policies**|Yi Zeng et.al.|[2406.17864](http://arxiv.org/abs/2406.17864)|null|
 |**2024-06-25**|**Negativity as a resource for memory reduction in stochastic process modeling**|Kelvin Onggadinata et.al.|[2406.17292](http://arxiv.org/abs/2406.17292)|null|
 |**2024-06-20**|**SeCTIS: A Framework to Secure CTI Sharing**|Dincy R. Arikkat et.al.|[2406.14102](http://arxiv.org/abs/2406.14102)|null|
 |**2024-06-17**|**Secure Cross-Chain Provenance for Digital Forensics Collaboration**|Asma Jodeiri Akbarfam et.al.|[2406.11729](http://arxiv.org/abs/2406.11729)|null|
@@ -721,6 +724,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**Fish Tracking, Counting, and Behaviour Analysis in Digital Aquaculture: A Comprehensive Review**|Meng Cui et.al.|[2406.17800](http://arxiv.org/abs/2406.17800)|null|
 |**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679](http://arxiv.org/abs/2406.17679)|null|
 |**2024-06-25**|**Extended alternating structure-adapted proximal gradient algorithm for nonconvex nonsmooth problems**|Ying Gao et.al.|[2406.17226](http://arxiv.org/abs/2406.17226)|null|
 |**2024-06-21**|**Real-Time Hand Gesture Recognition: Integrating Skeleton-Based Data Fusion and Multi-Stream CNN**|Oluwaleke Yusuf et.al.|[2406.15003](http://arxiv.org/abs/2406.15003)|**[link](https://github.com/outsiders17711/e2eet-skeleton-based-hgr-using-data-level-fusion)**|
@@ -1130,6 +1134,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012](http://arxiv.org/abs/2406.18012)|null|
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|null|
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|null|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|null|
@@ -1911,6 +1916,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Protocols for Obtaining Reliable PDFs from Laboratory x-ray Sources Using PDFgetX3**|Till Schertenleib et.al.|[2406.18177](http://arxiv.org/abs/2406.18177)|null|
+|**2024-06-26**|**Errors-In-Variables Model Fitting for Partially Unpaired Data Utilizing Mixture Models**|Wolfgang Hoegele et.al.|[2406.18154](http://arxiv.org/abs/2406.18154)|null|
+|**2024-06-26**|**B-TMS: Bayesian Traversable Terrain Modeling and Segmentation Across 3D LiDAR Scans and Maps for Enhanced Off-Road Navigation**|Minho Oh et.al.|[2406.18138](http://arxiv.org/abs/2406.18138)|null|
 |**2024-06-25**|**Interpreting the Spectro-Temporal Properties of the Black Hole Candidate Swift J151857.0-572147 during its First Outburst in 2024**|Kaushik Chatterjee et.al.|[2406.17629](http://arxiv.org/abs/2406.17629)|null|
 |**2024-06-25**|**Masked Generative Extractor for Synergistic Representation and 3D Generation of Point Clouds**|Hongliang Zeng et.al.|[2406.17342](http://arxiv.org/abs/2406.17342)|null|
 |**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[2406.17265](http://arxiv.org/abs/2406.17265)|null|
@@ -2254,6 +2262,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**B-TMS: Bayesian Traversable Terrain Modeling and Segmentation Across 3D LiDAR Scans and Maps for Enhanced Off-Road Navigation**|Minho Oh et.al.|[2406.18138](http://arxiv.org/abs/2406.18138)|null|
 |**2024-06-25**|**Masked Generative Extractor for Synergistic Representation and 3D Generation of Point Clouds**|Hongliang Zeng et.al.|[2406.17342](http://arxiv.org/abs/2406.17342)|null|
 |**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[2406.17265](http://arxiv.org/abs/2406.17265)|null|
 |**2024-06-22**|**DISHA: Low-Energy Sparse Transformer at Edge for Outdoor Navigation for the Visually Impaired Individuals**|Praveen Nagil et.al.|[2406.15864](http://arxiv.org/abs/2406.15864)|null|
