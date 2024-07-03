@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-01**|**Optimizing Age of Information in Vehicular Edge Computing with Federated Graph Neural Network Multi-Agent Reinforcement Learning**|Wenhua Wang et.al.|[2407.02342](http://arxiv.org/abs/2407.02342)|**[link](https://github.com/qiongwu86/optimizing-aoi-in-vec-with-federated-graph-neural-network-multi-agent-reinforcement-learning)**|
+|**2024-07-02**|**Categorized Grid and Unknown Space Causes for LiDAR-based Dynamic Occupancy Grids**|Víctor Jiménez-Bermejo et.al.|[2407.02192](http://arxiv.org/abs/2407.02192)|null|
+|**2024-07-02**|**Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving**|Jianan Zhang et.al.|[2407.01956](http://arxiv.org/abs/2407.01956)|null|
+|**2024-07-01**|**Complementary Fusion of Deep Network and Tree Model for ETA Prediction**|YuRui Huang et.al.|[2407.01262](http://arxiv.org/abs/2407.01262)|null|
 |**2024-06-25**|**DeepSense-V2V: A Vehicle-to-Vehicle Multi-Modal Sensing, Localization, and Communications Dataset**|Joao Morais et.al.|[2406.17908](http://arxiv.org/abs/2406.17908)|null|
 |**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[2406.17265](http://arxiv.org/abs/2406.17265)|null|
 |**2024-06-21**|**VigilEye -- Artificial Intelligence-based Real-time Driver Drowsiness Detection**|Sandeep Singh Sengar et.al.|[2406.15646](http://arxiv.org/abs/2406.15646)|**[link](https://github.com/luffy7001/driver-s-drowsiness-detection)**|
@@ -465,6 +469,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-01**|**Race and Privacy in Broadcast Police Communications**|Pranav Narayanan Venkit et.al.|[2407.01817](http://arxiv.org/abs/2407.01817)|null|
+|**2024-07-01**|**Coordinated Disclosure of Dual-Use Capabilities: An Early Warning System for Advanced AI**|Joe O'Brien et.al.|[2407.01420](http://arxiv.org/abs/2407.01420)|null|
 |**2024-06-27**|**VertiMRF: Differentially Private Vertical Federated Data Synthesis**|Fangyuan Zhao et.al.|[2406.19008](http://arxiv.org/abs/2406.19008)|null|
 |**2024-06-27**|**How Do Users Revise Architectural Related Questions on Stack Overflow: An Empirical Study**|Musengamana Jean de Dieu et.al.|[2406.18959](http://arxiv.org/abs/2406.18959)|null|
 |**2024-06-26**|**Bidirectional-Reachable Hierarchical Reinforcement Learning with Mutually Responsive Policies**|Yu Luo et.al.|[2406.18053](http://arxiv.org/abs/2406.18053)|**[link](https://github.com/roythuly/brhpo)**|
@@ -726,6 +732,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**CatMemo at the FinLLM Challenge Task: Fine-Tuning Large Language Models using Data Fusion in Financial Applications**|Yupeng Cao et.al.|[2407.01953](http://arxiv.org/abs/2407.01953)|null|
+|**2024-07-01**|**Data fusion for efficiency gain in ATE estimation: A practical review with simulations**|Xi Lin et.al.|[2407.01186](http://arxiv.org/abs/2407.01186)|null|
+|**2024-07-01**|**Parallel Computing Architectures for Robotic Applications: A Comprehensive Review**|Md Rafid Islam et.al.|[2407.01011](http://arxiv.org/abs/2407.01011)|null|
 |**2024-06-27**|**RAVE: A Framework for Radar Ego-Velocity Estimation**|Vlaho-Josip Štironja et.al.|[2406.18850](http://arxiv.org/abs/2406.18850)|null|
 |**2024-06-20**|**Fish Tracking, Counting, and Behaviour Analysis in Digital Aquaculture: A Comprehensive Review**|Meng Cui et.al.|[2406.17800](http://arxiv.org/abs/2406.17800)|null|
 |**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679](http://arxiv.org/abs/2406.17679)|null|
@@ -1137,6 +1146,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-01**|**Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval**|Aneeshan Sain et.al.|[2407.01810](http://arxiv.org/abs/2407.01810)|null|
+|**2024-07-01**|**Cross-Modal Attention Alignment Network with Auxiliary Text Description for zero-shot sketch-based image retrieval**|Hanwen Su et.al.|[2407.00979](http://arxiv.org/abs/2407.00979)|null|
 |**2024-06-27**|**PathAlign: A vision-language model for whole slide images in histopathology**|Faruk Ahmed et.al.|[2406.19578](http://arxiv.org/abs/2406.19578)|null|
 |**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898](http://arxiv.org/abs/2406.18898)|null|
 |**2024-06-27**|**Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs**|Huaying Zhang et.al.|[2406.18836](http://arxiv.org/abs/2406.18836)|null|
@@ -1580,6 +1591,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Light-SLAM: A Robust Deep-Learning Visual SLAM System Based on LightGlue under Challenging Lighting Conditions**|Zhiqi Zhao et.al.|[2407.02382](http://arxiv.org/abs/2407.02382)|null|
 |**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
 |**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085](http://arxiv.org/abs/2405.16085)|null|
 |**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
@@ -1924,6 +1936,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-02**|**How to Learn in a Noisy World? Self-Correcting the Real-World Data Noise on Machine Translation**|Yan Meng et.al.|[2407.02208](http://arxiv.org/abs/2407.02208)|null|
+|**2024-07-01**|**Enhancing inflationary model predictions via refined slow-roll dynamics**|Debottam Nandi et.al.|[2407.01713](http://arxiv.org/abs/2407.01713)|null|
+|**2024-07-01**|**Tuning and predicting the onset of desiccation cracks in air-dried aqueous clay suspensions**|Vaibhav Raj Singh Parmar et.al.|[2407.01396](http://arxiv.org/abs/2407.01396)|null|
+|**2024-07-01**|**No More Potentially Dynamic Objects: Static Point Cloud Map Generation based on 3D Object Detection and Ground Projection**|Soojin Woo et.al.|[2407.01073](http://arxiv.org/abs/2407.01073)|null|
+|**2024-07-01**|**Statistical inference on partially shape-constrained function-on-scalar linear regression models**|Kyunghee Han et.al.|[2407.00859](http://arxiv.org/abs/2407.00859)|null|
+|**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697](http://arxiv.org/abs/2407.00697)|null|
+|**2024-06-28**|**High Throughput Parameter Estimation and Uncertainty Analysis Applied to the Production of Mycoprotein from Synthetic Lignocellulosic Hydrolysates**|Mason Banks et.al.|[2407.00209](http://arxiv.org/abs/2407.00209)|null|
 |**2024-06-28**|**Multi-UAVs end-to-end Distributed Trajectory Generation over Point Cloud Data**|Antonio Marino et.al.|[2406.19742](http://arxiv.org/abs/2406.19742)|null|
 |**2024-06-26**|**Protocols for Obtaining Reliable PDFs from Laboratory x-ray Sources Using PDFgetX3**|Till Schertenleib et.al.|[2406.18177](http://arxiv.org/abs/2406.18177)|null|
 |**2024-06-26**|**Errors-In-Variables Model Fitting for Partially Unpaired Data Utilizing Mixture Models**|Wolfgang Hoegele et.al.|[2406.18154](http://arxiv.org/abs/2406.18154)|null|
@@ -2271,6 +2290,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-01**|**No More Potentially Dynamic Objects: Static Point Cloud Map Generation based on 3D Object Detection and Ground Projection**|Soojin Woo et.al.|[2407.01073](http://arxiv.org/abs/2407.01073)|null|
+|**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697](http://arxiv.org/abs/2407.00697)|null|
 |**2024-06-28**|**Multi-UAVs end-to-end Distributed Trajectory Generation over Point Cloud Data**|Antonio Marino et.al.|[2406.19742](http://arxiv.org/abs/2406.19742)|null|
 |**2024-06-27**|**A Universal Railway Obstacle Detection System based on Semi-supervised Segmentation And Optical Flow**|Qiushi Guo et.al.|[2406.18908](http://arxiv.org/abs/2406.18908)|null|
 |**2024-06-26**|**B-TMS: Bayesian Traversable Terrain Modeling and Segmentation Across 3D LiDAR Scans and Maps for Enhanced Off-Road Navigation**|Minho Oh et.al.|[2406.18138](http://arxiv.org/abs/2406.18138)|null|
