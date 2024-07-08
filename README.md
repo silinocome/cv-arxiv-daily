@@ -1167,7 +1167,7 @@
 |**2024-06-17**|**Accurate and Fast Pixel Retrieval with Spatial and Uncertainty Aware Hypergraph Diffusion**|Guoyuan An et.al.|[2406.11242](http://arxiv.org/abs/2406.11242)|null|
 |**2024-06-14**|**Annotation Cost-Efficient Active Learning for Deep Metric Learning Driven Remote Sensing Image Retrieval**|Genc Hoxha et.al.|[2406.10107](http://arxiv.org/abs/2406.10107)|null|
 |**2024-06-14**|**BiVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval**|Imanol Miranda et.al.|[2406.09952](http://arxiv.org/abs/2406.09952)|**[link](https://github.com/imirandam/bivlc)**|
-|**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317](http://arxiv.org/abs/2406.09317)|null|
+|**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317](http://arxiv.org/abs/2406.09317)|**[link](https://github.com/LooKing9218/RetiZero)**|
 |**2024-06-13**|**Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval**|Jaeseok Byun et.al.|[2406.09188](http://arxiv.org/abs/2406.09188)|null|
 |**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773](http://arxiv.org/abs/2406.08773)|null|
 |**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463](http://arxiv.org/abs/2406.08463)|null|
