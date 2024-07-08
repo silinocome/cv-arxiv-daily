@@ -722,6 +722,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-04**|**StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2407.03825](http://arxiv.org/abs/2407.03825)|null|
+|**2024-07-04**|**ConPR: Ongoing Construction Site Dataset for Place Recognition**|Dongjae Lee et.al.|[2407.03684](http://arxiv.org/abs/2407.03684)|null|
 |**2024-07-03**|**Efficient Fusion and Task Guided Embedding for End-to-end Autonomous Driving**|Yipin Guo et.al.|[2407.02878](http://arxiv.org/abs/2407.02878)|null|
 |**2024-07-02**|**CatMemo at the FinLLM Challenge Task: Fine-Tuning Large Language Models using Data Fusion in Financial Applications**|Yupeng Cao et.al.|[2407.01953](http://arxiv.org/abs/2407.01953)|null|
 |**2024-07-01**|**Data fusion for efficiency gain in ATE estimation: A practical review with simulations**|Xi Lin et.al.|[2407.01186](http://arxiv.org/abs/2407.01186)|null|
@@ -1135,10 +1137,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Elevating All Zero-Shot Sketch-Based Image Retrieval Through Multimodal Prompt Learning**|Mainak Singha et.al.|[2407.04207](http://arxiv.org/abs/2407.04207)|null|
+|**2024-07-04**|**Visualizing Dialogues: Enhancing Image Selection through Dialogue Understanding with Large Language Models**|Chang-Sheng Kao et.al.|[2407.03615](http://arxiv.org/abs/2407.03615)|null|
+|**2024-07-03**|**Celeb-FBI: A Benchmark Dataset on Human Full Body Images and Age, Gender, Height and Weight Estimation using Deep Learning Approach**|Pronay Debnath et.al.|[2407.03486](http://arxiv.org/abs/2407.03486)|null|
 |**2024-07-01**|**Freeview Sketching: View-Aware Fine-Grained Sketch-Based Image Retrieval**|Aneeshan Sain et.al.|[2407.01810](http://arxiv.org/abs/2407.01810)|null|
 |**2024-07-01**|**Cross-Modal Attention Alignment Network with Auxiliary Text Description for zero-shot sketch-based image retrieval**|Hanwen Su et.al.|[2407.00979](http://arxiv.org/abs/2407.00979)|null|
 |**2024-06-27**|**PathAlign: A vision-language model for whole slide images in histopathology**|Faruk Ahmed et.al.|[2406.19578](http://arxiv.org/abs/2406.19578)|null|
-|**2024-06-27**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898](http://arxiv.org/abs/2406.18898)|null|
+|**2024-07-05**|**360 in the Wild: Dataset for Depth Prediction and View Synthesis**|Kibaek Park et.al.|[2406.18898](http://arxiv.org/abs/2406.18898)|null|
 |**2024-06-27**|**Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs**|Huaying Zhang et.al.|[2406.18836](http://arxiv.org/abs/2406.18836)|null|
 |**2024-06-26**|**WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**|Yannik Glaser et.al.|[2406.18765](http://arxiv.org/abs/2406.18765)|null|
 |**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012](http://arxiv.org/abs/2406.18012)|null|
@@ -1578,6 +1583,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|null|
 |**2024-07-03**|**A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes**|Li Fang et.al.|[2407.02830](http://arxiv.org/abs/2407.02830)|null|
 |**2024-05-10**|**Light-SLAM: A Robust Deep-Learning Visual SLAM System Based on LightGlue under Challenging Lighting Conditions**|Zhiqi Zhao et.al.|[2407.02382](http://arxiv.org/abs/2407.02382)|null|
 |**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
@@ -1718,6 +1724,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-04**|**SfM on-the-fly: Get better 3D from What You Capture**|Zhan Zongqian et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
 |**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta et.al.|[2407.03172](http://arxiv.org/abs/2407.03172)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121](http://arxiv.org/abs/2406.15121)|null|
 |**2024-06-16**|**Light Up the Shadows: Enhance Long-Tailed Entity Grounding with Concept-Guided Vision-Language Models**|Yikai Zhang et.al.|[2406.10902](http://arxiv.org/abs/2406.10902)|**[link](https://github.com/ykzhang721/COG)**|
@@ -1921,7 +1928,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-02**|**Deep Learning Based Apparent Diffusion Coefficient Map Generation1 from Multi-parametric MR Images for Patients with Diffuse Gliomas**|Zach Eidex et.al.|[2407.02616](http://arxiv.org/abs/2407.02616)|null|
+|**2024-07-04**|**Leveraging Latent Diffusion Models for Training-Free In-Distribution Data Augmentation for Surface Defect Detection**|Federico Girella et.al.|[2407.03961](http://arxiv.org/abs/2407.03961)|**[link](https://github.com/intelligolabs/diag)**|
+|**2024-07-04**|**10 Years of Fair Representations: Challenges and Opportunities**|Mattia Cerrato et.al.|[2407.03834](http://arxiv.org/abs/2407.03834)|null|
+|**2024-07-04**|**ConPR: Ongoing Construction Site Dataset for Place Recognition**|Dongjae Lee et.al.|[2407.03684](http://arxiv.org/abs/2407.03684)|null|
+|**2024-07-03**|**BVI-RLV: A Fully Registered Dataset and Benchmarks for Low-Light Video Enhancement**|Ruirui Lin et.al.|[2407.03535](http://arxiv.org/abs/2407.03535)|null|
+|**2024-07-04**|**Deep Learning Based Apparent Diffusion Coefficient Map Generation from Multi-parametric MR Images for Patients with Diffuse Gliomas**|Zach Eidex et.al.|[2407.02616](http://arxiv.org/abs/2407.02616)|null|
 |**2024-07-02**|**How to Learn in a Noisy World? Self-Correcting the Real-World Data Noise on Machine Translation**|Yan Meng et.al.|[2407.02208](http://arxiv.org/abs/2407.02208)|null|
 |**2024-07-01**|**Enhancing inflationary model predictions via refined slow-roll dynamics**|Debottam Nandi et.al.|[2407.01713](http://arxiv.org/abs/2407.01713)|null|
 |**2024-07-01**|**Tuning and predicting the onset of desiccation cracks in air-dried aqueous clay suspensions**|Vaibhav Raj Singh Parmar et.al.|[2407.01396](http://arxiv.org/abs/2407.01396)|null|
@@ -2274,6 +2285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-04**|**ConPR: Ongoing Construction Site Dataset for Place Recognition**|Dongjae Lee et.al.|[2407.03684](http://arxiv.org/abs/2407.03684)|null|
 |**2024-06-24**|**RaCIL: Ray Tracing based Multi-UAV Obstacle Avoidance through Composite Imitation Learning**|Harsh Bansal et.al.|[2407.02520](http://arxiv.org/abs/2407.02520)|null|
 |**2024-07-01**|**No More Potentially Dynamic Objects: Static Point Cloud Map Generation based on 3D Object Detection and Ground Projection**|Soojin Woo et.al.|[2407.01073](http://arxiv.org/abs/2407.01073)|null|
 |**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697](http://arxiv.org/abs/2407.00697)|null|
