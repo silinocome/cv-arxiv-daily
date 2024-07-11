@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Invisible Optical Adversarial Stripes on Traffic Sign against Autonomous Vehicles**|Dongfang Guo et.al.|[2407.07510](http://arxiv.org/abs/2407.07510)|null|
 |**2024-07-09**|**Collision and Obstacle Avoidance for Industrial Autonomous Vehicles -- Simulation and Experimentation Based on a Cooperative Approach**|Juliette Grosset et.al.|[2407.06629](http://arxiv.org/abs/2407.06629)|null|
 |**2024-07-08**|**iLLM-TSC: Integration reinforcement learning and large language model for traffic signal control policy improvement**|Aoyu Pang et.al.|[2407.06025](http://arxiv.org/abs/2407.06025)|**[link](https://github.com/traffic-alpha/illm-tsc)**|
 |**2024-07-03**|**Applying Extended Object Tracking for Self-Localization of Roadside Radar Sensors**|Longfei Han et.al.|[2407.03084](http://arxiv.org/abs/2407.03084)|null|
@@ -476,7 +477,7 @@
 |**2024-07-03**|**Insights from Large-Scale Communications: Initiation**|Suman Sarkar et.al.|[2407.03042](http://arxiv.org/abs/2407.03042)|null|
 |**2024-07-03**|**Attention Incorporated Network for Sharing Low-rank, Image and K-space Information during MR Image Reconstruction to Achieve Single Breath-hold Cardiac Cine Imaging**|Siying Xu et.al.|[2407.03034](http://arxiv.org/abs/2407.03034)|**[link](https://github.com/midas-tum/a-liknet)**|
 |**2024-07-01**|**Race and Privacy in Broadcast Police Communications**|Pranav Narayanan Venkit et.al.|[2407.01817](http://arxiv.org/abs/2407.01817)|null|
-|**2024-07-01**|**Coordinated Disclosure of Dual-Use Capabilities: An Early Warning System for Advanced AI**|Joe O'Brien et.al.|[2407.01420](http://arxiv.org/abs/2407.01420)|null|
+|**2024-07-10**|**Coordinated Disclosure of Dual-Use Capabilities: An Early Warning System for Advanced AI**|Joe O'Brien et.al.|[2407.01420](http://arxiv.org/abs/2407.01420)|null|
 |**2024-06-27**|**VertiMRF: Differentially Private Vertical Federated Data Synthesis**|Fangyuan Zhao et.al.|[2406.19008](http://arxiv.org/abs/2406.19008)|**[link](https://github.com/private-mechanism/verti_mrf)**|
 |**2024-06-27**|**How Do Users Revise Architectural Related Questions on Stack Overflow: An Empirical Study**|Musengamana Jean de Dieu et.al.|[2406.18959](http://arxiv.org/abs/2406.18959)|null|
 |**2024-06-26**|**Bidirectional-Reachable Hierarchical Reinforcement Learning with Mutually Responsive Policies**|Yu Luo et.al.|[2406.18053](http://arxiv.org/abs/2406.18053)|**[link](https://github.com/roythuly/brhpo)**|
@@ -1751,6 +1752,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**Raising the Ceiling: Conflict-Free Local Feature Matching with Dynamic View Switching**|Xiaoyong Lu et.al.|[2407.07789](http://arxiv.org/abs/2407.07789)|null|
+|**2024-07-10**|**Mutual Information calculation on different appearances**|Jiecheng Liao et.al.|[2407.07410](http://arxiv.org/abs/2407.07410)|null|
 |**2024-07-04**|**SfM on-the-fly: Get better 3D from What You Capture**|Zhan Zongqian et.al.|[2407.03939](http://arxiv.org/abs/2407.03939)|null|
 |**2024-07-03**|**IMC 2024 Methods & Solutions Review**|Shyam Gupta et.al.|[2407.03172](http://arxiv.org/abs/2407.03172)|null|
 |**2024-06-21**|**High Resolution Surface Reconstruction of Cultural Heritage Objects Using Shape from Polarization Method**|F. S. Mortazavi et.al.|[2406.15121](http://arxiv.org/abs/2406.15121)|null|
@@ -1957,6 +1960,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-10**|**High-resolution Elemental Abundance Measurements of Cool JWST Planet Hosts Using AutoSpecFit: An Application to the Sub-Neptune K2-18b's Host M dwarf**|Neda Hejazi et.al.|[2407.07869](http://arxiv.org/abs/2407.07869)|null|
+|**2024-07-10**|**Motion simulation of radio-labeled cells in whole-body positron emission tomography**|Nils Marquardt et.al.|[2407.07709](http://arxiv.org/abs/2407.07709)|null|
+|**2024-07-10**|**Event-Aided Time-to-Collision Estimation for Autonomous Driving**|Jinghang Li et.al.|[2407.07324](http://arxiv.org/abs/2407.07324)|null|
 |**2024-07-09**|**Molecular Formation in Low-Metallicity Hot Cores**|Yara Sobhy et.al.|[2407.06791](http://arxiv.org/abs/2407.06791)|null|
 |**2024-07-09**|**Grids of stellar models with rotation VIII: Models from 1.7 to 500 $M_\odot$ at metallicity $Z = 10^{-5}$**|Yves Sibony et.al.|[2407.06739](http://arxiv.org/abs/2407.06739)|null|
 |**2024-07-09**|**Modular Family Symmetry in F-Theory GUTs from the Bottom-up**|Vasileios Basiouris et.al.|[2407.06618](http://arxiv.org/abs/2407.06618)|null|
