@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1942,7 +1942,7 @@ layout: default
 |**2024-07-10**|**Motion simulation of radio-labeled cells in whole-body positron emission tomography**|Nils Marquardt et.al.|[2407.07709](http://arxiv.org/abs/2407.07709)|null|
 |**2024-07-10**|**Event-Aided Time-to-Collision Estimation for Autonomous Driving**|Jinghang Li et.al.|[2407.07324](http://arxiv.org/abs/2407.07324)|null|
 |**2024-07-09**|**Molecular Formation in Low-Metallicity Hot Cores**|Yara Sobhy et.al.|[2407.06791](http://arxiv.org/abs/2407.06791)|null|
-|**2024-07-09**|**Grids of stellar models with rotation VIII: Models from 1.7 to 500 $M_\odot$ at metallicity $Z = 10^{-5}$**|Yves Sibony et.al.|[2407.06739](http://arxiv.org/abs/2407.06739)|null|
+|**2024-07-11**|**Grids of stellar models with rotation VIII: Models from 1.7 to 500 $M_\odot$ at metallicity $Z = 10^{-5}$**|Yves Sibony et.al.|[2407.06739](http://arxiv.org/abs/2407.06739)|null|
 |**2024-07-09**|**Modular Family Symmetry in F-Theory GUTs from the Bottom-up**|Vasileios Basiouris et.al.|[2407.06618](http://arxiv.org/abs/2407.06618)|null|
 |**2024-07-08**|**Microstructure.jl: a Julia Package for Probabilistic Microstructure Model Fitting with Diffusion MRI**|Ting Gong et.al.|[2407.06379](http://arxiv.org/abs/2407.06379)|null|
 |**2024-07-08**|**SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robust Point Cloud Registration**|Guiyu Zhao et.al.|[2407.06297](http://arxiv.org/abs/2407.06297)|null|
