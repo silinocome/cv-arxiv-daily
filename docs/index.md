@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.16
+## Updated on 2024.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1964,7 +1964,7 @@ layout: default
 |**2024-07-12**|**HUP-3D: A 3D multi-view synthetic dataset for assisted-egocentric hand-ultrasound pose estimation**|Manuel Birlo et.al.|[2407.09215](http://arxiv.org/abs/2407.09215)|null|
 |**2024-07-10**|**High-resolution Elemental Abundance Measurements of Cool JWST Planet Hosts Using AutoSpecFit: An Application to the Sub-Neptune K2-18b's Host M dwarf**|Neda Hejazi et.al.|[2407.07869](http://arxiv.org/abs/2407.07869)|null|
 |**2024-07-10**|**Motion simulation of radio-labeled cells in whole-body positron emission tomography**|Nils Marquardt et.al.|[2407.07709](http://arxiv.org/abs/2407.07709)|null|
-|**2024-07-10**|**Event-Aided Time-to-Collision Estimation for Autonomous Driving**|Jinghang Li et.al.|[2407.07324](http://arxiv.org/abs/2407.07324)|null|
+|**2024-07-16**|**Event-Aided Time-to-Collision Estimation for Autonomous Driving**|Jinghang Li et.al.|[2407.07324](http://arxiv.org/abs/2407.07324)|null|
 |**2024-07-09**|**Molecular Formation in Low-Metallicity Hot Cores**|Yara Sobhy et.al.|[2407.06791](http://arxiv.org/abs/2407.06791)|null|
 |**2024-07-11**|**Grids of stellar models with rotation VIII: Models from 1.7 to 500 $M_\odot$ at metallicity $Z = 10^{-5}$**|Yves Sibony et.al.|[2407.06739](http://arxiv.org/abs/2407.06739)|null|
 |**2024-07-09**|**Modular Family Symmetry in F-Theory GUTs from the Bottom-up**|Vasileios Basiouris et.al.|[2407.06618](http://arxiv.org/abs/2407.06618)|null|
