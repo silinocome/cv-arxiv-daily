@@ -485,6 +485,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753](http://arxiv.org/abs/2407.12753)|null|
 |**2024-07-08**|**Graph Neural Networks and Spatial Information Learning for Post-Processing Ensemble Weather Forecasts**|Moritz Feik et.al.|[2407.11050](http://arxiv.org/abs/2407.11050)|null|
 |**2024-07-15**|**Communication- and Computation-Efficient Distributed Decision-Making in Multi-Robot Networks**|Zirui Xu et.al.|[2407.10382](http://arxiv.org/abs/2407.10382)|null|
 |**2024-07-03**|**Insights from Large-Scale Communications: Initiation**|Suman Sarkar et.al.|[2407.03042](http://arxiv.org/abs/2407.03042)|null|
@@ -752,6 +753,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**ModalChorus: Visual Probing and Alignment of Multi-modal Embeddings via Modal Fusion Map**|Yilin Ye et.al.|[2407.12315](http://arxiv.org/abs/2407.12315)|null|
+|**2024-07-17**|**MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and Large Language Models**|Thao Minh Nguyen Phan et.al.|[2407.12309](http://arxiv.org/abs/2407.12309)|null|
 |**2024-07-16**|**iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems**|Shuolong Chen et.al.|[2407.11420](http://arxiv.org/abs/2407.11420)|null|
 |**2024-07-16**|**Accounting for Work Zone Disruptions in Traffic Flow Forecasting**|Yuanjie Lu et.al.|[2407.11407](http://arxiv.org/abs/2407.11407)|null|
 |**2024-07-15**|**Heterogenous Multi-Source Data Fusion Through Input Mapping and Latent Variable Gaussian Process**|Yigitcan Comlek et.al.|[2407.11268](http://arxiv.org/abs/2407.11268)|null|
@@ -1989,6 +1992,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Navigating the Smog: A Cooperative Multi-Agent RL for Accurate Air Pollution Mapping through Data Assimilation**|Ichrak Mokhtari et.al.|[2407.12539](http://arxiv.org/abs/2407.12539)|null|
+|**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
+|**2024-07-17**|**The defect energy formalism for CALPHAD thermodynamics of dilute point defects: Theory**|Amir M. Orvati Movaffagh et.al.|[2407.12301](http://arxiv.org/abs/2407.12301)|null|
 |**2024-07-16**|**Enhancing stop location detection for incomplete urban mobility datasets**|Margherita Bertè et.al.|[2407.11579](http://arxiv.org/abs/2407.11579)|null|
 |**2024-07-15**|**(De)Noise: Moderating the Inconsistency Between Human Decision-Makers**|Nina Grgić-Hlača et.al.|[2407.11225](http://arxiv.org/abs/2407.11225)|null|
 |**2024-07-15**|**Enhancing Robustness to Noise Corruption for Point Cloud Model via Spatial Sorting and Set-Mixing Aggregation Module**|Dingxin Zhang et.al.|[2407.10806](http://arxiv.org/abs/2407.10806)|null|
@@ -2369,6 +2375,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
 |**2024-07-15**|**Enhancing Robustness to Noise Corruption for Point Cloud Model via Spatial Sorting and Set-Mixing Aggregation Module**|Dingxin Zhang et.al.|[2407.10806](http://arxiv.org/abs/2407.10806)|null|
 |**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102](http://arxiv.org/abs/2407.10102)|null|
 |**2024-07-07**|**Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators**|Anran Jiao et.al.|[2407.05477](http://arxiv.org/abs/2407.05477)|null|
