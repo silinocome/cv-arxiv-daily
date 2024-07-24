@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Towards Effective Fusion and Forecasting of Multimodal Spatio-temporal Data for Smart Mobility**|Chenxing Wang et.al.|[2407.16123](http://arxiv.org/abs/2407.16123)|null|
+|**2024-07-22**|**Efficient Replay Memory Architectures in Multi-Agent Reinforcement Learning for Traffic Congestion Control**|Mukul Chodhary et.al.|[2407.16034](http://arxiv.org/abs/2407.16034)|null|
 |**2024-07-22**|**Flow-guided Motion Prediction with Semantics and Dynamic Occupancy Grid Maps**|Rabbia Asghar et.al.|[2407.15675](http://arxiv.org/abs/2407.15675)|null|
 |**2024-07-19**|**MSCT: Addressing Time-Varying Confounding with Marginal Structural Causal Transformer for Counterfactual Post-Crash Traffic Prediction**|Shuang Li et.al.|[2407.14065](http://arxiv.org/abs/2407.14065)|null|
 |**2024-07-18**|**Multiobjective Vehicle Routing Optimization with Time Windows: A Hybrid Approach Using Deep Reinforcement Learning and NSGA-II**|Rixin Wu et.al.|[2407.13113](http://arxiv.org/abs/2407.13113)|null|
@@ -757,6 +759,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
+|**2024-07-23**|**Towards Effective Fusion and Forecasting of Multimodal Spatio-temporal Data for Smart Mobility**|Chenxing Wang et.al.|[2407.16123](http://arxiv.org/abs/2407.16123)|null|
+|**2024-07-22**|**H-infinity Optimization for Active Seismic Isolation Systems in Gravitational-Wave Detectors**|Terrence Tsang et.al.|[2407.15972](http://arxiv.org/abs/2407.15972)|null|
 |**2024-07-21**|**Research on Real-time Diagnosis and Early Warning Technology of Automobile Faults Based on Fractional Order Differential Operator**|Zuo Yanhong et.al.|[2407.15033](http://arxiv.org/abs/2407.15033)|null|
 |**2024-07-19**|**Double-Layer Soft Data Fusion for Indoor Robot WiFi-Visual Localization**|Yuehua Ding et.al.|[2407.14643](http://arxiv.org/abs/2407.14643)|null|
 |**2024-07-18**|**Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check**|Sheng-Yao Kuan et.al.|[2407.13937](http://arxiv.org/abs/2407.13937)|null|
@@ -2004,6 +2009,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Fractional Holographic Dark Energy**|Oem Trivedi et.al.|[2407.16685](http://arxiv.org/abs/2407.16685)|null|
+|**2024-07-22**|**On Flange-based 3D Hand-Eye Calibration for Soft Robotic Tactile Welding**|Xudong Han et.al.|[2407.16041](http://arxiv.org/abs/2407.16041)|null|
 |**2024-07-23**|**Unveiling the Multifaceted GRB 200613A: Prompt Emission Dynamics, Afterglow Evolution, and the Host Galaxy's Properties**|Shao-Yu Fu et.al.|[2407.15824](http://arxiv.org/abs/2407.15824)|null|
 |**2024-07-23**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451](http://arxiv.org/abs/2407.15451)|null|
 |**2024-07-21**|**Statistical Models for Outbreak Detection of Measles in North Cotabato, Philippines**|Julienne Kate N. Kintanar et.al.|[2407.15028](http://arxiv.org/abs/2407.15028)|null|
@@ -2396,6 +2403,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-22**|**On Flange-based 3D Hand-Eye Calibration for Soft Robotic Tactile Welding**|Xudong Han et.al.|[2407.16041](http://arxiv.org/abs/2407.16041)|null|
 |**2024-07-20**|**SpatialTouch: Exploring Spatial Data Visualizations in Cross-reality**|Lixiang Zhao et.al.|[2407.14833](http://arxiv.org/abs/2407.14833)|**[link](https://github.com/LixiangZhao98/Cross-Reality-Environment-SpatialTouch)**|
 |**2024-07-18**|**Conformal Wide-Angle Scanning Leaky-Wave Antenna for V-Band On-Body Applications**|Pratik Vadher et.al.|[2407.13644](http://arxiv.org/abs/2407.13644)|null|
 |**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
