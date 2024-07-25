@@ -479,6 +479,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Uncertainty-preserving deep knowledge tracing with state-space models**|S. Thomas Christie et.al.|[2407.17427](http://arxiv.org/abs/2407.17427)|null|
+|**2024-07-24**|**Sampling-Based Hierarchical Trajectory Planning for Formation Flight**|Qingzhao Liu et.al.|[2407.17392](http://arxiv.org/abs/2407.17392)|null|
 |**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753](http://arxiv.org/abs/2407.12753)|null|
 |**2024-07-08**|**Graph Neural Networks and Spatial Information Learning for Post-Processing Ensemble Weather Forecasts**|Moritz Feik et.al.|[2407.11050](http://arxiv.org/abs/2407.11050)|null|
 |**2024-07-15**|**Communication- and Computation-Efficient Distributed Decision-Making in Multi-Robot Networks**|Zirui Xu et.al.|[2407.10382](http://arxiv.org/abs/2407.10382)|null|
@@ -1175,6 +1177,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation**|Yongqi Li et.al.|[2407.17274](http://arxiv.org/abs/2407.17274)|null|
+|**2024-07-24**|**Pose Estimation from Camera Images for Underwater Inspection**|Luyuan Peng et.al.|[2407.16961](http://arxiv.org/abs/2407.16961)|null|
 |**2024-07-22**|**RADA: Robust and Accurate Feature Learning with Domain Adaptation**|Jingtai He et.al.|[2407.15791](http://arxiv.org/abs/2407.15791)|null|
 |**2024-07-19**|**Double-Layer Soft Data Fusion for Indoor Robot WiFi-Visual Localization**|Yuehua Ding et.al.|[2407.14643](http://arxiv.org/abs/2407.14643)|null|
 |**2024-07-18**|**Visual Haystacks: Answering Harder Questions About Sets of Images**|Tsung-Han Wu et.al.|[2407.13766](http://arxiv.org/abs/2407.13766)|**[link](https://github.com/visual-haystacks/vhs_benchmark)**|
@@ -1987,6 +1991,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-24**|**Robust Point Cloud Registration in Robotic Inspection with Locally Consistent Gaussian Mixture Model**|Lingjie Su et.al.|[2407.17183](http://arxiv.org/abs/2407.17183)|null|
+|**2024-07-24**|**Forecasting Constraint on the $f(R)$ Theory with the CSST SN Ia and BAO Surveys**|Jun-Hui Yan et.al.|[2407.17154](http://arxiv.org/abs/2407.17154)|null|
 |**2024-07-23**|**Fractional Holographic Dark Energy**|Oem Trivedi et.al.|[2407.16685](http://arxiv.org/abs/2407.16685)|null|
 |**2024-07-22**|**On Flange-based 3D Hand-Eye Calibration for Soft Robotic Tactile Welding**|Xudong Han et.al.|[2407.16041](http://arxiv.org/abs/2407.16041)|null|
 |**2024-07-23**|**Unveiling the Multifaceted GRB 200613A: Prompt Emission Dynamics, Afterglow Evolution, and the Host Galaxy's Properties**|Shao-Yu Fu et.al.|[2407.15824](http://arxiv.org/abs/2407.15824)|null|
