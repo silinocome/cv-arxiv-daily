@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -745,7 +745,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
+|**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
 |**2024-07-23**|**Towards Effective Fusion and Forecasting of Multimodal Spatio-temporal Data for Smart Mobility**|Chenxing Wang et.al.|[2407.16123](http://arxiv.org/abs/2407.16123)|null|
 |**2024-07-22**|**H-infinity Optimization for Active Seismic Isolation Systems in Gravitational-Wave Detectors**|Terrence Tsang et.al.|[2407.15972](http://arxiv.org/abs/2407.15972)|null|
 |**2024-07-21**|**Research on Real-time Diagnosis and Early Warning Technology of Automobile Faults Based on Fractional Order Differential Operator**|Zuo Yanhong et.al.|[2407.15033](http://arxiv.org/abs/2407.15033)|null|
@@ -2386,7 +2386,7 @@ layout: default
 |**2024-07-15**|**Enhancing Robustness to Noise Corruption for Point Cloud Model via Spatial Sorting and Set-Mixing Aggregation Module**|Dingxin Zhang et.al.|[2407.10806](http://arxiv.org/abs/2407.10806)|null|
 |**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102](http://arxiv.org/abs/2407.10102)|null|
 |**2024-07-07**|**Solving forward and inverse PDE problems on unknown manifolds via physics-informed neural operators**|Anran Jiao et.al.|[2407.05477](http://arxiv.org/abs/2407.05477)|null|
-|**2024-07-05**|**3D Adaptive Structural Convolution Network for Domain-Invariant Point Cloud Recognition**|Younggun Kim et.al.|[2407.04833](http://arxiv.org/abs/2407.04833)|null|
+|**2024-07-24**|**3D Adaptive Structural Convolution Network for Domain-Invariant Point Cloud Recognition**|Younggun Kim et.al.|[2407.04833](http://arxiv.org/abs/2407.04833)|null|
 |**2024-07-04**|**ConPR: Ongoing Construction Site Dataset for Place Recognition**|Dongjae Lee et.al.|[2407.03684](http://arxiv.org/abs/2407.03684)|**[link](https://github.com/dongjae0107/conpr)**|
 |**2024-06-24**|**RaCIL: Ray Tracing based Multi-UAV Obstacle Avoidance through Composite Imitation Learning**|Harsh Bansal et.al.|[2407.02520](http://arxiv.org/abs/2407.02520)|null|
 |**2024-07-01**|**No More Potentially Dynamic Objects: Static Point Cloud Map Generation based on 3D Object Detection and Ground Projection**|Soojin Woo et.al.|[2407.01073](http://arxiv.org/abs/2407.01073)|**[link](https://github.com/woo-soojin/no_more_potentially_dynamic_objects)**|
