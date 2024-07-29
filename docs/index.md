@@ -261,7 +261,7 @@ layout: default
 |**2023-09-26**|**Exploring the impact of automated vehicles lane-changing behavior on urban network efficiency**|Alberto Pelizza et.al.|[2309.14731](http://arxiv.org/abs/2309.14731)|null|
 |**2023-09-24**|**Advancements in 3D Lane Detection Using LiDAR Point Clouds: From Data Collection to Model Development**|Runkai Zhao et.al.|[2309.13596](http://arxiv.org/abs/2309.13596)|**[link](https://github.com/runkaizhao/liladet)**|
 |**2023-09-23**|**Consensus Algorithms of Distributed Ledger Technology -- A Comprehensive Analysis**|Ahmad J. Alkhodair et.al.|[2309.13498](http://arxiv.org/abs/2309.13498)|null|
-|**2023-09-22**|**SurrealDriver: Designing Generative Driver Agent Simulation Framework in Urban Contexts based on Large Language Model**|Ye Jin et.al.|[2309.13193](http://arxiv.org/abs/2309.13193)|null|
+|**2023-09-22**|**SurrealDriver: Designing Generative Driver Agent Simulation Framework in Urban Contexts based on Large Language Model**|Ye Jin et.al.|[2309.13193](http://arxiv.org/abs/2309.13193)|**[link](https://github.com/air-discover/driving-thinking-dataset)**|
 |**2023-09-22**|**Analytical Model of 5G V2X Mode 2 for Sporadic Traffic**|Dmitry Bankov et.al.|[2309.12901](http://arxiv.org/abs/2309.12901)|null|
 |**2023-09-21**|**RCMS: Risk-Aware Crash Mitigation System for Autonomous Vehicles**|Faizan M. Tariq et.al.|[2309.12531](http://arxiv.org/abs/2309.12531)|null|
 |**2023-09-21**|**Optimizing V2V Unicast Communication Transmission with Reinforcement Learning and Vehicle Clustering**|Yu Wang et.al.|[2309.12052](http://arxiv.org/abs/2309.12052)|null|
@@ -1291,7 +1291,7 @@ layout: default
 |**2024-03-30**|**SceneGraphLoc: Cross-Modal Coarse Visual Localization on 3D Scene Graphs**|Yang Miao et.al.|[2404.00469](http://arxiv.org/abs/2404.00469)|null|
 |**2024-03-30**|**Do Vision-Language Models Understand Compound Nouns?**|Sonal Kumar et.al.|[2404.00419](http://arxiv.org/abs/2404.00419)|**[link](https://github.com/sonalkum/compun)**|
 |**2024-04-05**|**FairRAG: Fair Human Generation via Fair Retrieval Augmentation**|Robik Shrestha et.al.|[2403.19964](http://arxiv.org/abs/2403.19964)|null|
-|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
+|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|**[link](https://github.com/google-deepmind/magiclens)**|
 |**2024-03-27**|**AIR-HLoc: Adaptive Image Retrieval for Efficient Visual Localisation**|Changkun Liu et.al.|[2403.18281](http://arxiv.org/abs/2403.18281)|null|
 |**2024-03-26**|**Learning to Visually Localize Sound Sources from Mixtures without Prior Source Knowledge**|Dongjin Kim et.al.|[2403.17420](http://arxiv.org/abs/2403.17420)|**[link](https://github.com/visualaikhu/noprior_multissl)**|
 |**2024-03-24**|**Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval**|Yucheng Suo et.al.|[2403.16005](http://arxiv.org/abs/2403.16005)|**[link](https://github.com/suoych/keds)**|
@@ -2007,7 +2007,7 @@ layout: default
 |**2024-07-23**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451](http://arxiv.org/abs/2407.15451)|null|
 |**2024-07-21**|**Statistical Models for Outbreak Detection of Measles in North Cotabato, Philippines**|Julienne Kate N. Kintanar et.al.|[2407.15028](http://arxiv.org/abs/2407.15028)|null|
 |**2024-07-20**|**SpatialTouch: Exploring Spatial Data Visualizations in Cross-reality**|Lixiang Zhao et.al.|[2407.14833](http://arxiv.org/abs/2407.14833)|**[link](https://github.com/LixiangZhao98/Cross-Reality-Environment-SpatialTouch)**|
-|**2024-07-19**|**A Bayesian workflow for securitizing casualty insurance risk**|Nathaniel Haines et.al.|[2407.14666](http://arxiv.org/abs/2407.14666)|null|
+|**2024-07-19**|**A Bayesian workflow for securitizing casualty insurance risk**|Nathaniel Haines et.al.|[2407.14666](http://arxiv.org/abs/2407.14666)|**[link](https://github.com/LedgerInvesting/bayesian-workflow-paper-2024)**|
 |**2024-07-19**|**tidychangepoint: a unified framework for analyzing changepoint detection in univariate time series**|Benjamin S. Baumer et.al.|[2407.14369](http://arxiv.org/abs/2407.14369)|null|
 |**2024-07-19**|**MSCT: Addressing Time-Varying Confounding with Marginal Structural Causal Transformer for Counterfactual Post-Crash Traffic Prediction**|Shuang Li et.al.|[2407.14065](http://arxiv.org/abs/2407.14065)|null|
 |**2024-07-18**|**Quantifying uncertainty in area and regression coefficient estimation from remote sensing maps**|Kerri Lu et.al.|[2407.13659](http://arxiv.org/abs/2407.13659)|null|
