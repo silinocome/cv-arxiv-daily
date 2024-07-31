@@ -496,6 +496,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Design and inference for multi-arm clinical trials with informational borrowing: the interacting urns design**|Giacomo Aletti et.al.|[2407.20819](http://arxiv.org/abs/2407.20819)|null|
+|**2024-07-29**|**The GPT Dilemma: Foundation Models and the Shadow of Dual-Use**|Alan Hickey et.al.|[2407.20442](http://arxiv.org/abs/2407.20442)|null|
 |**2024-07-24**|**Diffusion Models for Multi-Task Generative Modeling**|Changyou Chen et.al.|[2407.17571](http://arxiv.org/abs/2407.17571)|null|
 |**2024-07-09**|**Uncertainty-preserving deep knowledge tracing with state-space models**|S. Thomas Christie et.al.|[2407.17427](http://arxiv.org/abs/2407.17427)|null|
 |**2024-07-24**|**Sampling-Based Hierarchical Trajectory Planning for Formation Flight**|Qingzhao Liu et.al.|[2407.17392](http://arxiv.org/abs/2407.17392)|null|
@@ -767,6 +769,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-28**|**Warped multifidelity Gaussian processes for data fusion of skewed environmental data**|Pietro Colombo et.al.|[2407.20295](http://arxiv.org/abs/2407.20295)|null|
 |**2024-07-28**|**Appformer: A Novel Framework for Mobile App Usage Prediction Leveraging Progressive Multi-Modal Data Fusion and Feature Extraction**|Chuike Sun et.al.|[2407.19414](http://arxiv.org/abs/2407.19414)|null|
 |**2024-07-26**|**Towards a Cyber Information Ontology**|David Limbaugh et.al.|[2407.18998](http://arxiv.org/abs/2407.18998)|null|
 |**2024-07-25**|**YOCO: You Only Calibrate Once for Accurate Extrinsic Parameter in LiDAR-Camera Systems**|Tianle Zeng et.al.|[2407.18043](http://arxiv.org/abs/2407.18043)|null|
@@ -1202,6 +1205,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
 |**2024-07-26**|**From 2D to 3D: AISG-SLA Visual Localization Challenge**|Jialin Gao et.al.|[2407.18590](http://arxiv.org/abs/2407.18590)|null|
 |**2024-07-24**|**Revolutionizing Text-to-Image Retrieval as Autoregressive Token-to-Voken Generation**|Yongqi Li et.al.|[2407.17274](http://arxiv.org/abs/2407.17274)|null|
 |**2024-07-24**|**Pose Estimation from Camera Images for Underwater Inspection**|Luyuan Peng et.al.|[2407.16961](http://arxiv.org/abs/2407.16961)|null|
@@ -2026,6 +2030,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Statistical Estimates of the Binary Properties of Rotational Variables**|Anya Phillips et.al.|[2407.20328](http://arxiv.org/abs/2407.20328)|null|
 |**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223](http://arxiv.org/abs/2407.20223)|null|
 |**2024-07-27**|**Primeval very low-mass stars and brown dwarfs -- VIII. The first age benchmark L subdwarf, a wide companion to a halo white dwarf**|Z. H. Zhang et.al.|[2407.19219](http://arxiv.org/abs/2407.19219)|null|
 |**2024-07-26**|**NARVis: Neural Accelerated Rendering for Real-Time Scientific Point Cloud Visualization**|Srinidhi Hegde et.al.|[2407.19097](http://arxiv.org/abs/2407.19097)|null|
