@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Mobility-Aware Federated Self-supervised Learning in Vehicular Network**|Xueying Gu et.al.|[2408.00256](http://arxiv.org/abs/2408.00256)|null|
+|**2024-08-01**|**Age of Information Analysis for Multi-Priority Queue and NOMA Enabled C-V2X in IoV**|Zheng Zhang et.al.|[2408.00223](http://arxiv.org/abs/2408.00223)|null|
 |**2024-07-29**|**Integrated Scenario-based Analysis: A data-driven approach to support automated driving systems development and safety evaluation**|Gibran Ali et.al.|[2407.19975](http://arxiv.org/abs/2407.19975)|null|
 |**2024-07-27**|**Large Language Models for Human-like Autonomous Driving: A Survey**|Yun Li et.al.|[2407.19280](http://arxiv.org/abs/2407.19280)|null|
 |**2024-07-25**|**A Novel Perception Entropy Metric for Optimizing Vehicle Perception with LiDAR Deployment**|Yongjiang He et.al.|[2407.17942](http://arxiv.org/abs/2407.17942)|null|
@@ -755,6 +757,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**RoCo:Robust Collaborative Perception By Iterative Object Matching and Pose Adjustment**|Zhe Huang et.al.|[2408.00257](http://arxiv.org/abs/2408.00257)|null|
 |**2024-07-31**|**RoadFormer+: Delivering RGB-X Scene Parsing through Scale-Aware Information Decoupling and Advanced Heterogeneous Feature Fusion**|Jianxin Huang et.al.|[2407.21631](http://arxiv.org/abs/2407.21631)|null|
 |**2024-07-31**|**InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios**|Xiaofei Zhang et.al.|[2407.21581](http://arxiv.org/abs/2407.21581)|null|
 |**2024-07-31**|**MSMA: Multi-agent Trajectory Prediction in Connected and Autonomous Vehicle Environment with Multi-source Data Integration**|Xi Chen et.al.|[2407.21310](http://arxiv.org/abs/2407.21310)|null|
@@ -2011,6 +2014,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**The Inevitable Quark Three-Body Force and its Implications for Exotic States**|Sungsik Noh et.al.|[2408.00715](http://arxiv.org/abs/2408.00715)|null|
+|**2024-08-01**|**Persistent de Rham-Hodge Laplacians in the Eulerian representation**|Zhe Su et.al.|[2408.00220](http://arxiv.org/abs/2408.00220)|null|
 |**2024-07-31**|**Blind and robust estimation of adaptive optics point spread function and diffuse halo with sharp-edged objects**|Anthony Berdeu et.al.|[2407.21548](http://arxiv.org/abs/2407.21548)|null|
 |**2024-07-29**|**Statistical Estimates of the Binary Properties of Rotational Variables**|Anya Phillips et.al.|[2407.20328](http://arxiv.org/abs/2407.20328)|null|
 |**2024-07-29**|**Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning**|Ray Zhang et.al.|[2407.20223](http://arxiv.org/abs/2407.20223)|null|
@@ -2415,6 +2420,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-01**|**Persistent de Rham-Hodge Laplacians in the Eulerian representation**|Zhe Su et.al.|[2408.00220](http://arxiv.org/abs/2408.00220)|null|
 |**2024-07-26**|**NARVis: Neural Accelerated Rendering for Real-Time Scientific Point Cloud Visualization**|Srinidhi Hegde et.al.|[2407.19097](http://arxiv.org/abs/2407.19097)|null|
 |**2024-07-25**|**A Novel Perception Entropy Metric for Optimizing Vehicle Perception with LiDAR Deployment**|Yongjiang He et.al.|[2407.17942](http://arxiv.org/abs/2407.17942)|null|
 |**2024-07-25**|**Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey**|Shahab Saquib Sohail et.al.|[2407.17877](http://arxiv.org/abs/2407.17877)|null|
