@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**IBB Traffic Graph Data: Benchmarking and Road Traffic Prediction Model**|Eren Olug et.al.|[2408.01016](http://arxiv.org/abs/2408.01016)|null|
+|**2024-08-02**|**IncidentNet: Traffic Incident Detection, Localization and Severity Estimation with Sparse Sensing**|Sai Shashank Peddiraju et.al.|[2408.00996](http://arxiv.org/abs/2408.00996)|null|
 |**2024-08-01**|**Mobility-Aware Federated Self-supervised Learning in Vehicular Network**|Xueying Gu et.al.|[2408.00256](http://arxiv.org/abs/2408.00256)|null|
 |**2024-08-01**|**Age of Information Analysis for Multi-Priority Queue and NOMA Enabled C-V2X in IoV**|Zheng Zhang et.al.|[2408.00223](http://arxiv.org/abs/2408.00223)|null|
 |**2024-07-29**|**Integrated Scenario-based Analysis: A data-driven approach to support automated driving systems development and safety evaluation**|Gibran Ali et.al.|[2407.19975](http://arxiv.org/abs/2407.19975)|null|
@@ -498,6 +500,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Information transfer by entangled photons without auxiliary non-quantum channel**|Levente Szabó et.al.|[2408.01150](http://arxiv.org/abs/2408.01150)|null|
 |**2024-07-30**|**Design and inference for multi-arm clinical trials with informational borrowing: the interacting urns design**|Giacomo Aletti et.al.|[2407.20819](http://arxiv.org/abs/2407.20819)|null|
 |**2024-07-29**|**The GPT Dilemma: Foundation Models and the Shadow of Dual-Use**|Alan Hickey et.al.|[2407.20442](http://arxiv.org/abs/2407.20442)|null|
 |**2024-07-24**|**Diffusion Models for Multi-Task Generative Modeling**|Changyou Chen et.al.|[2407.17571](http://arxiv.org/abs/2407.17571)|null|
@@ -771,6 +774,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion**|Ke Li et.al.|[2408.01225](http://arxiv.org/abs/2408.01225)|null|
+|**2024-08-01**|**AI-Enabled sensor fusion of time of flight imaging and mmwave for concealed metal detection**|Chaitanya Kaul et.al.|[2408.00816](http://arxiv.org/abs/2408.00816)|null|
 |**2024-08-01**|**RoCo:Robust Collaborative Perception By Iterative Object Matching and Pose Adjustment**|Zhe Huang et.al.|[2408.00257](http://arxiv.org/abs/2408.00257)|null|
 |**2024-07-31**|**RoadFormer+: Delivering RGB-X Scene Parsing through Scale-Aware Information Decoupling and Advanced Heterogeneous Feature Fusion**|Jianxin Huang et.al.|[2407.21631](http://arxiv.org/abs/2407.21631)|null|
 |**2024-07-31**|**InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios**|Xiaofei Zhang et.al.|[2407.21581](http://arxiv.org/abs/2407.21581)|null|
