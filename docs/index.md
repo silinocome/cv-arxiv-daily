@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Improving the Intelligent Driver Model by Incorporating Vehicle Dynamics: Microscopic Calibration and Macroscopic Validation**|Dominik Salles et.al.|[2408.03722](http://arxiv.org/abs/2408.03722)|null|
 |**2024-08-06**|**Cross-cultural analysis of pedestrian group behaviour influence on crossing decisions in interactions with autonomous vehicles**|Sergio Martín Serrano et.al.|[2408.03003](http://arxiv.org/abs/2408.03003)|null|
 |**2024-08-05**|**Multi-level Traffic-Responsive Tilt Camera Surveillance through Predictive Correlated Online Learning**|Tao Li et.al.|[2408.02208](http://arxiv.org/abs/2408.02208)|null|
 |**2024-08-02**|**IBB Traffic Graph Data: Benchmarking and Road Traffic Prediction Model**|Eren Olug et.al.|[2408.01016](http://arxiv.org/abs/2408.01016)|null|
@@ -490,6 +491,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Combining Diverse Information for Coordinated Action: Stochastic Bandit Algorithms for Heterogeneous Agents**|Lucia Gordon et.al.|[2408.03405](http://arxiv.org/abs/2408.03405)|**[link](https://github.com/lgordon99/heterogeneous-stochastic-bandits)**|
 |**2024-08-05**|**Operationalizing Contextual Integrity in Privacy-Conscious Assistants**|Sahra Ghalebikesabi et.al.|[2408.02373](http://arxiv.org/abs/2408.02373)|null|
 |**2024-08-04**|**A Smart City Infrastructure Ontology for Threats, Cybercrime, and Digital Forensic Investigation**|Yee Ching Tok et.al.|[2408.02023](http://arxiv.org/abs/2408.02023)|null|
 |**2024-08-02**|**Information transfer by entangled photons without auxiliary non-quantum channel**|Levente Szabó et.al.|[2408.01150](http://arxiv.org/abs/2408.01150)|null|
@@ -1814,6 +1816,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
 |**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766](http://arxiv.org/abs/2408.02766)|null|
 |**2024-08-04**|**Improving Neural Surface Reconstruction with Feature Priors from Multi-View Image**|Xinlin Ren et.al.|[2408.02079](http://arxiv.org/abs/2408.02079)|null|
 |**2024-07-29**|**Image-text matching for large-scale book collections**|Artemis Llabrés et.al.|[2407.19812](http://arxiv.org/abs/2407.19812)|**[link](https://github.com/llabres/library-dataset)**|
