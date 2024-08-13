@@ -24,12 +24,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-11**|**Landmark-based Vehicle Self-Localization Using Automotive Polarimetric Radars**|Fabio Weishaupt et.al.|[2408.05811](http://arxiv.org/abs/2408.05811)|null|
+|**2024-08-11**|**A Training-Free Framework for Video License Plate Tracking and Recognition with Only One-Shot**|Haoxuan Ding et.al.|[2408.05729](http://arxiv.org/abs/2408.05729)|**[link](https://github.com/dinghaoxuan/oneshotlp)**|
 |**2024-08-09**|**RadarPillars: Efficient Object Detection from 4D Radar Point Clouds**|Alexander Musiat et.al.|[2408.05020](http://arxiv.org/abs/2408.05020)|null|
 |**2024-08-08**|**Enhanced Traffic Flow Prediction with Multi-Segment Fusion Tensor Graph Convolutional Networks**|Wei Zhang et.al.|[2408.04232](http://arxiv.org/abs/2408.04232)|null|
 |**2024-08-08**|**Design and Implementation of Smart Infrastructures and Connected Vehicles in A Mini-city Platform**|Daniel Vargas et.al.|[2408.04195](http://arxiv.org/abs/2408.04195)|null|
 |**2024-08-07**|**Heterogeneous Graph Sequence Neural Networks for Dynamic Traffic Assignment**|Tong Liu et.al.|[2408.04131](http://arxiv.org/abs/2408.04131)|null|
 |**2024-08-07**|**Scheduling Battery-Electric Bus Charging under Stochasticity using a Receding-Horizon Approach**|Justin Whitaker et.al.|[2408.04087](http://arxiv.org/abs/2408.04087)|null|
-|**2024-08-07**|**Improving the Intelligent Driver Model by Incorporating Vehicle Dynamics: Microscopic Calibration and Macroscopic Validation**|Dominik Salles et.al.|[2408.03722](http://arxiv.org/abs/2408.03722)|null|
+|**2024-08-07**|**Improving the Intelligent Driver Model by Incorporating Vehicle Dynamics: Microscopic Calibration and Macroscopic Validation**|Dominik Salles et.al.|[2408.03722](http://arxiv.org/abs/2408.03722)|**[link](https://github.com/stepeos/pycarmodel_calibration)**|
 |**2024-08-06**|**Cross-cultural analysis of pedestrian group behaviour influence on crossing decisions in interactions with autonomous vehicles**|Sergio Martín Serrano et.al.|[2408.03003](http://arxiv.org/abs/2408.03003)|null|
 |**2024-08-05**|**Multi-level Traffic-Responsive Tilt Camera Surveillance through Predictive Correlated Online Learning**|Tao Li et.al.|[2408.02208](http://arxiv.org/abs/2408.02208)|null|
 |**2024-08-02**|**IBB Traffic Graph Data: Benchmarking and Road Traffic Prediction Model**|Eren Olug et.al.|[2408.01016](http://arxiv.org/abs/2408.01016)|null|
@@ -785,12 +787,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-02**|**Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion**|Ke Li et.al.|[2408.01225](http://arxiv.org/abs/2408.01225)|null|
+|**2024-08-10**|**FuXi Weather: An end-to-end machine learning weather data assimilation and forecasting system**|Xiuyu Sun et.al.|[2408.05472](http://arxiv.org/abs/2408.05472)|null|
+|**2024-08-02**|**Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion**|Ke Li et.al.|[2408.01225](http://arxiv.org/abs/2408.01225)|**[link](https://github.com/uhhhci/realityfusion)**|
 |**2024-08-01**|**AI-Enabled sensor fusion of time of flight imaging and mmwave for concealed metal detection**|Chaitanya Kaul et.al.|[2408.00816](http://arxiv.org/abs/2408.00816)|null|
-|**2024-08-01**|**RoCo:Robust Collaborative Perception By Iterative Object Matching and Pose Adjustment**|Zhe Huang et.al.|[2408.00257](http://arxiv.org/abs/2408.00257)|null|
+|**2024-08-01**|**RoCo:Robust Collaborative Perception By Iterative Object Matching and Pose Adjustment**|Zhe Huang et.al.|[2408.00257](http://arxiv.org/abs/2408.00257)|**[link](https://github.com/huangzhe885/roco)**|
 |**2024-07-31**|**RoadFormer+: Delivering RGB-X Scene Parsing through Scale-Aware Information Decoupling and Advanced Heterogeneous Feature Fusion**|Jianxin Huang et.al.|[2407.21631](http://arxiv.org/abs/2407.21631)|null|
 |**2024-07-31**|**InScope: A New Real-world 3D Infrastructure-side Collaborative Perception Dataset for Open Traffic Scenarios**|Xiaofei Zhang et.al.|[2407.21581](http://arxiv.org/abs/2407.21581)|null|
-|**2024-08-02**|**MSMA: Multi-agent Trajectory Prediction in Connected and Autonomous Vehicle Environment with Multi-source Data Integration**|Xi Chen et.al.|[2407.21310](http://arxiv.org/abs/2407.21310)|null|
+|**2024-08-02**|**MSMA: Multi-agent Trajectory Prediction in Connected and Autonomous Vehicle Environment with Multi-source Data Integration**|Xi Chen et.al.|[2407.21310](http://arxiv.org/abs/2407.21310)|**[link](https://github.com/xichennn/msma)**|
 |**2024-07-28**|**Warped multifidelity Gaussian processes for data fusion of skewed environmental data**|Pietro Colombo et.al.|[2407.20295](http://arxiv.org/abs/2407.20295)|null|
 |**2024-07-28**|**Appformer: A Novel Framework for Mobile App Usage Prediction Leveraging Progressive Multi-Modal Data Fusion and Feature Extraction**|Chuike Sun et.al.|[2407.19414](http://arxiv.org/abs/2407.19414)|null|
 |**2024-07-26**|**Towards a Cyber Information Ontology**|David Limbaugh et.al.|[2407.18998](http://arxiv.org/abs/2407.18998)|null|
@@ -1227,6 +1230,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-10**|**Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network**|Junyan Ye et.al.|[2408.05475](http://arxiv.org/abs/2408.05475)|**[link](https://github.com/yejy53/ep-bev)**|
+|**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
 |**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|null|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
 |**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
@@ -1703,7 +1708,7 @@
 |**2024-05-10**|**Light-SLAM: A Robust Deep-Learning Visual SLAM System Based on LightGlue under Challenging Lighting Conditions**|Zhiqi Zhao et.al.|[2407.02382](http://arxiv.org/abs/2407.02382)|null|
 |**2024-06-28**|**Beyond First-Order: A Multi-Scale Approach to Finger Knuckle Print Biometrics**|Chengrui Gao et.al.|[2406.19672](http://arxiv.org/abs/2406.19672)|null|
 |**2024-05-25**|**Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration**|Junjie Gao et.al.|[2405.16085](http://arxiv.org/abs/2405.16085)|null|
-|**2024-05-14**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
+|**2024-08-12**|**TP3M: Transformer-based Pseudo 3D Image Matching with Reference Image**|Liming Han et.al.|[2405.08434](http://arxiv.org/abs/2405.08434)|null|
 |**2024-05-15**|**Vector-Symbolic Architecture for Event-Based Optical Flow**|Hongzhi You et.al.|[2405.08300](http://arxiv.org/abs/2405.08300)|null|
 |**2024-05-13**|**RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration**|Congjia Chen et.al.|[2405.07594](http://arxiv.org/abs/2405.07594)|null|
 |**2024-05-08**|**Unsupervised Skin Feature Tracking with Deep Neural Networks**|Jose Chang et.al.|[2405.04943](http://arxiv.org/abs/2405.04943)|null|
@@ -2059,6 +2064,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-12**|**Reciprocal Learning**|Julian Rodemann et.al.|[2408.06257](http://arxiv.org/abs/2408.06257)|null|
+|**2024-08-11**|**Contrastive masked auto-encoders based self-supervised hashing for 2D image and 3D point cloud cross-modal retrieval**|Rukai Wei et.al.|[2408.05711](http://arxiv.org/abs/2408.05711)|null|
+|**2024-08-09**|**Fast fitting of phylogenetic mixed effects models**|Bert van der Veen et.al.|[2408.05333](http://arxiv.org/abs/2408.05333)|null|
 |**2024-08-09**|**Deep joint source-channel coding for wireless point cloud transmission**|Cixiao Zhang et.al.|[2408.04889](http://arxiv.org/abs/2408.04889)|null|
 |**2024-08-08**|**MMRole: A Comprehensive Framework for Developing and Evaluating Multimodal Role-Playing Agents**|Yanqi Dai et.al.|[2408.04203](http://arxiv.org/abs/2408.04203)|**[link](https://github.com/yanqidai/mmrole)**|
 |**2024-08-07**|**PaveCap: The First Multimodal Framework for Comprehensive Pavement Condition Assessment with Dense Captioning and PCI Estimation**|Blessing Agyei Kyem et.al.|[2408.04110](http://arxiv.org/abs/2408.04110)|**[link](https://github.com/blessing988/pavecap)**|
@@ -2474,6 +2482,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-11**|**Contrastive masked auto-encoders based self-supervised hashing for 2D image and 3D point cloud cross-modal retrieval**|Rukai Wei et.al.|[2408.05711](http://arxiv.org/abs/2408.05711)|null|
+|**2024-08-10**|**TOPGN: Real-time Transparent Obstacle Detection using Lidar Point Cloud Intensity for Autonomous Robot Navigation**|Kasun Weerakoon et.al.|[2408.05608](http://arxiv.org/abs/2408.05608)|null|
 |**2024-08-09**|**Deep joint source-channel coding for wireless point cloud transmission**|Cixiao Zhang et.al.|[2408.04889](http://arxiv.org/abs/2408.04889)|null|
 |**2024-08-05**|**SelfGeo: Self-supervised and Geodesic-consistent Estimation of Keypoints on Deformable Shapes**|Mohammad Zohaib et.al.|[2408.02291](http://arxiv.org/abs/2408.02291)|null|
 |**2024-08-01**|**Persistent de Rham-Hodge Laplacians in the Eulerian representation**|Zhe Su et.al.|[2408.00220](http://arxiv.org/abs/2408.00220)|null|
