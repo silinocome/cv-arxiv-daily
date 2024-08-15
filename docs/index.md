@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning**|Jianye Xu et.al.|[2408.07644](http://arxiv.org/abs/2408.07644)|**[link](https://github.com/cas-lab-munich/sigmarl)**|
+|**2024-08-14**|**Enhancing Autonomous Vehicle Perception in Adverse Weather through Image Augmentation during Semantic Segmentation Training**|Ethan Kou et.al.|[2408.07239](http://arxiv.org/abs/2408.07239)|null|
 |**2024-08-13**|**Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**|Miao Zhang et.al.|[2408.06772](http://arxiv.org/abs/2408.06772)|null|
 |**2024-08-11**|**Landmark-based Vehicle Self-Localization Using Automotive Polarimetric Radars**|Fabio Weishaupt et.al.|[2408.05811](http://arxiv.org/abs/2408.05811)|null|
 |**2024-08-11**|**A Training-Free Framework for Video License Plate Tracking and Recognition with Only One-Shot**|Haoxuan Ding et.al.|[2408.05729](http://arxiv.org/abs/2408.05729)|**[link](https://github.com/dinghaoxuan/oneshotlp)**|
@@ -499,6 +501,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Information-Theoretic Measures on Lattices for High-Order Interactions**|Zhaolu Liu et.al.|[2408.07533](http://arxiv.org/abs/2408.07533)|null|
 |**2024-08-14**|**Advancing Interactive Explainable AI via Belief Change Theory**|Antonio Rago et.al.|[2408.06875](http://arxiv.org/abs/2408.06875)|null|
 |**2024-08-13**|**Layerwise Recurrent Router for Mixture-of-Experts**|Zihan Qiu et.al.|[2408.06793](http://arxiv.org/abs/2408.06793)|**[link](https://github.com/qiuzh20/rmoe)**|
 |**2024-08-06**|**Combining Diverse Information for Coordinated Action: Stochastic Bandit Algorithms for Heterogeneous Agents**|Lucia Gordon et.al.|[2408.03405](http://arxiv.org/abs/2408.03405)|**[link](https://github.com/lgordon99/heterogeneous-stochastic-bandits)**|
@@ -776,6 +779,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|null|
 |**2024-08-10**|**FuXi Weather: An end-to-end machine learning weather data assimilation and forecasting system**|Xiuyu Sun et.al.|[2408.05472](http://arxiv.org/abs/2408.05472)|null|
 |**2024-08-02**|**Reality Fusion: Robust Real-time Immersive Mobile Robot Teleoperation with Volumetric Visual Data Fusion**|Ke Li et.al.|[2408.01225](http://arxiv.org/abs/2408.01225)|**[link](https://github.com/uhhhci/realityfusion)**|
 |**2024-08-01**|**AI-Enabled sensor fusion of time of flight imaging and mmwave for concealed metal detection**|Chaitanya Kaul et.al.|[2408.00816](http://arxiv.org/abs/2408.00816)|null|
@@ -1830,6 +1834,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
 |**2024-08-05**|**ConDL: Detector-Free Dense Image Matching**|Monika Kwiatkowski et.al.|[2408.02766](http://arxiv.org/abs/2408.02766)|null|
@@ -2046,6 +2051,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-14**|**Measurement of the Drell--Yan forward-backward asymmetry and of the effective leptonic weak mixing angle in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2408.07622](http://arxiv.org/abs/2408.07622)|null|
 |**2024-08-12**|**Reciprocal Learning**|Julian Rodemann et.al.|[2408.06257](http://arxiv.org/abs/2408.06257)|null|
 |**2024-08-11**|**Contrastive masked auto-encoders based self-supervised hashing for 2D image and 3D point cloud cross-modal retrieval**|Rukai Wei et.al.|[2408.05711](http://arxiv.org/abs/2408.05711)|null|
 |**2024-08-09**|**Fast fitting of phylogenetic mixed effects models**|Bert van der Veen et.al.|[2408.05333](http://arxiv.org/abs/2408.05333)|null|
