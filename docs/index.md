@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -499,7 +499,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-13**|**Advancing Interactive Explainable AI via Belief Change Theory**|Antonio Rago et.al.|[2408.06875](http://arxiv.org/abs/2408.06875)|null|
+|**2024-08-14**|**Advancing Interactive Explainable AI via Belief Change Theory**|Antonio Rago et.al.|[2408.06875](http://arxiv.org/abs/2408.06875)|null|
 |**2024-08-13**|**Layerwise Recurrent Router for Mixture-of-Experts**|Zihan Qiu et.al.|[2408.06793](http://arxiv.org/abs/2408.06793)|**[link](https://github.com/qiuzh20/rmoe)**|
 |**2024-08-06**|**Combining Diverse Information for Coordinated Action: Stochastic Bandit Algorithms for Heterogeneous Agents**|Lucia Gordon et.al.|[2408.03405](http://arxiv.org/abs/2408.03405)|**[link](https://github.com/lgordon99/heterogeneous-stochastic-bandits)**|
 |**2024-08-05**|**Operationalizing Contextual Integrity in Privacy-Conscious Assistants**|Sahra Ghalebikesabi et.al.|[2408.02373](http://arxiv.org/abs/2408.02373)|null|
