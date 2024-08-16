@@ -513,6 +513,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**A Survey on Integrated Sensing, Communication, and Computation**|Dingzhu Wen et.al.|[2408.08074](http://arxiv.org/abs/2408.08074)|null|
+|**2024-08-05**|**Enhancing Supply Chain Visibility with Knowledge Graphs and Large Language Models**|Sara AlMahri et.al.|[2408.07705](http://arxiv.org/abs/2408.07705)|null|
 |**2024-08-14**|**Information-Theoretic Measures on Lattices for High-Order Interactions**|Zhaolu Liu et.al.|[2408.07533](http://arxiv.org/abs/2408.07533)|null|
 |**2024-08-14**|**Advancing Interactive Explainable AI via Belief Change Theory**|Antonio Rago et.al.|[2408.06875](http://arxiv.org/abs/2408.06875)|null|
 |**2024-08-13**|**Layerwise Recurrent Router for Mixture-of-Experts**|Zihan Qiu et.al.|[2408.06793](http://arxiv.org/abs/2408.06793)|**[link](https://github.com/qiuzh20/rmoe)**|
@@ -1237,6 +1239,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
 |**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648](http://arxiv.org/abs/2408.06648)|null|
 |**2024-08-10**|**Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network**|Junyan Ye et.al.|[2408.05475](http://arxiv.org/abs/2408.05475)|**[link](https://github.com/yejy53/ep-bev)**|
 |**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
@@ -1709,6 +1712,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
 |**2024-07-09**|**LVLM-empowered Multi-modal Representation Learning for Visual Place Recognition**|Teng Wang et.al.|[2407.06730](http://arxiv.org/abs/2407.06730)|null|
 |**2024-07-04**|**PFGS: High Fidelity Point Cloud Rendering via Feature Splatting**|Jiaxu Wang et.al.|[2407.03857](http://arxiv.org/abs/2407.03857)|**[link](https://github.com/Mercerai/PFGS)**|
@@ -2073,6 +2077,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Your Turn: Real-World Turning Angle Estimation for Parkinson's Disease Severity Assessment**|Qiushuo Cheng et.al.|[2408.08182](http://arxiv.org/abs/2408.08182)|null|
+|**2024-08-15**|**Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient**|Yanfan Zhu et.al.|[2408.07905](http://arxiv.org/abs/2408.07905)|**[link](https://github.com/hrlblab/topologicaldataanalysis3d)**|
+|**2024-08-14**|**Ranking and Combining Latent Structured Predictive Scores without Labeled Data**|Shiva Afshar et.al.|[2408.07796](http://arxiv.org/abs/2408.07796)|null|
 |**2024-08-14**|**Measurement of the Drell--Yan forward-backward asymmetry and of the effective leptonic weak mixing angle in proton-proton collisions at $\sqrt{s}$ = 13 TeV**|CMS Collaboration et.al.|[2408.07622](http://arxiv.org/abs/2408.07622)|null|
 |**2024-08-12**|**Reciprocal Learning**|Julian Rodemann et.al.|[2408.06257](http://arxiv.org/abs/2408.06257)|null|
 |**2024-08-11**|**Contrastive masked auto-encoders based self-supervised hashing for 2D image and 3D point cloud cross-modal retrieval**|Rukai Wei et.al.|[2408.05711](http://arxiv.org/abs/2408.05711)|null|
@@ -2492,6 +2499,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-15**|**Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient**|Yanfan Zhu et.al.|[2408.07905](http://arxiv.org/abs/2408.07905)|**[link](https://github.com/hrlblab/topologicaldataanalysis3d)**|
 |**2024-08-11**|**Contrastive masked auto-encoders based self-supervised hashing for 2D image and 3D point cloud cross-modal retrieval**|Rukai Wei et.al.|[2408.05711](http://arxiv.org/abs/2408.05711)|null|
 |**2024-08-10**|**TOPGN: Real-time Transparent Obstacle Detection using Lidar Point Cloud Intensity for Autonomous Robot Navigation**|Kasun Weerakoon et.al.|[2408.05608](http://arxiv.org/abs/2408.05608)|null|
 |**2024-08-09**|**Deep joint source-channel coding for wireless point cloud transmission**|Cixiao Zhang et.al.|[2408.04889](http://arxiv.org/abs/2408.04889)|null|
