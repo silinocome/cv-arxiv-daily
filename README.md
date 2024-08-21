@@ -1247,6 +1247,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
 |**2024-08-15**|**DM2RM: Dual-Mode Multimodal Ranking for Target Objects and Receptacles Based on Open-Vocabulary Instructions**|Ryosuke Korekata et.al.|[2408.07910](http://arxiv.org/abs/2408.07910)|null|
@@ -1868,6 +1869,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
 |**2024-08-09**|**One Shot is Enough for Sequential Infrared Small Target Segmentation**|Bingbing Dan et.al.|[2408.04823](http://arxiv.org/abs/2408.04823)|null|
 |**2024-08-07**|**PRISM: PRogressive dependency maxImization for Scale-invariant image Matching**|Xudong Cai et.al.|[2408.03598](http://arxiv.org/abs/2408.03598)|null|
@@ -2087,6 +2089,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
+|**2024-08-19**|**DELIA: Diversity-Enhanced Learning for Instruction Adaptation in Large Language Models**|Yuanhao Zeng et.al.|[2408.10841](http://arxiv.org/abs/2408.10841)|null|
+|**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|null|
+|**2024-08-20**|**GPT-based Textile Pilling Classification Using 3D Point Cloud Data**|Yu Lu et.al.|[2408.10496](http://arxiv.org/abs/2408.10496)|null|
+|**2024-08-19**|**Stream-Based Ground Segmentation for Real-Time LiDAR Point Cloud Processing on FPGA**|Xiao Zhang et.al.|[2408.10410](http://arxiv.org/abs/2408.10410)|null|
+|**2024-08-19**|**Parallel Processing of Point Cloud Ground Segmentation for Mechanical and Solid-State LiDARs**|Xiao Zhang et.al.|[2408.10404](http://arxiv.org/abs/2408.10404)|null|
+|**2024-08-19**|**2-process Model and Residual Abundance Analysis of the Milky Way Massive Satellites**|Sten Hasselquist et.al.|[2408.10393](http://arxiv.org/abs/2408.10393)|null|
 |**2024-08-19**|**Improved background modeling for dark matter search with COSINE-100**|G. H. Yu et.al.|[2408.09806](http://arxiv.org/abs/2408.09806)|null|
 |**2024-08-18**|**Image-Based Geolocation Using Large Vision-Language Models**|Yi Liu et.al.|[2408.09474](http://arxiv.org/abs/2408.09474)|null|
 |**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
@@ -2513,6 +2522,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
+|**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|null|
+|**2024-08-20**|**GPT-based Textile Pilling Classification Using 3D Point Cloud Data**|Yu Lu et.al.|[2408.10496](http://arxiv.org/abs/2408.10496)|null|
 |**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
 |**2024-08-16**|**Zero-Shot Dual-Path Integration Framework for Open-Vocabulary 3D Instance Segmentation**|Tri Ton et.al.|[2408.08591](http://arxiv.org/abs/2408.08591)|null|
 |**2024-08-15**|**Persistence Image from 3D Medical Image: Superpixel and Optimized Gaussian Coefficient**|Yanfan Zhu et.al.|[2408.07905](http://arxiv.org/abs/2408.07905)|**[link](https://github.com/hrlblab/topologicaldataanalysis3d)**|
