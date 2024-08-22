@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**An Advanced Microscopic Energy Consumption Model for Automated Vehicle:Development, Calibration, Verification**|Ke Ma et.al.|[2408.11797](http://arxiv.org/abs/2408.11797)|null|
 |**2024-08-19**|**Don't Get Stuck: A Deadlock Recovery Approach**|Francesca Baldini et.al.|[2408.10167](http://arxiv.org/abs/2408.10167)|null|
 |**2024-08-19**|**Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey**|Ruiqi Zhang et.al.|[2408.09675](http://arxiv.org/abs/2408.09675)|**[link](https://github.com/huawei-noah/SMARTS)**|
 |**2024-08-17**|**Siamese Multiple Attention Temporal Convolution Networks for Human Mobility Signature Identification**|Zhipeng Zheng et.al.|[2408.09230](http://arxiv.org/abs/2408.09230)|null|
@@ -517,6 +518,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Autonomous Negotiation Using Comparison-Based Gradient Estimation**|Surya Murthy et.al.|[2408.11186](http://arxiv.org/abs/2408.11186)|**[link](https://github.com/suryakmurthy/auto_negotiation_cmpr)**|
 |**2024-08-14**|**A Survey on Blockchain-based Supply Chain Finance with Progress and Future directions**|Zhengdong Luo et.al.|[2408.08915](http://arxiv.org/abs/2408.08915)|null|
 |**2024-08-15**|**A Survey on Integrated Sensing, Communication, and Computation**|Dingzhu Wen et.al.|[2408.08074](http://arxiv.org/abs/2408.08074)|null|
 |**2024-08-05**|**Enhancing Supply Chain Visibility with Knowledge Graphs and Large Language Models**|Sara AlMahri et.al.|[2408.07705](http://arxiv.org/abs/2408.07705)|null|
@@ -800,6 +802,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
+|**2024-08-20**|**Robust Long-Range Perception Against Sensor Misalignment in Autonomous Vehicles**|Zi-Xiang Xia et.al.|[2408.11196](http://arxiv.org/abs/2408.11196)|null|
 |**2024-08-18**|**ALS-HAR: Harnessing Wearable Ambient Light Sensors to Enhance IMU-based HAR**|Lala Shakti Swarup Ray et.al.|[2408.09527](http://arxiv.org/abs/2408.09527)|null|
 |**2024-08-17**|**V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models**|Junwei You et.al.|[2408.09251](http://arxiv.org/abs/2408.09251)|null|
 |**2024-08-17**|**Segment Anything with Multiple Modalities**|Aoran Xiao et.al.|[2408.09085](http://arxiv.org/abs/2408.09085)|null|
@@ -1247,6 +1251,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305](http://arxiv.org/abs/2408.11305)|**[link](https://github.com/xiangyu-mm/unifashion)**|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-19**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|null|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
@@ -2089,6 +2095,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Intrinsic Alignments and Spin Correlations of [OII] Emitters at $z=1.2$ and $z=1.5$ from HSC Narrow-band Survey**|Motonari Tonegawa et.al.|[2408.11462](http://arxiv.org/abs/2408.11462)|null|
+|**2024-08-20**|**Compress Guidance in Conditional Diffusion Sampling**|Anh-Dung Dinh et.al.|[2408.11194](http://arxiv.org/abs/2408.11194)|null|
+|**2024-08-20**|**GUTs -- how common are they?**|Johannes Herms et.al.|[2408.11089](http://arxiv.org/abs/2408.11089)|null|
 |**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
 |**2024-08-19**|**DELIA: Diversity-Enhanced Learning for Instruction Adaptation in Large Language Models**|Yuanhao Zeng et.al.|[2408.10841](http://arxiv.org/abs/2408.10841)|null|
 |**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|null|
