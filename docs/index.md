@@ -507,6 +507,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**Decentralized Stochastic Control in Standard Borel Spaces: Centralized MDP Reductions, Near Optimality of Finite Window Local Information, and Q-Learning**|Omar Mrani-Zentar et.al.|[2408.13828](http://arxiv.org/abs/2408.13828)|null|
 |**2024-08-20**|**Autonomous Negotiation Using Comparison-Based Gradient Estimation**|Surya Murthy et.al.|[2408.11186](http://arxiv.org/abs/2408.11186)|**[link](https://github.com/suryakmurthy/auto_negotiation_cmpr)**|
 |**2024-08-14**|**A Survey on Blockchain-based Supply Chain Finance with Progress and Future directions**|Zhengdong Luo et.al.|[2408.08915](http://arxiv.org/abs/2408.08915)|null|
 |**2024-08-15**|**A Survey on Integrated Sensing, Communication, and Computation**|Dingzhu Wen et.al.|[2408.08074](http://arxiv.org/abs/2408.08074)|null|
@@ -789,6 +790,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Modular Meshed Ultra-Wideband Aided Inertial Navigation with Robust Anchor Calibration**|Roland Jung et.al.|[2408.14081](http://arxiv.org/abs/2408.14081)|null|
+|**2024-08-25**|**Time Series Analysis for Education: Methods, Applications, and Future Directions**|Shengzhong Mao et.al.|[2408.13960](http://arxiv.org/abs/2408.13960)|**[link](https://github.com/ai-for-edu/time-series-analysis-for-education)**|
+|**2024-08-24**|**Decentralised Gradient-based Variational Inference for Multi-sensor Fusion and Tracking in Clutter**|Qing Li et.al.|[2408.13689](http://arxiv.org/abs/2408.13689)|null|
 |**2024-08-23**|**EUR-USD Exchange Rate Forecasting Based on Information Fusion with Large Language Models and Deep Learning Methods**|Hongcheng Ding et.al.|[2408.13214](http://arxiv.org/abs/2408.13214)|null|
 |**2024-08-23**|**Indoor scene recognition from images under visual corruptions**|Willams de Lima Costa et.al.|[2408.13029](http://arxiv.org/abs/2408.13029)|null|
 |**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360](http://arxiv.org/abs/2408.12360)|null|
@@ -1239,6 +1243,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
+|**2024-08-15**|**Cross-Modal Denoising: A Novel Training Paradigm for Enhancing Speech-Image Retrieval**|Lifeng Zhou et.al.|[2408.13705](http://arxiv.org/abs/2408.13705)|null|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037](http://arxiv.org/abs/2408.12037)|null|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
@@ -1862,6 +1868,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
+|**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-14**|**RSD-DOG : A New Image Descriptor based on Second Order Derivatives**|Darshan Venkatrayappa et.al.|[2408.07687](http://arxiv.org/abs/2408.07687)|null|
@@ -2081,6 +2089,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays**|Frank Sippel et.al.|[2408.14050](http://arxiv.org/abs/2408.14050)|null|
+|**2024-08-26**|**The Calibration of Polycyclic Aromatic Hydrocarbon Dust Emission as a Star Formation Rate Indicator in the AKARI NEP Survey**|Helen Kyung Kim et.al.|[2408.14005](http://arxiv.org/abs/2408.14005)|null|
+|**2024-08-25**|**TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather**|Xiongwei Zhao et.al.|[2408.13802](http://arxiv.org/abs/2408.13802)|**[link](https://github.com/grandzxw/triplemixer)**|
+|**2024-08-25**|**Selectively Dilated Convolution for Accuracy-Preserving Sparse Pillar-based Embedded 3D Object Detection**|Seongmin Park et.al.|[2408.13798](http://arxiv.org/abs/2408.13798)|null|
+|**2024-08-25**|**Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval**|Wenrui Li et.al.|[2408.13712](http://arxiv.org/abs/2408.13712)|**[link](https://github.com/liwrui/rmarn)**|
+|**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
+|**2024-08-24**|**Uncovering Biases with Reflective Large Language Models**|Edward Y. Chang et.al.|[2408.13464](http://arxiv.org/abs/2408.13464)|null|
 |**2024-08-22**|**Does Spatial Information Improve Influenza Forecasting?**|Gabrielle Thivierge et.al.|[2408.12722](http://arxiv.org/abs/2408.12722)|null|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
 |**2024-08-21**|**MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**|Eyal Hanania et.al.|[2408.11992](http://arxiv.org/abs/2408.11992)|null|
@@ -2519,6 +2534,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-25**|**TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather**|Xiongwei Zhao et.al.|[2408.13802](http://arxiv.org/abs/2408.13802)|**[link](https://github.com/grandzxw/triplemixer)**|
+|**2024-08-25**|**Selectively Dilated Convolution for Accuracy-Preserving Sparse Pillar-based Embedded 3D Object Detection**|Seongmin Park et.al.|[2408.13798](http://arxiv.org/abs/2408.13798)|null|
+|**2024-08-25**|**Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval**|Wenrui Li et.al.|[2408.13712](http://arxiv.org/abs/2408.13712)|**[link](https://github.com/liwrui/rmarn)**|
+|**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
 |**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322](http://arxiv.org/abs/2408.12322)|null|
 |**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
