@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Variational Mode-Driven Graph Convolutional Network for Spatiotemporal Traffic Forecasting**|Osama Ahmad et.al.|[2408.16191](http://arxiv.org/abs/2408.16191)|**[link](https://github.com/OsamaAhmad369/VMGCN)**|
 |**2024-08-27**|**On Mobility Equity and the Promise of Emerging Transportation Systems**|Heeseung Bang et.al.|[2408.15401](http://arxiv.org/abs/2408.15401)|null|
 |**2024-08-27**|**Towards Safe Autonomous Intersection Management: Temporal Logic-based Safety Filters for Vehicle Coordination**|Kaj Munhoz Arfvidsson et.al.|[2408.14870](http://arxiv.org/abs/2408.14870)|null|
 |**2024-08-27**|**DRL-Based Federated Self-Supervised Learning for Task Offloading and Resource Allocation in ISAC-Enabled Vehicle Edge Computing**|Xueying Gu et.al.|[2408.14831](http://arxiv.org/abs/2408.14831)|**[link](https://github.com/qiongwu86/federated-ssl-task-offloading-and-resource-allocation)**|
@@ -510,6 +511,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**MICDrop: Masking Image and Depth Features via Complementary Dropout for Domain-Adaptive Semantic Segmentation**|Linyan Yang et.al.|[2408.16478](http://arxiv.org/abs/2408.16478)|null|
+|**2024-08-29**|**Neural Spectral Decomposition for Dataset Distillation**|Shaolei Yang et.al.|[2408.16236](http://arxiv.org/abs/2408.16236)|null|
 |**2024-08-28**|**Network Representation of Higher-Order Interactions Based on Information Dynamics**|Gorana Mijatovic et.al.|[2408.15617](http://arxiv.org/abs/2408.15617)|null|
 |**2024-08-25**|**Decentralized Stochastic Control in Standard Borel Spaces: Centralized MDP Reductions, Near Optimality of Finite Window Local Information, and Q-Learning**|Omar Mrani-Zentar et.al.|[2408.13828](http://arxiv.org/abs/2408.13828)|null|
 |**2024-08-20**|**Autonomous Negotiation Using Comparison-Based Gradient Estimation**|Surya Murthy et.al.|[2408.11186](http://arxiv.org/abs/2408.11186)|**[link](https://github.com/suryakmurthy/auto_negotiation_cmpr)**|
@@ -794,6 +797,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Accelerating Sensor Fusion in Neuromorphic Computing: A Case Study on Loihi-2**|Murat Isik et.al.|[2408.16096](http://arxiv.org/abs/2408.16096)|null|
+|**2024-08-27**|**XG-NID: Dual-Modality Network Intrusion Detection using a Heterogeneous Graph Neural Network and Large Language Model**|Yasir Ali Farrukh et.al.|[2408.16021](http://arxiv.org/abs/2408.16021)|null|
 |**2024-08-22**|**Multimodal Methods for Analyzing Learning and Training Environments: A Systematic Literature Review**|Clayton Cohn et.al.|[2408.14491](http://arxiv.org/abs/2408.14491)|null|
 |**2024-08-26**|**Modular Meshed Ultra-Wideband Aided Inertial Navigation with Robust Anchor Calibration**|Roland Jung et.al.|[2408.14081](http://arxiv.org/abs/2408.14081)|null|
 |**2024-08-27**|**Time Series Analysis for Education: Methods, Applications, and Future Directions**|Shengzhong Mao et.al.|[2408.13960](http://arxiv.org/abs/2408.13960)|**[link](https://github.com/ai-for-edu/time-series-analysis-for-education)**|
@@ -1248,6 +1253,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**|Kengo Nakata et.al.|[2408.16296](http://arxiv.org/abs/2408.16296)|null|
 |**2024-08-28**|**Temporal Attention for Cross-View Sequential Image Localization**|Dong Yuan et.al.|[2408.15569](http://arxiv.org/abs/2408.15569)|**[link](https://github.com/UQ-DongYuan/CVSeqLocation)**|
 |**2024-08-27**|**Snap and Diagnose: An Advanced Multimodal Retrieval System for Identifying Plant Diseases in the Wild**|Tianqi Wei et.al.|[2408.14723](http://arxiv.org/abs/2408.14723)|null|
 |**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
@@ -1875,6 +1881,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Super-Resolution works for coastal simulations**|Zhi-Song Liu et.al.|[2408.16553](http://arxiv.org/abs/2408.16553)|null|
+|**2024-08-29**|**Mismatched: Evaluating the Limits of Image Matching Approaches and Benchmarks**|Sierra Bonilla et.al.|[2408.16445](http://arxiv.org/abs/2408.16445)|**[link](https://github.com/surgical-vision/colmap-match-converter)**|
 |**2024-08-26**|**Affine steerers for structured keypoint description**|Georg Bökman et.al.|[2408.14186](http://arxiv.org/abs/2408.14186)|**[link](https://github.com/georg-bn/affine-steerers)**|
 |**2024-08-25**|**TranSplat: Generalizable 3D Gaussian Splatting from Sparse Multi-View Images with Transformers**|Chuanrui Zhang et.al.|[2408.13770](http://arxiv.org/abs/2408.13770)|null|
 |**2024-08-15**|**Coarse-to-fine Alignment Makes Better Speech-image Retrieval**|Lifeng Zhou et.al.|[2408.13119](http://arxiv.org/abs/2408.13119)|null|
@@ -2096,6 +2104,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-29**|**Thermoelectric Properties of Type-I and Type-II Nodal Line Semimetals: A Comparative Study**|Mohammad Norman Gaza Laksono et.al.|[2408.16644](http://arxiv.org/abs/2408.16644)|null|
+|**2024-08-29**|**Improving 3D deep learning segmentation with biophysically motivated cell synthesis**|Roman Bruch et.al.|[2408.16471](http://arxiv.org/abs/2408.16471)|null|
 |**2024-08-28**|**More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding**|Yuan Tang et.al.|[2408.15966](http://arxiv.org/abs/2408.15966)|null|
 |**2024-08-28**|**PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**|Kaiqiao Yang et.al.|[2408.15583](http://arxiv.org/abs/2408.15583)|null|
 |**2024-08-27**|**Revealing Potential Initial Mass Function variations with metallicity: JWST observations of young open clusters in a low-metallicity environment**|Chikako Yasui et.al.|[2408.15440](http://arxiv.org/abs/2408.15440)|null|
