@@ -2112,7 +2112,7 @@ layout: default
 |**2024-08-27**|**Hybrid Plant Models Call for a Different Plant Modelling Paradigm and a New Generation of Software (Heresy in the land of moles, fractions, & rigorous physical properties)**|Vladimir Mahalec et.al.|[2408.15415](http://arxiv.org/abs/2408.15415)|null|
 |**2024-08-27**|**A novel method to separate circadian from non-circadian masking effects in order to enhance daily circadian timing and amplitude estimation from core body temperature**|Phuc D Nguyen et.al.|[2408.15295](http://arxiv.org/abs/2408.15295)|null|
 |**2024-08-26**|**BreakNet: Discontinuity-Resilient Multi-Scale Transformer Segmentation of Retinal Layers**|Razieh Ganjee et.al.|[2408.14606](http://arxiv.org/abs/2408.14606)|null|
-|**2024-08-26**|**Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays**|Frank Sippel et.al.|[2408.14050](http://arxiv.org/abs/2408.14050)|null|
+|**2024-08-26**|**Fast Edge-Aware Occlusion Detection in the Context of Multispectral Camera Arrays**|Frank Sippel et.al.|[2408.14050](http://arxiv.org/abs/2408.14050)|**[link](https://github.com/fau-lms/fast-occlusion-detection)**|
 |**2024-08-26**|**The Calibration of Polycyclic Aromatic Hydrocarbon Dust Emission as a Star Formation Rate Indicator in the AKARI NEP Survey**|Helen Kyung Kim et.al.|[2408.14005](http://arxiv.org/abs/2408.14005)|null|
 |**2024-08-25**|**TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather**|Xiongwei Zhao et.al.|[2408.13802](http://arxiv.org/abs/2408.13802)|**[link](https://github.com/grandzxw/triplemixer)**|
 |**2024-08-25**|**Selectively Dilated Convolution for Accuracy-Preserving Sparse Pillar-based Embedded 3D Object Detection**|Seongmin Park et.al.|[2408.13798](http://arxiv.org/abs/2408.13798)|null|
@@ -2463,7 +2463,7 @@ layout: default
 |**2024-01-26**|**Modeling the wavelength dependence of photo-response non-uniformity of a CCD sensor**|Zun Luo et.al.|[2401.14944](http://arxiv.org/abs/2401.14944)|null|
 |**2024-01-26**|**PARSAC: Accelerating Robust Multi-Model Fitting with Parallel Sample Consensus**|Florian Kluger et.al.|[2401.14919](http://arxiv.org/abs/2401.14919)|**[link](https://github.com/fkluger/parsac)**|
 |**2024-01-24**|**Acceleration of the Solar Wind by Ambipolar Electric Field**|Viviane Pierrard et.al.|[2401.13308](http://arxiv.org/abs/2401.13308)|null|
-|**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
+|**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|**[link](https://github.com/eaphan/nclr)**|
 |**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836](http://arxiv.org/abs/2401.11836)|null|
 |**2024-01-21**|**Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Latent Dynamics Model**|Peng Zhou et.al.|[2401.11432](http://arxiv.org/abs/2401.11432)|null|
 |**2024-01-20**|**RoTIR: Rotation-Equivariant Network and Transformers for Fish Scale Image Registration**|Ruixiong Wang et.al.|[2401.11270](http://arxiv.org/abs/2401.11270)|null|
@@ -2672,7 +2672,7 @@ layout: default
 |**2024-01-31**|**Distance and Collision Probability Estimation from Gaussian Surface Models**|Kshitij Goel et.al.|[2402.00186](http://arxiv.org/abs/2402.00186)|null|
 |**2024-01-29**|**DeFlow: Decoder of Scene Flow Network in Autonomous Driving**|Qingwen Zhang et.al.|[2401.16122](http://arxiv.org/abs/2401.16122)|**[link](https://github.com/kth-rpl/deflow)**|
 |**2024-01-26**|**Harnessing Deep Learning of Point Clouds for Inverse Control of 3D Shape Morphing**|Jue Wang et.al.|[2401.15219](http://arxiv.org/abs/2401.15219)|null|
-|**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|null|
+|**2024-01-23**|**Self-supervised Learning of LiDAR 3D Point Clouds via 2D-3D Neural Calibration**|Yifan Zhang et.al.|[2401.12452](http://arxiv.org/abs/2401.12452)|**[link](https://github.com/eaphan/nclr)**|
 |**2024-01-21**|**Bimanual Deformable Bag Manipulation Using a Structure-of-Interest Based Latent Dynamics Model**|Peng Zhou et.al.|[2401.11432](http://arxiv.org/abs/2401.11432)|null|
 |**2024-02-08**|**PPSURF: Combining Patches and Point Convolutions for Detailed Surface Reconstruction**|Philipp Erler et.al.|[2401.08518](http://arxiv.org/abs/2401.08518)|**[link](https://github.com/cg-tuwien/ppsurf)**|
 |**2024-01-15**|**Online Learning of Piecewise Polynomial Signed Distance Fields for Manipulation Tasks**|Ante Marić et.al.|[2401.07698](http://arxiv.org/abs/2401.07698)|null|
