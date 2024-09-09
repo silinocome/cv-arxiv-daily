@@ -25,7 +25,7 @@ layout: default
 |**2024-08-30**|**Transient Fault Tolerant Semantic Segmentation for Autonomous Driving**|Leonardo Iurada et.al.|[2408.16952](http://arxiv.org/abs/2408.16952)|**[link](https://github.com/iurada/neutron-segmentation)**|
 |**2024-08-29**|**Variational Mode-Driven Graph Convolutional Network for Spatiotemporal Traffic Forecasting**|Osama Ahmad et.al.|[2408.16191](http://arxiv.org/abs/2408.16191)|**[link](https://github.com/OsamaAhmad369/VMGCN)**|
 |**2024-08-27**|**On Mobility Equity and the Promise of Emerging Transportation Systems**|Heeseung Bang et.al.|[2408.15401](http://arxiv.org/abs/2408.15401)|null|
-|**2024-08-27**|**Towards Safe Autonomous Intersection Management: Temporal Logic-based Safety Filters for Vehicle Coordination**|Kaj Munhoz Arfvidsson et.al.|[2408.14870](http://arxiv.org/abs/2408.14870)|null|
+|**2024-08-27**|**Towards Safe Autonomous Intersection Management: Temporal Logic-based Safety Filters for Vehicle Coordination**|Kaj Munhoz Arfvidsson et.al.|[2408.14870](http://arxiv.org/abs/2408.14870)|**[link](https://github.com/kaarmu/safe_intersections)**|
 |**2024-08-27**|**DRL-Based Federated Self-Supervised Learning for Task Offloading and Resource Allocation in ISAC-Enabled Vehicle Edge Computing**|Xueying Gu et.al.|[2408.14831](http://arxiv.org/abs/2408.14831)|**[link](https://github.com/qiongwu86/federated-ssl-task-offloading-and-resource-allocation)**|
 |**2024-09-01**|**Can LLMs Understand Social Norms in Autonomous Driving Games?**|Boxuan Wang et.al.|[2408.12680](http://arxiv.org/abs/2408.12680)|null|
 |**2024-08-21**|**An Advanced Microscopic Energy Consumption Model for Automated Vehicle:Development, Calibration, Verification**|Ke Ma et.al.|[2408.11797](http://arxiv.org/abs/2408.11797)|null|
@@ -34,7 +34,7 @@ layout: default
 |**2024-08-17**|**Siamese Multiple Attention Temporal Convolution Networks for Human Mobility Signature Identification**|Zhipeng Zheng et.al.|[2408.09230](http://arxiv.org/abs/2408.09230)|null|
 |**2024-08-16**|**A Transparency Paradox? Investigating the Impact of Explanation Specificity and Autonomous Vehicle Perceptual Inaccuracies on Passengers**|Daniel Omeiza et.al.|[2408.08785](http://arxiv.org/abs/2408.08785)|null|
 |**2024-08-14**|**SigmaRL: A Sample-Efficient and Generalizable Multi-Agent Reinforcement Learning Framework for Motion Planning**|Jianye Xu et.al.|[2408.07644](http://arxiv.org/abs/2408.07644)|**[link](https://github.com/cas-lab-munich/sigmarl)**|
-|**2024-08-14**|**Enhancing Autonomous Vehicle Perception in Adverse Weather through Image Augmentation during Semantic Segmentation Training**|Ethan Kou et.al.|[2408.07239](http://arxiv.org/abs/2408.07239)|null|
+|**2024-08-14**|**Enhancing Autonomous Vehicle Perception in Adverse Weather through Image Augmentation during Semantic Segmentation Training**|Ethan Kou et.al.|[2408.07239](http://arxiv.org/abs/2408.07239)|**[link](https://github.com/bubblybingbong/augmentationsegmentation)**|
 |**2024-08-13**|**Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions**|Miao Zhang et.al.|[2408.06772](http://arxiv.org/abs/2408.06772)|null|
 |**2024-08-11**|**Landmark-based Vehicle Self-Localization Using Automotive Polarimetric Radars**|Fabio Weishaupt et.al.|[2408.05811](http://arxiv.org/abs/2408.05811)|null|
 |**2024-08-11**|**A Training-Free Framework for Video License Plate Tracking and Recognition with Only One-Shot**|Haoxuan Ding et.al.|[2408.05729](http://arxiv.org/abs/2408.05729)|**[link](https://github.com/dinghaoxuan/oneshotlp)**|
@@ -148,7 +148,7 @@ layout: default
 |**2024-04-05**|**Validation of critical maneuvers based on shared control**|Mauricio Marcano et.al.|[2404.04011](http://arxiv.org/abs/2404.04011)|null|
 |**2024-04-03**|**Cultural influence on autonomous vehicles acceptance**|Chowdhury Shahriar Muzammel et.al.|[2404.03694](http://arxiv.org/abs/2404.03694)|null|
 |**2024-04-04**|**CORP: A Multi-Modal Dataset for Campus-Oriented Roadside Perception Tasks**|Beibei Wang et.al.|[2404.03191](http://arxiv.org/abs/2404.03191)|null|
-|**2024-04-03**|**Explainable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|null|
+|**2024-04-03**|**Explainable Traffic Flow Prediction with Large Language Models**|Xusen Guo et.al.|[2404.02937](http://arxiv.org/abs/2404.02937)|**[link](https://github.com/guoxs/xtp-llm)**|
 |**2024-04-04**|**CARLOS: An Open, Modular, and Scalable Simulation Framework for the Development and Testing of Software for C-ITS**|Christian Geller et.al.|[2404.01836](http://arxiv.org/abs/2404.01836)|**[link](https://github.com/ika-rwth-aachen/carlos)**|
 |**2024-04-01**|**The Radar Ghost Dataset -- An Evaluation of Ghost Objects in Automotive Radar Data**|Florian Kraus et.al.|[2404.01437](http://arxiv.org/abs/2404.01437)|**[link](https://github.com/flkraus/ghosts)**|
 |**2024-04-01**|**Scalable Radar-based ITS: Self-localization and Occupancy Heat Map for Traffic Analysis**|Longfei Han et.al.|[2404.01166](http://arxiv.org/abs/2404.01166)|null|
@@ -1183,7 +1183,7 @@ layout: default
 |**2023-05-05**|**Random Tensor Inequalities and Tail bounds for Bivariate Random Tensor Means, Part II**|Shih-Yu Chang et.al.|[2305.03305](http://arxiv.org/abs/2305.03305)|null|
 |**2023-05-03**|**Zenseact Open Dataset: A large-scale and diverse multimodal dataset for autonomous driving**|Mina Alibeigi et.al.|[2305.02008](http://arxiv.org/abs/2305.02008)|**[link](https://github.com/zenseact/zod)**|
 |**2023-05-01**|**Fusing Trial Data for Treatment Comparisons: Single versus Multi-Span Bridging**|Bonnie E. Shook-Sa et.al.|[2305.00845](http://arxiv.org/abs/2305.00845)|**[link](https://github.com/bonnieshook/bridgedtreatmentcomparisons)**|
-|**2023-04-28**|**Fusion is Not Enough: Single-Modal Attacks to Compromise Fusion Models in Autonomous Driving**|Zhiyuan Cheng et.al.|[2304.14614](http://arxiv.org/abs/2304.14614)|null|
+|**2023-04-28**|**Fusion is Not Enough: Single-Modal Attacks to Compromise Fusion Models in Autonomous Driving**|Zhiyuan Cheng et.al.|[2304.14614](http://arxiv.org/abs/2304.14614)|**[link](https://github.com/bob-cheng/cl-fusionattack)**|
 |**2023-04-03**|**Transformer-based interpretable multi-modal data fusion for skin lesion classification**|Theodor Cheslerean-Boghiu et.al.|[2304.14505](http://arxiv.org/abs/2304.14505)|null|
 |**2023-04-26**|**Group Equivariant BEV for 3D Object Detection**|Hongwei Liu et.al.|[2304.13390](http://arxiv.org/abs/2304.13390)|null|
 |**2023-04-28**|**Bibliometric Data Fusion for Biomedical Information Retrieval**|Timo Breuer et.al.|[2304.13012](http://arxiv.org/abs/2304.13012)|null|
@@ -2166,7 +2166,7 @@ layout: default
 |**2024-08-25**|**Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval**|Wenrui Li et.al.|[2408.13712](http://arxiv.org/abs/2408.13712)|**[link](https://github.com/liwrui/rmarn)**|
 |**2024-08-24**|**Evaluating the Robustness of LiDAR-based 3D Obstacles Detection and Its Impacts on Autonomous Driving Systems**|Tri Minh Triet Pham et.al.|[2408.13653](http://arxiv.org/abs/2408.13653)|null|
 |**2024-08-24**|**Uncovering Biases with Reflective Large Language Models**|Edward Y. Chang et.al.|[2408.13464](http://arxiv.org/abs/2408.13464)|null|
-|**2024-08-22**|**Does Spatial Information Improve Influenza Forecasting?**|Gabrielle Thivierge et.al.|[2408.12722](http://arxiv.org/abs/2408.12722)|null|
+|**2024-08-22**|**Does Spatial Information Improve Influenza Forecasting?**|Gabrielle Thivierge et.al.|[2408.12722](http://arxiv.org/abs/2408.12722)|**[link](https://github.com/gthivierge/spatial-flu-forecasting)**|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
 |**2024-08-21**|**MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**|Eyal Hanania et.al.|[2408.11992](http://arxiv.org/abs/2408.11992)|null|
 |**2024-08-21**|**Time-Evolution Images of the Hypergiant RW Cephei During the Re-brightening Phase Following the Great Dimming**|Narsireddy Anugu et.al.|[2408.11906](http://arxiv.org/abs/2408.11906)|null|
@@ -2233,7 +2233,7 @@ layout: default
 |**2024-07-14**|**3DEgo: 3D Editing on the Go!**|Umar Khalid et.al.|[2407.10102](http://arxiv.org/abs/2407.10102)|null|
 |**2024-07-12**|**The Orbit and Dynamical Mass of Polaris: Observations with the CHARA Array**|Nancy Remage Evans et.al.|[2407.09641](http://arxiv.org/abs/2407.09641)|null|
 |**2024-07-12**|**Strangeness-Correlations on the pseudo-critical line in (2+1)-flavor QCD**|D. Bollweg et.al.|[2407.09335](http://arxiv.org/abs/2407.09335)|null|
-|**2024-07-12**|**WSESeg: Introducing a Dataset for the Segmentation of Winter Sports Equipment with a Baseline for Interactive Segmentation**|Robin Schön et.al.|[2407.09288](http://arxiv.org/abs/2407.09288)|null|
+|**2024-07-12**|**WSESeg: Introducing a Dataset for the Segmentation of Winter Sports Equipment with a Baseline for Interactive Segmentation**|Robin Schön et.al.|[2407.09288](http://arxiv.org/abs/2407.09288)|**[link](https://github.com/schorob/wseseg)**|
 |**2024-07-12**|**HUP-3D: A 3D multi-view synthetic dataset for assisted-egocentric hand-ultrasound pose estimation**|Manuel Birlo et.al.|[2407.09215](http://arxiv.org/abs/2407.09215)|null|
 |**2024-07-10**|**High-resolution Elemental Abundance Measurements of Cool JWST Planet Hosts Using AutoSpecFit: An Application to the Sub-Neptune K2-18b's Host M dwarf**|Neda Hejazi et.al.|[2407.07869](http://arxiv.org/abs/2407.07869)|null|
 |**2024-07-10**|**Motion simulation of radio-labeled cells in whole-body positron emission tomography**|Nils Marquardt et.al.|[2407.07709](http://arxiv.org/abs/2407.07709)|null|
