@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification**|Junzhou Chen et.al.|[2409.05587](http://arxiv.org/abs/2409.05587)|null|
+|**2024-09-08**|**UMOD: A Novel and Effective Urban Metro Origin-Destination Flow Prediction Method**|Peng Xie et.al.|[2409.04942](http://arxiv.org/abs/2409.04942)|null|
+|**2024-09-06**|**Digital Twin Enabled Data-Driven Approach for Traffic Efficiency and Software-Defined Vehicular Network Optimization**|Mohammad Sajid Shahriar et.al.|[2409.04622](http://arxiv.org/abs/2409.04622)|null|
 |**2024-09-05**|**Analytical Optimized Traffic Flow Recovery for Large-scale Urban Transportation Network**|Sicheng Fu et.al.|[2409.03906](http://arxiv.org/abs/2409.03906)|null|
 |**2024-09-04**|**Towards Edge-Based Data Lake Architecture for Intelligent Transportation System**|Danilo Fernandes et.al.|[2409.02808](http://arxiv.org/abs/2409.02808)|null|
 |**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[2409.02676](http://arxiv.org/abs/2409.02676)|null|
@@ -533,6 +536,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Design and Implementation of TAO DAQ System**|Shuihan Zhang et.al.|[2409.05522](http://arxiv.org/abs/2409.05522)|null|
+|**2024-09-07**|**Towards identifying Source credibility on Information Leakage in Digital Gadget Market**|Neha Kumaru et.al.|[2409.04880](http://arxiv.org/abs/2409.04880)|null|
+|**2024-09-07**|**IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity**|Derek Ming Siang Tan et.al.|[2409.04730](http://arxiv.org/abs/2409.04730)|null|
 |**2024-09-06**|**Active learning for regression in engineering populations: A risk-informed approach**|Daniel R. Clarkson et.al.|[2409.04328](http://arxiv.org/abs/2409.04328)|null|
 |**2024-08-31**|**Multi-Task Combinatorial Bandits for Budget Allocation**|Lin Ge et.al.|[2409.00561](http://arxiv.org/abs/2409.00561)|null|
 |**2024-08-31**|**Evaluation of Prosumer Networks for Peak Load Management in Iran: A Distributed Contextual Stochastic Optimization Approach**|Amir Noori et.al.|[2409.00493](http://arxiv.org/abs/2409.00493)|null|
@@ -1290,6 +1296,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|null|
+|**2024-09-09**|**Open-World Dynamic Prompt and Continual Visual Representation Learning**|Youngeun Kim et.al.|[2409.05312](http://arxiv.org/abs/2409.05312)|null|
+|**2024-09-07**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
+|**2024-09-06**|**Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models**|Saghir Alfasly et.al.|[2409.04631](http://arxiv.org/abs/2409.04631)|null|
 |**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu et.al.|[2409.04178](http://arxiv.org/abs/2409.04178)|null|
 |**2024-09-04**|**Design and Evaluation of Camera-Centric Mobile Crowdsourcing Applications**|Abby Stylianou et.al.|[2409.03012](http://arxiv.org/abs/2409.03012)|null|
 |**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343](http://arxiv.org/abs/2409.02343)|**[link](https://github.com/szeighami/nudge)**|
@@ -2158,6 +2168,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**Extracting the U.S. building types from OpenStreetMap data**|Henrique F. de Arruda et.al.|[2409.05692](http://arxiv.org/abs/2409.05692)|**[link](https://github.com/gmuggs/osm-building-classification)**|
+|**2024-09-09**|**Efficient nonparametric estimators of discriminationmeasures with censored survival data**|Marie S. Breum et.al.|[2409.05632](http://arxiv.org/abs/2409.05632)|null|
+|**2024-09-08**|**TanDepth: Leveraging Global DEMs for Metric Monocular Depth Estimation in UAVs**|Horatiu Florea et.al.|[2409.05142](http://arxiv.org/abs/2409.05142)|null|
+|**2024-09-06**|**A new atmospheric characterization of the sub-stellar companion HR\,2562\,B with JWST/MIRI observations**|Nicolás Godoy et.al.|[2409.04524](http://arxiv.org/abs/2409.04524)|null|
 |**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390](http://arxiv.org/abs/2409.04390)|null|
 |**2024-09-06**|**Fitting the Discrete Swept Skeletal Representation to Slabular Objects**|Mohsen Taheri et.al.|[2409.04079](http://arxiv.org/abs/2409.04079)|null|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
