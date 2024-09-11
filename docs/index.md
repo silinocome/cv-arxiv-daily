@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-08**|**STLLM-DF: A Spatial-Temporal Large Language Model with Diffusion for Enhanced Multi-Mode Traffic System Forecasting**|Zhiqi Shao et.al.|[2409.05921](http://arxiv.org/abs/2409.05921)|null|
 |**2024-09-09**|**DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification**|Junzhou Chen et.al.|[2409.05587](http://arxiv.org/abs/2409.05587)|null|
 |**2024-09-08**|**UMOD: A Novel and Effective Urban Metro Origin-Destination Flow Prediction Method**|Peng Xie et.al.|[2409.04942](http://arxiv.org/abs/2409.04942)|null|
 |**2024-09-06**|**Digital Twin Enabled Data-Driven Approach for Traffic Efficiency and Software-Defined Vehicular Network Optimization**|Mohammad Sajid Shahriar et.al.|[2409.04622](http://arxiv.org/abs/2409.04622)|null|
@@ -817,6 +818,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693](http://arxiv.org/abs/2409.06693)|null|
+|**2024-09-09**|**Advance and Refinement: The Evolution of UAV Detection and Classification Technologies**|Vladislav Semenyuk et.al.|[2409.05985](http://arxiv.org/abs/2409.05985)|null|
 |**2024-09-05**|**Sensor fusion luminescence thermometry better together**|Aleksandar Ćirić et.al.|[2409.03479](http://arxiv.org/abs/2409.03479)|null|
 |**2024-09-05**|**An innovation-based cycle-slip, multipath estimation, detection and mitigation method for tightly coupled GNSS/INS/Vision navigation in urban areas**|Bo Xu et.al.|[2409.03433](http://arxiv.org/abs/2409.03433)|null|
 |**2024-09-05**|**Bi-capacity Choquet Integral for Sensor Fusion with Label Uncertainty**|Hersh Vakharia et.al.|[2409.03212](http://arxiv.org/abs/2409.03212)|**[link](https://github.com/hvak/bi-michi)**|
@@ -1280,6 +1283,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
+|**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
+|**2024-09-10**|**A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions**|Zhicong Wu et.al.|[2409.06381](http://arxiv.org/abs/2409.06381)|null|
 |**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|null|
 |**2024-09-09**|**Open-World Dynamic Prompt and Continual Visual Representation Learning**|Youngeun Kim et.al.|[2409.05312](http://arxiv.org/abs/2409.05312)|null|
 |**2024-09-07**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
@@ -1921,6 +1927,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
 |**2024-09-04**|**A General Albedo Recovery Approach for Aerial Photogrammetric Images through Inverse Rendering**|Shuang Song et.al.|[2409.03032](http://arxiv.org/abs/2409.03032)|null|
 |**2024-08-29**|**Super-Resolution works for coastal simulations**|Zhi-Song Liu et.al.|[2408.16553](http://arxiv.org/abs/2408.16553)|null|
@@ -2146,6 +2153,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Towards Localizing Structural Elements: Merging Geometrical Detection with Semantic Verification in RGB-D Data**|Ali Tourani et.al.|[2409.06625](http://arxiv.org/abs/2409.06625)|null|
+|**2024-09-10**|**Enhancing Temporal Understanding in Audio Question Answering for Large Audio Language Models**|Arvind Krishna Sridhar et.al.|[2409.06223](http://arxiv.org/abs/2409.06223)|null|
+|**2024-09-10**|**UdeerLID+: Integrating LiDAR, Image, and Relative Depth with Semi-Supervised**|Tao Ni et.al.|[2409.06197](http://arxiv.org/abs/2409.06197)|null|
+|**2024-09-10**|**Revisiting Prompt Pretraining of Vision-Language Models**|Zhenyuan Chen et.al.|[2409.06166](http://arxiv.org/abs/2409.06166)|null|
 |**2024-09-09**|**Extracting the U.S. building types from OpenStreetMap data**|Henrique F. de Arruda et.al.|[2409.05692](http://arxiv.org/abs/2409.05692)|**[link](https://github.com/gmuggs/osm-building-classification)**|
 |**2024-09-09**|**Efficient nonparametric estimators of discriminationmeasures with censored survival data**|Marie S. Breum et.al.|[2409.05632](http://arxiv.org/abs/2409.05632)|null|
 |**2024-09-08**|**TanDepth: Leveraging Global DEMs for Metric Monocular Depth Estimation in UAVs**|Horatiu Florea et.al.|[2409.05142](http://arxiv.org/abs/2409.05142)|null|
@@ -2623,6 +2634,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**Towards Localizing Structural Elements: Merging Geometrical Detection with Semantic Verification in RGB-D Data**|Ali Tourani et.al.|[2409.06625](http://arxiv.org/abs/2409.06625)|null|
+|**2024-09-10**|**UdeerLID+: Integrating LiDAR, Image, and Relative Depth with Semi-Supervised**|Tao Ni et.al.|[2409.06197](http://arxiv.org/abs/2409.06197)|null|
 |**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390](http://arxiv.org/abs/2409.04390)|null|
 |**2024-09-04**|**A Low-Cost Real-Time Spiking System for Obstacle Detection based on Ultrasonic Sensors and Rate Coding**|Alvaro Ayuso-Martinez et.al.|[2409.02680](http://arxiv.org/abs/2409.02680)|null|
 |**2024-09-04**|**Boosting Generalizability towards Zero-Shot Cross-Dataset Single-Image Indoor Depth by Meta-Initialization**|Cho-Ying Wu et.al.|[2409.02486](http://arxiv.org/abs/2409.02486)|null|
