@@ -2177,6 +2177,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE**|Sichun Wu et.al.|[2409.07966](http://arxiv.org/abs/2409.07966)|**[link](https://github.com/uuembodiedsocialai/probtalk3d)**|
+|**2024-09-11**|**Does time to retreatment matter? An NTCP model to predict radionecrosis after repeat SRS for recurrent brain metastases incorporating time-dependent discounted dose**|Manju Sharma et.al.|[2409.07647](http://arxiv.org/abs/2409.07647)|null|
 |**2024-09-10**|**Bifurcation Identification for Ultrasound-driven Robotic Cannulation**|Cecilia G. Morales et.al.|[2409.06817](http://arxiv.org/abs/2409.06817)|null|
 |**2024-09-10**|**Towards Localizing Structural Elements: Merging Geometrical Detection with Semantic Verification in RGB-D Data**|Ali Tourani et.al.|[2409.06625](http://arxiv.org/abs/2409.06625)|null|
 |**2024-09-10**|**Enhancing Temporal Understanding in Audio Question Answering for Large Audio Language Models**|Arvind Krishna Sridhar et.al.|[2409.06223](http://arxiv.org/abs/2409.06223)|null|
@@ -2661,6 +2663,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**MosquitoMiner: A Light Weight Rover for Detecting and Eliminating Mosquito Breeding Sites**|Md. Adnanul Islam et.al.|[2409.08078](http://arxiv.org/abs/2409.08078)|**[link](https://github.com/faiyazabdullah/MosquitoMiner)**|
 |**2024-09-10**|**Towards Localizing Structural Elements: Merging Geometrical Detection with Semantic Verification in RGB-D Data**|Ali Tourani et.al.|[2409.06625](http://arxiv.org/abs/2409.06625)|null|
 |**2024-09-10**|**UdeerLID+: Integrating LiDAR, Image, and Relative Depth with Semi-Supervised**|Tao Ni et.al.|[2409.06197](http://arxiv.org/abs/2409.06197)|null|
 |**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390](http://arxiv.org/abs/2409.04390)|null|
@@ -2669,7 +2672,7 @@
 |**2024-09-03**|**GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting**|Zixuan Guo et.al.|[2409.01581](http://arxiv.org/abs/2409.01581)|null|
 |**2024-09-02**|**ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers**|Luoyu Mei et.al.|[2409.01216](http://arxiv.org/abs/2409.01216)|**[link](https://github.com/lymei-seu/esp-pct)**|
 |**2024-08-31**|**RI-MAE: Rotation-Invariant Masked AutoEncoders for Self-Supervised Point Cloud Representation Learning**|Kunming Su et.al.|[2409.00353](http://arxiv.org/abs/2409.00353)|null|
-|**2024-09-05**|**More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding**|Yuan Tang et.al.|[2408.15966](http://arxiv.org/abs/2408.15966)|null|
+|**2024-09-05**|**More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding**|Yuan Tang et.al.|[2408.15966](http://arxiv.org/abs/2408.15966)|**[link](https://github.com/tangyuan96/greenplm)**|
 |**2024-08-28**|**PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**|Kaiqiao Yang et.al.|[2408.15583](http://arxiv.org/abs/2408.15583)|null|
 |**2024-08-25**|**TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather**|Xiongwei Zhao et.al.|[2408.13802](http://arxiv.org/abs/2408.13802)|**[link](https://github.com/grandzxw/triplemixer)**|
 |**2024-08-25**|**Selectively Dilated Convolution for Accuracy-Preserving Sparse Pillar-based Embedded 3D Object Detection**|Seongmin Park et.al.|[2408.13798](http://arxiv.org/abs/2408.13798)|null|
