@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,10 +26,10 @@
 |---|---|---|---|---|
 |**2024-09-11**|**Behavioral Cloning Models Reality Check for Autonomous Driving**|Mustafa Yildirim et.al.|[2409.07218](http://arxiv.org/abs/2409.07218)|null|
 |**2024-09-08**|**STLLM-DF: A Spatial-Temporal Large Language Model with Diffusion for Enhanced Multi-Mode Traffic System Forecasting**|Zhiqi Shao et.al.|[2409.05921](http://arxiv.org/abs/2409.05921)|null|
-|**2024-09-09**|**DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification**|Junzhou Chen et.al.|[2409.05587](http://arxiv.org/abs/2409.05587)|null|
+|**2024-09-12**|**DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification**|Junzhou Chen et.al.|[2409.05587](http://arxiv.org/abs/2409.05587)|null|
 |**2024-09-08**|**UMOD: A Novel and Effective Urban Metro Origin-Destination Flow Prediction Method**|Peng Xie et.al.|[2409.04942](http://arxiv.org/abs/2409.04942)|null|
 |**2024-09-06**|**Digital Twin Enabled Data-Driven Approach for Traffic Efficiency and Software-Defined Vehicular Network Optimization**|Mohammad Sajid Shahriar et.al.|[2409.04622](http://arxiv.org/abs/2409.04622)|null|
-|**2024-09-05**|**Analytical Optimized Traffic Flow Recovery for Large-scale Urban Transportation Network**|Sicheng Fu et.al.|[2409.03906](http://arxiv.org/abs/2409.03906)|null|
+|**2024-09-11**|**Analytical Optimized Traffic Flow Recovery for Large-scale Urban Transportation Network**|Sicheng Fu et.al.|[2409.03906](http://arxiv.org/abs/2409.03906)|null|
 |**2024-09-04**|**Towards Edge-Based Data Lake Architecture for Intelligent Transportation System**|Danilo Fernandes et.al.|[2409.02808](http://arxiv.org/abs/2409.02808)|null|
 |**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[2409.02676](http://arxiv.org/abs/2409.02676)|null|
 |**2024-09-04**|**AirFogSim: A Light-Weight and Modular Simulator for UAV-Integrated Vehicular Fog Computing**|Zhiwei Wei et.al.|[2409.02518](http://arxiv.org/abs/2409.02518)|null|
@@ -532,7 +532,7 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 ## Collaborative Perception
 
@@ -541,7 +541,7 @@
 |**2024-09-09**|**Design and Implementation of TAO DAQ System**|Shuihan Zhang et.al.|[2409.05522](http://arxiv.org/abs/2409.05522)|null|
 |**2024-09-07**|**Towards identifying Source credibility on Information Leakage in Digital Gadget Market**|Neha Kumaru et.al.|[2409.04880](http://arxiv.org/abs/2409.04880)|null|
 |**2024-09-07**|**IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity**|Derek Ming Siang Tan et.al.|[2409.04730](http://arxiv.org/abs/2409.04730)|null|
-|**2024-09-06**|**Active learning for regression in engineering populations: A risk-informed approach**|Daniel R. Clarkson et.al.|[2409.04328](http://arxiv.org/abs/2409.04328)|null|
+|**2024-09-12**|**Active learning for regression in engineering populations: A risk-informed approach**|Daniel R. Clarkson et.al.|[2409.04328](http://arxiv.org/abs/2409.04328)|null|
 |**2024-08-31**|**Multi-Task Combinatorial Bandits for Budget Allocation**|Lin Ge et.al.|[2409.00561](http://arxiv.org/abs/2409.00561)|null|
 |**2024-08-31**|**Evaluation of Prosumer Networks for Peak Load Management in Iran: A Distributed Contextual Stochastic Optimization Approach**|Amir Noori et.al.|[2409.00493](http://arxiv.org/abs/2409.00493)|null|
 |**2024-08-30**|**Leveraging Graph Neural Networks to Forecast Electricity Consumption**|Eloi Campagne et.al.|[2408.17366](http://arxiv.org/abs/2408.17366)|null|
@@ -827,7 +827,7 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 ## sensor fusion
 
@@ -1295,7 +1295,7 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 ## localization
 
@@ -1304,10 +1304,10 @@
 |**2024-09-10**|**GeoCalib: Learning Single-image Calibration with Geometric Optimization**|Alexander Veicht et.al.|[2409.06704](http://arxiv.org/abs/2409.06704)|**[link](https://github.com/cvg/geocalib)**|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-10**|**A Cross-Font Image Retrieval Network for Recognizing Undeciphered Oracle Bone Inscriptions**|Zhicong Wu et.al.|[2409.06381](http://arxiv.org/abs/2409.06381)|null|
-|**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|null|
+|**2024-09-09**|**Referring Expression Generation in Visually Grounded Dialogue with Discourse-aware Comprehension Guiding**|Bram Willemsen et.al.|[2409.05721](http://arxiv.org/abs/2409.05721)|**[link](https://github.com/willemsenbram/reg-with-guiding)**|
 |**2024-09-09**|**Open-World Dynamic Prompt and Continual Visual Representation Learning**|Youngeun Kim et.al.|[2409.05312](http://arxiv.org/abs/2409.05312)|null|
-|**2024-09-07**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
-|**2024-09-06**|**Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models**|Saghir Alfasly et.al.|[2409.04631](http://arxiv.org/abs/2409.04631)|null|
+|**2024-09-12**|**Training-free ZS-CIR via Weighted Modality Fusion and Similarity**|Ren-Di Wu et.al.|[2409.04918](http://arxiv.org/abs/2409.04918)|null|
+|**2024-09-12**|**Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models**|Saghir Alfasly et.al.|[2409.04631](http://arxiv.org/abs/2409.04631)|null|
 |**2024-09-06**|**Reprojection Errors as Prompts for Efficient Scene Coordinate Regression**|Ting-Ru Liu et.al.|[2409.04178](http://arxiv.org/abs/2409.04178)|null|
 |**2024-09-04**|**Design and Evaluation of Camera-Centric Mobile Crowdsourcing Applications**|Abby Stylianou et.al.|[2409.03012](http://arxiv.org/abs/2409.03012)|null|
 |**2024-09-04**|**NUDGE: Lightweight Non-Parametric Fine-Tuning of Embeddings for Retrieval**|Sepanta Zeighami et.al.|[2409.02343](http://arxiv.org/abs/2409.02343)|**[link](https://github.com/szeighami/nudge)**|
@@ -1797,7 +1797,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 ## Detection
 
@@ -1943,7 +1943,7 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 ## Matching
 
@@ -2171,7 +2171,7 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 ## ground segmentation
 
@@ -2655,7 +2655,7 @@
 |**2023-11-22**|**Exploring Physically-Motivated Models to Fit Gamma-Ray Burst Spectra**|Suraj Poolakkil et.al.|[2311.13566](http://arxiv.org/abs/2311.13566)|null|
 |**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 ## point cloud
 
@@ -2823,7 +2823,7 @@
 |**2023-11-05**|**Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook**|Huang Zhang et.al.|[2311.02608](http://arxiv.org/abs/2311.02608)|null|
 |**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552](http://arxiv.org/abs/2311.02552)|**[link](https://github.com/robotic-vision-lab/implicit-point-voxel-features-network)**|
 
-<p align=right>(<a href=#Updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240913>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
