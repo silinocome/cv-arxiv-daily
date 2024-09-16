@@ -2177,6 +2177,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**CF-PRNet: Coarse-to-Fine Prototype Refining Network for Point Cloud Completion and Reconstruction**|Zhi Chen et.al.|[2409.08443](http://arxiv.org/abs/2409.08443)|**[link](https://github.com/uqzhichen/CF-PRNet)**|
+|**2024-09-12**|**On the macroeconomic fundamentals of long-term volatilities and dynamic correlations in COMEX copper futures**|Zian Wang et.al.|[2409.08355](http://arxiv.org/abs/2409.08355)|null|
 |**2024-09-12**|**ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE**|Sichun Wu et.al.|[2409.07966](http://arxiv.org/abs/2409.07966)|**[link](https://github.com/uuembodiedsocialai/probtalk3d)**|
 |**2024-09-11**|**Does time to retreatment matter? An NTCP model to predict radionecrosis after repeat SRS for recurrent brain metastases incorporating time-dependent discounted dose**|Manju Sharma et.al.|[2409.07647](http://arxiv.org/abs/2409.07647)|null|
 |**2024-09-10**|**Bifurcation Identification for Ultrasound-driven Robotic Cannulation**|Cecilia G. Morales et.al.|[2409.06817](http://arxiv.org/abs/2409.06817)|null|
@@ -2663,6 +2665,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**CF-PRNet: Coarse-to-Fine Prototype Refining Network for Point Cloud Completion and Reconstruction**|Zhi Chen et.al.|[2409.08443](http://arxiv.org/abs/2409.08443)|**[link](https://github.com/uqzhichen/CF-PRNet)**|
 |**2024-09-12**|**MosquitoMiner: A Light Weight Rover for Detecting and Eliminating Mosquito Breeding Sites**|Md. Adnanul Islam et.al.|[2409.08078](http://arxiv.org/abs/2409.08078)|**[link](https://github.com/faiyazabdullah/MosquitoMiner)**|
 |**2024-09-10**|**Towards Localizing Structural Elements: Merging Geometrical Detection with Semantic Verification in RGB-D Data**|Ali Tourani et.al.|[2409.06625](http://arxiv.org/abs/2409.06625)|null|
 |**2024-09-10**|**UdeerLID+: Integrating LiDAR, Image, and Relative Depth with Semi-Supervised**|Tao Ni et.al.|[2409.06197](http://arxiv.org/abs/2409.06197)|null|
