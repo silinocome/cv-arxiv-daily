@@ -32,7 +32,7 @@
 |**2024-09-11**|**Analytical Optimized Traffic Flow Recovery for Large-scale Urban Transportation Network**|Sicheng Fu et.al.|[2409.03906](http://arxiv.org/abs/2409.03906)|null|
 |**2024-09-04**|**Towards Edge-Based Data Lake Architecture for Intelligent Transportation System**|Danilo Fernandes et.al.|[2409.02808](http://arxiv.org/abs/2409.02808)|null|
 |**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[2409.02676](http://arxiv.org/abs/2409.02676)|null|
-|**2024-09-04**|**AirFogSim: A Light-Weight and Modular Simulator for UAV-Integrated Vehicular Fog Computing**|Zhiwei Wei et.al.|[2409.02518](http://arxiv.org/abs/2409.02518)|null|
+|**2024-09-04**|**AirFogSim: A Light-Weight and Modular Simulator for UAV-Integrated Vehicular Fog Computing**|Zhiwei Wei et.al.|[2409.02518](http://arxiv.org/abs/2409.02518)|**[link](https://github.com/zhiweiwei-nami/airfogsim)**|
 |**2024-09-02**|**Real-Time Multi-Scene Visibility Enhancement for Promoting Navigational Safety of Vessels Under Complex Weather Conditions**|Ryan Wen Liu et.al.|[2409.01500](http://arxiv.org/abs/2409.01500)|**[link](https://github.com/LouisYuxuLu/ERANet)**|
 |**2024-09-02**|**Robust Vehicle Localization and Tracking in Rain using Street Maps**|Yu Xiang Tan et.al.|[2409.01038](http://arxiv.org/abs/2409.01038)|**[link](https://gitlab.com/marvl/map-fusion)**|
 |**2024-09-04**|**GenAI-powered Multi-Agent Paradigm for Smart Urban Mobility: Opportunities and Challenges for Integrating Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) with Intelligent Transportation Systems**|Haowen Xu et.al.|[2409.00494](http://arxiv.org/abs/2409.00494)|null|
@@ -540,7 +540,7 @@
 |---|---|---|---|---|
 |**2024-09-09**|**Design and Implementation of TAO DAQ System**|Shuihan Zhang et.al.|[2409.05522](http://arxiv.org/abs/2409.05522)|null|
 |**2024-09-07**|**Towards identifying Source credibility on Information Leakage in Digital Gadget Market**|Neha Kumaru et.al.|[2409.04880](http://arxiv.org/abs/2409.04880)|null|
-|**2024-09-07**|**IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity**|Derek Ming Siang Tan et.al.|[2409.04730](http://arxiv.org/abs/2409.04730)|null|
+|**2024-09-07**|**IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity**|Derek Ming Siang Tan et.al.|[2409.04730](http://arxiv.org/abs/2409.04730)|**[link](https://github.com/marmotlab/ir2)**|
 |**2024-09-12**|**Active learning for regression in engineering populations: A risk-informed approach**|Daniel R. Clarkson et.al.|[2409.04328](http://arxiv.org/abs/2409.04328)|null|
 |**2024-08-31**|**Multi-Task Combinatorial Bandits for Budget Allocation**|Lin Ge et.al.|[2409.00561](http://arxiv.org/abs/2409.00561)|null|
 |**2024-08-31**|**Evaluation of Prosumer Networks for Peak Load Management in Iran: A Distributed Contextual Stochastic Optimization Approach**|Amir Noori et.al.|[2409.00493](http://arxiv.org/abs/2409.00493)|null|
@@ -844,7 +844,7 @@
 |**2024-09-01**|**Knowledge-data fusion oriented traffic state estimation: A stochastic physics-informed deep learning approach**|Ting Wang et.al.|[2409.00644](http://arxiv.org/abs/2409.00644)|null|
 |**2024-08-29**|**MPADA: Open source framework for multimodal time series antenna array measurements**|Yuyi Chang et.al.|[2408.16850](http://arxiv.org/abs/2408.16850)|**[link](https://github.com/yuyichang/mpada)**|
 |**2024-08-28**|**Accelerating Sensor Fusion in Neuromorphic Computing: A Case Study on Loihi-2**|Murat Isik et.al.|[2408.16096](http://arxiv.org/abs/2408.16096)|null|
-|**2024-08-27**|**XG-NID: Dual-Modality Network Intrusion Detection using a Heterogeneous Graph Neural Network and Large Language Model**|Yasir Ali Farrukh et.al.|[2408.16021](http://arxiv.org/abs/2408.16021)|null|
+|**2024-08-27**|**XG-NID: Dual-Modality Network Intrusion Detection using a Heterogeneous Graph Neural Network and Large Language Model**|Yasir Ali Farrukh et.al.|[2408.16021](http://arxiv.org/abs/2408.16021)|**[link](https://github.com/yasir-ali-farrukh/gnn4id)**|
 |**2024-08-22**|**Multimodal Methods for Analyzing Learning and Training Environments: A Systematic Literature Review**|Clayton Cohn et.al.|[2408.14491](http://arxiv.org/abs/2408.14491)|null|
 |**2024-08-26**|**Modular Meshed Ultra-Wideband Aided Inertial Navigation with Robust Anchor Calibration**|Roland Jung et.al.|[2408.14081](http://arxiv.org/abs/2408.14081)|null|
 |**2024-08-27**|**Time Series Analysis for Education: Methods, Applications, and Future Directions**|Shengzhong Mao et.al.|[2408.13960](http://arxiv.org/abs/2408.13960)|**[link](https://github.com/ai-for-edu/time-series-analysis-for-education)**|
@@ -895,7 +895,7 @@
 |**2024-06-25**|**Local-to-Global Cross-Modal Attention-Aware Fusion for HSI-X Semantic Segmentation**|Xuming Zhang et.al.|[2406.17679](http://arxiv.org/abs/2406.17679)|null|
 |**2024-06-25**|**Extended alternating structure-adapted proximal gradient algorithm for nonconvex nonsmooth problems**|Ying Gao et.al.|[2406.17226](http://arxiv.org/abs/2406.17226)|null|
 |**2024-06-21**|**Real-Time Hand Gesture Recognition: Integrating Skeleton-Based Data Fusion and Multi-Stream CNN**|Oluwaleke Yusuf et.al.|[2406.15003](http://arxiv.org/abs/2406.15003)|**[link](https://github.com/outsiders17711/e2eet-skeleton-based-hgr-using-data-level-fusion)**|
-|**2024-06-21**|**Gas permeability, diffusivity, and solubility in polymers: Simulation-experiment data fusion and multi-task machine learning**|Brandon K. Phan et.al.|[2406.14809](http://arxiv.org/abs/2406.14809)|null|
+|**2024-06-21**|**Gas permeability, diffusivity, and solubility in polymers: Simulation-experiment data fusion and multi-task machine learning**|Brandon K. Phan et.al.|[2406.14809](http://arxiv.org/abs/2406.14809)|**[link](https://github.com/Ramprasad-Group/polyVERSE)**|
 |**2024-06-18**|**PARAFAC2-based Coupled Matrix and Tensor Factorizations with Constraints**|Carla Schenker et.al.|[2406.12338](http://arxiv.org/abs/2406.12338)|null|
 |**2024-06-16**|**3D Gaze Tracking for Studying Collaborative Interactions in Mixed-Reality Environments**|Eduardo Davalos et.al.|[2406.11003](http://arxiv.org/abs/2406.11003)|null|
 |**2024-06-14**|**Globally Optimal GNSS Multi-Antenna Lever Arm Calibration**|Thomas Wodtko et.al.|[2406.09866](http://arxiv.org/abs/2406.09866)|null|
@@ -986,7 +986,7 @@
 |**2024-03-07**|**Evacuation Management Framework towards Smart City-wide Intelligent Emergency Interactive Response System**|Anuj Abraham et.al.|[2403.07003](http://arxiv.org/abs/2403.07003)|null|
 |**2024-03-08**|**OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[2403.05329](http://arxiv.org/abs/2403.05329)|null|
 |**2024-03-04**|**COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks**|Zijian Huang et.al.|[2403.02329](http://arxiv.org/abs/2403.02329)|null|
-|**2024-03-13**|**OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2403.01644](http://arxiv.org/abs/2403.01644)|null|
+|**2024-03-13**|**OccFusion: A Straightforward and Effective Multi-Sensor Fusion Framework for 3D Occupancy Prediction**|Zhenxing Ming et.al.|[2403.01644](http://arxiv.org/abs/2403.01644)|**[link](https://github.com/danielming123/occfusion)**|
 |**2024-02-29**|**Deep Learning for Cross-Domain Data Fusion in Urban Computing: Taxonomy, Advances, and Outlook**|Xingchen Zou et.al.|[2402.19348](http://arxiv.org/abs/2402.19348)|**[link](https://github.com/yoshall/awesome-multimodal-urban-computing)**|
 |**2024-03-03**|**RoadRunner - Learning Traversability Estimation for Autonomous Off-road Driving**|Jonas Frey et.al.|[2402.19341](http://arxiv.org/abs/2402.19341)|null|
 |**2024-02-28**|**Acoustic tactile sensing for mobile robot wheels**|Wilfred Mason et.al.|[2402.18682](http://arxiv.org/abs/2402.18682)|null|
@@ -1232,7 +1232,7 @@
 |**2023-04-11**|**SceneCalib: Automatic Targetless Calibration of Cameras and Lidars in Autonomous Driving**|Ayon Sen et.al.|[2304.05530](http://arxiv.org/abs/2304.05530)|null|
 |**2023-04-11**|**Investigating Imbalances Between SAR and Optical Utilization for Multi-Modal Urban Mapping**|Sebastian Hafner et.al.|[2304.05080](http://arxiv.org/abs/2304.05080)|null|
 |**2023-04-07**|**On the Stochasticity of Reanalysis Outputs of 4D-Var**|Xiaoqing Chen et.al.|[2304.03648](http://arxiv.org/abs/2304.03648)|null|
-|**2023-04-05**|**DEFLOW: Self-supervised 3D Motion Estimation of Debris Flow**|Liyuan Zhu et.al.|[2304.02569](http://arxiv.org/abs/2304.02569)|null|
+|**2023-04-05**|**DEFLOW: Self-supervised 3D Motion Estimation of Debris Flow**|Liyuan Zhu et.al.|[2304.02569](http://arxiv.org/abs/2304.02569)|**[link](https://github.com/prs-eth/DeFlow)**|
 |**2023-04-05**|**Explaining Multimodal Data Fusion: Occlusion Analysis for Wilderness Mapping**|Burak Ekim et.al.|[2304.02407](http://arxiv.org/abs/2304.02407)|null|
 |**2023-04-04**|**A Data Fusion Framework for Multi-Domain Morality Learning**|Siyi Guo et.al.|[2304.02144](http://arxiv.org/abs/2304.02144)|null|
 |**2023-04-24**|**CoReFusion: Contrastive Regularized Fusion for Guided Thermal Super-Resolution**|Aditya Kasliwal et.al.|[2304.01243](http://arxiv.org/abs/2304.01243)|**[link](https://github.com/kasliwal17/corefusion)**|
@@ -2204,13 +2204,13 @@
 |**2024-09-02**|**SeCo-INR: Semantically Conditioned Implicit Neural Representations for Improved Medical Image Super-Resolution**|Mevan Ekanayake et.al.|[2409.01013](http://arxiv.org/abs/2409.01013)|null|
 |**2024-09-02**|**Development of Occupancy Prediction Algorithm for Underground Parking Lots**|Shijie Wang et.al.|[2409.00923](http://arxiv.org/abs/2409.00923)|null|
 |**2024-08-30**|**The size of accretion disks from self-consistent X-ray spectra + UV/optical/NIR photometry fitting: applications to ASASSN-14li and HLX-1**|Muryel Guolo et.al.|[2408.17296](http://arxiv.org/abs/2408.17296)|null|
-|**2024-08-30**|**Incorporating Memory into Continuous-Time Spatial Capture-Recapture Models**|Clara Panchaud et.al.|[2408.17278](http://arxiv.org/abs/2408.17278)|null|
+|**2024-08-30**|**Incorporating Memory into Continuous-Time Spatial Capture-Recapture Models**|Clara Panchaud et.al.|[2408.17278](http://arxiv.org/abs/2408.17278)|**[link](https://github.com/clarapasu/mscr)**|
 |**2024-08-30**|**GMM-IKRS: Gaussian Mixture Models for Interpretable Keypoint Refinement and Scoring**|Emanuele Santellani et.al.|[2408.17149](http://arxiv.org/abs/2408.17149)|null|
 |**2024-08-29**|**Measuring Transparency in Intelligent Robots**|Georgios Angelopoulos et.al.|[2408.16865](http://arxiv.org/abs/2408.16865)|null|
 |**2024-08-29**|**The Star Geometry of Critic-Based Regularizer Learning**|Oscar Leong et.al.|[2408.16852](http://arxiv.org/abs/2408.16852)|null|
 |**2024-08-29**|**Thermoelectric Properties of Type-I and Type-II Nodal Line Semimetals: A Comparative Study**|Mohammad Norman Gaza Laksono et.al.|[2408.16644](http://arxiv.org/abs/2408.16644)|null|
 |**2024-08-29**|**Improving 3D deep learning segmentation with biophysically motivated cell synthesis**|Roman Bruch et.al.|[2408.16471](http://arxiv.org/abs/2408.16471)|null|
-|**2024-08-28**|**More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding**|Yuan Tang et.al.|[2408.15966](http://arxiv.org/abs/2408.15966)|null|
+|**2024-08-28**|**More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding**|Yuan Tang et.al.|[2408.15966](http://arxiv.org/abs/2408.15966)|**[link](https://github.com/tangyuan96/greenplm)**|
 |**2024-08-28**|**PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**|Kaiqiao Yang et.al.|[2408.15583](http://arxiv.org/abs/2408.15583)|null|
 |**2024-08-27**|**Revealing Potential Initial Mass Function variations with metallicity: JWST observations of young open clusters in a low-metallicity environment**|Chikako Yasui et.al.|[2408.15440](http://arxiv.org/abs/2408.15440)|null|
 |**2024-08-27**|**Hybrid Plant Models Call for a Different Plant Modelling Paradigm and a New Generation of Software (Heresy in the land of moles, fractions, & rigorous physical properties)**|Vladimir Mahalec et.al.|[2408.15415](http://arxiv.org/abs/2408.15415)|null|
