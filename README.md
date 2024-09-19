@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**A novel pedestrian road crossing simulator for dynamic traffic light scheduling systems**|Dayuan Tan et.al.|[2409.11623](http://arxiv.org/abs/2409.11623)|null|
 |**2024-09-16**|**CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**|Jinlong Li et.al.|[2409.10699](http://arxiv.org/abs/2409.10699)|null|
 |**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[2409.10484](http://arxiv.org/abs/2409.10484)|null|
 |**2024-09-16**|**Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction**|Lei Chu et.al.|[2409.09978](http://arxiv.org/abs/2409.09978)|null|
@@ -541,6 +542,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Inside Out or Not: Privacy Implications of Emotional Disclosure**|Elham Naghizade et.al.|[2409.11805](http://arxiv.org/abs/2409.11805)|null|
 |**2024-09-16**|**Impact Of Emotions on Information Seeking And Sharing Behaviors During Pandemic**|Smitha Muthya Sudheendra et.al.|[2409.10754](http://arxiv.org/abs/2409.10754)|null|
 |**2024-09-16**|**Systematic comparison of Bayesian basket trial designs with unequal sample sizes and proposal of a new method based on power priors**|Sabrina Schmitt et.al.|[2409.10318](http://arxiv.org/abs/2409.10318)|null|
 |**2024-09-14**|**Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language**|Fatema Tuj Johora Faria et.al.|[2409.09504](http://arxiv.org/abs/2409.09504)|null|
@@ -1313,6 +1315,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Towards Global Localization using Multi-Modal Object-Instance Re-Identification**|Aneesh Chavan et.al.|[2409.12002](http://arxiv.org/abs/2409.12002)|null|
+|**2024-09-17**|**Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**|Kunal Chelani et.al.|[2409.11536](http://arxiv.org/abs/2409.11536)|null|
 |**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
 |**2024-09-17**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
 |**2024-09-16**|**Garment Attribute Manipulation with Multi-level Attention**|Vittorio Casula et.al.|[2409.10206](http://arxiv.org/abs/2409.10206)|null|
@@ -2193,6 +2197,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective**|Zhihui He et.al.|[2409.11937](http://arxiv.org/abs/2409.11937)|null|
+|**2024-09-18**|**SpheriGait: Enriching Spatial Representation via Spherical Projection for LiDAR-based Gait Recognition**|Yanxi Wang et.al.|[2409.11869](http://arxiv.org/abs/2409.11869)|null|
+|**2024-09-17**|**Adaptive Anomaly Detection in Network Flows with Low-Rank Tensor Decompositions and Deep Unrolling**|Lukas Schynol et.al.|[2409.11529](http://arxiv.org/abs/2409.11529)|null|
 |**2024-09-17**|**Data-driven stochastic 3D modeling of the nanoporous binder-conductive additive phase in battery cathodes**|Phillip Gräfensteiner et.al.|[2409.11080](http://arxiv.org/abs/2409.11080)|null|
 |**2024-09-17**|**Evaluating and Improving the Robustness of LiDAR-based Localization and Mapping**|Bo Yang et.al.|[2409.10824](http://arxiv.org/abs/2409.10824)|**[link](https://github.com/boyang9602/LiDARLocRobustness)**|
 |**2024-09-16**|**Exploring 3D Face Reconstruction and Fusion Methods for Face Verification: A Case-Study in Video Surveillance**|Simone Maurizio La Cava et.al.|[2409.10481](http://arxiv.org/abs/2409.10481)|null|
@@ -2687,6 +2694,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective**|Zhihui He et.al.|[2409.11937](http://arxiv.org/abs/2409.11937)|null|
+|**2024-09-18**|**SpheriGait: Enriching Spatial Representation via Spherical Projection for LiDAR-based Gait Recognition**|Yanxi Wang et.al.|[2409.11869](http://arxiv.org/abs/2409.11869)|null|
 |**2024-09-17**|**Evaluating and Improving the Robustness of LiDAR-based Localization and Mapping**|Bo Yang et.al.|[2409.10824](http://arxiv.org/abs/2409.10824)|**[link](https://github.com/boyang9602/LiDARLocRobustness)**|
 |**2024-09-16**|**Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation**|Yifan Xu et.al.|[2409.10350](http://arxiv.org/abs/2409.10350)|null|
 |**2024-09-13**|**CF-PRNet: Coarse-to-Fine Prototype Refining Network for Point Cloud Completion and Reconstruction**|Zhi Chen et.al.|[2409.08443](http://arxiv.org/abs/2409.08443)|**[link](https://github.com/uqzhichen/CF-PRNet)**|
