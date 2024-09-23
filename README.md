@@ -1032,7 +1032,7 @@
 |**2024-01-30**|**Efficient Gesture Recognition on Spiking Convolutional Networks Through Sensor Fusion of Event-Based and Depth Data**|Lea Steffen et.al.|[2401.17064](http://arxiv.org/abs/2401.17064)|null|
 |**2024-01-29**|**Scalable Factor Graph-Based Heterogeneous Bayesian DDF for Dynamic Systems**|Ofer Dagan et.al.|[2401.16301](http://arxiv.org/abs/2401.16301)|null|
 |**2024-01-28**|**Design of UAV flight state recognition and trajectory prediction system based on trajectory feature construction**|Xingyu Zhou et.al.|[2401.15564](http://arxiv.org/abs/2401.15564)|null|
-|**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857](http://arxiv.org/abs/2401.14857)|null|
+|**2024-01-26**|**LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering**|Sheng Hong et.al.|[2401.14857](http://arxiv.org/abs/2401.14857)|**[link](https://github.com/sheng00125/liv-gaussmap)**|
 |**2024-01-25**|**MultiTest: Physical-Aware Object Insertion for Testing Multi-sensor Fusion Perception Systems**|Xinyu Gao et.al.|[2401.14314](http://arxiv.org/abs/2401.14314)|null|
 |**2024-01-22**|**Privacy-Preserving Data Fusion for Traffic State Estimation: A Vertical Federated Learning Approach**|Qiqing Wang et.al.|[2401.11836](http://arxiv.org/abs/2401.11836)|null|
 |**2024-01-19**|**Event detection from novel data sources: Leveraging satellite imagery alongside GPS traces**|Ekin Ugurel et.al.|[2401.10890](http://arxiv.org/abs/2401.10890)|**[link](https://github.com/ekinugurel/satmobfusion)**|
@@ -1568,7 +1568,7 @@
 |**2023-11-30**|**HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**|Zhuohao Yin et.al.|[2311.18273](http://arxiv.org/abs/2311.18273)|**[link](https://github.com/thomas-yin/semeval-2023-task1)**|
 |**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237](http://arxiv.org/abs/2311.18237)|null|
 |**2023-11-29**|**Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce**|Chang Liu et.al.|[2311.17954](http://arxiv.org/abs/2311.17954)|null|
-|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|null|
+|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|**[link](https://github.com/HuajianUP/360Loc)**|
 |**2023-11-27**|**Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**|Samuele Poppi et.al.|[2311.16254](http://arxiv.org/abs/2311.16254)|**[link](https://github.com/aimagelab/safe-clip)**|
 |**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|**[link](https://github.com/xsc1234/invisible-relevance-bias)**|
 |**2023-11-23**|**3D-MIR: A Benchmark and Empirical Study on 3D Medical Image Retrieval in Radiology**|Asma Ben Abacha et.al.|[2311.13752](http://arxiv.org/abs/2311.13752)|**[link](https://github.com/abachaa/3d-mir)**|
@@ -2220,7 +2220,7 @@
 |**2024-09-08**|**TanDepth: Leveraging Global DEMs for Metric Monocular Depth Estimation in UAVs**|Horatiu Florea et.al.|[2409.05142](http://arxiv.org/abs/2409.05142)|null|
 |**2024-09-06**|**A new atmospheric characterization of the sub-stellar companion HR\,2562\,B with JWST/MIRI observations**|Nicolás Godoy et.al.|[2409.04524](http://arxiv.org/abs/2409.04524)|null|
 |**2024-09-06**|**Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences**|Rui Yu et.al.|[2409.04390](http://arxiv.org/abs/2409.04390)|null|
-|**2024-09-06**|**Fitting the Discrete Swept Skeletal Representation to Slabular Objects**|Mohsen Taheri et.al.|[2409.04079](http://arxiv.org/abs/2409.04079)|null|
+|**2024-09-06**|**Fitting the Discrete Swept Skeletal Representation to Slabular Objects**|Mohsen Taheri et.al.|[2409.04079](http://arxiv.org/abs/2409.04079)|**[link](https://github.com/MohsenTaheriShalmani/LP-dss-rep)**|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**Triple trouble with PSR J1618-3921: Mass measurements and orbital dynamics of an eccentric millisecond pulsar**|K. Grunthal et.al.|[2409.03615](http://arxiv.org/abs/2409.03615)|null|
 |**2024-09-05**|**Non-stationary and Sparsely-correlated Multi-output Gaussian Process with Spike-and-Slab Prior**|Wang Xinming et.al.|[2409.03149](http://arxiv.org/abs/2409.03149)|null|
@@ -2303,7 +2303,7 @@
 |**2024-07-23**|**Fractional Holographic Dark Energy**|Oem Trivedi et.al.|[2407.16685](http://arxiv.org/abs/2407.16685)|null|
 |**2024-07-27**|**On Flange-based 3D Hand-Eye Calibration for Soft Robotic Tactile Welding**|Xudong Han et.al.|[2407.16041](http://arxiv.org/abs/2407.16041)|null|
 |**2024-07-23**|**Unveiling the Multifaceted GRB 200613A: Prompt Emission Dynamics, Afterglow Evolution, and the Host Galaxy's Properties**|Shao-Yu Fu et.al.|[2407.15824](http://arxiv.org/abs/2407.15824)|null|
-|**2024-07-23**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451](http://arxiv.org/abs/2407.15451)|null|
+|**2024-07-23**|**Domain-Adaptive 2D Human Pose Estimation via Dual Teachers in Extremely Low-Light Conditions**|Yihao Ai et.al.|[2407.15451](http://arxiv.org/abs/2407.15451)|**[link](https://github.com/ayh015-dev/da-llpose)**|
 |**2024-07-21**|**Statistical Models for Outbreak Detection of Measles in North Cotabato, Philippines**|Julienne Kate N. Kintanar et.al.|[2407.15028](http://arxiv.org/abs/2407.15028)|null|
 |**2024-07-20**|**SpatialTouch: Exploring Spatial Data Visualizations in Cross-reality**|Lixiang Zhao et.al.|[2407.14833](http://arxiv.org/abs/2407.14833)|**[link](https://github.com/LixiangZhao98/Cross-Reality-Environment-SpatialTouch)**|
 |**2024-07-19**|**A Bayesian workflow for securitizing casualty insurance risk**|Nathaniel Haines et.al.|[2407.14666](http://arxiv.org/abs/2407.14666)|**[link](https://github.com/LedgerInvesting/bayesian-workflow-paper-2024)**|
