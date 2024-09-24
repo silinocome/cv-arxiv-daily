@@ -17,7 +17,7 @@ layout: default
 |**2024-09-18**|**A novel pedestrian road crossing simulator for dynamic traffic light scheduling systems**|Dayuan Tan et.al.|[2409.11623](http://arxiv.org/abs/2409.11623)|null|
 |**2024-09-20**|**CoMamba: Real-time Cooperative Perception Unlocked with State Space Models**|Jinlong Li et.al.|[2409.10699](http://arxiv.org/abs/2409.10699)|null|
 |**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[2409.10484](http://arxiv.org/abs/2409.10484)|null|
-|**2024-09-16**|**Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction**|Lei Chu et.al.|[2409.09978](http://arxiv.org/abs/2409.09978)|null|
+|**2024-09-23**|**Context-Conditioned Spatio-Temporal Predictive Learning for Reliable V2V Channel Prediction**|Lei Chu et.al.|[2409.09978](http://arxiv.org/abs/2409.09978)|null|
 |**2024-09-11**|**Behavioral Cloning Models Reality Check for Autonomous Driving**|Mustafa Yildirim et.al.|[2409.07218](http://arxiv.org/abs/2409.07218)|null|
 |**2024-09-08**|**STLLM-DF: A Spatial-Temporal Large Language Model with Diffusion for Enhanced Multi-Mode Traffic System Forecasting**|Zhiqi Shao et.al.|[2409.05921](http://arxiv.org/abs/2409.05921)|null|
 |**2024-09-12**|**DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification**|Junzhou Chen et.al.|[2409.05587](http://arxiv.org/abs/2409.05587)|null|
@@ -533,7 +533,7 @@ layout: default
 |**2024-09-18**|**Inside Out or Not: Privacy Implications of Emotional Disclosure**|Elham Naghizade et.al.|[2409.11805](http://arxiv.org/abs/2409.11805)|null|
 |**2024-09-16**|**Impact Of Emotions on Information Seeking And Sharing Behaviors During Pandemic**|Smitha Muthya Sudheendra et.al.|[2409.10754](http://arxiv.org/abs/2409.10754)|null|
 |**2024-09-16**|**Systematic comparison of Bayesian basket trial designs with unequal sample sizes and proposal of a new method based on power priors**|Sabrina Schmitt et.al.|[2409.10318](http://arxiv.org/abs/2409.10318)|null|
-|**2024-09-14**|**Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language**|Fatema Tuj Johora Faria et.al.|[2409.09504](http://arxiv.org/abs/2409.09504)|null|
+|**2024-09-14**|**Uddessho: An Extensive Benchmark Dataset for Multimodal Author Intent Classification in Low-Resource Bangla Language**|Fatema Tuj Johora Faria et.al.|[2409.09504](http://arxiv.org/abs/2409.09504)|**[link](https://github.com/fatemafaria142/Uddessho-An-Benchmark-Dataset-for-Multimodal-Author-Intent-Classification-in-Bangla-Language)**|
 |**2024-09-09**|**Design and Implementation of TAO DAQ System**|Shuihan Zhang et.al.|[2409.05522](http://arxiv.org/abs/2409.05522)|null|
 |**2024-09-07**|**Towards identifying Source credibility on Information Leakage in Digital Gadget Market**|Neha Kumaru et.al.|[2409.04880](http://arxiv.org/abs/2409.04880)|null|
 |**2024-09-07**|**IR2: Implicit Rendezvous for Robotic Exploration Teams under Sparse Intermittent Connectivity**|Derek Ming Siang Tan et.al.|[2409.04730](http://arxiv.org/abs/2409.04730)|**[link](https://github.com/marmotlab/ir2)**|
