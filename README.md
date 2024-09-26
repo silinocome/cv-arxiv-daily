@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Graph Pruning Based Spatial and Temporal Graph Convolutional Network with Transfer Learning for Traffic Prediction**|Zihao Jing et.al.|[2409.16532](http://arxiv.org/abs/2409.16532)|null|
 |**2024-09-24**|**Diffusion Models for Intelligent Transportation Systems: A Survey**|Mingxing Peng et.al.|[2409.15816](http://arxiv.org/abs/2409.15816)|null|
 |**2024-09-24**|**Microwave photonic frequency measurement and time-frequency analysis: Unlocking bandwidths over hundreds of GHz with a 10-nanosecond temporal resolution**|Taixia Shi et.al.|[2409.15758](http://arxiv.org/abs/2409.15758)|null|
 |**2024-09-24**|**Real-Time Pedestrian Detection on IoT Edge Devices: A Lightweight Deep Learning Approach**|Muhammad Dany Alfikri et.al.|[2409.15740](http://arxiv.org/abs/2409.15740)|null|
@@ -551,6 +552,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**NoTeeline: Supporting Real-Time Notetaking from Keypoints with Large Language Models**|Faria Huq et.al.|[2409.16493](http://arxiv.org/abs/2409.16493)|null|
+|**2024-09-24**|**A Multi-Agent Multi-Environment Mixed Q-Learning for Partially Decentralized Wireless Network Optimization**|Talha Bozkus et.al.|[2409.16450](http://arxiv.org/abs/2409.16450)|null|
 |**2024-09-21**|**Perfect Gradient Inversion in Federated Learning: A New Paradigm from the Hidden Subset Sum Problem**|Qiongxiu Li et.al.|[2409.14260](http://arxiv.org/abs/2409.14260)|null|
 |**2024-09-20**|**Wireless Interconnection Network (WINE) for Post-Exascale High-Performance Computing**|Hong Ki Kim et.al.|[2409.13281](http://arxiv.org/abs/2409.13281)|null|
 |**2024-09-19**|**Stable and Robust Hyper-Parameter Selection Via Robust Information Sharing Cross-Validation**|David Kepplinger et.al.|[2409.12890](http://arxiv.org/abs/2409.12890)|null|
@@ -1337,6 +1340,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|null|
 |**2024-09-23**|**CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis**|Xiang Zhang et.al.|[2409.15169](http://arxiv.org/abs/2409.15169)|null|
 |**2024-09-21**|**Combining Absolute and Semi-Generalized Relative Poses for Visual Localization**|Vojtech Panek et.al.|[2409.14269](http://arxiv.org/abs/2409.14269)|null|
 |**2024-09-21**|**SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality**|Hongjia Zhai et.al.|[2409.14067](http://arxiv.org/abs/2409.14067)|null|
@@ -1995,6 +1999,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|null|
 |**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931](http://arxiv.org/abs/2409.15931)|null|
 |**2024-09-10**|**Weakly-supervised Camera Localization by Ground-to-satellite Image Registration**|Yujiao Shi et.al.|[2409.06471](http://arxiv.org/abs/2409.06471)|**[link](https://github.com/yujiaoshi/g2sweakly)**|
 |**2024-09-05**|**Enabling Practical and Privacy-Preserving Image Processing**|Chao Wang et.al.|[2409.03568](http://arxiv.org/abs/2409.03568)|null|
@@ -2224,12 +2229,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**SEN12-WATER: A New Dataset for Hydrological Applications and its Benchmarking**|Luigi Russo et.al.|[2409.17087](http://arxiv.org/abs/2409.17087)|null|
+|**2024-09-24**|**Generative AI-driven forecasting of oil production**|Yash Gandhi et.al.|[2409.16482](http://arxiv.org/abs/2409.16482)|null|
+|**2024-09-24**|**Frequency-based View Selection in Gaussian Splatting Reconstruction**|Monica M. Q. Li et.al.|[2409.16470](http://arxiv.org/abs/2409.16470)|null|
 |**2024-09-23**|**Deep Learning Approach for Knee Point Detection on Noisy Data**|Ting Yan Fok et.al.|[2409.15608](http://arxiv.org/abs/2409.15608)|null|
 |**2024-09-23**|**Testing Bayesian inference of GRMHD model parameters from VLBI data**|A. I. Yfantis et.al.|[2409.15417](http://arxiv.org/abs/2409.15417)|null|
-|**2024-09-23**|**FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera**|Guoyang Zhao et.al.|[2409.15054](http://arxiv.org/abs/2409.15054)|null|
+|**2024-09-23**|**FisheyeDepth: A Real Scale Self-Supervised Depth Estimation Model for Fisheye Camera**|Guoyang Zhao et.al.|[2409.15054](http://arxiv.org/abs/2409.15054)|**[link](https://github.com/guoyangzhao/fisheyedepth)**|
 |**2024-09-24**|**Sparse-to-Dense LiDAR Point Generation by LiDAR-Camera Fusion for 3D Object Detection**|Minseung Lee et.al.|[2409.14985](http://arxiv.org/abs/2409.14985)|null|
 |**2024-09-23**|**Human Hair Reconstruction with Strand-Aligned 3D Gaussians**|Egor Zakharov et.al.|[2409.14778](http://arxiv.org/abs/2409.14778)|null|
-|**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755](http://arxiv.org/abs/2409.14755)|null|
+|**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755](http://arxiv.org/abs/2409.14755)|**[link](https://github.com/stefp/whorl_pose_detector)**|
 |**2024-09-23**|**UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection**|Haocheng Zhao et.al.|[2409.14751](http://arxiv.org/abs/2409.14751)|null|
 |**2024-09-23**|**Video-to-Audio Generation with Fine-grained Temporal Semantics**|Yuchen Hu et.al.|[2409.14709](http://arxiv.org/abs/2409.14709)|null|
 |**2024-09-22**|**Explainable AI needs formal notions of explanation correctness**|Stefan Haufe et.al.|[2409.14590](http://arxiv.org/abs/2409.14590)|null|
@@ -2733,7 +2741,7 @@
 |---|---|---|---|---|
 |**2024-09-24**|**A Computer Vision Approach for Autonomous Cars to Drive Safe at Construction Zone**|Abu Shad Ahammed et.al.|[2409.15809](http://arxiv.org/abs/2409.15809)|null|
 |**2024-09-24**|**Sparse-to-Dense LiDAR Point Generation by LiDAR-Camera Fusion for 3D Object Detection**|Minseung Lee et.al.|[2409.14985](http://arxiv.org/abs/2409.14985)|null|
-|**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755](http://arxiv.org/abs/2409.14755)|null|
+|**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755](http://arxiv.org/abs/2409.14755)|**[link](https://github.com/stefp/whorl_pose_detector)**|
 |**2024-09-23**|**UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection**|Haocheng Zhao et.al.|[2409.14751](http://arxiv.org/abs/2409.14751)|null|
 |**2024-09-20**|**Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework**|Yuqi Cheng et.al.|[2409.13162](http://arxiv.org/abs/2409.13162)|null|
 |**2024-09-19**|**PVContext: Hybrid Context Model for Point Cloud Compression**|Guoqing Zhang et.al.|[2409.12724](http://arxiv.org/abs/2409.12724)|null|
