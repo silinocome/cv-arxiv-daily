@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -845,7 +845,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-24**|**Fast Extrinsic Calibration for Multiple Inertial Measurement Units in Visual-Inertial System**|Youwei Yu et.al.|[2409.16228](http://arxiv.org/abs/2409.16228)|null|
 |**2024-09-23**|**VaLID: Verification as Late Integration of Detections for LiDAR-Camera Fusion**|Vanshika Vats et.al.|[2409.15529](http://arxiv.org/abs/2409.15529)|null|
-|**2024-09-23**|**Semantic Inference-Based Deep Learning and Modeling for Earth Observation: Cognitive Semantic Augmentation Satellite Networks**|Hong-fu Chou et.al.|[2409.15246](http://arxiv.org/abs/2409.15246)|null|
+|**2024-09-26**|**On-Air Deep Learning Integrated Semantic Inference Models for Enhanced Earth Observation Satellite Networks**|Hong-fu Chou et.al.|[2409.15246](http://arxiv.org/abs/2409.15246)|null|
 |**2024-09-23**|**Skeletal Data Matching and Merging from Multiple RGB-D Sensors for Room-Scale Human Behaviour Tracking**|Adrien Coppens et.al.|[2409.15242](http://arxiv.org/abs/2409.15242)|null|
 |**2024-09-21**|**LFP: Efficient and Accurate End-to-End Lane-Level Planning via Camera-LiDAR Fusion**|Guoliang You et.al.|[2409.14170](http://arxiv.org/abs/2409.14170)|null|
 |**2024-09-20**|**Continual Learning for Multimodal Data Fusion of a Soft Gripper**|Nilay Kushawaha et.al.|[2409.13792](http://arxiv.org/abs/2409.13792)|null|
