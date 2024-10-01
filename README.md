@@ -553,6 +553,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**RISE-SDF: a Relightable Information-Shared Signed Distance Field for Glossy Object Inverse Rendering**|Deheng Zhang et.al.|[2409.20140](http://arxiv.org/abs/2409.20140)|null|
 |**2024-09-27**|**Towards an active-learning approach to resource allocation for population-based damage prognosis**|George Tsialiamanis et.al.|[2409.18572](http://arxiv.org/abs/2409.18572)|null|
 |**2024-09-27**|**Architecture for Protecting Data Privacy in Decentralized Social Networks**|Quang Cao et.al.|[2409.18360](http://arxiv.org/abs/2409.18360)|null|
 |**2024-09-27**|**Plurals: A System for Guiding LLMs Via Simulated Social Ensembles**|Joshua Ashkinaze et.al.|[2409.17213](http://arxiv.org/abs/2409.17213)|**[link](https://github.com/josh-ashkinaze/plurals)**|
@@ -861,6 +862,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang et.al.|[2409.19972](http://arxiv.org/abs/2409.19972)|**[link](https://github.com/alphaplustt/daocc)**|
+|**2024-09-28**|**EEPNet: Efficient Edge Pixel-based Matching Network for Cross-Modal Dynamic Registration between LiDAR and Camera**|Yuanchao Yue et.al.|[2409.19305](http://arxiv.org/abs/2409.19305)|null|
 |**2024-09-26**|**BlinkTrack: Feature Tracking over 100 FPS via Events and Images**|Yichen Shen et.al.|[2409.17981](http://arxiv.org/abs/2409.17981)|null|
 |**2024-09-24**|**Fast Extrinsic Calibration for Multiple Inertial Measurement Units in Visual-Inertial System**|Youwei Yu et.al.|[2409.16228](http://arxiv.org/abs/2409.16228)|null|
 |**2024-09-23**|**VaLID: Verification as Late Integration of Detections for LiDAR-Camera Fusion**|Vanshika Vats et.al.|[2409.15529](http://arxiv.org/abs/2409.15529)|null|
@@ -1345,6 +1348,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293](http://arxiv.org/abs/2409.19293)|**[link](https://github.com/ahmedest61/vlad-buff)**|
+|**2024-09-27**|**MASt3R-SfM: a Fully-Integrated Solution for Unconstrained Structure-from-Motion**|Bardienus Duisterhof et.al.|[2409.19152](http://arxiv.org/abs/2409.19152)|null|
 |**2024-09-26**|**Search and Detect: Training-Free Long Tail Object Detection via Web-Image Retrieval**|Mankeerat Sidhu et.al.|[2409.18733](http://arxiv.org/abs/2409.18733)|null|
 |**2024-09-24**|**GSplatLoc: Grounding Keypoint Descriptors into 3D Gaussian Splatting for Improved Visual Localization**|Gennady Sidorov et.al.|[2409.16502](http://arxiv.org/abs/2409.16502)|**[link](https://github.com/haksorus/gsplatloc)**|
 |**2024-09-23**|**CamLoPA: A Hidden Wireless Camera Localization Framework via Signal Propagation Path Analysis**|Xiang Zhang et.al.|[2409.15169](http://arxiv.org/abs/2409.15169)|null|
@@ -2236,6 +2241,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Extreme heat is associated with reductions in human activity**|Andrew Renninger et.al.|[2409.20437](http://arxiv.org/abs/2409.20437)|null|
+|**2024-09-30**|**Annotation-Free Curb Detection Leveraging Altitude Difference Image**|Fulong Ma et.al.|[2409.20171](http://arxiv.org/abs/2409.20171)|null|
+|**2024-09-30**|**Toward robust physical and chemical characterization of heterogeneous lines of sight: The case of the Horsehead nebula**|Léontine Ségal et.al.|[2409.20074](http://arxiv.org/abs/2409.20074)|null|
+|**2024-09-29**|**4D Metric-Semantic Mapping for Persistent Orchard Monitoring: Method and Dataset**|Jiuzhou Lei et.al.|[2409.19786](http://arxiv.org/abs/2409.19786)|null|
+|**2024-09-28**|**The co-varying ties between networks and item responses via latent variables**|Selena Wang et.al.|[2409.19400](http://arxiv.org/abs/2409.19400)|null|
 |**2024-09-26**|**Adapting Deep Variational Bayes Filter for Enhanced Confidence Estimation in Finite Element Method Integrated Networks (FEMIN)**|Simon Thel et.al.|[2409.17758](http://arxiv.org/abs/2409.17758)|null|
 |**2024-09-25**|**Bi-Filtration and Stability of TDA Mapper for Point Cloud Data**|Wako Bungula et.al.|[2409.17360](http://arxiv.org/abs/2409.17360)|null|
 |**2024-09-25**|**SEN12-WATER: A New Dataset for Hydrological Applications and its Benchmarking**|Luigi Russo et.al.|[2409.17087](http://arxiv.org/abs/2409.17087)|null|
@@ -2748,6 +2758,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Annotation-Free Curb Detection Leveraging Altitude Difference Image**|Fulong Ma et.al.|[2409.20171](http://arxiv.org/abs/2409.20171)|null|
 |**2024-09-25**|**Bi-Filtration and Stability of TDA Mapper for Point Cloud Data**|Wako Bungula et.al.|[2409.17360](http://arxiv.org/abs/2409.17360)|null|
 |**2024-09-24**|**A Computer Vision Approach for Autonomous Cars to Drive Safe at Construction Zone**|Abu Shad Ahammed et.al.|[2409.15809](http://arxiv.org/abs/2409.15809)|null|
 |**2024-09-24**|**Sparse-to-Dense LiDAR Point Generation by LiDAR-Camera Fusion for 3D Object Detection**|Minseung Lee et.al.|[2409.14985](http://arxiv.org/abs/2409.14985)|null|
