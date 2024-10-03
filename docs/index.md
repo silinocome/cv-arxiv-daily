@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1340,7 +1340,7 @@ layout: default
 |**2024-09-21**|**Combining Absolute and Semi-Generalized Relative Poses for Visual Localization**|Vojtech Panek et.al.|[2409.14269](http://arxiv.org/abs/2409.14269)|null|
 |**2024-09-21**|**SplatLoc: 3D Gaussian Splatting-based Visual Localization for Augmented Reality**|Hongjia Zhai et.al.|[2409.14067](http://arxiv.org/abs/2409.14067)|null|
 |**2024-09-20**|**Efficient and Discriminative Image Feature Extraction for Universal Image Retrieval**|Morris Florek et.al.|[2409.13513](http://arxiv.org/abs/2409.13513)|**[link](https://github.com/morrisfl/unifex)**|
-|**2024-09-18**|**Towards Global Localization using Multi-Modal Object-Instance Re-Identification**|Aneesh Chavan et.al.|[2409.12002](http://arxiv.org/abs/2409.12002)|null|
+|**2024-09-18**|**Towards Global Localization using Multi-Modal Object-Instance Re-Identification**|Aneesh Chavan et.al.|[2409.12002](http://arxiv.org/abs/2409.12002)|**[link](https://github.com/instance-based-loc/instance-based-loc)**|
 |**2024-09-17**|**Obfuscation Based Privacy Preserving Representations are Recoverable Using Neighborhood Information**|Kunal Chelani et.al.|[2409.11536](http://arxiv.org/abs/2409.11536)|null|
 |**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|Paula Ontalvilla et.al.|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
 |**2024-09-21**|**HGSLoc: 3DGS-based Heuristic Camera Pose Refinement**|Zhongyan Niu et.al.|[2409.10925](http://arxiv.org/abs/2409.10925)|null|
@@ -2740,7 +2740,7 @@ layout: default
 |**2024-09-24**|**Sparse-to-Dense LiDAR Point Generation by LiDAR-Camera Fusion for 3D Object Detection**|Minseung Lee et.al.|[2409.14985](http://arxiv.org/abs/2409.14985)|null|
 |**2024-09-23**|**BranchPoseNet: Characterizing tree branching with a deep learning-based pose estimation approach**|Stefano Puliti et.al.|[2409.14755](http://arxiv.org/abs/2409.14755)|**[link](https://github.com/stefp/whorl_pose_detector)**|
 |**2024-09-23**|**UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection**|Haocheng Zhao et.al.|[2409.14751](http://arxiv.org/abs/2409.14751)|null|
-|**2024-09-20**|**Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework**|Yuqi Cheng et.al.|[2409.13162](http://arxiv.org/abs/2409.13162)|null|
+|**2024-09-20**|**Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework**|Yuqi Cheng et.al.|[2409.13162](http://arxiv.org/abs/2409.13162)|**[link](https://github.com/hustcyq/mvp-pclip)**|
 |**2024-09-19**|**PVContext: Hybrid Context Model for Point Cloud Compression**|Guoqing Zhang et.al.|[2409.12724](http://arxiv.org/abs/2409.12724)|null|
 |**2024-09-23**|**Accurate Automatic 3D Annotation of Traffic Lights and Signs for Autonomous Driving**|Sándor Kunsági-Máté et.al.|[2409.12620](http://arxiv.org/abs/2409.12620)|**[link](https://github.com/aimotive/aimotive_tl_ts_dataset)**|
 |**2024-09-18**|**Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective**|Zhihui He et.al.|[2409.11937](http://arxiv.org/abs/2409.11937)|null|
