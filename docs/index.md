@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1335,7 +1335,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-02**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang et.al.|[2410.01544](http://arxiv.org/abs/2410.01544)|null|
-|**2024-10-02**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536](http://arxiv.org/abs/2410.01536)|null|
+|**2024-10-03**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536](http://arxiv.org/abs/2410.01536)|null|
 |**2024-10-02**|**CSIM: A Copula-based similarity index sensitive to local changes for Image quality assessment**|Safouane El Ghazouali et.al.|[2410.01411](http://arxiv.org/abs/2410.01411)|null|
 |**2024-09-30**|**Class-Agnostic Visio-Temporal Scene Sketch Semantic Segmentation**|Aleyna Kütük et.al.|[2410.00266](http://arxiv.org/abs/2410.00266)|null|
 |**2024-09-28**|**VLAD-BuFF: Burst-aware Fast Feature Aggregation for Visual Place Recognition**|Ahmad Khaliq et.al.|[2409.19293](http://arxiv.org/abs/2409.19293)|**[link](https://github.com/ahmedest61/vlad-buff)**|
@@ -2229,7 +2229,7 @@ layout: default
 |**2024-10-02**|**Solar internetwork magnetic fields: Statistical comparison between observations and MHD simulations**|Elias Ebert et.al.|[2410.01613](http://arxiv.org/abs/2410.01613)|null|
 |**2024-10-02**|**Task-Oriented Edge-Assisted Cooperative Data Compression, Communications and Computing for UGV-Enhanced Warehouse Logistics**|Jiaming Yang et.al.|[2410.01515](http://arxiv.org/abs/2410.01515)|null|
 |**2024-10-02**|**SurgPointTransformer: Vertebrae Shape Completion with RGB-D Data**|Aidana Massalimova et.al.|[2410.01443](http://arxiv.org/abs/2410.01443)|null|
-|**2024-10-02**|**The SynCOM Flow Tracking Challenge**|Valmir Moraes Filho et.al.|[2410.01233](http://arxiv.org/abs/2410.01233)|null|
+|**2024-10-03**|**The SynCOM Flow Tracking Challenge**|Valmir Moraes Filho et.al.|[2410.01233](http://arxiv.org/abs/2410.01233)|null|
 |**2024-10-02**|**The Effects of Air Pollution on Health: A Study of Los Angeles County**|Yanfei Qu et.al.|[2410.01151](http://arxiv.org/abs/2410.01151)|null|
 |**2024-10-01**|**Drone Stereo Vision for Radiata Pine Branch Detection and Distance Measurement: Utilizing Deep Learning and YOLO Integration**|Yida Lin et.al.|[2410.00503](http://arxiv.org/abs/2410.00503)|null|
 |**2024-09-30**|**Robust Emax Model Fitting: Addressing Nonignorable Missing Binary Outcome in Dose-Response Analysis**|Jiangshan Zhang et.al.|[2410.00259](http://arxiv.org/abs/2410.00259)|null|
