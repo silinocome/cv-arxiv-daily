@@ -661,7 +661,7 @@ layout: default
 |**2024-02-20**|**News Recommendation with Attention Mechanism**|Tianrui Liu et.al.|[2402.07422](http://arxiv.org/abs/2402.07422)|null|
 |**2024-02-08**|**Empowering machine learning models with contextual knowledge for enhancing the detection of eating disorders in social media posts**|José Alberto Benítez-Andrades et.al.|[2402.05536](http://arxiv.org/abs/2402.05536)|null|
 |**2024-02-19**|**A Longitudinal Study of Italian and French Reddit Conversations Around the Russian Invasion of Ukraine**|Francesco Corso et.al.|[2402.04999](http://arxiv.org/abs/2402.04999)|**[link](https://github.com/orsofra/ls_frit_ukr)**|
-|**2024-02-07**|**CataractBot: An LLM-Powered Expert-in-the-Loop Chatbot for Cataract Patients**|Pragnya Ramjee et.al.|[2402.04620](http://arxiv.org/abs/2402.04620)|null|
+|**2024-02-07**|**CataractBot: An LLM-Powered Expert-in-the-Loop Chatbot for Cataract Patients**|Pragnya Ramjee et.al.|[2402.04620](http://arxiv.org/abs/2402.04620)|**[link](https://github.com/microsoft/byoeb)**|
 |**2024-02-21**|**MolTC: Towards Molecular Relational Modeling In Language Models**|Junfeng Fang et.al.|[2402.03781](http://arxiv.org/abs/2402.03781)|**[link](https://github.com/MangoKiller/MolTC)**|
 |**2024-02-09**|**Solving Hierarchical Information-Sharing Dec-POMDPs: An Extensive-Form Game Approach**|Johan Peralez et.al.|[2402.02954](http://arxiv.org/abs/2402.02954)|null|
 |**2024-02-04**|**Quantum Secret Sharing Enhanced: Utilizing W States for Anonymous and Secure Communication**|Guo-Dong Li et.al.|[2402.02413](http://arxiv.org/abs/2402.02413)|null|
@@ -2258,7 +2258,7 @@ layout: default
 |**2024-09-23**|**UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection**|Haocheng Zhao et.al.|[2409.14751](http://arxiv.org/abs/2409.14751)|null|
 |**2024-09-23**|**Video-to-Audio Generation with Fine-grained Temporal Semantics**|Yuchen Hu et.al.|[2409.14709](http://arxiv.org/abs/2409.14709)|null|
 |**2024-09-22**|**Explainable AI needs formal notions of explanation correctness**|Stefan Haufe et.al.|[2409.14590](http://arxiv.org/abs/2409.14590)|null|
-|**2024-09-20**|**Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework**|Yuqi Cheng et.al.|[2409.13162](http://arxiv.org/abs/2409.13162)|null|
+|**2024-09-20**|**Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework**|Yuqi Cheng et.al.|[2409.13162](http://arxiv.org/abs/2409.13162)|**[link](https://github.com/hustcyq/mvp-pclip)**|
 |**2024-09-18**|**Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective**|Zhihui He et.al.|[2409.11937](http://arxiv.org/abs/2409.11937)|null|
 |**2024-09-18**|**SpheriGait: Enriching Spatial Representation via Spherical Projection for LiDAR-based Gait Recognition**|Yanxi Wang et.al.|[2409.11869](http://arxiv.org/abs/2409.11869)|null|
 |**2024-09-17**|**Adaptive Anomaly Detection in Network Flows with Low-Rank Tensor Decompositions and Deep Unrolling**|Lukas Schynol et.al.|[2409.11529](http://arxiv.org/abs/2409.11529)|null|
