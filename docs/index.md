@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -2232,7 +2232,7 @@ layout: default
 |**2024-10-04**|**Linear Transformer Topological Masking with Graph Random Features**|Isaac Reid et.al.|[2410.03462](http://arxiv.org/abs/2410.03462)|null|
 |**2024-10-03**|**Evaluating WAIC and PSIS-LOO for Bayesian Diagnostic Classification Model Selection**|Ae Kyong Jung et.al.|[2410.02931](http://arxiv.org/abs/2410.02931)|null|
 |**2024-10-03**|**Multiscale Multi-Type Spatial Bayesian Analysis of Wildfires and Population Change That Avoids MCMC and Approximating the Posterior Distribution**|Shijie Zhou et.al.|[2410.02905](http://arxiv.org/abs/2410.02905)|null|
-|**2024-10-03**|**Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**|Mengxi Wu et.al.|[2410.02720](http://arxiv.org/abs/2410.02720)|**[link](https://github.com/IdanAchituve/DefRec_and_PCM)**|
+|**2024-10-05**|**Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**|Mengxi Wu et.al.|[2410.02720](http://arxiv.org/abs/2410.02720)|**[link](https://github.com/IdanAchituve/DefRec_and_PCM)**|
 |**2024-10-03**|**Unsupervised Point Cloud Completion through Unbalanced Optimal Transport**|Taekyung Lee et.al.|[2410.02671](http://arxiv.org/abs/2410.02671)|null|
 |**2024-10-03**|**An Efficient Inference Frame for SMLM (Single-Molecule Localization Microscopy)**|Tingdan Luo et.al.|[2410.02314](http://arxiv.org/abs/2410.02314)|**[link](https://github.com/ltd0924/EfficiencyInferFrame)**|
 |**2024-10-02**|**Comparison of $f(R,T)$ Gravity with Type Ia Supernovae Data**|Vincent R. Siggia et.al.|[2410.01967](http://arxiv.org/abs/2410.01967)|null|
@@ -2760,7 +2760,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-04**|**Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need**|Xianlong Wang et.al.|[2410.03644](http://arxiv.org/abs/2410.03644)|**[link](https://github.com/cgcl-codes/unlearnablepc)**|
 |**2024-10-04**|**Linear Transformer Topological Masking with Graph Random Features**|Isaac Reid et.al.|[2410.03462](http://arxiv.org/abs/2410.03462)|null|
-|**2024-10-03**|**Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**|Mengxi Wu et.al.|[2410.02720](http://arxiv.org/abs/2410.02720)|**[link](https://github.com/IdanAchituve/DefRec_and_PCM)**|
+|**2024-10-05**|**Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**|Mengxi Wu et.al.|[2410.02720](http://arxiv.org/abs/2410.02720)|**[link](https://github.com/IdanAchituve/DefRec_and_PCM)**|
 |**2024-10-03**|**Unsupervised Point Cloud Completion through Unbalanced Optimal Transport**|Taekyung Lee et.al.|[2410.02671](http://arxiv.org/abs/2410.02671)|null|
 |**2024-10-02**|**Task-Oriented Edge-Assisted Cooperative Data Compression, Communications and Computing for UGV-Enhanced Warehouse Logistics**|Jiaming Yang et.al.|[2410.01515](http://arxiv.org/abs/2410.01515)|null|
 |**2024-09-30**|**Annotation-Free Curb Detection Leveraging Altitude Difference Image**|Fulong Ma et.al.|[2409.20171](http://arxiv.org/abs/2409.20171)|null|
