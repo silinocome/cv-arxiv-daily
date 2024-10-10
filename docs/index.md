@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Online Dynamic Pricing for Electric Vehicle Charging Stations with Reservations**|Jan Mrkos et.al.|[2410.05538](http://arxiv.org/abs/2410.05538)|null|
 |**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|**[link](https://github.com/fubel/stmc)**|
 |**2024-09-26**|**LKA-ReID:Vehicle Re-Identification with Large Kernel Attention**|Xuezhi Xiang et.al.|[2409.17908](http://arxiv.org/abs/2409.17908)|null|
 |**2024-09-25**|**Graph Pruning Based Spatial and Temporal Graph Convolutional Network with Transfer Learning for Traffic Prediction**|Zihao Jing et.al.|[2409.16532](http://arxiv.org/abs/2409.16532)|null|
@@ -542,10 +543,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**Contrastive Learning to Fine-Tune Feature Extraction Models for the Visual Cortex**|Alex Mulrooney et.al.|[2410.06067](http://arxiv.org/abs/2410.06067)|null|
+|**2024-10-07**|**Design Information Disclosure under Bidder Heterogeneity in Online Advertising Auctions: Implications of Bid-Adherence Behavior**|Zhu Mingxi et.al.|[2410.05535](http://arxiv.org/abs/2410.05535)|null|
 |**2024-10-07**|**The Role of Governments in Increasing Interconnected Post-Deployment Monitoring of AI**|Merlin Stein et.al.|[2410.04931](http://arxiv.org/abs/2410.04931)|null|
 |**2024-10-03**|**BiSSL: Bilevel Optimization for Self-Supervised Pre-Training and Fine-Tuning**|Gustav Wagner Zakarias et.al.|[2410.02387](http://arxiv.org/abs/2410.02387)|null|
 |**2024-10-02**|**Impact of Knowledge Silos on Responsible AI Practices in Journalism**|Tomás Dodds et.al.|[2410.01138](http://arxiv.org/abs/2410.01138)|null|
-|**2024-09-30**|**RISE-SDF: a Relightable Information-Shared Signed Distance Field for Glossy Object Inverse Rendering**|Deheng Zhang et.al.|[2409.20140](http://arxiv.org/abs/2409.20140)|null|
+|**2024-10-08**|**RISE-SDF: a Relightable Information-Shared Signed Distance Field for Glossy Object Inverse Rendering**|Deheng Zhang et.al.|[2409.20140](http://arxiv.org/abs/2409.20140)|null|
 |**2024-09-27**|**Towards an active-learning approach to resource allocation for population-based damage prognosis**|George Tsialiamanis et.al.|[2409.18572](http://arxiv.org/abs/2409.18572)|null|
 |**2024-09-27**|**Architecture for Protecting Data Privacy in Decentralized Social Networks**|Quang Cao et.al.|[2409.18360](http://arxiv.org/abs/2409.18360)|null|
 |**2024-09-27**|**Plurals: A System for Guiding LLMs Via Simulated Social Ensembles**|Joshua Ashkinaze et.al.|[2409.17213](http://arxiv.org/abs/2409.17213)|**[link](https://github.com/josh-ashkinaze/plurals)**|
@@ -852,6 +855,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**Reliable Heading Tracking for Pedestrian Road Crossing Prediction Using Commodity Devices**|Yucheng Yang et.al.|[2410.06400](http://arxiv.org/abs/2410.06400)|null|
 |**2024-10-06**|**Channel-Aware Throughput Maximization for Cooperative Data Fusion in CAV**|Haonan An et.al.|[2410.04320](http://arxiv.org/abs/2410.04320)|null|
 |**2024-10-05**|**Enhancing Carbon Emission Reduction Strategies using OCO and ICOS data**|Oskar Åström et.al.|[2410.04288](http://arxiv.org/abs/2410.04288)|null|
 |**2024-10-01**|**Obstacle-Avoidant Leader Following with a Quadruped Robot**|Carmen Scheidemann et.al.|[2410.00572](http://arxiv.org/abs/2410.00572)|null|
@@ -1339,7 +1343,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-07**|**LoTLIP: Improving Language-Image Pre-training for Long Text Understanding**|Wei Wu et.al.|[2410.05249](http://arxiv.org/abs/2410.05249)|null|
+|**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
+|**2024-10-09**|**MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging**|Noel C. F. Codella et.al.|[2410.06542](http://arxiv.org/abs/2410.06542)|null|
+|**2024-10-08**|**Temporal Image Caption Retrieval Competition -- Description and Results**|Jakub Pokrywka et.al.|[2410.06314](http://arxiv.org/abs/2410.06314)|null|
+|**2024-10-08**|**Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching**|Gongxin Yao et.al.|[2410.06285](http://arxiv.org/abs/2410.06285)|null|
+|**2024-10-08**|**GSLoc: Visual Localization with 3D Gaussian Splatting**|Kazii Botashev et.al.|[2410.06165](http://arxiv.org/abs/2410.06165)|null|
+|**2024-10-08**|**Beyond Captioning: Task-Specific Prompting for Improved VLM Performance in Mathematical Reasoning**|Ayush Singh et.al.|[2410.05928](http://arxiv.org/abs/2410.05928)|null|
+|**2024-10-08**|**RNR-Nav: A Real-World Visual Navigation System Using Renderable Neural Radiance Maps**|Minsoo Kim et.al.|[2410.05621](http://arxiv.org/abs/2410.05621)|null|
+|**2024-10-09**|**LoTLIP: Improving Language-Image Pre-training for Long Text Understanding**|Wei Wu et.al.|[2410.05249](http://arxiv.org/abs/2410.05249)|null|
 |**2024-10-06**|**LiteVLoc: Map-Lite Visual Localization for Image Goal Navigation**|Jianhao Jiao et.al.|[2410.04419](http://arxiv.org/abs/2410.04419)|null|
 |**2024-10-02**|**Boosting Weakly-Supervised Referring Image Segmentation via Progressive Comprehension**|Zaiquan Yang et.al.|[2410.01544](http://arxiv.org/abs/2410.01544)|null|
 |**2024-10-03**|**EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections**|Francesc Net et.al.|[2410.01536](http://arxiv.org/abs/2410.01536)|**[link](https://github.com/cesc47/eufcc-cir)**|
@@ -1859,6 +1870,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729](http://arxiv.org/abs/2410.05729)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
 |**2024-10-02**|**Gaussian-Det: Learning Closed-Surface Gaussians for 3D Object Detection**|Hongru Yan et.al.|[2410.01404](http://arxiv.org/abs/2410.01404)|null|
 |**2024-10-01**|**Towards Practical Human Motion Prediction with LiDAR Point Clouds**|Xiao Han et.al.|[2408.08202](http://arxiv.org/abs/2408.08202)|null|
 |**2024-07-25**|**LION: Linear Group RNN for 3D Object Detection in Point Clouds**|Zhe Liu et.al.|[2407.18232](http://arxiv.org/abs/2407.18232)|**[link](https://github.com/happinesslz/LION)**|
@@ -2233,6 +2245,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**A network of cooler white dwarfs as infrared standards for flux calibration**|Abbigail K. Elms et.al.|[2410.06754](http://arxiv.org/abs/2410.06754)|null|
+|**2024-10-09**|**Systematic collapse of the accretion disc in AGN confirmed by UV photometry and broad line spectra**|Jia-Lai Kang et.al.|[2410.06730](http://arxiv.org/abs/2410.06730)|null|
+|**2024-10-08**|**Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks**|Kawisorn Kamtue et.al.|[2410.06277](http://arxiv.org/abs/2410.06277)|null|
+|**2024-10-08**|**Learning the Generalizable Manipulation Skills on Soft-body Tasks via Guided Self-attention Behavior Cloning Policy**|Xuetao Li et.al.|[2410.05756](http://arxiv.org/abs/2410.05756)|null|
+|**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729](http://arxiv.org/abs/2410.05729)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
 |**2024-10-07**|**Testing procedures based on maximum likelihood estimation for Marked Hawkes processes**|Anna Bonnet et.al.|[2410.05008](http://arxiv.org/abs/2410.05008)|null|
 |**2024-10-06**|**EnsemW2S: Can an Ensemble of LLMs be Leveraged to Obtain a Stronger LLM?**|Aakriti Agrawal et.al.|[2410.04571](http://arxiv.org/abs/2410.04571)|null|
 |**2024-10-05**|**Adjusting for Spatial Correlation in Machine and Deep Learning**|Matthew J. Heaton et.al.|[2410.04312](http://arxiv.org/abs/2410.04312)|null|
@@ -2768,6 +2785,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-08**|**Learning the Generalizable Manipulation Skills on Soft-body Tasks via Guided Self-attention Behavior Cloning Policy**|Xuetao Li et.al.|[2410.05756](http://arxiv.org/abs/2410.05756)|null|
+|**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729](http://arxiv.org/abs/2410.05729)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
 |**2024-10-05**|**Enhancing the Travel Experience for People with Visual Impairments through Multimodal Interaction: NaviGPT, A Real-Time AI-Driven Mobile Navigation System**|He Zhang et.al.|[2410.04005](http://arxiv.org/abs/2410.04005)|null|
 |**2024-10-04**|**STONE: A Submodular Optimization Framework for Active 3D Object Detection**|Ruiyu Mao et.al.|[2410.03918](http://arxiv.org/abs/2410.03918)|null|
 |**2024-10-04**|**Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need**|Xianlong Wang et.al.|[2410.03644](http://arxiv.org/abs/2410.03644)|**[link](https://github.com/cgcl-codes/unlearnablepc)**|
