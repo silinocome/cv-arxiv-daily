@@ -2258,7 +2258,7 @@ layout: default
 |**2024-10-08**|**Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks**|Kawisorn Kamtue et.al.|[2410.06277](http://arxiv.org/abs/2410.06277)|null|
 |**2024-10-08**|**Learning the Generalizable Manipulation Skills on Soft-body Tasks via Guided Self-attention Behavior Cloning Policy**|Xuetao Li et.al.|[2410.05756](http://arxiv.org/abs/2410.05756)|null|
 |**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729](http://arxiv.org/abs/2410.05729)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
-|**2024-10-07**|**Testing procedures based on maximum likelihood estimation for Marked Hawkes processes**|Anna Bonnet et.al.|[2410.05008](http://arxiv.org/abs/2410.05008)|null|
+|**2024-10-07**|**Testing procedures based on maximum likelihood estimation for Marked Hawkes processes**|Anna Bonnet et.al.|[2410.05008](http://arxiv.org/abs/2410.05008)|**[link](https://github.com/msadeler/marked_exp_hawkes)**|
 |**2024-10-06**|**EnsemW2S: Can an Ensemble of LLMs be Leveraged to Obtain a Stronger LLM?**|Aakriti Agrawal et.al.|[2410.04571](http://arxiv.org/abs/2410.04571)|null|
 |**2024-10-05**|**Adjusting for Spatial Correlation in Machine and Deep Learning**|Matthew J. Heaton et.al.|[2410.04312](http://arxiv.org/abs/2410.04312)|null|
 |**2024-10-05**|**Conceptualization and Implementation of a Faster Than Real Time Simulation Tool for Ionic Material and System Modeling**|Max Tepermeister et.al.|[2410.04310](http://arxiv.org/abs/2410.04310)|null|
