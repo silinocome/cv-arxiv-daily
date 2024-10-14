@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -2253,7 +2253,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-10**|**JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS**|Daniel Valentine et.al.|[2410.08148](http://arxiv.org/abs/2410.08148)|null|
 |**2024-10-10**|**Precision Measurement of the Branching Fraction of $D^{+}\to μ^{+}ν_μ$**|BESIII Collaboration et.al.|[2410.07626](http://arxiv.org/abs/2410.07626)|null|
-|**2024-10-09**|**A network of cooler white dwarfs as infrared standards for flux calibration**|Abbigail K. Elms et.al.|[2410.06754](http://arxiv.org/abs/2410.06754)|null|
+|**2024-10-11**|**A network of cooler white dwarfs as infrared standards for flux calibration**|Abbigail K. Elms et.al.|[2410.06754](http://arxiv.org/abs/2410.06754)|null|
 |**2024-10-09**|**Systematic collapse of the accretion disc in AGN confirmed by UV photometry and broad line spectra**|Jia-Lai Kang et.al.|[2410.06730](http://arxiv.org/abs/2410.06730)|null|
 |**2024-10-08**|**Is Pontryagin's Maximum Principle all you need? Solving optimal control problems with PMP-inspired neural networks**|Kawisorn Kamtue et.al.|[2410.06277](http://arxiv.org/abs/2410.06277)|null|
 |**2024-10-08**|**Learning the Generalizable Manipulation Skills on Soft-body Tasks via Guided Self-attention Behavior Cloning Policy**|Xuetao Li et.al.|[2410.05756](http://arxiv.org/abs/2410.05756)|null|
