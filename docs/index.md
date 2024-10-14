@@ -1393,7 +1393,7 @@ layout: default
 |**2024-09-04**|**Augmented Reality without Borders: Achieving Precise Localization Without Maps**|Albert Gassol Puigjaner et.al.|[2408.17373](http://arxiv.org/abs/2408.17373)|null|
 |**2024-09-02**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
 |**2024-08-29**|**Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**|Kengo Nakata et.al.|[2408.16296](http://arxiv.org/abs/2408.16296)|null|
-|**2024-08-28**|**Temporal Attention for Cross-View Sequential Image Localization**|Dong Yuan et.al.|[2408.15569](http://arxiv.org/abs/2408.15569)|null|
+|**2024-08-28**|**Temporal Attention for Cross-View Sequential Image Localization**|Dong Yuan et.al.|[2408.15569](http://arxiv.org/abs/2408.15569)|**[link](https://github.com/UQ-DongYuan/CVSeqLocation)**|
 |**2024-08-27**|**Snap and Diagnose: An Advanced Multimodal Retrieval System for Identifying Plant Diseases in the Wild**|Tianqi Wei et.al.|[2408.14723](http://arxiv.org/abs/2408.14723)|null|
 |**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
 |**2024-08-15**|**Cross-Modal Denoising: A Novel Training Paradigm for Enhancing Speech-Image Retrieval**|Lifeng Zhou et.al.|[2408.13705](http://arxiv.org/abs/2408.13705)|null|
@@ -2410,7 +2410,7 @@ layout: default
 |**2024-07-19**|**A Bayesian workflow for securitizing casualty insurance risk**|Nathaniel Haines et.al.|[2407.14666](http://arxiv.org/abs/2407.14666)|**[link](https://github.com/LedgerInvesting/bayesian-workflow-paper-2024)**|
 |**2024-07-19**|**tidychangepoint: a unified framework for analyzing changepoint detection in univariate time series**|Benjamin S. Baumer et.al.|[2407.14369](http://arxiv.org/abs/2407.14369)|null|
 |**2024-07-19**|**MSCT: Addressing Time-Varying Confounding with Marginal Structural Causal Transformer for Counterfactual Post-Crash Traffic Prediction**|Shuang Li et.al.|[2407.14065](http://arxiv.org/abs/2407.14065)|null|
-|**2024-07-18**|**Quantifying uncertainty in area and regression coefficient estimation from remote sensing maps**|Kerri Lu et.al.|[2407.13659](http://arxiv.org/abs/2407.13659)|null|
+|**2024-07-18**|**Quantifying uncertainty in area and regression coefficient estimation from remote sensing maps**|Kerri Lu et.al.|[2407.13659](http://arxiv.org/abs/2407.13659)|**[link](https://github.com/earth-intelligence-lab/uncertainty-quantification)**|
 |**2024-07-17**|**Length-preserving biconnection gravity and its cosmological implications**|Lehel Csillag et.al.|[2407.13024](http://arxiv.org/abs/2407.13024)|null|
 |**2024-07-17**|**Navigating the Smog: A Cooperative Multi-Agent RL for Accurate Air Pollution Mapping through Data Assimilation**|Ichrak Mokhtari et.al.|[2407.12539](http://arxiv.org/abs/2407.12539)|null|
 |**2024-07-17**|**Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model**|Tao Wang et.al.|[2407.12319](http://arxiv.org/abs/2407.12319)|null|
@@ -2551,7 +2551,7 @@ layout: default
 |**2024-05-02**|**Insight-HXMT View of the BHC Swift J1727.8-1613 during its outburst in 2023**|Kaushik Chatterjee et.al.|[2405.01498](http://arxiv.org/abs/2405.01498)|null|
 |**2024-05-02**|**Hypergraph $p$ -Laplacian regularization on point clouds for data interpolation**|Kehan Shi et.al.|[2405.01109](http://arxiv.org/abs/2405.01109)|null|
 |**2024-05-01**|**Individual-level models of disease transmission incorporating piecewise spatial risk functions**|Chinmoy Roy Rahul et.al.|[2405.00835](http://arxiv.org/abs/2405.00835)|null|
-|**2024-04-30**|**Quater-GCN: Enhancing 3D Human Pose Estimation with Orientation and Semi-supervised Training**|Xingyu Song et.al.|[2404.19279](http://arxiv.org/abs/2404.19279)|null|
+|**2024-04-30**|**Quater-GCN: Enhancing 3D Human Pose Estimation with Orientation and Semi-supervised Training**|Xingyu Song et.al.|[2404.19279](http://arxiv.org/abs/2404.19279)|**[link](https://github.com/xingyu-song/q_gcn)**|
 |**2024-04-29**|**Associating LOFAR Galactic Faraday structures with the warm neutral medium**|F. Boulanger et.al.|[2404.19002](http://arxiv.org/abs/2404.19002)|null|
 |**2024-04-29**|**"I'm in the Bluesky Tonight": Insights from a Year Worth of Social Data**|Andrea Failla et.al.|[2404.18984](http://arxiv.org/abs/2404.18984)|null|
 |**2024-04-29**|**Leveraging PointNet and PointNet++ for Lyft Point Cloud Classification Challenge**|Rajat K. Doshi et.al.|[2404.18665](http://arxiv.org/abs/2404.18665)|null|
