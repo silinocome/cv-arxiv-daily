@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**A Systematic Review of Edge Case Detection in Automated Driving: Methods, Challenges and Future Directions**|Saeed Rahmani et.al.|[2410.08491](http://arxiv.org/abs/2410.08491)|null|
+|**2024-09-29**|**Finetuning YOLOv9 for Vehicle Detection: Deep Learning for Intelligent Transportation Systems in Dhaka, Bangladesh**|Shahriar Ahmad Fahim et.al.|[2410.08230](http://arxiv.org/abs/2410.08230)|null|
 |**2024-10-10**|**HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**|Pei Liu et.al.|[2410.07758](http://arxiv.org/abs/2410.07758)|null|
 |**2024-10-07**|**Online Dynamic Pricing for Electric Vehicle Charging Stations with Reservations**|Jan Mrkos et.al.|[2410.05538](http://arxiv.org/abs/2410.05538)|null|
 |**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|**[link](https://github.com/fubel/stmc)**|
@@ -556,6 +558,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**A Social Context-aware Graph-based Multimodal Attentive Learning Framework for Disaster Content Classification during Emergencies**|Shahid Shafi Dar et.al.|[2410.08814](http://arxiv.org/abs/2410.08814)|null|
 |**2024-10-08**|**Contrastive Learning to Fine-Tune Feature Extraction Models for the Visual Cortex**|Alex Mulrooney et.al.|[2410.06067](http://arxiv.org/abs/2410.06067)|null|
 |**2024-10-07**|**Design Information Disclosure under Bidder Heterogeneity in Online Advertising Auctions: Implications of Bid-Adherence Behavior**|Zhu Mingxi et.al.|[2410.05535](http://arxiv.org/abs/2410.05535)|null|
 |**2024-10-07**|**The Role of Governments in Increasing Interconnected Post-Deployment Monitoring of AI**|Merlin Stein et.al.|[2410.04931](http://arxiv.org/abs/2410.04931)|null|
@@ -1364,6 +1367,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
+|**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
 |**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
 |**2024-10-09**|**MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging**|Noel C. F. Codella et.al.|[2410.06542](http://arxiv.org/abs/2410.06542)|null|
@@ -2817,6 +2822,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**Impact of Surface Reflections in Maritime Obstacle Detection**|Samed Yalçın et.al.|[2410.08713](http://arxiv.org/abs/2410.08713)|**[link](https://github.com/samedyalcin/mrad)**|
+|**2024-10-11**|**Uncertainty Estimation and Out-of-Distribution Detection for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei et.al.|[2410.08687](http://arxiv.org/abs/2410.08687)|null|
 |**2024-10-08**|**Learning the Generalizable Manipulation Skills on Soft-body Tasks via Guided Self-attention Behavior Cloning Policy**|Xuetao Li et.al.|[2410.05756](http://arxiv.org/abs/2410.05756)|null|
 |**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729](http://arxiv.org/abs/2410.05729)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
 |**2024-10-05**|**Enhancing the Travel Experience for People with Visual Impairments through Multimodal Interaction: NaviGPT, A Real-Time AI-Driven Mobile Navigation System**|He Zhang et.al.|[2410.04005](http://arxiv.org/abs/2410.04005)|null|
