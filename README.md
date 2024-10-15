@@ -24,8 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**A Survey on Performance, Current and Future Usage of Vehicle-To-Everything Communication Standards**|Falk Dettinger et.al.|[2410.10264](http://arxiv.org/abs/2410.10264)|null|
+|**2024-10-12**|**DiffuTraj: A Stochastic Vessel Trajectory Prediction Approach via Guided Diffusion Process**|Changlin Li et.al.|[2410.09550](http://arxiv.org/abs/2410.09550)|null|
 |**2024-10-11**|**A Systematic Review of Edge Case Detection in Automated Driving: Methods, Challenges and Future Directions**|Saeed Rahmani et.al.|[2410.08491](http://arxiv.org/abs/2410.08491)|null|
-|**2024-09-29**|**Finetuning YOLOv9 for Vehicle Detection: Deep Learning for Intelligent Transportation Systems in Dhaka, Bangladesh**|Shahriar Ahmad Fahim et.al.|[2410.08230](http://arxiv.org/abs/2410.08230)|null|
+|**2024-10-14**|**Finetuning YOLOv9 for Vehicle Detection: Deep Learning for Intelligent Transportation Systems in Dhaka, Bangladesh**|Shahriar Ahmad Fahim et.al.|[2410.08230](http://arxiv.org/abs/2410.08230)|null|
 |**2024-10-10**|**HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**|Pei Liu et.al.|[2410.07758](http://arxiv.org/abs/2410.07758)|null|
 |**2024-10-07**|**Online Dynamic Pricing for Electric Vehicle Charging Stations with Reservations**|Jan Mrkos et.al.|[2410.05538](http://arxiv.org/abs/2410.05538)|null|
 |**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|**[link](https://github.com/fubel/stmc)**|
@@ -873,6 +875,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
+|**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409](http://arxiv.org/abs/2410.10409)|null|
+|**2024-10-12**|**A Collaborative Team of UAV-Hexapod for an Autonomous Retrieval System in GNSS-Denied Maritime Environments**|Seungwook Lee et.al.|[2410.09606](http://arxiv.org/abs/2410.09606)|null|
+|**2024-10-12**|**Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments**|Aiyelari Temilolorun et.al.|[2410.09513](http://arxiv.org/abs/2410.09513)|null|
 |**2024-10-10**|**Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey**|Zihan Yu et.al.|[2410.07824](http://arxiv.org/abs/2410.07824)|null|
 |**2024-10-10**|**A Visual Cooperative Localization Method for Airborne Magnetic Surveying Based on a Manifold Sensor Fusion Algorithm Using Lie Groups**|Liang Liu et.al.|[2410.07700](http://arxiv.org/abs/2410.07700)|null|
 |**2024-10-09**|**Progressive Multi-Modal Fusion for Robust 3D Object Detection**|Rohit Mohan et.al.|[2410.07475](http://arxiv.org/abs/2410.07475)|null|
@@ -1367,6 +1373,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-10-11**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
 |**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
 |**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
@@ -2047,6 +2054,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|null|
 |**2024-09-27**|**Exploiting Motion Prior for Accurate Pose Estimation of Dashboard Cameras**|Yipeng Lu et.al.|[2409.18673](http://arxiv.org/abs/2409.18673)|null|
 |**2024-09-25**|**Game4Loc: A UAV Geo-Localization Benchmark from Game Data**|Yuxiang Ji et.al.|[2409.16925](http://arxiv.org/abs/2409.16925)|**[link](https://github.com/Yux1angJi/GTA-UAV)**|
 |**2024-09-24**|**Automatic Registration of SHG and H&E Images with Feature-based Initial Alignment and Intensity-based Instance Optimization: Contribution to the COMULIS Challenge**|Marek Wodzinski et.al.|[2409.15931](http://arxiv.org/abs/2409.15931)|null|
@@ -2278,6 +2286,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|null|
+|**2024-10-14**|**WAND: Wavelet Analysis-based Neural Decomposition of MRS Signals for Artifact Removal**|Julian P. Merkofer et.al.|[2410.10427](http://arxiv.org/abs/2410.10427)|null|
+|**2024-10-13**|**Model Predictive Control for Optimal Motion Planning of Unmanned Aerial Vehicles**|Duy-Nam Bui et.al.|[2410.09799](http://arxiv.org/abs/2410.09799)|null|
+|**2024-10-11**|**Foundation Model-Powered 3D Few-Shot Class Incremental Learning via Training-free Adaptor**|Sahar Ahmadi et.al.|[2410.09237](http://arxiv.org/abs/2410.09237)|**[link](https://github.com/ahmadisahar/accv_fcil3d)**|
 |**2024-10-10**|**JWST-TST DREAMS: Non-Uniform Dayside Emission for WASP-17b from MIRI/LRS**|Daniel Valentine et.al.|[2410.08148](http://arxiv.org/abs/2410.08148)|null|
 |**2024-10-10**|**Precision Measurement of the Branching Fraction of $D^{+}\to μ^{+}ν_μ$**|BESIII Collaboration et.al.|[2410.07626](http://arxiv.org/abs/2410.07626)|null|
 |**2024-10-11**|**A network of cooler white dwarfs as infrared standards for flux calibration**|Abbigail K. Elms et.al.|[2410.06754](http://arxiv.org/abs/2410.06754)|null|
@@ -2822,6 +2834,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Innovative Deep Learning Techniques for Obstacle Recognition: A Comparative Study of Modern Detection Algorithms**|Santiago Pérez et.al.|[2410.10096](http://arxiv.org/abs/2410.10096)|null|
+|**2024-10-13**|**Model Predictive Control for Optimal Motion Planning of Unmanned Aerial Vehicles**|Duy-Nam Bui et.al.|[2410.09799](http://arxiv.org/abs/2410.09799)|null|
+|**2024-10-11**|**Foundation Model-Powered 3D Few-Shot Class Incremental Learning via Training-free Adaptor**|Sahar Ahmadi et.al.|[2410.09237](http://arxiv.org/abs/2410.09237)|**[link](https://github.com/ahmadisahar/accv_fcil3d)**|
 |**2024-10-11**|**Impact of Surface Reflections in Maritime Obstacle Detection**|Samed Yalçın et.al.|[2410.08713](http://arxiv.org/abs/2410.08713)|**[link](https://github.com/samedyalcin/mrad)**|
 |**2024-10-11**|**Uncertainty Estimation and Out-of-Distribution Detection for LiDAR Scene Semantic Segmentation**|Hanieh Shojaei et.al.|[2410.08687](http://arxiv.org/abs/2410.08687)|null|
 |**2024-10-08**|**Learning the Generalizable Manipulation Skills on Soft-body Tasks via Guided Self-attention Behavior Cloning Policy**|Xuetao Li et.al.|[2410.05756](http://arxiv.org/abs/2410.05756)|null|
