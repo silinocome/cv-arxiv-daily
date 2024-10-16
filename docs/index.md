@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -557,7 +557,7 @@ layout: default
 |**2024-10-10**|**RISE-SDF: a Relightable Information-Shared Signed Distance Field for Glossy Object Inverse Rendering**|Deheng Zhang et.al.|[2409.20140](http://arxiv.org/abs/2409.20140)|null|
 |**2024-09-27**|**Towards an active-learning approach to resource allocation for population-based damage prognosis**|George Tsialiamanis et.al.|[2409.18572](http://arxiv.org/abs/2409.18572)|null|
 |**2024-09-27**|**Architecture for Protecting Data Privacy in Decentralized Social Networks**|Quang Cao et.al.|[2409.18360](http://arxiv.org/abs/2409.18360)|null|
-|**2024-09-27**|**Plurals: A System for Guiding LLMs Via Simulated Social Ensembles**|Joshua Ashkinaze et.al.|[2409.17213](http://arxiv.org/abs/2409.17213)|**[link](https://github.com/josh-ashkinaze/plurals)**|
+|**2024-10-15**|**Plurals: A System for Guiding LLMs Via Simulated Social Ensembles**|Joshua Ashkinaze et.al.|[2409.17213](http://arxiv.org/abs/2409.17213)|**[link](https://github.com/josh-ashkinaze/plurals)**|
 |**2024-09-24**|**NoTeeline: Supporting Real-Time Notetaking from Keypoints with Large Language Models**|Faria Huq et.al.|[2409.16493](http://arxiv.org/abs/2409.16493)|null|
 |**2024-09-24**|**A Multi-Agent Multi-Environment Mixed Q-Learning for Partially Decentralized Wireless Network Optimization**|Talha Bozkus et.al.|[2409.16450](http://arxiv.org/abs/2409.16450)|null|
 |**2024-09-21**|**Perfect Gradient Inversion in Federated Learning: A New Paradigm from the Hidden Subset Sum Problem**|Qiongxiu Li et.al.|[2409.14260](http://arxiv.org/abs/2409.14260)|null|
