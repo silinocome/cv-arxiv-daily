@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.17
+## Updated on 2024.10.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -2277,7 +2277,7 @@ layout: default
 |**2024-10-14**|**Copula based joint regression models for correlated data: an analysis in the bivariate case**|Aydin Sareff-Hibbert et.al.|[2410.11892](http://arxiv.org/abs/2410.11892)|null|
 |**2024-10-15**|**Generative Image Steganography Based on Point Cloud**|Zhong Yangjie et.al.|[2410.11673](http://arxiv.org/abs/2410.11673)|null|
 |**2024-10-15**|**Defining myocardial fiber bundle architecture in atrial digital twins**|Roberto Piersanti et.al.|[2410.11601](http://arxiv.org/abs/2410.11601)|null|
-|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|null|
+|**2024-10-14**|**Depth Any Video with Scalable Synthetic Data**|Honghui Yang et.al.|[2410.10815](http://arxiv.org/abs/2410.10815)|**[link](https://github.com/Nightmare-n/DepthAnyVideo)**|
 |**2024-10-14**|**WAND: Wavelet Analysis-based Neural Decomposition of MRS Signals for Artifact Removal**|Julian P. Merkofer et.al.|[2410.10427](http://arxiv.org/abs/2410.10427)|null|
 |**2024-10-13**|**Model Predictive Control for Optimal Motion Planning of Unmanned Aerial Vehicles**|Duy-Nam Bui et.al.|[2410.09799](http://arxiv.org/abs/2410.09799)|null|
 |**2024-10-11**|**Foundation Model-Powered 3D Few-Shot Class Incremental Learning via Training-free Adaptor**|Sahar Ahmadi et.al.|[2410.09237](http://arxiv.org/abs/2410.09237)|**[link](https://github.com/ahmadisahar/accv_fcil3d)**|
