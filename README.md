@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**A Location Validation Technique to Mitigate GPS Spoofing Attacks in IEEE 802.11p based Fleet Operator's Network of Electric Vehicles**|Ankita Samaddar et.al.|[2410.13031](http://arxiv.org/abs/2410.13031)|null|
 |**2024-10-14**|**A Survey on Performance, Current and Future Usage of Vehicle-To-Everything Communication Standards**|Falk Dettinger et.al.|[2410.10264](http://arxiv.org/abs/2410.10264)|null|
 |**2024-10-12**|**DiffuTraj: A Stochastic Vessel Trajectory Prediction Approach via Guided Diffusion Process**|Changlin Li et.al.|[2410.09550](http://arxiv.org/abs/2410.09550)|null|
 |**2024-10-11**|**A Systematic Review of Edge Case Detection in Automated Driving: Methods, Challenges and Future Directions**|Saeed Rahmani et.al.|[2410.08491](http://arxiv.org/abs/2410.08491)|null|
@@ -2296,6 +2297,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**SAda-Net: A Self-Supervised Adaptive Stereo Estimation CNN For Remote Sensing Image Data**|Dominik Hirner et.al.|[2410.13500](http://arxiv.org/abs/2410.13500)|**[link](https://github.com/thedodo/sada-net)**|
 |**2024-10-14**|**Copula based joint regression models for correlated data: an analysis in the bivariate case**|Aydin Sareff-Hibbert et.al.|[2410.11892](http://arxiv.org/abs/2410.11892)|null|
 |**2024-10-15**|**Generative Image Steganography Based on Point Cloud**|Zhong Yangjie et.al.|[2410.11673](http://arxiv.org/abs/2410.11673)|null|
 |**2024-10-15**|**Defining myocardial fiber bundle architecture in atrial digital twins**|Roberto Piersanti et.al.|[2410.11601](http://arxiv.org/abs/2410.11601)|null|
