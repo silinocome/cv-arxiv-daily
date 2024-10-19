@@ -864,7 +864,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-16**|**Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion**|Minkyoung Cho et.al.|[2410.12592](http://arxiv.org/abs/2410.12592)|null|
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
-|**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409](http://arxiv.org/abs/2410.10409)|null|
+|**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409](http://arxiv.org/abs/2410.10409)|**[link](https://github.com/mzahana/smart-track)**|
 |**2024-10-12**|**A Collaborative Team of UAV-Hexapod for an Autonomous Retrieval System in GNSS-Denied Maritime Environments**|Seungwook Lee et.al.|[2410.09606](http://arxiv.org/abs/2410.09606)|null|
 |**2024-10-12**|**Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments**|Aiyelari Temilolorun et.al.|[2410.09513](http://arxiv.org/abs/2410.09513)|null|
 |**2024-10-10**|**Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey**|Zihan Yu et.al.|[2410.07824](http://arxiv.org/abs/2410.07824)|null|
