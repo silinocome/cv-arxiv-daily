@@ -498,7 +498,7 @@
 |**2023-02-21**|**Lightweight Real-time Semantic Segmentation Network with Efficient Transformer and CNN**|Guoan Xu et.al.|[2302.10484](http://arxiv.org/abs/2302.10484)|**[link](https://github.com/iviplab/letnet)**|
 |**2023-02-21**|**A Dynamic Temporal Self-attention Graph Convolutional Network for Traffic Prediction**|Ruiyuan Jiang et.al.|[2302.10428](http://arxiv.org/abs/2302.10428)|null|
 |**2023-02-21**|**An Efficient Two-stage Gradient Boosting Framework for Short-term Traffic State Estimation**|Yichao Lu et.al.|[2302.10400](http://arxiv.org/abs/2302.10400)|**[link](https://github.com/yichaolu/traffic4cast2022)**|
-|**2023-02-17**|**LDFA: Latent Diffusion Face Anonymization for Self-driving Applications**|Marvin Klemp et.al.|[2302.08931](http://arxiv.org/abs/2302.08931)|null|
+|**2023-02-17**|**LDFA: Latent Diffusion Face Anonymization for Self-driving Applications**|Marvin Klemp et.al.|[2302.08931](http://arxiv.org/abs/2302.08931)|**[link](https://github.com/KIT-MRT/latent_diffusion_face_anonymization)**|
 |**2023-02-17**|**OTFS -- A Mathematical Foundation for Communication and Radar Sensing in the Delay-Doppler Domain**|Saif Khan Mohammed et.al.|[2302.08696](http://arxiv.org/abs/2302.08696)|null|
 |**2023-02-17**|**Online Spatio-Temporal Correlation-Based Federated Learning for Traffic Flow Forecasting**|Qingxiang Liu et.al.|[2302.08658](http://arxiv.org/abs/2302.08658)|null|
 |**2023-02-15**|**ForceFormer: Exploring Social Force and Transformer for Pedestrian Trajectory Prediction**|Weicheng Zhang et.al.|[2302.07583](http://arxiv.org/abs/2302.07583)|null|
@@ -1460,7 +1460,7 @@
 |**2024-07-15**|**An evaluation of CNN models and data augmentation techniques in hierarchical localization of mobile robots**|J. J. Cabrera et.al.|[2407.10596](http://arxiv.org/abs/2407.10596)|**[link](https://github.com/juanjo-cabrera/indoorlocalizationsinglecnn)**|
 |**2024-07-15**|**An experimental evaluation of Siamese Neural Networks for robot localization using omnidirectional imaging in indoor environments**|J. J. Cabrera et.al.|[2407.10536](http://arxiv.org/abs/2407.10536)|null|
 |**2024-07-12**|**Are They the Same Picture? Adapting Concept Bottleneck Models for Human-AI Collaboration in Image Retrieval**|Vaibhav Balloli et.al.|[2407.08908](http://arxiv.org/abs/2407.08908)|**[link](https://github.com/realize-lab/chair)**|
-|**2024-07-12**|**Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**|Xinyu Zhu et.al.|[2407.08153](http://arxiv.org/abs/2407.08153)|null|
+|**2024-07-12**|**Lifelong Histopathology Whole Slide Image Retrieval via Distance Consistency Rehearsal**|Xinyu Zhu et.al.|[2407.08153](http://arxiv.org/abs/2407.08153)|**[link](https://github.com/OliverZXY/LWSR)**|
 |**2024-07-09**|**CEIA: CLIP-Based Event-Image Alignment for Open-World Event-Based Understanding**|Wenhao Xu et.al.|[2407.06611](http://arxiv.org/abs/2407.06611)|null|
 |**2024-07-08**|**Pseudo-triplet Guided Few-shot Composed Image Retrieval**|Bohan Hou et.al.|[2407.06001](http://arxiv.org/abs/2407.06001)|null|
 |**2024-07-09**|**HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels**|Yingying Jiang et.al.|[2407.05795](http://arxiv.org/abs/2407.05795)|null|
