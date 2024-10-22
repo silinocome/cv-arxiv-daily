@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**SSMT: Few-Shot Traffic Forecasting with Single Source Meta-Transfer**|Kishor Kumar Bhaumik et.al.|[2410.15589](http://arxiv.org/abs/2410.15589)|null|
+|**2024-10-20**|**FastSTI: A Fast Conditional Pseudo Numerical Diffusion Model for Spatio-temporal Traffic Data Imputation**|Shaokang Cheng et.al.|[2410.15248](http://arxiv.org/abs/2410.15248)|null|
+|**2024-10-16**|**Incorporating Long-term Data in Training Short-term Traffic Prediction Model**|Xiannan Huang et.al.|[2410.14726](http://arxiv.org/abs/2410.14726)|null|
 |**2024-10-18**|**A dataset for cyber threat intelligence modeling of connected autonomous vehicles**|Yinghui Wang et.al.|[2410.14600](http://arxiv.org/abs/2410.14600)|null|
 |**2024-10-17**|**A Physics-Based Context-Aware Approach for Anomaly Detection in Teleoperated Driving Operations Under False Data Injection Attacks**|Subhadip Ghosh et.al.|[2410.13962](http://arxiv.org/abs/2410.13962)|null|
 |**2024-10-16**|**A Location Validation Technique to Mitigate GPS Spoofing Attacks in IEEE 802.11p based Fleet Operator's Network of Electric Vehicles**|Ankita Samaddar et.al.|[2410.13031](http://arxiv.org/abs/2410.13031)|null|
@@ -31,7 +34,7 @@
 |**2024-10-12**|**DiffuTraj: A Stochastic Vessel Trajectory Prediction Approach via Guided Diffusion Process**|Changlin Li et.al.|[2410.09550](http://arxiv.org/abs/2410.09550)|null|
 |**2024-10-11**|**A Systematic Review of Edge Case Detection in Automated Driving: Methods, Challenges and Future Directions**|Saeed Rahmani et.al.|[2410.08491](http://arxiv.org/abs/2410.08491)|null|
 |**2024-10-14**|**Finetuning YOLOv9 for Vehicle Detection: Deep Learning for Intelligent Transportation Systems in Dhaka, Bangladesh**|Shahriar Ahmad Fahim et.al.|[2410.08230](http://arxiv.org/abs/2410.08230)|null|
-|**2024-10-10**|**HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**|Pei Liu et.al.|[2410.07758](http://arxiv.org/abs/2410.07758)|null|
+|**2024-10-21**|**HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**|Pei Liu et.al.|[2410.07758](http://arxiv.org/abs/2410.07758)|null|
 |**2024-10-07**|**Online Dynamic Pricing for Electric Vehicle Charging Stations with Reservations**|Jan Mrkos et.al.|[2410.05538](http://arxiv.org/abs/2410.05538)|null|
 |**2024-10-03**|**Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.|[2410.02638](http://arxiv.org/abs/2410.02638)|**[link](https://github.com/fubel/stmc)**|
 |**2024-09-26**|**LKA-ReID:Vehicle Re-Identification with Large Kernel Attention**|Xuezhi Xiang et.al.|[2409.17908](http://arxiv.org/abs/2409.17908)|null|
@@ -563,6 +566,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Conditional Dependence via U-Statistics Pruning**|Ferran de Cabrera et.al.|[2410.15888](http://arxiv.org/abs/2410.15888)|null|
+|**2024-10-19**|**Linguistic Fuzzy Information Evolution with Random Leader Election Mechanism for Decision-Making Systems**|Qianlei Jia et.al.|[2410.15171](http://arxiv.org/abs/2410.15171)|null|
 |**2024-10-11**|**A Social Context-aware Graph-based Multimodal Attentive Learning Framework for Disaster Content Classification during Emergencies**|Shahid Shafi Dar et.al.|[2410.08814](http://arxiv.org/abs/2410.08814)|null|
 |**2024-10-08**|**Contrastive Learning to Fine-Tune Feature Extraction Models for the Visual Cortex**|Alex Mulrooney et.al.|[2410.06067](http://arxiv.org/abs/2410.06067)|null|
 |**2024-10-07**|**Design Information Disclosure under Bidder Heterogeneity in Online Advertising Auctions: Implications of Bid-Adherence Behavior**|Zhu Mingxi et.al.|[2410.05535](http://arxiv.org/abs/2410.05535)|null|
@@ -878,6 +883,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Cooperative Multistatic Target Detection in Cell-Free Communication Networks**|Tianyu Yang et.al.|[2410.16140](http://arxiv.org/abs/2410.16140)|null|
+|**2024-10-21**|**Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data**|Nikos Sakellariou et.al.|[2410.16089](http://arxiv.org/abs/2410.16089)|null|
+|**2024-10-21**|**Dynamic Spectral fluorescence microscopy via Event-based & CMOS image-sensor fusion**|Richard G. Baird et.al.|[2410.15552](http://arxiv.org/abs/2410.15552)|null|
+|**2024-10-20**|**Event-based Sensor Fusion and Application on Odometry: A Survey**|Jiaqiang Zhang et.al.|[2410.15480](http://arxiv.org/abs/2410.15480)|null|
+|**2024-10-20**|**Bayesian data fusion for distributed learning**|Peng Wu et.al.|[2410.15473](http://arxiv.org/abs/2410.15473)|null|
+|**2024-10-20**|**Fusion of Time and Angle Measurements for Digital-Twin-Aided Probabilistic 3D Positioning**|Vincent Corlay et.al.|[2410.15237](http://arxiv.org/abs/2410.15237)|null|
 |**2024-10-16**|**Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion**|Minkyoung Cho et.al.|[2410.12592](http://arxiv.org/abs/2410.12592)|null|
 |**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
 |**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409](http://arxiv.org/abs/2410.10409)|**[link](https://github.com/mzahana/smart-track)**|
@@ -1377,6 +1388,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-20**|**GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning**|Haiwen Diao et.al.|[2410.15266](http://arxiv.org/abs/2410.15266)|**[link](https://github.com/paranioar/gssf)**|
+|**2024-10-19**|**Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway's Digitised Book Collection**|Marie Roald et.al.|[2410.14969](http://arxiv.org/abs/2410.14969)|null|
 |**2024-10-16**|**Development of Image Collection Method Using YOLO and Siamese Network**|Chan Young Shin et.al.|[2410.12561](http://arxiv.org/abs/2410.12561)|null|
 |**2024-10-16**|**LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**|Juelin Zhu et.al.|[2410.12269](http://arxiv.org/abs/2410.12269)|null|
 |**2024-10-16**|**Leveraging Spatial Attention and Edge Context for Optimized Feature Selection in Visual Localization**|Nanda Febri Istighfarin et.al.|[2410.12240](http://arxiv.org/abs/2410.12240)|null|
@@ -2299,6 +2312,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-20**|**Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations**|Seyed Mohammad Ahmadi et.al.|[2410.15374](http://arxiv.org/abs/2410.15374)|null|
+|**2024-10-19**|**GRB 211024B: an ultra-long GRB powered by magnetar**|Shao-Yu Fu et.al.|[2410.15162](http://arxiv.org/abs/2410.15162)|null|
+|**2024-10-19**|**Improving Pronunciation and Accent Conversion through Knowledge Distillation And Synthetic Ground-Truth from Native TTS**|Tuan Nam Nguyen et.al.|[2410.14997](http://arxiv.org/abs/2410.14997)|null|
 |**2024-10-18**|**Bridging the Training-Inference Gap in LLMs by Leveraging Self-Generated Tokens**|Zhepeng Cen et.al.|[2410.14655](http://arxiv.org/abs/2410.14655)|null|
 |**2024-10-18**|**A Scientific Machine Learning Approach for Predicting and Forecasting Battery Degradation in Electric Vehicles**|Sharv Murgai et.al.|[2410.14347](http://arxiv.org/abs/2410.14347)|null|
 |**2024-10-18**|**Spectral evolution of hot hybrid white dwarfs I. Spectral analysis**|Semih Filiz et.al.|[2410.14345](http://arxiv.org/abs/2410.14345)|null|
@@ -2856,6 +2872,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-20**|**Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations**|Seyed Mohammad Ahmadi et.al.|[2410.15374](http://arxiv.org/abs/2410.15374)|null|
 |**2024-10-18**|**EPIC: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios**|Shuang Geng et.al.|[2410.14203](http://arxiv.org/abs/2410.14203)|null|
 |**2024-10-15**|**Generative Image Steganography Based on Point Cloud**|Zhong Yangjie et.al.|[2410.11673](http://arxiv.org/abs/2410.11673)|null|
 |**2024-10-14**|**Innovative Deep Learning Techniques for Obstacle Recognition: A Comparative Study of Modern Detection Algorithms**|Santiago Pérez et.al.|[2410.10096](http://arxiv.org/abs/2410.10096)|null|
