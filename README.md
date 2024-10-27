@@ -2323,8 +2323,8 @@
 |**2024-10-24**|**Python workflow for segmenting multiphase flow in porous rocks**|Catherine Spurin et.al.|[2410.18937](http://arxiv.org/abs/2410.18937)|null|
 |**2024-10-24**|**Fermion masses and mixing in SO(10) GUT with a universal two-zero texture**|Gao-Xiang Fang et.al.|[2410.18743](http://arxiv.org/abs/2410.18743)|null|
 |**2024-10-24**|**Moving Object Segmentation in Point Cloud Data using Hidden Markov Models**|Vedant Bhandari et.al.|[2410.18638](http://arxiv.org/abs/2410.18638)|**[link](https://github.com/vb44/hmm-mos)**|
-|**2024-10-23**|**Self-Supervised Learning for Time Series: A Review & Critique of FITS**|Andreas Løvendahl Eefsen et.al.|[2410.18318](http://arxiv.org/abs/2410.18318)|null|
-|**2024-10-23**|**Navigating the Landscape of Reproducible Research: A Predictive Modeling Approach**|Akhil Pandey Akella et.al.|[2410.18276](http://arxiv.org/abs/2410.18276)|null|
+|**2024-10-23**|**Self-Supervised Learning for Time Series: A Review & Critique of FITS**|Andreas Løvendahl Eefsen et.al.|[2410.18318](http://arxiv.org/abs/2410.18318)|**[link](https://github.com/thorhojhus/ssl_fts)**|
+|**2024-10-23**|**Navigating the Landscape of Reproducible Research: A Predictive Modeling Approach**|Akhil Pandey Akella et.al.|[2410.18276](http://arxiv.org/abs/2410.18276)|**[link](https://github.com/reproducibilityproject/nlrr)**|
 |**2024-10-22**|**Using Platt's scaling for calibration after undersampling -- limitations and how to address them**|Nathan Phelps et.al.|[2410.18144](http://arxiv.org/abs/2410.18144)|null|
 |**2024-10-23**|**Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds**|Kai Liu et.al.|[2410.17823](http://arxiv.org/abs/2410.17823)|**[link](https://github.com/i2-multimedia-lab/att2cpc)**|
 |**2024-10-23**|**Tipping points in fitness landscape of heterogeneous populations**|Sumana Bhattacharyya et.al.|[2410.17791](http://arxiv.org/abs/2410.17791)|null|
