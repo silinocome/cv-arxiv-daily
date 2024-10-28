@@ -156,7 +156,7 @@
 |**2024-05-14**|**Realtime Global Optimization of a Fail-Safe Emergency Stop Maneuver for Arbitrary Electrical / Electronical Failures in Automated Driving**|F. Duerr et.al.|[2405.08401](http://arxiv.org/abs/2405.08401)|null|
 |**2024-05-13**|**Radio Resource Management and Path Planning in Intelligent Transportation Systems via Reinforcement Learning for Environmental Sustainability**|S. Norouzi et.al.|[2405.08053](http://arxiv.org/abs/2405.08053)|null|
 |**2024-05-13**|**Automatic Odometry-Less OpenDRIVE Generation From Sparse Point Clouds**|Leon Eisemann et.al.|[2405.07544](http://arxiv.org/abs/2405.07544)|null|
-|**2024-05-09**|**Small-Scale Testbed for Evaluating C-V2X Applications on 5G Cellular Networks**|Kaj Munhoz Arfvidsson et.al.|[2405.05911](http://arxiv.org/abs/2405.05911)|null|
+|**2024-05-09**|**Small-Scale Testbed for Evaluating C-V2X Applications on 5G Cellular Networks**|Kaj Munhoz Arfvidsson et.al.|[2405.05911](http://arxiv.org/abs/2405.05911)|**[link](https://github.com/kth-sml/cv2x-testbed)**|
 |**2024-05-08**|**A trust management framework for vehicular ad hoc networks**|Rezvi Shahariar et.al.|[2405.04885](http://arxiv.org/abs/2405.04885)|null|
 |**2024-05-08**|**The Need Of Trustworthy Announcements To Achieve Driving Comfort**|Rezvi Shahariar et.al.|[2405.04878](http://arxiv.org/abs/2405.04878)|null|
 |**2024-05-08**|**xMTrans: Temporal Attentive Cross-Modality Fusion Transformer for Long-Term Traffic Prediction**|Huy Quang Ung et.al.|[2405.04841](http://arxiv.org/abs/2405.04841)|null|
@@ -947,7 +947,7 @@
 |**2024-08-22**|**Recursive Distributed Collaborative Aided Inertial Navigation**|Roland Jung et.al.|[2408.12360](http://arxiv.org/abs/2408.12360)|**[link](https://github.com/aau-cns/ikf_lib)**|
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
 |**2024-08-20**|**Robust Long-Range Perception Against Sensor Misalignment in Autonomous Vehicles**|Zi-Xiang Xia et.al.|[2408.11196](http://arxiv.org/abs/2408.11196)|null|
-|**2024-08-22**|**ALS-HAR: Harnessing Wearable Ambient Light Sensors to Enhance IMU-based Human Activity Recogntion**|Lala Shakti Swarup Ray et.al.|[2408.09527](http://arxiv.org/abs/2408.09527)|null|
+|**2024-08-22**|**ALS-HAR: Harnessing Wearable Ambient Light Sensors to Enhance IMU-based Human Activity Recogntion**|Lala Shakti Swarup Ray et.al.|[2408.09527](http://arxiv.org/abs/2408.09527)|**[link](https://github.com/tszheichoi/awesome-sensor-logger)**|
 |**2024-08-17**|**V2X-VLM: End-to-End V2X Cooperative Autonomous Driving Through Large Vision-Language Models**|Junwei You et.al.|[2408.09251](http://arxiv.org/abs/2408.09251)|null|
 |**2024-08-17**|**Segment Anything with Multiple Modalities**|Aoran Xiao et.al.|[2408.09085](http://arxiv.org/abs/2408.09085)|**[link](https://github.com/weihao1115/mm-sam)**|
 |**2024-08-14**|**Narrowing your FOV with SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition**|Hogyun Kim et.al.|[2408.07330](http://arxiv.org/abs/2408.07330)|**[link](https://github.com/sparolab/solid)**|
@@ -1466,7 +1466,7 @@
 |**2024-08-13**|**A Miniature Vision-Based Localization System for Indoor Blimps**|Shicong Ma et.al.|[2408.06648](http://arxiv.org/abs/2408.06648)|null|
 |**2024-08-10**|**Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network**|Junyan Ye et.al.|[2408.05475](http://arxiv.org/abs/2408.05475)|**[link](https://github.com/yejy53/ep-bev)**|
 |**2024-08-09**|**Spherical World-Locking for Audio-Visual Localization in Egocentric Videos**|Heeseung Yun et.al.|[2408.05364](http://arxiv.org/abs/2408.05364)|null|
-|**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|null|
+|**2024-08-06**|**AMES: Asymmetric and Memory-Efficient Similarity Estimation for Instance-level Retrieval**|Pavel Suma et.al.|[2408.03282](http://arxiv.org/abs/2408.03282)|**[link](https://github.com/pavelsuma/ames)**|
 |**2024-08-05**|**CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration**|Gongxin Yao et.al.|[2408.02394](http://arxiv.org/abs/2408.02394)|null|
 |**2024-08-02**|**On Validation of Search & Retrieval of Tissue Images in Digital Pathology**|H. R. Tizhoosh et.al.|[2408.01570](http://arxiv.org/abs/2408.01570)|null|
 |**2024-07-30**|**Re-localization acceleration with Medoid Silhouette Clustering**|Hongyi Zhang et.al.|[2407.20749](http://arxiv.org/abs/2407.20749)|null|
@@ -1523,7 +1523,7 @@
 |**2024-06-05**|**Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**|Saehyung Lee et.al.|[2406.03411](http://arxiv.org/abs/2406.03411)|**[link](https://github.com/saehyung-lee/plugir)**|
 |**2024-06-04**|**MeshVPR: Citywide Visual Place Recognition Using 3D Meshes**|Gabriele Berton et.al.|[2406.02776](http://arxiv.org/abs/2406.02776)|null|
 |**2024-06-04**|**Can CLIP help CLIP in learning 3D?**|Cristian Sbrolli et.al.|[2406.02202](http://arxiv.org/abs/2406.02202)|null|
-|**2024-06-03**|**Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP**|Sriram Balasubramanian et.al.|[2406.01583](http://arxiv.org/abs/2406.01583)|null|
+|**2024-06-03**|**Decomposing and Interpreting Image Representations via Text in ViTs Beyond CLIP**|Sriram Balasubramanian et.al.|[2406.01583](http://arxiv.org/abs/2406.01583)|**[link](https://github.com/sriramb-98/vit-decompose)**|
 |**2024-06-03**|**Scale-Free Image Keypoints Using Differentiable Persistent Homology**|Giovanni Barbarani et.al.|[2406.01315](http://arxiv.org/abs/2406.01315)|**[link](https://github.com/gbarbarani/MorseDet)**|
 |**2024-06-02**|**Visual place recognition for aerial imagery: A survey**|Ivan Moskalenko et.al.|[2406.00885](http://arxiv.org/abs/2406.00885)|**[link](https://github.com/prime-slam/aero-vloc)**|
 |**2024-06-01**|**NuRF: Nudging the Particle Filter in Radiance Fields for Robot Visual Localization**|Wugang Meng et.al.|[2406.00312](http://arxiv.org/abs/2406.00312)|null|
@@ -1669,11 +1669,11 @@
 |**2023-12-12**|**Contextually Affinitive Neighborhood Refinery for Deep Clustering**|Chunlin Yu et.al.|[2312.07806](http://arxiv.org/abs/2312.07806)|**[link](https://github.com/cly234/deepclustering-connr)**|
 |**2023-12-12**|**Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval**|Qiwei Tian et.al.|[2312.07364](http://arxiv.org/abs/2312.07364)|**[link](https://github.com/michaeltian108/ca-tride)**|
 |**2023-12-11**|**Dynamic Weighted Combiner for Mixed-Modal Image Retrieval**|Fuxiang Huang et.al.|[2312.06179](http://arxiv.org/abs/2312.06179)|**[link](https://github.com/fuxianghuang1/dwc)**|
-|**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|null|
+|**2023-12-06**|**Lite-Mind: Towards Efficient and Versatile Brain Representation Network**|Zixuan Gong et.al.|[2312.03781](http://arxiv.org/abs/2312.03781)|**[link](https://github.com/gongzix/lite-mind)**|
 |**2023-12-08**|**FreestyleRet: Retrieving Images from Style-Diversified Queries**|Hao Li et.al.|[2312.02428](http://arxiv.org/abs/2312.02428)|**[link](https://github.com/curisejia/freestyleret)**|
 |**2023-12-04**|**Implicit Learning of Scene Geometry from Poses for Global Localization**|Mohammad Altillawi et.al.|[2312.02029](http://arxiv.org/abs/2312.02029)|null|
 |**2023-12-04**|**Language-only Efficient Training of Zero-shot Composed Image Retrieval**|Geonmo Gu et.al.|[2312.01998](http://arxiv.org/abs/2312.01998)|**[link](https://github.com/navervision/lincir)**|
-|**2023-12-03**|**G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**|Che Liu et.al.|[2312.01522](http://arxiv.org/abs/2312.01522)|null|
+|**2023-12-03**|**G2D: From Global to Dense Radiography Representation Learning via Vision-Language Pre-training**|Che Liu et.al.|[2312.01522](http://arxiv.org/abs/2312.01522)|**[link](https://github.com/cheliu-computation/g2d-neurips24)**|
 |**2023-12-01**|**Improve Supervised Representation Learning with Masked Image Modeling**|Kaifeng Chen et.al.|[2312.00950](http://arxiv.org/abs/2312.00950)|null|
 |**2023-12-05**|**Grounding Everything: Emerging Localization Properties in Vision-Language Transformers**|Walid Bousselham et.al.|[2312.00878](http://arxiv.org/abs/2312.00878)|**[link](https://github.com/walbouss/gem)**|
 |**2023-12-01**|**Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**|Mohammad Altillawi et.al.|[2312.00500](http://arxiv.org/abs/2312.00500)|null|
@@ -3020,7 +3020,7 @@
 |**2024-03-27**|**Sailing Through Point Clouds: Safe Navigation Using Point Cloud Based Control Barrier Functions**|Bolun Dai et.al.|[2403.18206](http://arxiv.org/abs/2403.18206)|null|
 |**2024-03-26**|**SSF3D: Strict Semi-Supervised 3D Object Detection with Switching Filter**|Songbur Wong et.al.|[2403.17390](http://arxiv.org/abs/2403.17390)|null|
 |**2024-03-22**|**PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation**|Adrian Röfer et.al.|[2403.15107](http://arxiv.org/abs/2403.15107)|null|
-|**2024-03-21**|**ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer**|Tianye Ding et.al.|[2403.14626](http://arxiv.org/abs/2403.14626)|null|
+|**2024-03-21**|**ODTFormer: Efficient Obstacle Detection and Tracking with Stereo Cameras Based on Transformer**|Tianye Ding et.al.|[2403.14626](http://arxiv.org/abs/2403.14626)|**[link](https://github.com/neu-vi/odtformer)**|
 |**2024-03-20**|**Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion**|Lucas Nunes et.al.|[2403.13470](http://arxiv.org/abs/2403.13470)|**[link](https://github.com/prbonn/lidiff)**|
 |**2024-03-21**|**Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**|Kewei Wang et.al.|[2403.13261](http://arxiv.org/abs/2403.13261)|**[link](https://github.com/kwwcv/selfmotion)**|
 |**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[2403.11695](http://arxiv.org/abs/2403.11695)|null|
