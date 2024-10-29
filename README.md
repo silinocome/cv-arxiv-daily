@@ -24,7 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-24**|**TEAM: Topological Evolution-aware Framework for Traffic Forecasting--Extended Version**|Duc Kieu et.al.|[2410.19192](http://arxiv.org/abs/2410.19192)|null|
+|**2024-10-28**|**Strada-LLM: Graph LLM for traffic prediction**|Seyed Mohamad Moghadas et.al.|[2410.20856](http://arxiv.org/abs/2410.20856)|null|
+|**2024-10-24**|**TEAM: Topological Evolution-aware Framework for Traffic Forecasting--Extended Version**|Duc Kieu et.al.|[2410.19192](http://arxiv.org/abs/2410.19192)|**[link](https://github.com/kvmduc/TEAM-topo-evo-traffic-forecasting)**|
 |**2024-10-22**|**Pedestrian motion prediction evaluation for urban autonomous driving**|Dmytro Zabolotnii et.al.|[2410.16864](http://arxiv.org/abs/2410.16864)|**[link](https://github.com/dmytrozabolotnii/autoware_mini)**|
 |**2024-10-21**|**SSMT: Few-Shot Traffic Forecasting with Single Source Meta-Transfer**|Kishor Kumar Bhaumik et.al.|[2410.15589](http://arxiv.org/abs/2410.15589)|null|
 |**2024-10-20**|**FastSTI: A Fast Conditional Pseudo Numerical Diffusion Model for Spatio-temporal Traffic Data Imputation**|Shaokang Cheng et.al.|[2410.15248](http://arxiv.org/abs/2410.15248)|null|
@@ -568,6 +569,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**ADLM -- stega: A Universal Adaptive Token Selection Algorithm for Improving Steganographic Text Quality via Information Entropy**|Zezheng Qin et.al.|[2410.20825](http://arxiv.org/abs/2410.20825)|null|
 |**2024-10-25**|**Information Sharing with Social Image Concerns and the Spread of Fake News**|Dana Sisak et.al.|[2410.19557](http://arxiv.org/abs/2410.19557)|null|
 |**2024-10-08**|**O1 Replication Journey: A Strategic Progress Report -- Part 1**|Yiwei Qin et.al.|[2410.18982](http://arxiv.org/abs/2410.18982)|null|
 |**2024-10-24**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631](http://arxiv.org/abs/2410.18631)|null|
@@ -888,6 +890,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-27**|**Sensor Fusion for Autonomous Indoor UAV Navigation in Confined Spaces**|Alice James et.al.|[2410.20599](http://arxiv.org/abs/2410.20599)|null|
 |**2024-10-24**|**Attention-based Citywide Electric Vehicle Charging Demand Prediction Approach Considering Urban Region and Dynamic Influences**|Haoxuan Kuang et.al.|[2410.18766](http://arxiv.org/abs/2410.18766)|null|
 |**2024-10-24**|**Precision Soil Quality Analysis Using Transformer-based Data Fusion Strategies: A Systematic Review**|Mahdi Saki et.al.|[2410.18353](http://arxiv.org/abs/2410.18353)|null|
 |**2024-10-22**|**Resource-Efficient Sensor Fusion via System-Wide Dynamic Gated Neural Networks**|Chetna Singhal et.al.|[2410.16723](http://arxiv.org/abs/2410.16723)|null|
@@ -2089,6 +2092,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097](http://arxiv.org/abs/2410.20097)|null|
 |**2024-10-01**|**A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**|Yuan Li et.al.|[2410.11848](http://arxiv.org/abs/2410.11848)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505](http://arxiv.org/abs/2410.11505)|null|
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|**[link](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**|
@@ -2323,7 +2327,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-24**|**Python workflow for segmenting multiphase flow in porous rocks**|Catherine Spurin et.al.|[2410.18937](http://arxiv.org/abs/2410.18937)|null|
+|**2024-10-27**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et.al.|[2410.20516](http://arxiv.org/abs/2410.20516)|null|
+|**2024-10-24**|**Python workflow for segmenting multiphase flow in porous rocks**|Catherine Spurin et.al.|[2410.18937](http://arxiv.org/abs/2410.18937)|**[link](https://github.com/cspurin/image_processing)**|
 |**2024-10-24**|**Fermion masses and mixing in SO(10) GUT with a universal two-zero texture**|Gao-Xiang Fang et.al.|[2410.18743](http://arxiv.org/abs/2410.18743)|null|
 |**2024-10-24**|**Moving Object Segmentation in Point Cloud Data using Hidden Markov Models**|Vedant Bhandari et.al.|[2410.18638](http://arxiv.org/abs/2410.18638)|**[link](https://github.com/vb44/hmm-mos)**|
 |**2024-10-23**|**Self-Supervised Learning for Time Series: A Review & Critique of FITS**|Andreas Løvendahl Eefsen et.al.|[2410.18318](http://arxiv.org/abs/2410.18318)|**[link](https://github.com/thorhojhus/ssl_fts)**|
@@ -2894,6 +2899,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-27**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et.al.|[2410.20516](http://arxiv.org/abs/2410.20516)|null|
 |**2024-10-24**|**Moving Object Segmentation in Point Cloud Data using Hidden Markov Models**|Vedant Bhandari et.al.|[2410.18638](http://arxiv.org/abs/2410.18638)|**[link](https://github.com/vb44/hmm-mos)**|
 |**2024-10-23**|**Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds**|Kai Liu et.al.|[2410.17823](http://arxiv.org/abs/2410.17823)|**[link](https://github.com/i2-multimedia-lab/att2cpc)**|
 |**2024-10-20**|**Explainability of Point Cloud Neural Networks Using SMILE: Statistical Model-Agnostic Interpretability with Local Explanations**|Seyed Mohammad Ahmadi et.al.|[2410.15374](http://arxiv.org/abs/2410.15374)|**[link](https://github.com/Dependable-Intelligent-Systems-Lab/xwhy/tree/main/examples/Point%20Cloud%20Examples)**|
