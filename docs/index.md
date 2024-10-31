@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.30
+## Updated on 2024.10.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -561,7 +561,7 @@ layout: default
 |**2024-10-28**|**Estimating the epidemic threshold under individual vaccination behaviour and adaptive social connections: A game-theoretic complex network model**|Viney Kumar et.al.|[2410.21344](http://arxiv.org/abs/2410.21344)|null|
 |**2024-10-28**|**ADLM -- stega: A Universal Adaptive Token Selection Algorithm for Improving Steganographic Text Quality via Information Entropy**|Zezheng Qin et.al.|[2410.20825](http://arxiv.org/abs/2410.20825)|null|
 |**2024-10-25**|**Information Sharing with Social Image Concerns and the Spread of Fake News**|Dana Sisak et.al.|[2410.19557](http://arxiv.org/abs/2410.19557)|null|
-|**2024-10-08**|**O1 Replication Journey: A Strategic Progress Report -- Part 1**|Yiwei Qin et.al.|[2410.18982](http://arxiv.org/abs/2410.18982)|null|
+|**2024-10-08**|**O1 Replication Journey: A Strategic Progress Report -- Part 1**|Yiwei Qin et.al.|[2410.18982](http://arxiv.org/abs/2410.18982)|**[link](https://github.com/gair-nlp/o1-journey)**|
 |**2024-10-24**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631](http://arxiv.org/abs/2410.18631)|null|
 |**2024-10-21**|**Conditional Dependence via U-Statistics Pruning**|Ferran de Cabrera et.al.|[2410.15888](http://arxiv.org/abs/2410.15888)|null|
 |**2024-10-19**|**Linguistic Fuzzy Information Evolution with Random Leader Election Mechanism for Decision-Making Systems**|Qianlei Jia et.al.|[2410.15171](http://arxiv.org/abs/2410.15171)|null|
@@ -1388,7 +1388,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|null|
+|**2024-10-29**|**Beyond Text: Optimizing RAG with Multimodal Inputs for Industrial Applications**|Monica Riedler et.al.|[2410.21943](http://arxiv.org/abs/2410.21943)|**[link](https://github.com/riedlerm/multimodal_rag_for_industry)**|
 |**2024-10-24**|**ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval**|Zijia Zhao et.al.|[2410.18715](http://arxiv.org/abs/2410.18715)|**[link](https://github.com/joez17/chatsearch)**|
 |**2024-10-22**|**Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2410.17393](http://arxiv.org/abs/2410.17393)|null|
 |**2024-10-20**|**GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning**|Haiwen Diao et.al.|[2410.15266](http://arxiv.org/abs/2410.15266)|**[link](https://github.com/paranioar/gssf)**|
@@ -2312,7 +2312,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-29**|**Surface reconstruction from point cloud using a semi-Lagrangian scheme with local interpolator**|Silvia Preda et.al.|[2410.22205](http://arxiv.org/abs/2410.22205)|null|
 |**2024-10-29**|**SS3DM: Benchmarking Street-View Surface Reconstruction with a Synthetic 3D Mesh Dataset**|Yubin Hu et.al.|[2410.21739](http://arxiv.org/abs/2410.21739)|null|
-|**2024-10-28**|**A Novel Score-CAM based Denoiser for Spectrographic Signature Extraction without Ground Truth**|Noel Elias et.al.|[2410.21557](http://arxiv.org/abs/2410.21557)|null|
+|**2024-10-30**|**A Novel Score-CAM based Denoiser for Spectrographic Signature Extraction without Ground Truth**|Noel Elias et.al.|[2410.21557](http://arxiv.org/abs/2410.21557)|null|
 |**2024-10-27**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et.al.|[2410.20516](http://arxiv.org/abs/2410.20516)|null|
 |**2024-10-24**|**Python workflow for segmenting multiphase flow in porous rocks**|Catherine Spurin et.al.|[2410.18937](http://arxiv.org/abs/2410.18937)|**[link](https://github.com/cspurin/image_processing)**|
 |**2024-10-24**|**Fermion masses and mixing in SO(10) GUT with a universal two-zero texture**|Gao-Xiang Fang et.al.|[2410.18743](http://arxiv.org/abs/2410.18743)|null|
