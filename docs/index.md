@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.31
+## Updated on 2024.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -564,7 +564,7 @@ layout: default
 |**2024-10-29**|**InLINE: Inner-Layer Information Exchange for Multi-task Learning on Heterogeneous Graphs**|Xinyue Feng et.al.|[2410.22089](http://arxiv.org/abs/2410.22089)|null|
 |**2024-10-28**|**Estimating the epidemic threshold under individual vaccination behaviour and adaptive social connections: A game-theoretic complex network model**|Viney Kumar et.al.|[2410.21344](http://arxiv.org/abs/2410.21344)|null|
 |**2024-10-28**|**ADLM -- stega: A Universal Adaptive Token Selection Algorithm for Improving Steganographic Text Quality via Information Entropy**|Zezheng Qin et.al.|[2410.20825](http://arxiv.org/abs/2410.20825)|null|
-|**2024-10-25**|**Information Sharing with Social Image Concerns and the Spread of Fake News**|Dana Sisak et.al.|[2410.19557](http://arxiv.org/abs/2410.19557)|null|
+|**2024-10-31**|**Information Sharing with Social Image Concerns and the Spread of Fake News**|Dana Sisak et.al.|[2410.19557](http://arxiv.org/abs/2410.19557)|null|
 |**2024-10-08**|**O1 Replication Journey: A Strategic Progress Report -- Part 1**|Yiwei Qin et.al.|[2410.18982](http://arxiv.org/abs/2410.18982)|**[link](https://github.com/gair-nlp/o1-journey)**|
 |**2024-10-24**|**Leveraging Graph Neural Networks and Multi-Agent Reinforcement Learning for Inventory Control in Supply Chains**|Niki Kotecha et.al.|[2410.18631](http://arxiv.org/abs/2410.18631)|null|
 |**2024-10-21**|**Conditional Dependence via U-Statistics Pruning**|Ferran de Cabrera et.al.|[2410.15888](http://arxiv.org/abs/2410.15888)|null|
@@ -2086,7 +2086,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
-|**2024-10-30**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
+|**2024-10-31**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
 |**2024-10-30**|**LoFLAT: Local Feature Matching using Focused Linear Attention Transformer**|Naijian Cao et.al.|[2410.22710](http://arxiv.org/abs/2410.22710)|null|
 |**2024-10-26**|**Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification**|Yue Su et.al.|[2410.20097](http://arxiv.org/abs/2410.20097)|null|
 |**2024-10-01**|**A Robust Multisource Remote Sensing Image Matching Method Utilizing Attention and Feature Enhancement Against Noise Interference**|Yuan Li et.al.|[2410.11848](http://arxiv.org/abs/2410.11848)|null|
