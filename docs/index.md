@@ -698,7 +698,7 @@ layout: default
 |**2024-02-21**|**MolTC: Towards Molecular Relational Modeling In Language Models**|Junfeng Fang et.al.|[2402.03781](http://arxiv.org/abs/2402.03781)|**[link](https://github.com/MangoKiller/MolTC)**|
 |**2024-02-09**|**Solving Hierarchical Information-Sharing Dec-POMDPs: An Extensive-Form Game Approach**|Johan Peralez et.al.|[2402.02954](http://arxiv.org/abs/2402.02954)|null|
 |**2024-02-04**|**Quantum Secret Sharing Enhanced: Utilizing W States for Anonymous and Secure Communication**|Guo-Dong Li et.al.|[2402.02413](http://arxiv.org/abs/2402.02413)|null|
-|**2024-01-30**|**Unlocking the Power of Multi-institutional Data: Integrating and Harmonizing Genomic Data Across Institutions**|Yuan Chen et.al.|[2402.00077](http://arxiv.org/abs/2402.00077)|null|
+|**2024-01-30**|**Unlocking the Power of Multi-institutional Data: Integrating and Harmonizing Genomic Data Across Institutions**|Yuan Chen et.al.|[2402.00077](http://arxiv.org/abs/2402.00077)|**[link](https://github.com/ychen178/Bridge_model)**|
 |**2024-02-03**|**Optimized Task Assignment and Predictive Maintenance for Industrial Machines using Markov Decision Process**|Ali Nasir et.al.|[2402.00042](http://arxiv.org/abs/2402.00042)|null|
 |**2024-01-31**|**Drift Diffusion Model to understand (mis)information sharing dynamic in complex networks**|Lucila G. Alvarez-Zuzek et.al.|[2401.17846](http://arxiv.org/abs/2401.17846)|null|
 |**2024-01-24**|**Event-triggered adaptive consensus of heterogeneous multi-agent system under communication and actuator faults**|Leyi Zheng et.al.|[2401.13492](http://arxiv.org/abs/2401.13492)|null|
@@ -974,7 +974,7 @@ layout: default
 |**2024-07-19**|**Double-Layer Soft Data Fusion for Indoor Robot WiFi-Visual Localization**|Yuehua Ding et.al.|[2407.14643](http://arxiv.org/abs/2407.14643)|null|
 |**2024-07-18**|**Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check**|Sheng-Yao Kuan et.al.|[2407.13937](http://arxiv.org/abs/2407.13937)|null|
 |**2024-07-22**|**Geometric Data Fusion for Collaborative Attitude Estimation**|Yixiao Ge et.al.|[2407.13176](http://arxiv.org/abs/2407.13176)|null|
-|**2024-07-17**|**ModalChorus: Visual Probing and Alignment of Multi-modal Embeddings via Modal Fusion Map**|Yilin Ye et.al.|[2407.12315](http://arxiv.org/abs/2407.12315)|null|
+|**2024-07-17**|**ModalChorus: Visual Probing and Alignment of Multi-modal Embeddings via Modal Fusion Map**|Yilin Ye et.al.|[2407.12315](http://arxiv.org/abs/2407.12315)|**[link](https://github.com/yilinye/modal-fusion-map)**|
 |**2024-07-17**|**MEDFuse: Multimodal EHR Data Fusion with Masked Lab-Test Modeling and Large Language Models**|Thao Minh Nguyen Phan et.al.|[2407.12309](http://arxiv.org/abs/2407.12309)|null|
 |**2024-07-16**|**iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems**|Shuolong Chen et.al.|[2407.11420](http://arxiv.org/abs/2407.11420)|**[link](https://github.com/unsigned-long/ikalibr)**|
 |**2024-07-16**|**Accounting for Work Zone Disruptions in Traffic Flow Forecasting**|Yuanjie Lu et.al.|[2407.11407](http://arxiv.org/abs/2407.11407)|null|
@@ -1412,7 +1412,7 @@ layout: default
 |**2024-10-12**|**Leveraging Semantic Cues from Foundation Vision Models for Enhanced Local Feature Correspondence**|Felipe Cadar et.al.|[2410.09533](http://arxiv.org/abs/2410.09533)|**[link](https://github.com/verlab/DescriptorReasoning_ACCV_2024)**|
 |**2024-10-16**|**Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP**|Eunji Kim et.al.|[2410.08469](http://arxiv.org/abs/2410.08469)|null|
 |**2024-10-11**|**A Unified Deep Semantic Expansion Framework for Domain-Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08456](http://arxiv.org/abs/2410.08456)|null|
-|**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|null|
+|**2024-10-10**|**A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks**|Hoin Jung et.al.|[2410.07593](http://arxiv.org/abs/2410.07593)|**[link](https://github.com/HoinJung/Unified-Debiaisng-VLM-SFID)**|
 |**2024-10-09**|**Exploiting Distribution Constraints for Scalable and Efficient Image Retrieval**|Mohammad Omama et.al.|[2410.07022](http://arxiv.org/abs/2410.07022)|null|
 |**2024-10-09**|**MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging**|Noel C. F. Codella et.al.|[2410.06542](http://arxiv.org/abs/2410.06542)|null|
 |**2024-10-08**|**Temporal Image Caption Retrieval Competition -- Description and Results**|Jakub Pokrywka et.al.|[2410.06314](http://arxiv.org/abs/2410.06314)|null|
@@ -1723,7 +1723,7 @@ layout: default
 |**2023-10-12**|**Hyp-UML: Hyperbolic Image Retrieval with Uncertainty-aware Metric Learning**|Shiyang Yan et.al.|[2310.08390](http://arxiv.org/abs/2310.08390)|null|
 |**2023-10-12**|**Jointly Optimized Global-Local Visual Localization of UAVs**|Haoling Li et.al.|[2310.08082](http://arxiv.org/abs/2310.08082)|null|
 |**2023-10-10**|**Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization**|Le Chen et.al.|[2310.06984](http://arxiv.org/abs/2310.06984)|null|
-|**2023-10-10**|**Distillation Improves Visual Place Recognition for Low-Quality Queries**|Anbang Yang et.al.|[2310.06906](http://arxiv.org/abs/2310.06906)|null|
+|**2023-10-10**|**Distillation Improves Visual Place Recognition for Low-Quality Queries**|Anbang Yang et.al.|[2310.06906](http://arxiv.org/abs/2310.06906)|**[link](https://github.com/ai4ce/loqi-vpr)**|
 |**2023-10-10**|**Efficient Retrieval of Images with Irregular Patterns using Morphological Image Analysis: Applications to Industrial and Healthcare datasets**|Jiajun Zhang et.al.|[2310.06566](http://arxiv.org/abs/2310.06566)|null|
 |**2023-10-10**|**Topological RANSAC for instance verification and retrieval without fine-tuning**|Guoyuan An et.al.|[2310.06486](http://arxiv.org/abs/2310.06486)|null|
 |**2023-10-10**|**3DS-SLAM: A 3D Object Detection based Semantic SLAM towards Dynamic Indoor Environments**|Ghanta Sai Krishna et.al.|[2310.06385](http://arxiv.org/abs/2310.06385)|null|
@@ -2338,7 +2338,7 @@ layout: default
 |**2024-10-29**|**Surface reconstruction from point cloud using a semi-Lagrangian scheme with local interpolator**|Silvia Preda et.al.|[2410.22205](http://arxiv.org/abs/2410.22205)|null|
 |**2024-10-29**|**SS3DM: Benchmarking Street-View Surface Reconstruction with a Synthetic 3D Mesh Dataset**|Yubin Hu et.al.|[2410.21739](http://arxiv.org/abs/2410.21739)|null|
 |**2024-10-30**|**A Novel Score-CAM based Denoiser for Spectrographic Signature Extraction without Ground Truth**|Noel Elias et.al.|[2410.21557](http://arxiv.org/abs/2410.21557)|null|
-|**2024-10-27**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et.al.|[2410.20516](http://arxiv.org/abs/2410.20516)|null|
+|**2024-10-27**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et.al.|[2410.20516](http://arxiv.org/abs/2410.20516)|**[link](https://github.com/smsharma/eqnn-jax)**|
 |**2024-10-24**|**Python workflow for segmenting multiphase flow in porous rocks**|Catherine Spurin et.al.|[2410.18937](http://arxiv.org/abs/2410.18937)|**[link](https://github.com/cspurin/image_processing)**|
 |**2024-10-24**|**Fermion masses and mixing in SO(10) GUT with a universal two-zero texture**|Gao-Xiang Fang et.al.|[2410.18743](http://arxiv.org/abs/2410.18743)|null|
 |**2024-10-24**|**Moving Object Segmentation in Point Cloud Data using Hidden Markov Models**|Vedant Bhandari et.al.|[2410.18638](http://arxiv.org/abs/2410.18638)|**[link](https://github.com/vb44/hmm-mos)**|
@@ -2377,7 +2377,7 @@ layout: default
 |**2024-10-06**|**EnsemW2S: Can an Ensemble of LLMs be Leveraged to Obtain a Stronger LLM?**|Aakriti Agrawal et.al.|[2410.04571](http://arxiv.org/abs/2410.04571)|null|
 |**2024-10-05**|**Adjusting for Spatial Correlation in Machine and Deep Learning**|Matthew J. Heaton et.al.|[2410.04312](http://arxiv.org/abs/2410.04312)|null|
 |**2024-10-05**|**Conceptualization and Implementation of a Faster Than Real Time Simulation Tool for Ionic Material and System Modeling**|Max Tepermeister et.al.|[2410.04310](http://arxiv.org/abs/2410.04310)|null|
-|**2024-10-04**|**STONE: A Submodular Optimization Framework for Active 3D Object Detection**|Ruiyu Mao et.al.|[2410.03918](http://arxiv.org/abs/2410.03918)|null|
+|**2024-10-04**|**STONE: A Submodular Optimization Framework for Active 3D Object Detection**|Ruiyu Mao et.al.|[2410.03918](http://arxiv.org/abs/2410.03918)|**[link](https://github.com/ruiyum/stone)**|
 |**2024-10-04**|**Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need**|Xianlong Wang et.al.|[2410.03644](http://arxiv.org/abs/2410.03644)|**[link](https://github.com/cgcl-codes/unlearnablepc)**|
 |**2024-10-04**|**Linear Transformer Topological Masking with Graph Random Features**|Isaac Reid et.al.|[2410.03462](http://arxiv.org/abs/2410.03462)|null|
 |**2024-10-03**|**Evaluating WAIC and PSIS-LOO for Bayesian Diagnostic Classification Model Selection**|Ae Kyong Jung et.al.|[2410.02931](http://arxiv.org/abs/2410.02931)|null|
@@ -2630,7 +2630,7 @@ layout: default
 |**2024-05-24**|**LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image**|Ruikai Cui et.al.|[2405.15622](http://arxiv.org/abs/2405.15622)|null|
 |**2024-05-24**|**3D Unsupervised Learning by Distilling 2D Open-Vocabulary Segmentation Models for Autonomous Driving**|Boyi Sun et.al.|[2405.15286](http://arxiv.org/abs/2405.15286)|**[link](https://github.com/sbysbysbys/uov)**|
 |**2024-05-24**|**Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding**|Yuhang Liu et.al.|[2405.15274](http://arxiv.org/abs/2405.15274)|null|
-|**2024-05-23**|**Flatten Anything: Unsupervised Neural Surface Parameterization**|Qijian Zhang et.al.|[2405.14633](http://arxiv.org/abs/2405.14633)|null|
+|**2024-05-23**|**Flatten Anything: Unsupervised Neural Surface Parameterization**|Qijian Zhang et.al.|[2405.14633](http://arxiv.org/abs/2405.14633)|**[link](https://github.com/keeganhk/flattenanything)**|
 |**2024-05-23**|**When predict can also explain: few-shot prediction to select better neural latents**|Kabir Dabholkar et.al.|[2405.14425](http://arxiv.org/abs/2405.14425)|null|
 |**2024-05-22**|**Actor-critic algorithms for fiber sampling problems**|Ivan Gvozdanović et.al.|[2405.13950](http://arxiv.org/abs/2405.13950)|**[link](https://github.com/DLR-RM/stable-baselines3)**|
 |**2024-05-22**|**Score-based Generative Models with Adaptive Momentum**|Ziqing Wen et.al.|[2405.13726](http://arxiv.org/abs/2405.13726)|null|
@@ -2925,7 +2925,7 @@ layout: default
 |**2024-10-08**|**Learning the Generalizable Manipulation Skills on Soft-body Tasks via Guided Self-attention Behavior Cloning Policy**|Xuetao Li et.al.|[2410.05756](http://arxiv.org/abs/2410.05756)|null|
 |**2024-10-08**|**Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**|Xueyang Kang et.al.|[2410.05729](http://arxiv.org/abs/2410.05729)|**[link](https://github.com/alexandor91/se3-equi-graph-registration)**|
 |**2024-10-05**|**Enhancing the Travel Experience for People with Visual Impairments through Multimodal Interaction: NaviGPT, A Real-Time AI-Driven Mobile Navigation System**|He Zhang et.al.|[2410.04005](http://arxiv.org/abs/2410.04005)|null|
-|**2024-10-04**|**STONE: A Submodular Optimization Framework for Active 3D Object Detection**|Ruiyu Mao et.al.|[2410.03918](http://arxiv.org/abs/2410.03918)|null|
+|**2024-10-04**|**STONE: A Submodular Optimization Framework for Active 3D Object Detection**|Ruiyu Mao et.al.|[2410.03918](http://arxiv.org/abs/2410.03918)|**[link](https://github.com/ruiyum/stone)**|
 |**2024-10-04**|**Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need**|Xianlong Wang et.al.|[2410.03644](http://arxiv.org/abs/2410.03644)|**[link](https://github.com/cgcl-codes/unlearnablepc)**|
 |**2024-10-04**|**Linear Transformer Topological Masking with Graph Random Features**|Isaac Reid et.al.|[2410.03462](http://arxiv.org/abs/2410.03462)|null|
 |**2024-10-05**|**Curvature Diversity-Driven Deformation and Domain Alignment for Point Cloud**|Mengxi Wu et.al.|[2410.02720](http://arxiv.org/abs/2410.02720)|**[link](https://github.com/IdanAchituve/DefRec_and_PCM)**|
@@ -3011,7 +3011,7 @@ layout: default
 |**2024-05-24**|**LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image**|Ruikai Cui et.al.|[2405.15622](http://arxiv.org/abs/2405.15622)|null|
 |**2024-05-24**|**3D Unsupervised Learning by Distilling 2D Open-Vocabulary Segmentation Models for Autonomous Driving**|Boyi Sun et.al.|[2405.15286](http://arxiv.org/abs/2405.15286)|**[link](https://github.com/sbysbysbys/uov)**|
 |**2024-05-24**|**Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding**|Yuhang Liu et.al.|[2405.15274](http://arxiv.org/abs/2405.15274)|null|
-|**2024-05-23**|**Flatten Anything: Unsupervised Neural Surface Parameterization**|Qijian Zhang et.al.|[2405.14633](http://arxiv.org/abs/2405.14633)|null|
+|**2024-05-23**|**Flatten Anything: Unsupervised Neural Surface Parameterization**|Qijian Zhang et.al.|[2405.14633](http://arxiv.org/abs/2405.14633)|**[link](https://github.com/keeganhk/flattenanything)**|
 |**2024-05-21**|**Empowering Urban Traffic Management: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis**|Nawfal Guefrachi et.al.|[2405.13202](http://arxiv.org/abs/2405.13202)|null|
 |**2024-05-19**|**Point Cloud Compression with Implicit Neural Representations: A Unified Framework**|Hongning Ruan et.al.|[2405.11493](http://arxiv.org/abs/2405.11493)|null|
 |**2024-05-10**|**Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration**|Li Ling et.al.|[2405.06279](http://arxiv.org/abs/2405.06279)|**[link](https://github.com/luxiya01/mbes-registration-data)**|
