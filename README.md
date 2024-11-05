@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Advanced computer vision for extracting georeferenced vehicle trajectories from drone imagery**|Robert Fonod et.al.|[2411.02136](http://arxiv.org/abs/2411.02136)|null|
+|**2024-11-03**|**GITSR: Graph Interaction Transformer-based Scene Representation for Multi Vehicle Collaborative Decision-making**|Xingyu Hu et.al.|[2411.01608](http://arxiv.org/abs/2411.01608)|null|
+|**2024-10-30**|**Extralonger: Toward a Unified Perspective of Spatial-Temporal Factors for Extra-Long-Term Traffic Forecasting**|Zhiwei Zhang et.al.|[2411.00844](http://arxiv.org/abs/2411.00844)|null|
+|**2024-11-01**|**Multi-Uncertainty Aware Autonomous Cooperative Planning**|Shiyao Zhang et.al.|[2411.00413](http://arxiv.org/abs/2411.00413)|null|
 |**2024-10-30**|**YOLOv11 for Vehicle Detection: Advancements, Performance, and Applications in Intelligent Transportation Systems**|Mujadded Al Rabbani Alif et.al.|[2410.22898](http://arxiv.org/abs/2410.22898)|null|
 |**2024-10-30**|**A Graph-Based Model for Vehicle-Centric Data Sharing Ecosystem**|Haiyue Yuan et.al.|[2410.22897](http://arxiv.org/abs/2410.22897)|null|
 |**2024-10-30**|**SoftCTRL: Soft conservative KL-control of Transformer Reinforcement Learning for Autonomous Driving**|Minh Tri Huynh et.al.|[2410.22752](http://arxiv.org/abs/2410.22752)|null|
@@ -573,6 +577,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Preemptive Holistic Collaborative System and Its Application in Road Transportation**|Ting Peng et.al.|[2411.01918](http://arxiv.org/abs/2411.01918)|null|
+|**2024-11-01**|**Development of a Web-based Research Consortium Database Management System: Advancing Data-driven and Knowledge-based Project Management**|Mitch Arkeen Salvador et.al.|[2411.00483](http://arxiv.org/abs/2411.00483)|null|
+|**2024-11-01**|**Communication Learning in Multi-Agent Systems from Graph Modeling Perspective**|Shengchao Hu et.al.|[2411.00382](http://arxiv.org/abs/2411.00382)|null|
+|**2024-10-29**|**Synergizing LLM Agents and Knowledge Graph for Socioeconomic Prediction in LBSN**|Zhilun Zhou et.al.|[2411.00028](http://arxiv.org/abs/2411.00028)|null|
 |**2024-10-31**|**Exploiting Information Theory for Intuitive Robot Programming of Manual Activities**|Elena Merlo et.al.|[2410.23963](http://arxiv.org/abs/2410.23963)|null|
 |**2024-10-31**|**Promoting Reliable Knowledge about Climate Change: A Systematic Review of Effective Measures to Resist Manipulation on Social Media**|Aliaksandr Herasimenka et.al.|[2410.23814](http://arxiv.org/abs/2410.23814)|null|
 |**2024-10-29**|**InLINE: Inner-Layer Information Exchange for Multi-task Learning on Heterogeneous Graphs**|Xinyue Feng et.al.|[2410.22089](http://arxiv.org/abs/2410.22089)|null|
@@ -898,8 +906,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Randomized coupled decompositions**|Erna Begovic et.al.|[2411.01986](http://arxiv.org/abs/2411.01986)|null|
+|**2024-11-02**|**Privacy-Preserving Federated Learning with Differentially Private Hyperdimensional Computing**|Fardin Jalil Piran et.al.|[2411.01140](http://arxiv.org/abs/2411.01140)|null|
+|**2024-11-01**|**Multi Modal Information Fusion of Acoustic and Linguistic Data for Decoding Dairy Cow Vocalizations in Animal Welfare Assessment**|Bubacarr Jobarteh et.al.|[2411.00477](http://arxiv.org/abs/2411.00477)|null|
 |**2024-10-30**|**PDSR: Efficient UAV Deployment for Swift and Accurate Post-Disaster Search and Rescue**|Alaa Awad Abdellatif et.al.|[2410.22982](http://arxiv.org/abs/2410.22982)|null|
-|**2024-10-31**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931](http://arxiv.org/abs/2410.22931)|**[link](https://github.com/brytsknguyen/gptr)**|
+|**2024-11-02**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931](http://arxiv.org/abs/2410.22931)|**[link](https://github.com/brytsknguyen/gptr)**|
 |**2024-10-29**|**Unsupervised Multimodal Fusion of In-process Sensor Data for Advanced Manufacturing Process Monitoring**|Matthew McKinney et.al.|[2410.22558](http://arxiv.org/abs/2410.22558)|null|
 |**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
 |**2024-10-29**|**Enhanced Survival Prediction in Head and Neck Cancer Using Convolutional Block Attention and Multimodal Data Fusion**|Aiman Farooq et.al.|[2410.21831](http://arxiv.org/abs/2410.21831)|null|
@@ -1413,6 +1424,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Exploiting Contextual Uncertainty of Visual Data for Efficient Training of Deep Models**|Sharat Agarwal et.al.|[2411.01925](http://arxiv.org/abs/2411.01925)|null|
+|**2024-11-04**|**Semantic Masking and Visual Feature Matching for Robust Localization**|Luisa Mao et.al.|[2411.01804](http://arxiv.org/abs/2411.01804)|null|
+|**2024-11-03**|**Efficient Medical Image Retrieval Using DenseNet and FAISS for BIRADS Classification**|MD Shaikh Rahman et.al.|[2411.01473](http://arxiv.org/abs/2411.01473)|null|
+|**2024-11-01**|**Identifying Implicit Social Biases in Vision-Language Models**|Kimia Hamidieh et.al.|[2411.00997](http://arxiv.org/abs/2411.00997)|null|
 |**2024-10-31**|**Nearest Neighbor Normalization Improves Multimodal Retrieval**|Neil Chowdhury et.al.|[2410.24114](http://arxiv.org/abs/2410.24114)|**[link](https://github.com/multimodal-interpretability/nnn)**|
 |**2024-10-31**|**MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval**|Haiwen Li et.al.|[2410.23736](http://arxiv.org/abs/2410.23736)|null|
 |**2024-10-30**|**Decoupling Semantic Similarity from Spatial Alignment for Neural Networks**|Tassilo Wald et.al.|[2410.23107](http://arxiv.org/abs/2410.23107)|null|
@@ -2109,6 +2124,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
 |**2024-10-30**|**Variable Resolution Sampling and Deep Learning Image Recovery for Accelerated Multi-Spectral MRI Near Metal Implants**|Azadeh Sharafi et.al.|[2410.23329](http://arxiv.org/abs/2410.23329)|null|
 |**2024-10-30**|**RelationBooth: Towards Relation-Aware Customized Object Generation**|Qingyu Shi et.al.|[2410.23280](http://arxiv.org/abs/2410.23280)|null|
 |**2024-10-31**|**ETO:Efficient Transformer-based Local Feature Matching by Organizing Multiple Homography Hypotheses**|Junjie Ni et.al.|[2410.22733](http://arxiv.org/abs/2410.22733)|null|
@@ -2348,6 +2364,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-04**|**One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering**|Deepayan Das et.al.|[2411.02210](http://arxiv.org/abs/2411.02210)|null|
+|**2024-11-03**|**Understanding the decision-making process of choice modellers**|Gabriel Nova et.al.|[2411.01704](http://arxiv.org/abs/2411.01704)|null|
+|**2024-11-03**|**Object segmentation from common fate: Motion energy processing enables human-like zero-shot generalization to random dot stimuli**|Matthias Tangemann et.al.|[2411.01505](http://arxiv.org/abs/2411.01505)|null|
+|**2024-11-02**|**New Cold Subdwarf Discoveries from Backyard Worlds and a Metallicity Classification System for T Subdwarfs**|Adam J. Burgasser et.al.|[2411.01378](http://arxiv.org/abs/2411.01378)|null|
+|**2024-11-02**|**Efficient moment tensor machine-learning interatomic potential for accurate description of defects in Ni-Al Alloys**|Jiantao Wang et.al.|[2411.01282](http://arxiv.org/abs/2411.01282)|null|
+|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|null|
+|**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/abs/2411.00432)|null|
+|**2024-10-31**|**A Geometric Framework for Understanding Memorization in Generative Models**|Brendan Leigh Ross et.al.|[2411.00113](http://arxiv.org/abs/2411.00113)|null|
 |**2024-10-31**|**Tensegrity Robot Proprioceptive State Estimation with Geometric Constraints**|Wenzhe Tong et.al.|[2410.24226](http://arxiv.org/abs/2410.24226)|null|
 |**2024-10-31**|**AIDOVECL: AI-generated Dataset of Outpainted Vehicles for Eye-level Classification and Localization**|Amir Kazemi et.al.|[2410.24116](http://arxiv.org/abs/2410.24116)|null|
 |**2024-10-30**|**The VST ATLAS Quasar Survey III: Halo mass function via quasar clustering and quasar-CMB lensing cross-clustering**|Alice M. Eltvedt et.al.|[2410.23372](http://arxiv.org/abs/2410.23372)|null|
@@ -2932,6 +2956,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-30**|**Deep Learning for 3D Point Cloud Enhancement: A Survey**|Siwen Quan et.al.|[2411.00857](http://arxiv.org/abs/2411.00857)|null|
+|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|null|
+|**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/abs/2411.00432)|null|
 |**2024-10-30**|**Efficient End-to-End 6-Dof Grasp Detection Framework for Edge Devices with Hierarchical Heatmaps and Feature Propagation**|Kaiqin Yang. Yixiang Dai et.al.|[2410.22980](http://arxiv.org/abs/2410.22980)|null|
 |**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
 |**2024-10-29**|**Surface reconstruction from point cloud using a semi-Lagrangian scheme with local interpolator**|Silvia Preda et.al.|[2410.22205](http://arxiv.org/abs/2410.22205)|null|
