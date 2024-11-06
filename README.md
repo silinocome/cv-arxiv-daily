@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -571,7 +571,7 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 ## Collaborative Perception
 
@@ -900,7 +900,7 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 ## sensor fusion
 
@@ -1418,7 +1418,7 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 ## localization
 
@@ -1967,7 +1967,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 ## Detection
 
@@ -2118,7 +2118,7 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 ## Matching
 
@@ -2358,7 +2358,7 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 ## ground segmentation
 
@@ -2369,7 +2369,7 @@
 |**2024-11-03**|**Object segmentation from common fate: Motion energy processing enables human-like zero-shot generalization to random dot stimuli**|Matthias Tangemann et.al.|[2411.01505](http://arxiv.org/abs/2411.01505)|null|
 |**2024-11-02**|**New Cold Subdwarf Discoveries from Backyard Worlds and a Metallicity Classification System for T Subdwarfs**|Adam J. Burgasser et.al.|[2411.01378](http://arxiv.org/abs/2411.01378)|null|
 |**2024-11-02**|**Efficient moment tensor machine-learning interatomic potential for accurate description of defects in Ni-Al Alloys**|Jiantao Wang et.al.|[2411.01282](http://arxiv.org/abs/2411.01282)|null|
-|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|null|
+|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/abs/2411.00432)|null|
 |**2024-10-31**|**A Geometric Framework for Understanding Memorization in Generative Models**|Brendan Leigh Ross et.al.|[2411.00113](http://arxiv.org/abs/2411.00113)|null|
 |**2024-10-31**|**Tensegrity Robot Proprioceptive State Estimation with Geometric Constraints**|Wenzhe Tong et.al.|[2410.24226](http://arxiv.org/abs/2410.24226)|null|
@@ -2950,14 +2950,14 @@
 |**2023-11-22**|**Exploring Physically-Motivated Models to Fit Gamma-Ray Burst Spectra**|Suraj Poolakkil et.al.|[2311.13566](http://arxiv.org/abs/2311.13566)|null|
 |**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 ## point cloud
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-30**|**Deep Learning for 3D Point Cloud Enhancement: A Survey**|Siwen Quan et.al.|[2411.00857](http://arxiv.org/abs/2411.00857)|null|
-|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|null|
+|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/abs/2411.00432)|null|
 |**2024-10-30**|**Efficient End-to-End 6-Dof Grasp Detection Framework for Edge Devices with Hierarchical Heatmaps and Feature Propagation**|Kaiqin Yang. Yixiang Dai et.al.|[2410.22980](http://arxiv.org/abs/2410.22980)|null|
 |**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
@@ -3159,7 +3159,7 @@
 |**2023-11-05**|**Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook**|Huang Zhang et.al.|[2311.02608](http://arxiv.org/abs/2311.02608)|null|
 |**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552](http://arxiv.org/abs/2311.02552)|**[link](https://github.com/robotic-vision-lab/implicit-point-voxel-features-network)**|
 
-<p align=right>(<a href=#Updated-on-20241105>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241106>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

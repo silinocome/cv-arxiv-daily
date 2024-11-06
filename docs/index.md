@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.05
+## Updated on 2024.11.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -2347,7 +2347,7 @@ layout: default
 |**2024-11-03**|**Object segmentation from common fate: Motion energy processing enables human-like zero-shot generalization to random dot stimuli**|Matthias Tangemann et.al.|[2411.01505](http://arxiv.org/abs/2411.01505)|null|
 |**2024-11-02**|**New Cold Subdwarf Discoveries from Backyard Worlds and a Metallicity Classification System for T Subdwarfs**|Adam J. Burgasser et.al.|[2411.01378](http://arxiv.org/abs/2411.01378)|null|
 |**2024-11-02**|**Efficient moment tensor machine-learning interatomic potential for accurate description of defects in Ni-Al Alloys**|Jiantao Wang et.al.|[2411.01282](http://arxiv.org/abs/2411.01282)|null|
-|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|null|
+|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/abs/2411.00432)|null|
 |**2024-10-31**|**A Geometric Framework for Understanding Memorization in Generative Models**|Brendan Leigh Ross et.al.|[2411.00113](http://arxiv.org/abs/2411.00113)|null|
 |**2024-10-31**|**Tensegrity Robot Proprioceptive State Estimation with Geometric Constraints**|Wenzhe Tong et.al.|[2410.24226](http://arxiv.org/abs/2410.24226)|null|
@@ -2933,7 +2933,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-30**|**Deep Learning for 3D Point Cloud Enhancement: A Survey**|Siwen Quan et.al.|[2411.00857](http://arxiv.org/abs/2411.00857)|null|
-|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|null|
+|**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/abs/2411.00432)|null|
 |**2024-10-30**|**Efficient End-to-End 6-Dof Grasp Detection Framework for Edge Devices with Hierarchical Heatmaps and Feature Propagation**|Kaiqin Yang. Yixiang Dai et.al.|[2410.22980](http://arxiv.org/abs/2410.22980)|null|
 |**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
