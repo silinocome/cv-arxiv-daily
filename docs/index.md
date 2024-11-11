@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -571,7 +571,7 @@ layout: default
 |**2024-11-06**|**Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation**|Long Shi et.al.|[2411.03713](http://arxiv.org/abs/2411.03713)|**[link](https://github.com/lshi91/GTMC-HOA)**|
 |**2024-11-04**|**Preemptive Holistic Collaborative System and Its Application in Road Transportation**|Ting Peng et.al.|[2411.01918](http://arxiv.org/abs/2411.01918)|null|
 |**2024-11-01**|**Development of a Web-based Research Consortium Database Management System: Advancing Data-driven and Knowledge-based Project Management**|Mitch Arkeen Salvador et.al.|[2411.00483](http://arxiv.org/abs/2411.00483)|null|
-|**2024-11-01**|**Communication Learning in Multi-Agent Systems from Graph Modeling Perspective**|Shengchao Hu et.al.|[2411.00382](http://arxiv.org/abs/2411.00382)|null|
+|**2024-11-01**|**Communication Learning in Multi-Agent Systems from Graph Modeling Perspective**|Shengchao Hu et.al.|[2411.00382](http://arxiv.org/abs/2411.00382)|**[link](https://github.com/charleshsc/CommFormer)**|
 |**2024-10-29**|**Synergizing LLM Agents and Knowledge Graph for Socioeconomic Prediction in LBSN**|Zhilun Zhou et.al.|[2411.00028](http://arxiv.org/abs/2411.00028)|null|
 |**2024-10-31**|**Exploiting Information Theory for Intuitive Robot Programming of Manual Activities**|Elena Merlo et.al.|[2410.23963](http://arxiv.org/abs/2410.23963)|null|
 |**2024-10-31**|**Promoting Reliable Knowledge about Climate Change: A Systematic Review of Effective Measures to Resist Manipulation on Social Media**|Aliaksandr Herasimenka et.al.|[2410.23814](http://arxiv.org/abs/2410.23814)|null|
