@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**A Survey of AI-Related Cyber Security Risks and Countermeasures in Mobility-as-a-Service**|Kai-Fung Chu et.al.|[2411.05681](http://arxiv.org/abs/2411.05681)|null|
+|**2024-11-08**|**Knowledge Distillation Neural Network for Predicting Car-following Behaviour of Human-driven and Autonomous Vehicles**|Ayobami Adewale et.al.|[2411.05618](http://arxiv.org/abs/2411.05618)|null|
 |**2024-11-06**|**An Experimental Study on Decomposition-Based Deep Ensemble Learning for Traffic Flow Forecasting**|Qiyuan Zhu et.al.|[2411.03588](http://arxiv.org/abs/2411.03588)|null|
 |**2024-11-05**|**Adaptive Genetic Selection based Pinning Control with Asymmetric Coupling for Multi-Network Heterogeneous Vehicular Systems**|Weian Guo et.al.|[2411.03027](http://arxiv.org/abs/2411.03027)|null|
 |**2024-11-04**|**Advanced computer vision for extracting georeferenced vehicle trajectories from drone imagery**|Robert Fonod et.al.|[2411.02136](http://arxiv.org/abs/2411.02136)|null|
@@ -2352,13 +2354,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Sketched Equivariant Imaging Regularization and Deep Internal Learning for Inverse Problems**|Guixian Xu et.al.|[2411.05771](http://arxiv.org/abs/2411.05771)|null|
+|**2024-11-08**|**Prediction of Mode Structure Using A Novel Physics-Embedded Neural ODE Method**|Bowen Zhu et.al.|[2411.05528](http://arxiv.org/abs/2411.05528)|null|
 |**2024-11-05**|**Kilogauss magnetic field and jet dynamics in the quasar NRAO 530**|Mikhail Lisakov et.al.|[2411.03446](http://arxiv.org/abs/2411.03446)|null|
 |**2024-11-05**|**Galaxy Formation and Evolution via Phase-temporal Clustering with FuzzyCat $\circ$ AstroLink**|William H. Oliver et.al.|[2411.03229](http://arxiv.org/abs/2411.03229)|null|
 |**2024-11-05**|**FEDLAD: Federated Evaluation of Deep Leakage Attacks and Defenses**|Isaac Baglin et.al.|[2411.03019](http://arxiv.org/abs/2411.03019)|null|
 |**2024-11-04**|**One VLM to Keep it Learning: Generation and Balancing for Data-free Continual Visual Question Answering**|Deepayan Das et.al.|[2411.02210](http://arxiv.org/abs/2411.02210)|null|
 |**2024-11-03**|**Understanding the decision-making process of choice modellers**|Gabriel Nova et.al.|[2411.01704](http://arxiv.org/abs/2411.01704)|null|
 |**2024-11-03**|**Object segmentation from common fate: Motion energy processing enables human-like zero-shot generalization to random dot stimuli**|Matthias Tangemann et.al.|[2411.01505](http://arxiv.org/abs/2411.01505)|null|
-|**2024-11-02**|**New Cold Subdwarf Discoveries from Backyard Worlds and a Metallicity Classification System for T Subdwarfs**|Adam J. Burgasser et.al.|[2411.01378](http://arxiv.org/abs/2411.01378)|null|
+|**2024-11-08**|**New Cold Subdwarf Discoveries from Backyard Worlds and a Metallicity Classification System for T Subdwarfs**|Adam J. Burgasser et.al.|[2411.01378](http://arxiv.org/abs/2411.01378)|null|
 |**2024-11-02**|**Efficient moment tensor machine-learning interatomic potential for accurate description of defects in Ni-Al Alloys**|Jiantao Wang et.al.|[2411.01282](http://arxiv.org/abs/2411.01282)|null|
 |**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/abs/2411.00432)|null|
@@ -2945,6 +2949,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**EROAS: 3D Efficient Reactive Obstacle Avoidance System for Autonomous Underwater Vehicles using 2.5D Forward-Looking Sonar**|Pruthviraj Mane et.al.|[2411.05516](http://arxiv.org/abs/2411.05516)|null|
 |**2024-11-05**|**Galaxy Formation and Evolution via Phase-temporal Clustering with FuzzyCat $\circ$ AstroLink**|William H. Oliver et.al.|[2411.03229](http://arxiv.org/abs/2411.03229)|null|
 |**2024-10-24**|**SSFold: Learning to Fold Arbitrary Crumpled Cloth Using Graph Dynamics from Human Demonstration**|Changshi Zhou et.al.|[2411.02608](http://arxiv.org/abs/2411.02608)|null|
 |**2024-10-30**|**Deep Learning for 3D Point Cloud Enhancement: A Survey**|Siwen Quan et.al.|[2411.00857](http://arxiv.org/abs/2411.00857)|null|
