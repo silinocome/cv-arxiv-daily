@@ -586,6 +586,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**An Approach to Twinning and Mining Collaborative Network of Construction Projects**|Jia-Rui Lin et.al.|[2411.09486](http://arxiv.org/abs/2411.09486)|null|
 |**2024-11-13**|**Feature Interaction Fusion Self-Distillation Network For CTR Prediction**|Lei Sang et.al.|[2411.07508](http://arxiv.org/abs/2411.07508)|null|
 |**2024-11-07**|**Survival of the Notable: Gender Asymmetry in Wikipedia Collective Deliberations**|Khandaker Tasnim Huq et.al.|[2411.04340](http://arxiv.org/abs/2411.04340)|null|
 |**2024-11-06**|**Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation**|Long Shi et.al.|[2411.03713](http://arxiv.org/abs/2411.03713)|**[link](https://github.com/lshi91/GTMC-HOA)**|
@@ -2150,6 +2151,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
@@ -2392,6 +2394,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**Evaluating cosmological simulations of galaxy formation with spectral variance in the optical window**|Z. Sharbaf et.al.|[2411.08945](http://arxiv.org/abs/2411.08945)|null|
 |**2024-11-13**|**Evolution of Effective Temperature, Kinetic Freeze-out Temperature and transverse flow velocity in pp Collision**|Murad Badshah et.al.|[2411.08655](http://arxiv.org/abs/2411.08655)|null|
 |**2024-11-12**|**Changepoint Detection in Complex Models: Cross-Fitting Is Needed**|Chengde Qian et.al.|[2411.07874](http://arxiv.org/abs/2411.07874)|null|
 |**2024-11-11**|**Efficient Unsupervised Domain Adaptation Regression for Spatial-Temporal Air Quality Sensor Fusion**|Keivan Faghih Niresi et.al.|[2411.06917](http://arxiv.org/abs/2411.06917)|null|
@@ -3002,7 +3005,7 @@
 |**2024-10-30**|**Deep Learning for 3D Point Cloud Enhancement: A Survey**|Siwen Quan et.al.|[2411.00857](http://arxiv.org/abs/2411.00857)|null|
 |**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/abs/2411.00432)|null|
-|**2024-10-30**|**Efficient End-to-End 6-Dof Grasp Detection Framework for Edge Devices with Hierarchical Heatmaps and Feature Propagation**|Kaiqin Yang. Yixiang Dai et.al.|[2410.22980](http://arxiv.org/abs/2410.22980)|null|
+|**2024-11-14**|**Efficient End-to-End 6-Dof Grasp Detection Framework for Edge Devices with Hierarchical Heatmaps and Feature Propagation**|Kaiqin Yang et.al.|[2410.22980](http://arxiv.org/abs/2410.22980)|null|
 |**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
 |**2024-10-29**|**Surface reconstruction from point cloud using a semi-Lagrangian scheme with local interpolator**|Silvia Preda et.al.|[2410.22205](http://arxiv.org/abs/2410.22205)|null|
 |**2024-10-27**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et.al.|[2410.20516](http://arxiv.org/abs/2410.20516)|**[link](https://github.com/smsharma/eqnn-jax)**|
