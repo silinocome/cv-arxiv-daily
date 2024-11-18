@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Real-Time AI-Driven People Tracking and Counting Using Overhead Cameras**|Ishrath Ahamed et.al.|[2411.10072](http://arxiv.org/abs/2411.10072)|null|
 |**2024-11-13**|**Harnessing Smartphone Sensors for Enhanced Road Safety: A Comprehensive Dataset and Review**|Amith Khandakar et.al.|[2411.07315](http://arxiv.org/abs/2411.07315)|null|
 |**2024-11-11**|**HeteroSample: Meta-path Guided Sampling for Heterogeneous Graph Representation Learning**|Ao Liu et.al.|[2411.07022](http://arxiv.org/abs/2411.07022)|null|
 |**2024-11-11**|**A neural-network based anomaly detection system and a safety protocol to protect vehicular network**|Marco Franceschini et.al.|[2411.07013](http://arxiv.org/abs/2411.07013)|null|
@@ -586,6 +587,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**To Optimize Human-in-the-loop Learning in Repeated Routing Games**|Hongbo Li et.al.|[2411.09867](http://arxiv.org/abs/2411.09867)|null|
 |**2024-11-14**|**An Approach to Twinning and Mining Collaborative Network of Construction Projects**|Jia-Rui Lin et.al.|[2411.09486](http://arxiv.org/abs/2411.09486)|null|
 |**2024-11-13**|**Feature Interaction Fusion Self-Distillation Network For CTR Prediction**|Lei Sang et.al.|[2411.07508](http://arxiv.org/abs/2411.07508)|null|
 |**2024-11-07**|**Survival of the Notable: Gender Asymmetry in Wikipedia Collective Deliberations**|Khandaker Tasnim Huq et.al.|[2411.04340](http://arxiv.org/abs/2411.04340)|null|
@@ -2151,7 +2153,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-14**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
+|**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
 |**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-07**|**The Impact of Semi-Supervised Learning on Line Segment Detection**|Johanna Engman et.al.|[2411.04596](http://arxiv.org/abs/2411.04596)|**[link](https://github.com/jo6815en/semi-lines)**|
 |**2024-11-04**|**Silver medal Solution for Image Matching Challenge 2024**|Yian Wang et.al.|[2411.01851](http://arxiv.org/abs/2411.01851)|null|
@@ -2394,6 +2396,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-14**|**Bayesian estimation of finite mixtures of Tobit models**|Caio Waisman et.al.|[2411.09771](http://arxiv.org/abs/2411.09771)|null|
 |**2024-11-13**|**Evaluating cosmological simulations of galaxy formation with spectral variance in the optical window**|Z. Sharbaf et.al.|[2411.08945](http://arxiv.org/abs/2411.08945)|null|
 |**2024-11-13**|**Evolution of Effective Temperature, Kinetic Freeze-out Temperature and transverse flow velocity in pp Collision**|Murad Badshah et.al.|[2411.08655](http://arxiv.org/abs/2411.08655)|null|
 |**2024-11-12**|**Changepoint Detection in Complex Models: Cross-Fitting Is Needed**|Chengde Qian et.al.|[2411.07874](http://arxiv.org/abs/2411.07874)|null|
