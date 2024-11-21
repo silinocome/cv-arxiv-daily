@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -2389,7 +2389,7 @@ layout: default
 |**2024-11-18**|**Value Imprint: A Technique for Auditing the Human Values Embedded in RLHF Datasets**|Ike Obi et.al.|[2411.11937](http://arxiv.org/abs/2411.11937)|null|
 |**2024-11-18**|**A Time-Dependent Spectral Analysis of $γ$ Cassiopeiae**|Sean J. Gunderson et.al.|[2411.11825](http://arxiv.org/abs/2411.11825)|null|
 |**2024-11-17**|**Leveraging genomic deep learning models for non-coding variant effect prediction**|Pooja Kathail et.al.|[2411.11158](http://arxiv.org/abs/2411.11158)|null|
-|**2024-11-16**|**MRI Parameter Mapping via Gaussian Mixture VAE: Breaking the Assumption of Independent Pixels**|Moucheng Xu et.al.|[2411.10772](http://arxiv.org/abs/2411.10772)|null|
+|**2024-11-16**|**MRI Parameter Mapping via Gaussian Mixture VAE: Breaking the Assumption of Independent Pixels**|Moucheng Xu et.al.|[2411.10772](http://arxiv.org/abs/2411.10772)|**[link](https://github.com/moucheng2017/MRI-GMM-VAE)**|
 |**2024-11-14**|**Bayesian estimation of finite mixtures of Tobit models**|Caio Waisman et.al.|[2411.09771](http://arxiv.org/abs/2411.09771)|null|
 |**2024-11-13**|**Evaluating cosmological simulations of galaxy formation with spectral variance in the optical window**|Z. Sharbaf et.al.|[2411.08945](http://arxiv.org/abs/2411.08945)|null|
 |**2024-11-13**|**Evolution of Effective Temperature, Kinetic Freeze-out Temperature and transverse flow velocity in pp Collision**|Murad Badshah et.al.|[2411.08655](http://arxiv.org/abs/2411.08655)|null|
