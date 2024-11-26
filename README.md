@@ -594,6 +594,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-23**|**On extracting coherent seismic wavefield using variational symmetric autoencoders**|Pawan Bharadwaj et.al.|[2411.15613](http://arxiv.org/abs/2411.15613)|null|
 |**2024-11-21**|**NewsInterview: a Dataset and a Playground to Evaluate LLMs' Ground Gap via Informational Interviews**|Michael Lu et.al.|[2411.13779](http://arxiv.org/abs/2411.13779)|**[link](https://github.com/alex2awesome/news-interview-question-generation)**|
 |**2024-11-15**|**A Multi-Server Information-Sharing Environment for Cross-Party Collaboration on A Private Cloud**|Jianping Zhang et.al.|[2411.13580](http://arxiv.org/abs/2411.13580)|null|
 |**2024-11-20**|**Understanding the Personal Networks of People Experiencing Homelessness in King County, WA with aggregate Relational Data**|Zack Almquist et.al.|[2411.13517](http://arxiv.org/abs/2411.13517)|null|
@@ -933,6 +934,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**|Mahmoud M. Kishky et.al.|[2411.16131](http://arxiv.org/abs/2411.16131)|null|
+|**2024-11-24**|**Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering**|Zhicheng Zhao et.al.|[2411.15770](http://arxiv.org/abs/2411.15770)|null|
+|**2024-11-20**|**LightLLM: A Versatile Large Language Model for Predictive Light Sensing**|Jiawei Hu et.al.|[2411.15211](http://arxiv.org/abs/2411.15211)|null|
+|**2024-11-18**|**Random Forest-Supervised Manifold Alignment**|Jake S. Rhodes et.al.|[2411.15179](http://arxiv.org/abs/2411.15179)|null|
 |**2024-11-19**|**3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality**|Hanbeom Chang et.al.|[2411.12514](http://arxiv.org/abs/2411.12514)|null|
 |**2024-11-19**|**Sensor-fusion based Prognostics Framework for Complex Engineering Systems Exhibiting Multiple Failure Modes**|Benjamin Peters et.al.|[2411.12159](http://arxiv.org/abs/2411.12159)|null|
 |**2024-11-17**|**Iterative Camera-LiDAR Extrinsic Optimization via Surrogate Diffusion**|Ni Ou et.al.|[2411.10936](http://arxiv.org/abs/2411.10936)|null|
@@ -1463,6 +1468,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Image Generation Diversity Issues and How to Tame Them**|Mischa Dombrowski et.al.|[2411.16171](http://arxiv.org/abs/2411.16171)|**[link](https://github.com/mischad/beyondfid)**|
+|**2024-11-24**|**PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**|Haoang Li et.al.|[2411.15800](http://arxiv.org/abs/2411.15800)|null|
 |**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|**[link](https://github.com/ZbaoSun/CMPAGL)**|
 |**2024-11-20**|**Globally Correlation-Aware Hard Negative Generation**|Wenjie Peng et.al.|[2411.13145](http://arxiv.org/abs/2411.13145)|**[link](https://github.com/pwenjay/gca-hng)**|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665](http://arxiv.org/abs/2411.08665)|**[link](https://github.com/whu-usi3dv/osmloc)**|
@@ -2416,6 +2423,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Understanding Generalization of Federated Learning: the Trade-off between Model Stability and Optimization**|Dun Zeng et.al.|[2411.16303](http://arxiv.org/abs/2411.16303)|null|
+|**2024-11-25**|**An Optically Led Search for Kilonovae to z $\sim$ 0.3 with the Kilonova and Transients Program (KNTraP)**|Natasha Van Bemmel et.al.|[2411.16136](http://arxiv.org/abs/2411.16136)|null|
+|**2024-11-24**|**Autonomous Multi-Robot Exploration Strategies for 3D Environments with Fire Detection Capabilitie**|Ankit Shaw et.al.|[2411.15953](http://arxiv.org/abs/2411.15953)|null|
 |**2024-11-22**|**PDS 70b Shows Stellar-like Carbon-to-Oxygen Ratio**|Chih-Chun Hsu et.al.|[2411.15117](http://arxiv.org/abs/2411.15117)|null|
 |**2024-11-22**|**A fast approach for analyzing spatio-temporal patterns in ischemic heart disease mortality across US counties (1999-2021)**|A. Urdangarin et.al.|[2411.14849](http://arxiv.org/abs/2411.14849)|null|
 |**2024-11-22**|**mmWave Radar for Sit-to-Stand Analysis: A Comparative Study with Wearables and Kinect**|Shuting Hu et.al.|[2411.14656](http://arxiv.org/abs/2411.14656)|null|
@@ -3037,6 +3047,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-24**|**Autonomous Multi-Robot Exploration Strategies for 3D Environments with Fire Detection Capabilitie**|Ankit Shaw et.al.|[2411.15953](http://arxiv.org/abs/2411.15953)|null|
 |**2024-11-22**|**mmWave Radar for Sit-to-Stand Analysis: A Comparative Study with Wearables and Kinect**|Shuting Hu et.al.|[2411.14656](http://arxiv.org/abs/2411.14656)|null|
 |**2024-11-20**|**Automatic marker-free registration based on similar tetrahedras for single-tree point clouds**|Jing Ren et.al.|[2411.13069](http://arxiv.org/abs/2411.13069)|null|
 |**2024-11-19**|**Tree Species Classification using Machine Learning and 3D Tomographic SAR -- a case study in Northern Europe**|Colverd Grace et.al.|[2411.12897](http://arxiv.org/abs/2411.12897)|null|
