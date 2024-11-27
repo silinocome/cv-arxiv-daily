@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**DGNN-YOLO: Dynamic Graph Neural Networks with YOLO11 for Small Object Detection and Tracking in Traffic Surveillance**|Shahriar Soudeep et.al.|[2411.17251](http://arxiv.org/abs/2411.17251)|null|
 |**2024-11-22**|**LiDAR-based End-to-end Temporal Perception for Vehicle-Infrastructure Cooperation**|Zhenwei Yang et.al.|[2411.14927](http://arxiv.org/abs/2411.14927)|null|
 |**2024-11-21**|**Trajectory Tracking Using Frenet Coordinates with Deep Deterministic Policy Gradient**|Tongzhou Jiang et.al.|[2411.13885](http://arxiv.org/abs/2411.13885)|null|
 |**2024-11-20**|**A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**|Kavin Chandrasekaran et.al.|[2411.13311](http://arxiv.org/abs/2411.13311)|**[link](https://github.com/tue-mps/refnet)**|
@@ -582,6 +583,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**The Extractive-Abstractive Spectrum: Uncovering Verifiability Trade-offs in LLM Generations**|Theodora Worledge et.al.|[2411.17375](http://arxiv.org/abs/2411.17375)|**[link](https://github.com/guestrin-lab/extractive-abstractive-spectrum)**|
 |**2024-11-23**|**On extracting coherent seismic wavefield using variational symmetric autoencoders**|Pawan Bharadwaj et.al.|[2411.15613](http://arxiv.org/abs/2411.15613)|null|
 |**2024-11-21**|**NewsInterview: a Dataset and a Playground to Evaluate LLMs' Ground Gap via Informational Interviews**|Michael Lu et.al.|[2411.13779](http://arxiv.org/abs/2411.13779)|**[link](https://github.com/alex2awesome/news-interview-question-generation)**|
 |**2024-11-15**|**A Multi-Server Information-Sharing Environment for Cross-Party Collaboration on A Private Cloud**|Jianping Zhang et.al.|[2411.13580](http://arxiv.org/abs/2411.13580)|null|
@@ -920,6 +922,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**E-CONDOR: Efficient Contour-Based Detection Of Random Spatial Signals From UAV Observations Using Dual Stochastic Gradient**|Maryam Zahra et.al.|[2411.17449](http://arxiv.org/abs/2411.17449)|null|
+|**2024-11-25**|**Performance Evaluation of Deep Learning-Based State Estimation: A Comparative Study of KalmanNet**|Arian Mehrfard et.al.|[2411.16930](http://arxiv.org/abs/2411.16930)|null|
 |**2024-11-25**|**End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**|Mahmoud M. Kishky et.al.|[2411.16131](http://arxiv.org/abs/2411.16131)|null|
 |**2024-11-24**|**Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering**|Zhicheng Zhao et.al.|[2411.15770](http://arxiv.org/abs/2411.15770)|null|
 |**2024-11-20**|**LightLLM: A Versatile Large Language Model for Predictive Light Sensing**|Jiawei Hu et.al.|[2411.15211](http://arxiv.org/abs/2411.15211)|null|
@@ -1452,9 +1456,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Learning Visual Hierarchies with Hyperbolic Embeddings**|Ziwei Wang et.al.|[2411.17490](http://arxiv.org/abs/2411.17490)|null|
+|**2024-11-24**|**Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**|You Li et.al.|[2411.16752](http://arxiv.org/abs/2411.16752)|null|
+|**2024-11-24**|**AnySynth: Harnessing the Power of Image Synthetic Data Generation for Generalized Vision-Language Tasks**|You Li et.al.|[2411.16749](http://arxiv.org/abs/2411.16749)|null|
 |**2024-11-25**|**Image Generation Diversity Issues and How to Tame Them**|Mischa Dombrowski et.al.|[2411.16171](http://arxiv.org/abs/2411.16171)|**[link](https://github.com/mischad/beyondfid)**|
 |**2024-11-24**|**PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments**|Haoang Li et.al.|[2411.15800](http://arxiv.org/abs/2411.15800)|null|
-|**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|**[link](https://github.com/ZbaoSun/CMPAGL)**|
+|**2024-11-22**|**Cross-Modal Pre-Aligned Method with Global and Local Information for Remote-Sensing Image and Text Retrieval**|Zengbao Sun et.al.|[2411.14704](http://arxiv.org/abs/2411.14704)|null|
 |**2024-11-20**|**Globally Correlation-Aware Hard Negative Generation**|Wenjie Peng et.al.|[2411.13145](http://arxiv.org/abs/2411.13145)|**[link](https://github.com/pwenjay/gca-hng)**|
 |**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665](http://arxiv.org/abs/2411.08665)|**[link](https://github.com/whu-usi3dv/osmloc)**|
 |**2024-11-13**|**Hopfield-Fenchel-Young Networks: A Unified Framework for Associative Memory Retrieval**|Saul Santos et.al.|[2411.08590](http://arxiv.org/abs/2411.08590)|**[link](https://github.com/deep-spin/HFYN)**|
@@ -2401,6 +2408,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**MLI-NeRF: Multi-Light Intrinsic-Aware Neural Radiance Fields**|Yixiong Yang et.al.|[2411.17235](http://arxiv.org/abs/2411.17235)|null|
+|**2024-11-26**|**SelfSplat: Pose-Free and 3D Prior-Free Generalizable 3D Gaussian Splatting**|Gyeongjin Kang et.al.|[2411.17190](http://arxiv.org/abs/2411.17190)|null|
+|**2024-11-26**|**Learning from Noisy Labels via Conditional Distributionally Robust Optimization**|Hui Guo et.al.|[2411.17113](http://arxiv.org/abs/2411.17113)|**[link](https://github.com/hguo1728/AdaptCDRP)**|
 |**2024-11-25**|**Understanding Generalization of Federated Learning: the Trade-off between Model Stability and Optimization**|Dun Zeng et.al.|[2411.16303](http://arxiv.org/abs/2411.16303)|null|
 |**2024-11-25**|**An Optically Led Search for Kilonovae to z $\sim$ 0.3 with the Kilonova and Transients Program (KNTraP)**|Natasha Van Bemmel et.al.|[2411.16136](http://arxiv.org/abs/2411.16136)|null|
 |**2024-11-24**|**Autonomous Multi-Robot Exploration Strategies for 3D Environments with Fire Detection Capabilitie**|Ankit Shaw et.al.|[2411.15953](http://arxiv.org/abs/2411.15953)|null|
