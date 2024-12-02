@@ -1783,7 +1783,7 @@
 |**2023-12-05**|**Grounding Everything: Emerging Localization Properties in Vision-Language Transformers**|Walid Bousselham et.al.|[2312.00878](http://arxiv.org/abs/2312.00878)|**[link](https://github.com/walbouss/gem)**|
 |**2023-12-01**|**Global Localization: Utilizing Relative Spatio-Temporal Geometric Constraints from Adjacent and Distant Cameras**|Mohammad Altillawi et.al.|[2312.00500](http://arxiv.org/abs/2312.00500)|null|
 |**2023-11-30**|**HKUST at SemEval-2023 Task 1: Visual Word Sense Disambiguation with Context Augmentation and Visual Assistance**|Zhuohao Yin et.al.|[2311.18273](http://arxiv.org/abs/2311.18273)|**[link](https://github.com/thomas-yin/semeval-2023-task1)**|
-|**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237](http://arxiv.org/abs/2311.18237)|null|
+|**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237](http://arxiv.org/abs/2311.18237)|**[link](https://github.com/apple/ml-vfm-kt)**|
 |**2023-11-29**|**Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce**|Chang Liu et.al.|[2311.17954](http://arxiv.org/abs/2311.17954)|null|
 |**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|**[link](https://github.com/HuajianUP/360Loc)**|
 |**2023-11-27**|**Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**|Samuele Poppi et.al.|[2311.16254](http://arxiv.org/abs/2311.16254)|**[link](https://github.com/aimagelab/safe-clip)**|
@@ -2446,7 +2446,7 @@
 |**2024-11-25**|**An Optically Led Search for Kilonovae to z $\sim$ 0.3 with the Kilonova and Transients Program (KNTraP)**|Natasha Van Bemmel et.al.|[2411.16136](http://arxiv.org/abs/2411.16136)|null|
 |**2024-11-24**|**Autonomous Multi-Robot Exploration Strategies for 3D Environments with Fire Detection Capabilitie**|Ankit Shaw et.al.|[2411.15953](http://arxiv.org/abs/2411.15953)|null|
 |**2024-11-22**|**PDS 70b Shows Stellar-like Carbon-to-Oxygen Ratio**|Chih-Chun Hsu et.al.|[2411.15117](http://arxiv.org/abs/2411.15117)|null|
-|**2024-11-22**|**A fast approach for analyzing spatio-temporal patterns in ischemic heart disease mortality across US counties (1999-2021)**|A. Urdangarin et.al.|[2411.14849](http://arxiv.org/abs/2411.14849)|null|
+|**2024-11-22**|**A fast approach for analyzing spatio-temporal patterns in ischemic heart disease mortality across US counties (1999-2021)**|A. Urdangarin et.al.|[2411.14849](http://arxiv.org/abs/2411.14849)|**[link](https://github.com/spatialstatisticsupna/ihd_st_patterns)**|
 |**2024-11-22**|**mmWave Radar for Sit-to-Stand Analysis: A Comparative Study with Wearables and Kinect**|Shuting Hu et.al.|[2411.14656](http://arxiv.org/abs/2411.14656)|null|
 |**2024-11-21**|**Uncertainty-Aware Regression for Socio-Economic Estimation via Multi-View Remote Sensing**|Fan Yang et.al.|[2411.14119](http://arxiv.org/abs/2411.14119)|**[link](https://github.com/lukeyf/multiview_remote_sensing)**|
 |**2024-11-21**|**Accelerated zero-order SGD under high-order smoothness and overparameterized regime**|Georgii Bychkov et.al.|[2411.13999](http://arxiv.org/abs/2411.13999)|null|
@@ -2548,7 +2548,7 @@
 |**2024-10-03**|**The SynCOM Flow Tracking Challenge**|Valmir Moraes Filho et.al.|[2410.01233](http://arxiv.org/abs/2410.01233)|null|
 |**2024-10-02**|**The Effects of Air Pollution on Health: A Study of Los Angeles County**|Yanfei Qu et.al.|[2410.01151](http://arxiv.org/abs/2410.01151)|null|
 |**2024-10-01**|**Drone Stereo Vision for Radiata Pine Branch Detection and Distance Measurement: Utilizing Deep Learning and YOLO Integration**|Yida Lin et.al.|[2410.00503](http://arxiv.org/abs/2410.00503)|null|
-|**2024-09-30**|**Robust Emax Model Fitting: Addressing Nonignorable Missing Binary Outcome in Dose-Response Analysis**|Jiangshan Zhang et.al.|[2410.00259](http://arxiv.org/abs/2410.00259)|null|
+|**2024-09-30**|**Robust Emax Model Fitting: Addressing Nonignorable Missing Binary Outcome in Dose-Response Analysis**|Jiangshan Zhang et.al.|[2410.00259](http://arxiv.org/abs/2410.00259)|**[link](https://github.com/Celaeno1017/ememax)**|
 |**2024-09-30**|**Extreme heat is associated with reductions in human activity**|Andrew Renninger et.al.|[2409.20437](http://arxiv.org/abs/2409.20437)|null|
 |**2024-09-30**|**Annotation-Free Curb Detection Leveraging Altitude Difference Image**|Fulong Ma et.al.|[2409.20171](http://arxiv.org/abs/2409.20171)|null|
 |**2024-09-30**|**Toward robust physical and chemical characterization of heterogeneous lines of sight: The case of the Horsehead nebula**|Léontine Ségal et.al.|[2409.20074](http://arxiv.org/abs/2409.20074)|null|
