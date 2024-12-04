@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**FedPAW: Federated Learning with Personalized Aggregation Weights for Urban Vehicle Speed Prediction**|Yuepeng He et.al.|[2412.01281](http://arxiv.org/abs/2412.01281)|**[link](https://github.com/heyuepeng/pfllibvsp)**|
+|**2024-11-30**|**Vision Technologies with Applications in Traffic Surveillance Systems: A Holistic Survey**|Wei Zhou et.al.|[2412.00348](http://arxiv.org/abs/2412.00348)|null|
+|**2024-11-28**|**Road User Classification from High-Frequency GNSS Data Using Distributed Edge Intelligence**|Lennart Köpper et.al.|[2412.00132](http://arxiv.org/abs/2412.00132)|null|
 |**2024-11-27**|**An End-to-End Smart Predict-then-Optimize Framework for Vehicle Relocation Problems in Large-Scale Vehicle Crowd Sensing**|Xinyu Wang et.al.|[2411.18432](http://arxiv.org/abs/2411.18432)|null|
 |**2024-11-27**|**A Cost-Effective Approach to Smooth A* Path Planning for Autonomous Vehicles**|Lukas Schichler et.al.|[2411.18150](http://arxiv.org/abs/2411.18150)|null|
 |**2024-11-27**|**Edge-Assisted Accelerated Cooperative Sensing for CAVs: Task Placement and Resource Allocation**|Yuxuan Wang et.al.|[2411.18129](http://arxiv.org/abs/2411.18129)|null|
@@ -598,6 +601,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Pre-Deployment Information Sharing: A Zoning Taxonomy for Precursory Capabilities**|Matteo Pistillo et.al.|[2412.02512](http://arxiv.org/abs/2412.02512)|null|
+|**2024-12-03**|**Social patch foraging theory in an egalitarian group**|Lisa Blum Moyse et.al.|[2412.02381](http://arxiv.org/abs/2412.02381)|null|
+|**2024-12-03**|**Characterizing Information Shared by Participants to Coding Challenges: The Case of Advent of Code**|Francesco Cauteruccio et.al.|[2412.02290](http://arxiv.org/abs/2412.02290)|null|
+|**2024-12-03**|**DataLab: A Unifed Platform for LLM-Powered Business Intelligence**|Luoxuan Weng et.al.|[2412.02205](http://arxiv.org/abs/2412.02205)|null|
 |**2024-11-27**|**A Latent Space Approach to Inferring Distance-Dependent Reciprocity in Directed Networks**|Joshua Daniel Loyal et.al.|[2411.18433](http://arxiv.org/abs/2411.18433)|null|
 |**2024-11-26**|**The Extractive-Abstractive Spectrum: Uncovering Verifiability Trade-offs in LLM Generations**|Theodora Worledge et.al.|[2411.17375](http://arxiv.org/abs/2411.17375)|**[link](https://github.com/guestrin-lab/extractive-abstractive-spectrum)**|
 |**2024-11-23**|**On extracting coherent seismic wavefield using variational symmetric autoencoders**|Pawan Bharadwaj et.al.|[2411.15613](http://arxiv.org/abs/2411.15613)|null|
@@ -940,6 +947,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Construction and optimization of health behavior prediction model for the elderly in smart elderly care**|Qian Guo et.al.|[2412.02062](http://arxiv.org/abs/2412.02062)|null|
+|**2024-12-02**|**Personalized Coupled Tensor Decomposition for Multimodal Data Fusion: Uniqueness and Algorithms**|Ricardo Augusto Borsoi et.al.|[2412.01102](http://arxiv.org/abs/2412.01102)|null|
+|**2024-12-03**|**HSLiNets: Hyperspectral Image and LiDAR Data Fusion Using Efficient Dual Non-Linear Feature Learning Networks**|Judy X Yang et.al.|[2412.00302](http://arxiv.org/abs/2412.00302)|null|
 |**2024-11-29**|**The Streetscape Application Services Stack (SASS): Towards a Distributed Sensing Architecture for Urban Applications**|Navid Salami Pargoo et.al.|[2411.19714](http://arxiv.org/abs/2411.19714)|null|
 |**2024-11-29**|**Knowledge-Data Fusion Based Source-Free Semi-Supervised Domain Adaptation for Seizure Subtype Classification**|Ruimin Peng et.al.|[2411.19502](http://arxiv.org/abs/2411.19502)|null|
 |**2024-11-28**|**Signal-based online acceleration and strain data fusion using B-splines and Kalman filter for full-field dynamic displacement estimation**|Aniruddha Das et.al.|[2411.19282](http://arxiv.org/abs/2411.19282)|null|
@@ -1481,6 +1491,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Active Learning via Classifier Impact and Greedy Selection for Interactive Image Retrieval**|Leah Bar et.al.|[2412.02310](http://arxiv.org/abs/2412.02310)|**[link](https://github.com/barleah/greedyal)**|
+|**2024-12-02**|**Mutli-View 3D Reconstruction using Knowledge Distillation**|Aditya Dutt et.al.|[2412.02039](http://arxiv.org/abs/2412.02039)|null|
+|**2024-12-02**|**Optimizing Domain-Specific Image Retrieval: A Benchmark of FAISS and Annoy with Fine-Tuned Features**|MD Shaikh Rahman et.al.|[2412.01555](http://arxiv.org/abs/2412.01555)|null|
+|**2024-12-02**|**Neuron Abandoning Attention Flow: Visual Explanation of Dynamics inside CNN Models**|Yi Liao et.al.|[2412.01202](http://arxiv.org/abs/2412.01202)|null|
+|**2024-11-28**|**EFSA: Episodic Few-Shot Adaptation for Text-to-Image Retrieval**|Muhammad Huzaifa et.al.|[2412.00139](http://arxiv.org/abs/2412.00139)|null|
+|**2024-11-28**|**Unleashing the Power of Data Synthesis in Visual Localization**|Sihang Li et.al.|[2412.00138](http://arxiv.org/abs/2412.00138)|null|
+|**2024-11-28**|**Relation-Aware Meta-Learning for Zero-shot Sketch-Based Image Retrieval**|Yang Liu et.al.|[2412.00120](http://arxiv.org/abs/2412.00120)|null|
 |**2024-11-27**|**Optimizing Image Retrieval with an Extended b-Metric Space**|Abdelkader Belhenniche et.al.|[2411.18800](http://arxiv.org/abs/2411.18800)|null|
 |**2024-11-26**|**Learning Visual Hierarchies with Hyperbolic Embeddings**|Ziwei Wang et.al.|[2411.17490](http://arxiv.org/abs/2411.17490)|null|
 |**2024-12-02**|**Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy**|You Li et.al.|[2411.16752](http://arxiv.org/abs/2411.16752)|null|
@@ -2440,6 +2457,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**The Origins of Lithium Enhancement in Polluted White Dwarfs**|Benjamin C. Kaiser et.al.|[2412.01878](http://arxiv.org/abs/2412.01878)|null|
+|**2024-12-01**|**Garden city: A synthetic dataset and sandbox environment for analysis of pre-processing algorithms for GPS human mobility data**|Thomas H. Li et.al.|[2412.00913](http://arxiv.org/abs/2412.00913)|null|
+|**2024-12-01**|**Particle-based 6D Object Pose Estimation from Point Clouds using Diffusion Models**|Christian Möller et.al.|[2412.00835](http://arxiv.org/abs/2412.00835)|**[link](https://github.com/zitronian/6dposediffusion)**|
+|**2024-11-30**|**Density-aware Global-Local Attention Network for Point Cloud Segmentation**|Chade Li et.al.|[2412.00489](http://arxiv.org/abs/2412.00489)|null|
 |**2024-11-28**|**Skeleton Detection Using Dual Radars with Integration of Dual-View CNN Models and mmPose**|Masaharu Kodama et.al.|[2411.19251](http://arxiv.org/abs/2411.19251)|null|
 |**2024-11-28**|**Textured As-Is BIM via GIS-informed Point Cloud Segmentation**|Mohamed S. H. Alabassy et.al.|[2411.18898](http://arxiv.org/abs/2411.18898)|null|
 |**2024-11-27**|**Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation**|Yueru Jia et.al.|[2411.18623](http://arxiv.org/abs/2411.18623)|null|
@@ -3073,6 +3094,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-01**|**Particle-based 6D Object Pose Estimation from Point Clouds using Diffusion Models**|Christian Möller et.al.|[2412.00835](http://arxiv.org/abs/2412.00835)|**[link](https://github.com/zitronian/6dposediffusion)**|
+|**2024-11-30**|**Density-aware Global-Local Attention Network for Point Cloud Segmentation**|Chade Li et.al.|[2412.00489](http://arxiv.org/abs/2412.00489)|null|
 |**2024-11-28**|**Skeleton Detection Using Dual Radars with Integration of Dual-View CNN Models and mmPose**|Masaharu Kodama et.al.|[2411.19251](http://arxiv.org/abs/2411.19251)|null|
 |**2024-11-28**|**Textured As-Is BIM via GIS-informed Point Cloud Segmentation**|Mohamed S. H. Alabassy et.al.|[2411.18898](http://arxiv.org/abs/2411.18898)|null|
 |**2024-11-27**|**Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation**|Yueru Jia et.al.|[2411.18623](http://arxiv.org/abs/2411.18623)|null|
