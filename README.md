@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**A Spatial-Domain Coordinated Control Method for Connected and Automated Vehicles at Unsignalized Intersections Considering Motion Uncertainty**|Tong Zhao et.al.|[2412.04290](http://arxiv.org/abs/2412.04290)|null|
 |**2024-12-04**|**Contextual Data Integration for Bike-sharing Demand Prediction with Graph Neural Networks in Degraded Weather Conditions**|Romain Rochas et.al.|[2412.03307](http://arxiv.org/abs/2412.03307)|null|
 |**2024-12-02**|**FedPAW: Federated Learning with Personalized Aggregation Weights for Urban Vehicle Speed Prediction**|Yuepeng He et.al.|[2412.01281](http://arxiv.org/abs/2412.01281)|**[link](https://github.com/heyuepeng/pfllibvsp)**|
 |**2024-11-30**|**Vision Technologies with Applications in Traffic Surveillance Systems: A Holistic Survey**|Wei Zhou et.al.|[2412.00348](http://arxiv.org/abs/2412.00348)|null|
@@ -602,6 +603,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Towards Comprehensive Legislative Requirements for Cyber Physical Systems Testing in the European Union**|Guillaume Nguyen et.al.|[2412.04132](http://arxiv.org/abs/2412.04132)|null|
 |**2024-11-18**|**Pre-Deployment Information Sharing: A Zoning Taxonomy for Precursory Capabilities**|Matteo Pistillo et.al.|[2412.02512](http://arxiv.org/abs/2412.02512)|null|
 |**2024-12-04**|**Social patch foraging theory in an egalitarian group**|Lisa Blum Moyse et.al.|[2412.02381](http://arxiv.org/abs/2412.02381)|null|
 |**2024-12-03**|**Characterizing Information Shared by Participants to Coding Challenges: The Case of Advent of Code**|Francesco Cauteruccio et.al.|[2412.02290](http://arxiv.org/abs/2412.02290)|null|
@@ -2464,6 +2466,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Supertoroid fitting of objects with holes for robotic grasping and scene generation**|Joan Badia Torres et.al.|[2412.04174](http://arxiv.org/abs/2412.04174)|null|
+|**2024-12-05**|**Two-Carrier Model-Fitting of Hall Effect in Semiconductors with Dual-Band Occupation: A Case Study in GaN Two-Dimensional Hole Gas**|Joseph E. Dill et.al.|[2412.03818](http://arxiv.org/abs/2412.03818)|null|
 |**2024-12-04**|**Revisiting the impact of neutrino mass hierarchies on neutrino mass constraints in light of recent DESI data**|Laura Herold et.al.|[2412.03546](http://arxiv.org/abs/2412.03546)|null|
 |**2024-12-04**|**Visualisation for Exploratory Modelling Analysis of Bayesian Hierarchical Models**|Oluwayomi Akinfenwa et.al.|[2412.03484](http://arxiv.org/abs/2412.03484)|null|
 |**2024-12-04**|**Building Europe's first space-based Quantum Key Distribution system -- The German Aerospace Center's role in the EAGLE-1 mission**|Gabriela Calistro Rivera et.al.|[2412.03222](http://arxiv.org/abs/2412.03222)|null|
