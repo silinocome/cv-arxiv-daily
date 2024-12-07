@@ -2471,10 +2471,10 @@
 |**2024-12-04**|**Revisiting the impact of neutrino mass hierarchies on neutrino mass constraints in light of recent DESI data**|Laura Herold et.al.|[2412.03546](http://arxiv.org/abs/2412.03546)|null|
 |**2024-12-04**|**Visualisation for Exploratory Modelling Analysis of Bayesian Hierarchical Models**|Oluwayomi Akinfenwa et.al.|[2412.03484](http://arxiv.org/abs/2412.03484)|null|
 |**2024-12-04**|**Building Europe's first space-based Quantum Key Distribution system -- The German Aerospace Center's role in the EAGLE-1 mission**|Gabriela Calistro Rivera et.al.|[2412.03222](http://arxiv.org/abs/2412.03222)|null|
-|**2024-12-04**|**Parametric Enhancement of PerceptNet: A Human-Inspired Approach for Image Quality Assessment**|Jorge Vila-Tomás et.al.|[2412.03210](http://arxiv.org/abs/2412.03210)|null|
+|**2024-12-04**|**Parametric Enhancement of PerceptNet: A Human-Inspired Approach for Image Quality Assessment**|Jorge Vila-Tomás et.al.|[2412.03210](http://arxiv.org/abs/2412.03210)|**[link](https://github.com/Jorgvt/PerceptualTests)**|
 |**2024-12-04**|**Point-GR: Graph Residual Point Cloud Network for 3D Object Classification and Segmentation**|Md Meraz et.al.|[2412.03052](http://arxiv.org/abs/2412.03052)|null|
 |**2024-12-02**|**The Origins of Lithium Enhancement in Polluted White Dwarfs**|Benjamin C. Kaiser et.al.|[2412.01878](http://arxiv.org/abs/2412.01878)|null|
-|**2024-12-01**|**Garden city: A synthetic dataset and sandbox environment for analysis of pre-processing algorithms for GPS human mobility data**|Thomas H. Li et.al.|[2412.00913](http://arxiv.org/abs/2412.00913)|null|
+|**2024-12-01**|**Garden city: A synthetic dataset and sandbox environment for analysis of pre-processing algorithms for GPS human mobility data**|Thomas H. Li et.al.|[2412.00913](http://arxiv.org/abs/2412.00913)|**[link](https://github.com/watts-lab/nomad)**|
 |**2024-12-01**|**Particle-based 6D Object Pose Estimation from Point Clouds using Diffusion Models**|Christian Möller et.al.|[2412.00835](http://arxiv.org/abs/2412.00835)|**[link](https://github.com/zitronian/6dposediffusion)**|
 |**2024-11-30**|**Density-aware Global-Local Attention Network for Point Cloud Segmentation**|Chade Li et.al.|[2412.00489](http://arxiv.org/abs/2412.00489)|null|
 |**2024-11-28**|**Skeleton Detection Using Dual Radars with Integration of Dual-View CNN Models and mmPose**|Masaharu Kodama et.al.|[2411.19251](http://arxiv.org/abs/2411.19251)|null|
