@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -2444,10 +2444,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**Supertoroid fitting of objects with holes for robotic grasping and scene generation**|Joan Badia Torres et.al.|[2412.04174](http://arxiv.org/abs/2412.04174)|null|
+|**2024-12-05**|**Supertoroid fitting of objects with holes for robotic grasping and scene generation**|Joan Badia Torres et.al.|[2412.04174](http://arxiv.org/abs/2412.04174)|**[link](https://github.com/jbadiat/supertoroidfitting)**|
 |**2024-12-05**|**Two-Carrier Model-Fitting of Hall Effect in Semiconductors with Dual-Band Occupation: A Case Study in GaN Two-Dimensional Hole Gas**|Joseph E. Dill et.al.|[2412.03818](http://arxiv.org/abs/2412.03818)|null|
 |**2024-12-04**|**Revisiting the impact of neutrino mass hierarchies on neutrino mass constraints in light of recent DESI data**|Laura Herold et.al.|[2412.03546](http://arxiv.org/abs/2412.03546)|null|
-|**2024-12-04**|**Visualisation for Exploratory Modelling Analysis of Bayesian Hierarchical Models**|Oluwayomi Akinfenwa et.al.|[2412.03484](http://arxiv.org/abs/2412.03484)|null|
+|**2024-12-04**|**Visualisation for Exploratory Modelling Analysis of Bayesian Hierarchical Models**|Oluwayomi Akinfenwa et.al.|[2412.03484](http://arxiv.org/abs/2412.03484)|**[link](https://github.com/Oluwayomi-Project/Visualisation-for-exploratory-analysis-of-BHM)**|
 |**2024-12-04**|**Building Europe's first space-based Quantum Key Distribution system -- The German Aerospace Center's role in the EAGLE-1 mission**|Gabriela Calistro Rivera et.al.|[2412.03222](http://arxiv.org/abs/2412.03222)|null|
 |**2024-12-04**|**Parametric Enhancement of PerceptNet: A Human-Inspired Approach for Image Quality Assessment**|Jorge Vila-Tomás et.al.|[2412.03210](http://arxiv.org/abs/2412.03210)|**[link](https://github.com/Jorgvt/PerceptualTests)**|
 |**2024-12-04**|**Point-GR: Graph Residual Point Cloud Network for 3D Object Classification and Segmentation**|Md Meraz et.al.|[2412.03052](http://arxiv.org/abs/2412.03052)|null|
