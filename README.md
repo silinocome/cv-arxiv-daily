@@ -2711,7 +2711,7 @@
 |**2024-07-26**|**NARVis: Neural Accelerated Rendering for Real-Time Scientific Point Cloud Visualization**|Srinidhi Hegde et.al.|[2407.19097](http://arxiv.org/abs/2407.19097)|null|
 |**2024-07-26**|**Regularized Multi-Decoder Ensemble for an Error-Aware Scene Representation Network**|Tianyu Xiong et.al.|[2407.19082](http://arxiv.org/abs/2407.19082)|null|
 |**2024-07-26**|**Towards Robust Hemolysis Modeling with Uncertainty Quantification: A Universal Approach to Address Experimental Variance**|Christopher Blum et.al.|[2407.18757](http://arxiv.org/abs/2407.18757)|null|
-|**2024-07-25**|**VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**|Orest Kupyn et.al.|[2407.18245](http://arxiv.org/abs/2407.18245)|null|
+|**2024-07-25**|**VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads**|Orest Kupyn et.al.|[2407.18245](http://arxiv.org/abs/2407.18245)|**[link](https://github.com/kupynorest/head_detector)**|
 |**2024-07-25**|**A Novel Perception Entropy Metric for Optimizing Vehicle Perception with LiDAR Deployment**|Yongjiang He et.al.|[2407.17942](http://arxiv.org/abs/2407.17942)|null|
 |**2024-07-25**|**Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey**|Shahab Saquib Sohail et.al.|[2407.17877](http://arxiv.org/abs/2407.17877)|null|
 |**2024-07-24**|**Robust Point Cloud Registration in Robotic Inspection with Locally Consistent Gaussian Mixture Model**|Lingjie Su et.al.|[2407.17183](http://arxiv.org/abs/2407.17183)|null|
