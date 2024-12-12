@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 |**2024-12-10**|**Bayesian Data Augmentation and Training for Perception DNN in Autonomous Aerial Vehicles**|Ashik E Rasul et.al.|[2412.07655](http://arxiv.org/abs/2412.07655)|**[link](https://github.com/arasul42/lcasl-ttu-vtol-bayes-sim)**|
 |**2024-11-30**|**Multi-Objective Communication Optimization for Temporal Continuity in Dynamic Vehicular Networks**|Weian Guo et.al.|[2412.07011](http://arxiv.org/abs/2412.07011)|null|
 |**2024-12-08**|**Strategizing Equitable Transit Evacuations: A Data-Driven Reinforcement Learning Approach**|Fang Tang et.al.|[2412.05777](http://arxiv.org/abs/2412.05777)|null|
@@ -608,6 +609,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**A Systematic Literature Review on the NIS2 Directive**|Jukka Ruohonen et.al.|[2412.08084](http://arxiv.org/abs/2412.08084)|null|
+|**2024-11-24**|**Evolution of Thought: Diverse and High-Quality Reasoning via Multi-Objective Optimization**|Biqing Qi et.al.|[2412.07779](http://arxiv.org/abs/2412.07779)|null|
 |**2024-12-06**|**Using Machine Learning to Discover Parsimonious and Physically-Interpretable Representations of Catchment-Scale Rainfall-Runoff Dynamics**|Yuan-Heng Wang et.al.|[2412.04845](http://arxiv.org/abs/2412.04845)|null|
 |**2024-12-05**|**FedDW: Distilling Weights through Consistency Optimization in Heterogeneous Federated Learning**|Jiayu Liu et.al.|[2412.04521](http://arxiv.org/abs/2412.04521)|**[link](https://github.com/liuvvvvv1/feddw)**|
 |**2024-12-05**|**Towards Comprehensive Legislative Requirements for Cyber Physical Systems Testing in the European Union**|Guillaume Nguyen et.al.|[2412.04132](http://arxiv.org/abs/2412.04132)|null|
@@ -1512,6 +1515,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
+|**2024-12-11**|**Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization**|Siyan Dong et.al.|[2412.08376](http://arxiv.org/abs/2412.08376)|null|
+|**2024-12-11**|**Intelligent Control of Robotic X-ray Devices using a Language-promptable Digital Twin**|Benjamin D. Killeen et.al.|[2412.08020](http://arxiv.org/abs/2412.08020)|null|
 |**2024-12-10**|**Image Retrieval with Intra-Sweep Representation Learning for Neck Ultrasound Scanning Guidance**|Wanwen Chen et.al.|[2412.07741](http://arxiv.org/abs/2412.07741)|null|
 |**2024-12-09**|**An Efficient Scene Coordinate Encoding and Relocalization Method**|Kuan Xu et.al.|[2412.06488](http://arxiv.org/abs/2412.06488)|null|
 |**2024-12-07**|**Compositional Image Retrieval via Instruction-Aware Contrastive Learning**|Wenliang Zhong et.al.|[2412.05756](http://arxiv.org/abs/2412.05756)|null|
@@ -2486,6 +2492,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
+|**2024-12-11**|**GradStop: Exploring Training Dynamics in Unsupervised Outlier Detection through Gradient Cohesion**|Yuang Zhang et.al.|[2412.08501](http://arxiv.org/abs/2412.08501)|null|
+|**2024-12-11**|**Two-way Node Popularity Model for Directed and Bipartite Networks**|Bing-Yi Jing et.al.|[2412.08051](http://arxiv.org/abs/2412.08051)|null|
+|**2024-12-10**|**How Should We Represent History in Interpretable Models of Clinical Policies?**|Anton Matsson et.al.|[2412.07895](http://arxiv.org/abs/2412.07895)|null|
 |**2024-12-10**|**Multi-Modal Environmental Sensing Based Path Loss Prediction for V2I Communications**|Kai Wang et.al.|[2412.07681](http://arxiv.org/abs/2412.07681)|null|
 |**2024-12-09**|**The ACCEL2 Project: Precision Measurements of EFT Parameters and BAO Peak Shifts for the Lyman- $α$ Forest**|Roger de Belsunce et.al.|[2412.06892](http://arxiv.org/abs/2412.06892)|null|
 |**2024-12-09**|**Can Generalized Extreme Value Model Fit the Real Stocks**|Sen Lin et.al.|[2412.06226](http://arxiv.org/abs/2412.06226)|null|
@@ -3139,6 +3149,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 |**2024-12-10**|**Multi-Modal Environmental Sensing Based Path Loss Prediction for V2I Communications**|Kai Wang et.al.|[2412.07681](http://arxiv.org/abs/2412.07681)|null|
 |**2024-12-07**|**Timely reliable Bayesian decision-making enabled using memristors**|Lekai Song et.al.|[2412.06838](http://arxiv.org/abs/2412.06838)|null|
 |**2024-12-09**|**PoLaRIS Dataset: A Maritime Object Detection and Tracking Dataset in Pohang Canal**|Jiwon Choi et.al.|[2412.06192](http://arxiv.org/abs/2412.06192)|null|
