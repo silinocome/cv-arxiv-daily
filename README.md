@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Multimodal LLM for Intelligent Transportation Systems**|Dexter Le et.al.|[2412.11683](http://arxiv.org/abs/2412.11683)|null|
+|**2024-12-15**|**Grey Wolf-Based Task Scheduling in Vehicular Fog Computing Systems**|Maryam Taghizadeh et.al.|[2412.11230](http://arxiv.org/abs/2412.11230)|null|
 |**2024-12-13**|**Which cycling environment appears safer? Learning cycling safety perceptions from pairwise image comparisons**|Miguel Costa et.al.|[2412.09835](http://arxiv.org/abs/2412.09835)|null|
 |**2024-12-12**|**TransferLight: Zero-Shot Traffic Signal Control on any Road-Network**|Johann Schmidt et.al.|[2412.09719](http://arxiv.org/abs/2412.09719)|null|
 |**2024-12-11**|**Pole-based Vehicle Localization with Vector Maps: A Camera-LiDAR Comparative Study**|Maxime Noizet et.al.|[2412.09649](http://arxiv.org/abs/2412.09649)|null|
@@ -613,6 +615,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-14**|**MEATRD: Multimodal Anomalous Tissue Region Detection Enhanced with Spatial Transcriptomics**|Kaichen Xu et.al.|[2412.10659](http://arxiv.org/abs/2412.10659)|**[link](https://github.com/wqlzuel/meatrd)**|
 |**2024-12-11**|**A Systematic Literature Review on the NIS2 Directive**|Jukka Ruohonen et.al.|[2412.08084](http://arxiv.org/abs/2412.08084)|null|
 |**2024-11-24**|**Evolution of Thought: Diverse and High-Quality Reasoning via Multi-Objective Optimization**|Biqing Qi et.al.|[2412.07779](http://arxiv.org/abs/2412.07779)|null|
 |**2024-12-06**|**Using Machine Learning to Discover Parsimonious and Physically-Interpretable Representations of Catchment-Scale Rainfall-Runoff Dynamics**|Yuan-Heng Wang et.al.|[2412.04845](http://arxiv.org/abs/2412.04845)|null|
@@ -964,6 +967,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization**|Luis Romero-Ben et.al.|[2412.11687](http://arxiv.org/abs/2412.11687)|**[link](https://github.com/luisromeroben/d-ukf-aw-gsi)**|
 |**2024-12-13**|**Data Integration with Fusion Searchlight: Classifying Brain States from Resting-state fMRI**|Simon Wein et.al.|[2412.10161](http://arxiv.org/abs/2412.10161)|**[link](https://github.com/simonvino/fusl)**|
 |**2024-12-12**|**Integrating Vision Systems and STPA for Robust Landing and Take-Off in VTOL Aircraft**|Sandeep Banik et.al.|[2412.09505](http://arxiv.org/abs/2412.09505)|null|
 |**2024-12-12**|**Continuous Gaussian Process Pre-Optimization for Asynchronous Event-Inertial Odometry**|Zhixiang Wang et.al.|[2412.08909](http://arxiv.org/abs/2412.08909)|null|
@@ -1522,6 +1526,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
+|**2024-12-15**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
 |**2024-12-13**|**MVC-VPR: Mutual Learning of Viewpoint Classification and Visual Place Recognition**|Qiwen Gu et.al.|[2412.09199](http://arxiv.org/abs/2412.09199)|null|
 |**2024-12-12**|**A Flexible Plug-and-Play Module for Generating Variable-Length**|Liyang He et.al.|[2412.08922](http://arxiv.org/abs/2412.08922)|**[link](https://github.com/hly1998/nhl)**|
 |**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
@@ -2502,6 +2508,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising**|Zikang Chen et.al.|[2412.11820](http://arxiv.org/abs/2412.11820)|null|
+|**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
 |**2024-12-13**|**Flexible Bayesian Nonparametric Product Mixtures for Multi-scale Functional Clustering**|Tsung-Hung Yao et.al.|[2412.09792](http://arxiv.org/abs/2412.09792)|null|
 |**2024-12-12**|**ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation**|Ali Athar et.al.|[2412.09754](http://arxiv.org/abs/2412.09754)|null|
 |**2024-12-12**|**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**|Qianang Zhou et.al.|[2412.09105](http://arxiv.org/abs/2412.09105)|null|
@@ -3162,6 +3170,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
 |**2024-12-13**|**BatDeck -- Ultra Low-power Ultrasonic Ego-velocity Estimation and Obstacle Avoidance on Nano-drones**|Hanna Müller et.al.|[2412.10048](http://arxiv.org/abs/2412.10048)|null|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 |**2024-12-10**|**Multi-Modal Environmental Sensing Based Path Loss Prediction for V2I Communications**|Kai Wang et.al.|[2412.07681](http://arxiv.org/abs/2412.07681)|null|
