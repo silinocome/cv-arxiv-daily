@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -2486,7 +2486,7 @@ layout: default
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 |**2024-12-11**|**GradStop: Exploring Training Dynamics in Unsupervised Outlier Detection through Gradient Cohesion**|Yuang Zhang et.al.|[2412.08501](http://arxiv.org/abs/2412.08501)|**[link](https://github.com/Yann-zh/gradAE)**|
 |**2024-12-11**|**Two-way Node Popularity Model for Directed and Bipartite Networks**|Bing-Yi Jing et.al.|[2412.08051](http://arxiv.org/abs/2412.08051)|**[link](https://github.com/Wangya1996/Two-way-Node-Popularity-Model)**|
-|**2024-12-10**|**How Should We Represent History in Interpretable Models of Clinical Policies?**|Anton Matsson et.al.|[2412.07895](http://arxiv.org/abs/2412.07895)|null|
+|**2024-12-10**|**How Should We Represent History in Interpretable Models of Clinical Policies?**|Anton Matsson et.al.|[2412.07895](http://arxiv.org/abs/2412.07895)|**[link](https://github.com/Healthy-AI/inpole)**|
 |**2024-12-10**|**Multi-Modal Environmental Sensing Based Path Loss Prediction for V2I Communications**|Kai Wang et.al.|[2412.07681](http://arxiv.org/abs/2412.07681)|null|
 |**2024-12-09**|**The ACCEL2 Project: Precision Measurements of EFT Parameters and BAO Peak Shifts for the Lyman- $α$ Forest**|Roger de Belsunce et.al.|[2412.06892](http://arxiv.org/abs/2412.06892)|null|
 |**2024-12-09**|**Can Generalized Extreme Value Model Fit the Real Stocks**|Sen Lin et.al.|[2412.06226](http://arxiv.org/abs/2412.06226)|null|
