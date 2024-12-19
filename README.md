@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](http://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-15**|**Embracing Large Language Models in Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2412.12201](http://arxiv.org/abs/2412.12201)|null|
 |**2024-12-13**|**Vehicle Detection and Classification for Toll collection using YOLOv11 and Ensemble OCR**|Karthik Sivakoti et.al.|[2412.12191](http://arxiv.org/abs/2412.12191)|null|
 |**2024-12-16**|**Multimodal LLM for Intelligent Transportation Systems**|Dexter Le et.al.|[2412.11683](http://arxiv.org/abs/2412.11683)|null|
@@ -970,6 +971,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future**|Shilin Sun et.al.|[2412.14056](http://arxiv.org/abs/2412.14056)|**[link](https://github.com/shilinsun/mxai_review)**|
+|**2024-12-18**|**MobiFuse: A High-Precision On-device Depth Perception System with Multi-Data Fusion**|Jinrui Zhang et.al.|[2412.13848](http://arxiv.org/abs/2412.13848)|null|
 |**2024-12-16**|**Dual Unscented Kalman Filter Architecture for Sensor Fusion in Water Networks Leak Localization**|Luis Romero-Ben et.al.|[2412.11687](http://arxiv.org/abs/2412.11687)|**[link](https://github.com/luisromeroben/d-ukf-aw-gsi)**|
 |**2024-12-13**|**Data Integration with Fusion Searchlight: Classifying Brain States from Resting-state fMRI**|Simon Wein et.al.|[2412.10161](http://arxiv.org/abs/2412.10161)|**[link](https://github.com/simonvino/fusl)**|
 |**2024-12-12**|**Integrating Vision Systems and STPA for Robust Landing and Take-Off in VTOL Aircraft**|Sandeep Banik et.al.|[2412.09505](http://arxiv.org/abs/2412.09505)|null|
@@ -1529,9 +1532,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Adversarial Hubness in Multi-Modal Retrieval**|Tingwei Zhang et.al.|[2412.14113](http://arxiv.org/abs/2412.14113)|**[link](https://github.com/tingwei-zhang/adv_hub)**|
+|**2024-12-18**|**Maybe you are looking for CroQS: Cross-modal Query Suggestion for Text-to-Image Retrieval**|Giacomo Pacini et.al.|[2412.13834](http://arxiv.org/abs/2412.13834)|null|
+|**2024-12-18**|**ConDo: Continual Domain Expansion for Absolute Pose Regression**|Zijun Li et.al.|[2412.13452](http://arxiv.org/abs/2412.13452)|null|
 |**2024-12-17**|**Three Things to Know about Deep Metric Learning**|Yash Patel et.al.|[2412.12432](http://arxiv.org/abs/2412.12432)|null|
 |**2024-12-15**|**Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval**|Zelong Sun et.al.|[2412.11087](http://arxiv.org/abs/2412.11087)|null|
-|**2024-12-15**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
+|**2024-12-18**|**Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval**|Yuanmin Tang et.al.|[2412.11077](http://arxiv.org/abs/2412.11077)|null|
 |**2024-12-13**|**MVC-VPR: Mutual Learning of Viewpoint Classification and Visual Place Recognition**|Qiwen Gu et.al.|[2412.09199](http://arxiv.org/abs/2412.09199)|null|
 |**2024-12-12**|**A Flexible Plug-and-Play Module for Generating Variable-Length**|Liyang He et.al.|[2412.08922](http://arxiv.org/abs/2412.08922)|**[link](https://github.com/hly1998/nhl)**|
 |**2024-12-11**|**Image Retrieval Methods in the Dissimilarity Space**|Madhu Kiran et.al.|[2412.08618](http://arxiv.org/abs/2412.08618)|null|
@@ -2267,6 +2273,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
 |**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
 |**2024-11-20**|**DT-LSD: Deformable Transformer-based Line Segment Detection**|Sebastian Janampa et.al.|[2411.13005](http://arxiv.org/abs/2411.13005)|**[link](https://github.com/SebastianJanampa/DT-LSD)**|
 |**2024-11-15**|**Image Matching Filtering and Refinement by Planes and Beyond**|Fabio Bellavia et.al.|[2411.09484](http://arxiv.org/abs/2411.09484)|**[link](https://github.com/fb82/miho)**|
@@ -2517,7 +2524,7 @@
 |**2024-12-16**|**Spatiotemporal Blind-Spot Network with Calibrated Flow Alignment for Self-Supervised Video Denoising**|Zikang Chen et.al.|[2412.11820](http://arxiv.org/abs/2412.11820)|**[link](https://github.com/zkccz/stbn)**|
 |**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
 |**2024-12-13**|**Flexible Bayesian Nonparametric Product Mixtures for Multi-scale Functional Clustering**|Tsung-Hung Yao et.al.|[2412.09792](http://arxiv.org/abs/2412.09792)|null|
-|**2024-12-12**|**ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation**|Ali Athar et.al.|[2412.09754](http://arxiv.org/abs/2412.09754)|null|
+|**2024-12-17**|**ViCaS: A Dataset for Combining Holistic and Pixel-level Video Understanding using Captions with Grounded Segmentation**|Ali Athar et.al.|[2412.09754](http://arxiv.org/abs/2412.09754)|null|
 |**2024-12-12**|**ResFlow: Fine-tuning Residual Optical Flow for Event-based High Temporal Resolution Motion Estimation**|Qianang Zhou et.al.|[2412.09105](http://arxiv.org/abs/2412.09105)|null|
 |**2024-12-11**|**An End-to-End Collaborative Learning Approach for Connected Autonomous Vehicles in Occluded Scenarios**|Leandro Parada et.al.|[2412.08562](http://arxiv.org/abs/2412.08562)|null|
 |**2024-12-11**|**GradStop: Exploring Training Dynamics in Unsupervised Outlier Detection through Gradient Cohesion**|Yuang Zhang et.al.|[2412.08501](http://arxiv.org/abs/2412.08501)|**[link](https://github.com/Yann-zh/gradAE)**|
