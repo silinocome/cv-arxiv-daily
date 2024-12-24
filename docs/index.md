@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**STAHGNet: Modeling Hybrid-grained Heterogenous Dependency Efficiently for Traffic Prediction**|Jiyao Wang et.al.|[2412.17524](http://arxiv.org/abs/2412.17524)|null|
+|**2024-12-23**|**FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction**|Hangli Ge et.al.|[2412.17373](http://arxiv.org/abs/2412.17373)|null|
+|**2024-12-23**|**Unity is Strength: Unifying Convolutional and Transformeral Features for Better Person Re-Identification**|Yuhao Wang et.al.|[2412.17239](http://arxiv.org/abs/2412.17239)|**[link](https://github.com/924973292/fusionreid)**|
+|**2024-12-18**|**FairTP: A Prolonged Fairness Framework for Traffic Prediction**|Jiangnan Xia et.al.|[2412.16214](http://arxiv.org/abs/2412.16214)|null|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](http://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-15**|**Embracing Large Language Models in Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2412.12201](http://arxiv.org/abs/2412.12201)|null|
 |**2024-12-13**|**Vehicle Detection and Classification for Toll collection using YOLOv11 and Ensemble OCR**|Karthik Sivakoti et.al.|[2412.12191](http://arxiv.org/abs/2412.12191)|null|
@@ -958,6 +962,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Robust Heart Rate Detection via Multi-Site Photoplethysmography**|Manuel Meier et.al.|[2412.17538](http://arxiv.org/abs/2412.17538)|null|
+|**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
+|**2024-12-22**|**Fatigue Monitoring Using Wearables and AI: Trends, Challenges, and Future Opportunities**|Kourosh Kakhi et.al.|[2412.16847](http://arxiv.org/abs/2412.16847)|null|
 |**2024-12-20**|**Precision ICU Resource Planning: A Multimodal Model for Brain Surgery Outcomes**|Maximilian Fischer et.al.|[2412.15818](http://arxiv.org/abs/2412.15818)|null|
 |**2024-12-19**|**Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties**|Wenqiao Li et.al.|[2412.14592](http://arxiv.org/abs/2412.14592)|**[link](https://github.com/zzzbbbzzz/mulsen-ad)**|
 |**2024-12-18**|**A Review of Multimodal Explainable Artificial Intelligence: Past, Present and Future**|Shilin Sun et.al.|[2412.14056](http://arxiv.org/abs/2412.14056)|**[link](https://github.com/shilinsun/mxai_review)**|
@@ -1519,6 +1526,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|null|
+|**2024-12-21**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|
 |**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632](http://arxiv.org/abs/2412.15632)|null|
 |**2024-12-20**|**Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**|Samantha J Alloo et.al.|[2412.15513](http://arxiv.org/abs/2412.15513)|null|
 |**2024-12-19**|**Learning Visual Composition through Improved Semantic Guidance**|Austin Stone et.al.|[2412.15396](http://arxiv.org/abs/2412.15396)|null|
@@ -2504,6 +2513,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Refining the Two-Band Model for Highly Compensated Semimetals Using Thermoelectric Coefficients**|Ian Leahy et.al.|[2412.17688](http://arxiv.org/abs/2412.17688)|null|
+|**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
+|**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947](http://arxiv.org/abs/2412.16947)|null|
+|**2024-12-17**|**Saliency Methods are Encoders: Analysing Logical Relations Towards Interpretation**|Leonid Schwenke et.al.|[2412.16204](http://arxiv.org/abs/2412.16204)|null|
 |**2024-12-20**|**A Bayesian prevalence-incidence mixture model for screening outcomes with misclassification**|Thomas Klausch et.al.|[2412.16065](http://arxiv.org/abs/2412.16065)|null|
 |**2024-12-19**|**Concave-convex nonautonomous scalar ordinary differential equations: from bifurcation theory to critical transitions**|Jesús Dueñas et.al.|[2412.14667](http://arxiv.org/abs/2412.14667)|null|
 |**2024-12-19**|**Benign Overfitting in Out-of-Distribution Generalization of Linear Models**|Shange Tang et.al.|[2412.14474](http://arxiv.org/abs/2412.14474)|null|
@@ -3171,6 +3184,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
+|**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947](http://arxiv.org/abs/2412.16947)|null|
 |**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
 |**2024-12-17**|**PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection**|Jianan Ye et.al.|[2412.12617](http://arxiv.org/abs/2412.12617)|null|
 |**2024-12-11**|**Implicit Neural Compression of Point Clouds**|Hongning Ruan et.al.|[2412.10433](http://arxiv.org/abs/2412.10433)|null|
