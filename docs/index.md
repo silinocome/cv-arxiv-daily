@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**StaR Maps: Unveiling Uncertainty in Geospatial Relations**|Simon Kohaut et.al.|[2412.18356](http://arxiv.org/abs/2412.18356)|null|
 |**2024-12-23**|**STAHGNet: Modeling Hybrid-grained Heterogenous Dependency Efficiently for Traffic Prediction**|Jiyao Wang et.al.|[2412.17524](http://arxiv.org/abs/2412.17524)|null|
 |**2024-12-23**|**FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction**|Hangli Ge et.al.|[2412.17373](http://arxiv.org/abs/2412.17373)|null|
 |**2024-12-23**|**Unity is Strength: Unifying Convolutional and Transformeral Features for Better Person Re-Identification**|Yuhao Wang et.al.|[2412.17239](http://arxiv.org/abs/2412.17239)|**[link](https://github.com/924973292/fusionreid)**|
@@ -610,6 +611,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Dissipation alters modes of information encoding in small quantum reservoirs near criticality**|Krai Cheamsawat et.al.|[2412.18290](http://arxiv.org/abs/2412.18290)|null|
 |**2024-12-19**|**Optimization of Collective Bayesian Decision-Making in a Swarm of Miniaturized Vibration-Sensing Robots**|Thiemen Siemensma et.al.|[2412.14646](http://arxiv.org/abs/2412.14646)|null|
 |**2024-12-17**|**Building Gradient Bridges: Label Leakage from Restricted Gradient Sharing in Federated Learning**|Rui Zhang et.al.|[2412.12640](http://arxiv.org/abs/2412.12640)|null|
 |**2024-12-14**|**MEATRD: Multimodal Anomalous Tissue Region Detection Enhanced with Spatial Transcriptomics**|Kaichen Xu et.al.|[2412.10659](http://arxiv.org/abs/2412.10659)|**[link](https://github.com/wqlzuel/meatrd)**|
@@ -962,6 +964,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588](http://arxiv.org/abs/2412.18588)|null|
+|**2024-12-24**|**MixMAS: A Framework for Sampling-Based Mixer Architecture Search for Multimodal Fusion and Learning**|Abdelmadjid Chergui et.al.|[2412.18437](http://arxiv.org/abs/2412.18437)|**[link](https://github.com/Madjid-CH/auto-mixer)**|
+|**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
+|**2024-12-24**|**Band Prompting Aided SAR and Multi-Spectral Data Fusion Framework for Local Climate Zone Classification**|Haiyan Lan et.al.|[2412.18235](http://arxiv.org/abs/2412.18235)|null|
+|**2024-12-23**|**Adaptive Signal Analysis for Automated Subsurface Defect Detection Using Impact Echo in Concrete Slabs**|Deepthi Pavurala et.al.|[2412.17953](http://arxiv.org/abs/2412.17953)|null|
 |**2024-12-23**|**Robust Heart Rate Detection via Multi-Site Photoplethysmography**|Manuel Meier et.al.|[2412.17538](http://arxiv.org/abs/2412.17538)|null|
 |**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
 |**2024-12-22**|**Fatigue Monitoring Using Wearables and AI: Trends, Challenges, and Future Opportunities**|Kourosh Kakhi et.al.|[2412.16847](http://arxiv.org/abs/2412.16847)|null|
@@ -1526,8 +1533,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval**|Le Dong et.al.|[2412.18136](http://arxiv.org/abs/2412.18136)|**[link](https://github.com/milkyfun0/ERVD)**|
 |**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|null|
-|**2024-12-21**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|
+|**2024-12-24**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|
 |**2024-12-20**|**A New Method to Capturing Compositional Knowledge in Linguistic Space**|Jiahe Wan et.al.|[2412.15632](http://arxiv.org/abs/2412.15632)|null|
 |**2024-12-20**|**Stabilizing Laplacian Inversion in Fokker-Planck Image Retrieval using the Transport-of-Intensity Equation**|Samantha J Alloo et.al.|[2412.15513](http://arxiv.org/abs/2412.15513)|null|
 |**2024-12-19**|**Learning Visual Composition through Improved Semantic Guidance**|Austin Stone et.al.|[2412.15396](http://arxiv.org/abs/2412.15396)|null|
@@ -2269,6 +2277,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
 |**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
 |**2024-11-20**|**DT-LSD: Deformable Transformer-based Line Segment Detection**|Sebastian Janampa et.al.|[2411.13005](http://arxiv.org/abs/2411.13005)|**[link](https://github.com/SebastianJanampa/DT-LSD)**|
@@ -2513,6 +2522,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**A Statistical Framework for Ranking LLM-Based Chatbots**|Siavash Ameli et.al.|[2412.18407](http://arxiv.org/abs/2412.18407)|null|
+|**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
 |**2024-12-23**|**Refining the Two-Band Model for Highly Compensated Semimetals Using Thermoelectric Coefficients**|Ian Leahy et.al.|[2412.17688](http://arxiv.org/abs/2412.17688)|null|
 |**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
 |**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947](http://arxiv.org/abs/2412.16947)|null|
@@ -3184,6 +3195,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
 |**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
 |**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947](http://arxiv.org/abs/2412.16947)|null|
 |**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
