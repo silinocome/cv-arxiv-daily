@@ -18,7 +18,7 @@ layout: default
 |**2024-12-23**|**STAHGNet: Modeling Hybrid-grained Heterogenous Dependency Efficiently for Traffic Prediction**|Jiyao Wang et.al.|[2412.17524](http://arxiv.org/abs/2412.17524)|null|
 |**2024-12-23**|**FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction**|Hangli Ge et.al.|[2412.17373](http://arxiv.org/abs/2412.17373)|null|
 |**2024-12-23**|**Unity is Strength: Unifying Convolutional and Transformeral Features for Better Person Re-Identification**|Yuhao Wang et.al.|[2412.17239](http://arxiv.org/abs/2412.17239)|**[link](https://github.com/924973292/fusionreid)**|
-|**2024-12-18**|**FairTP: A Prolonged Fairness Framework for Traffic Prediction**|Jiangnan Xia et.al.|[2412.16214](http://arxiv.org/abs/2412.16214)|null|
+|**2024-12-18**|**FairTP: A Prolonged Fairness Framework for Traffic Prediction**|Jiangnan Xia et.al.|[2412.16214](http://arxiv.org/abs/2412.16214)|**[link](https://github.com/jiangnanx129/FairTP)**|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](http://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
 |**2024-12-15**|**Embracing Large Language Models in Traffic Flow Forecasting**|Yusheng Zhao et.al.|[2412.12201](http://arxiv.org/abs/2412.12201)|null|
 |**2024-12-13**|**Vehicle Detection and Classification for Toll collection using YOLOv11 and Ensemble OCR**|Karthik Sivakoti et.al.|[2412.12191](http://arxiv.org/abs/2412.12191)|null|
