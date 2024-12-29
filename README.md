@@ -24,7 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-24**|**StaR Maps: Unveiling Uncertainty in Geospatial Relations**|Simon Kohaut et.al.|[2412.18356](http://arxiv.org/abs/2412.18356)|null|
+|**2024-12-24**|**StaR Maps: Unveiling Uncertainty in Geospatial Relations**|Simon Kohaut et.al.|[2412.18356](http://arxiv.org/abs/2412.18356)|**[link](https://github.com/HRI-EU/ProMis)**|
 |**2024-12-23**|**STAHGNet: Modeling Hybrid-grained Heterogenous Dependency Efficiently for Traffic Prediction**|Jiyao Wang et.al.|[2412.17524](http://arxiv.org/abs/2412.17524)|null|
 |**2024-12-23**|**FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction**|Hangli Ge et.al.|[2412.17373](http://arxiv.org/abs/2412.17373)|null|
 |**2024-12-23**|**Unity is Strength: Unifying Convolutional and Transformeral Features for Better Person Re-Identification**|Yuhao Wang et.al.|[2412.17239](http://arxiv.org/abs/2412.17239)|**[link](https://github.com/924973292/fusionreid)**|
@@ -983,7 +983,7 @@
 |**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
 |**2024-12-24**|**Band Prompting Aided SAR and Multi-Spectral Data Fusion Framework for Local Climate Zone Classification**|Haiyan Lan et.al.|[2412.18235](http://arxiv.org/abs/2412.18235)|null|
 |**2024-12-23**|**Adaptive Signal Analysis for Automated Subsurface Defect Detection Using Impact Echo in Concrete Slabs**|Deepthi Pavurala et.al.|[2412.17953](http://arxiv.org/abs/2412.17953)|null|
-|**2024-12-23**|**Robust Heart Rate Detection via Multi-Site Photoplethysmography**|Manuel Meier et.al.|[2412.17538](http://arxiv.org/abs/2412.17538)|null|
+|**2024-12-23**|**Robust Heart Rate Detection via Multi-Site Photoplethysmography**|Manuel Meier et.al.|[2412.17538](http://arxiv.org/abs/2412.17538)|**[link](https://github.com/eth-siplab/MultiSite-PPG-Robust_HeartRate)**|
 |**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
 |**2024-12-22**|**Fatigue Monitoring Using Wearables and AI: Trends, Challenges, and Future Opportunities**|Kourosh Kakhi et.al.|[2412.16847](http://arxiv.org/abs/2412.16847)|null|
 |**2024-12-20**|**Precision ICU Resource Planning: A Multimodal Model for Brain Surgery Outcomes**|Maximilian Fischer et.al.|[2412.15818](http://arxiv.org/abs/2412.15818)|null|
