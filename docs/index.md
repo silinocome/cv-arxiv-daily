@@ -964,6 +964,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-26**|**Attacking Voice Anonymization Systems with Augmented Feature and Speaker Identity Difference**|Yanzhe Zhang et.al.|[2412.19068](http://arxiv.org/abs/2412.19068)|null|
+|**2024-12-25**|**Geospatial Data Fusion: Combining Lidar, SAR, and Optical Imagery with AI for Enhanced Urban Mapping**|Sajjad Afroosheh et.al.|[2412.18994](http://arxiv.org/abs/2412.18994)|null|
 |**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588](http://arxiv.org/abs/2412.18588)|null|
 |**2024-12-24**|**MixMAS: A Framework for Sampling-Based Mixer Architecture Search for Multimodal Fusion and Learning**|Abdelmadjid Chergui et.al.|[2412.18437](http://arxiv.org/abs/2412.18437)|**[link](https://github.com/Madjid-CH/auto-mixer)**|
 |**2024-12-24**|**RSGaussian:3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis**|Yiling Yao et.al.|[2412.18380](http://arxiv.org/abs/2412.18380)|null|
@@ -1533,6 +1535,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-25**|**FOR: Finetuning for Object Level Open Vocabulary Image Retrieval**|Hila Levi et.al.|[2412.18806](http://arxiv.org/abs/2412.18806)|null|
 |**2024-12-24**|**ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval**|Le Dong et.al.|[2412.18136](http://arxiv.org/abs/2412.18136)|**[link](https://github.com/milkyfun0/ERVD)**|
 |**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|null|
 |**2024-12-24**|**Open-Vocabulary Mobile Manipulation Based on Double Relaxed Contrastive Learning with Dense Labeling**|Daichi Yashima et.al.|[2412.16576](http://arxiv.org/abs/2412.16576)|**[link](https://github.com/keio-smilab24/relax-former)**|
@@ -2277,6 +2280,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
 |**2024-12-04**|**Appearance Matching Adapter for Exemplar-based Semantic Image Synthesis**|Siyoon Jin et.al.|[2412.03150](http://arxiv.org/abs/2412.03150)|null|
@@ -2522,6 +2526,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
+|**2024-12-25**|**Revisiting the search for dark matter subhalos using the Fermi-LAT 4FGL-DR4 catalog**|Ji-Gui Cheng et.al.|[2412.18736](http://arxiv.org/abs/2412.18736)|null|
 |**2024-12-24**|**A Statistical Framework for Ranking LLM-Based Chatbots**|Siavash Ameli et.al.|[2412.18407](http://arxiv.org/abs/2412.18407)|null|
 |**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
 |**2024-12-23**|**Refining the Two-Band Model for Highly Compensated Semimetals Using Thermoelectric Coefficients**|Ian Leahy et.al.|[2412.17688](http://arxiv.org/abs/2412.17688)|null|
@@ -3195,6 +3201,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
 |**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
 |**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
 |**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947](http://arxiv.org/abs/2412.16947)|null|
