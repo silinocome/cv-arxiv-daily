@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**|Maria Barbosa et.al.|[2412.21161](http://arxiv.org/abs/2412.21161)|null|
+|**2024-12-28**|**Leveraging Large Language Models for Enhancing Autonomous Vehicle Perception**|Athanasios Karagounis et.al.|[2412.20230](http://arxiv.org/abs/2412.20230)|null|
 |**2024-12-24**|**StaR Maps: Unveiling Uncertainty in Geospatial Relations**|Simon Kohaut et.al.|[2412.18356](http://arxiv.org/abs/2412.18356)|**[link](https://github.com/HRI-EU/ProMis)**|
 |**2024-12-23**|**STAHGNet: Modeling Hybrid-grained Heterogenous Dependency Efficiently for Traffic Prediction**|Jiyao Wang et.al.|[2412.17524](http://arxiv.org/abs/2412.17524)|null|
 |**2024-12-23**|**FRTP: Federating Route Search Records to Enhance Long-term Traffic Prediction**|Hangli Ge et.al.|[2412.17373](http://arxiv.org/abs/2412.17373)|null|
@@ -623,6 +625,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Impact of Fourth Industrial Revolution (4IR) on Small and Medium Enterprises (SMEs) and Employment in Bangladesh: Opportunities and Challenges**|Toukir Ahammed et.al.|[2412.21106](http://arxiv.org/abs/2412.21106)|null|
+|**2024-12-27**|**WiSER-X: Wireless Signals-based Efficient Decentralized Multi-Robot Exploration without Explicit Information Exchange**|Ninad Jadhav et.al.|[2412.19876](http://arxiv.org/abs/2412.19876)|null|
 |**2024-12-24**|**Dissipation alters modes of information encoding in small quantum reservoirs near criticality**|Krai Cheamsawat et.al.|[2412.18290](http://arxiv.org/abs/2412.18290)|null|
 |**2024-12-19**|**Optimization of Collective Bayesian Decision-Making in a Swarm of Miniaturized Vibration-Sensing Robots**|Thiemen Siemensma et.al.|[2412.14646](http://arxiv.org/abs/2412.14646)|null|
 |**2024-12-17**|**Building Gradient Bridges: Label Leakage from Restricted Gradient Sharing in Federated Learning**|Rui Zhang et.al.|[2412.12640](http://arxiv.org/abs/2412.12640)|null|
@@ -978,6 +982,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Revolutionizing Mobility:The Latest Advancements in Autonomous Vehicle Technology**|Venkata Sai Chandra Prasanth Narisetty et.al.|[2412.20688](http://arxiv.org/abs/2412.20688)|null|
+|**2024-12-29**|**Occlusion aware obstacle prediction using people as sensors**|Sithija Ranaraja et.al.|[2412.20376](http://arxiv.org/abs/2412.20376)|null|
+|**2024-12-29**|**Cooperative ISAC-empowered Low-Altitude Economy**|Jun Tang et.al.|[2412.20371](http://arxiv.org/abs/2412.20371)|null|
+|**2024-12-28**|**Leveraging Large Language Models for Enhancing Autonomous Vehicle Perception**|Athanasios Karagounis et.al.|[2412.20230](http://arxiv.org/abs/2412.20230)|null|
 |**2024-12-26**|**Attacking Voice Anonymization Systems with Augmented Feature and Speaker Identity Difference**|Yanzhe Zhang et.al.|[2412.19068](http://arxiv.org/abs/2412.19068)|null|
 |**2024-12-25**|**Geospatial Data Fusion: Combining Lidar, SAR, and Optical Imagery with AI for Enhanced Urban Mapping**|Sajjad Afroosheh et.al.|[2412.18994](http://arxiv.org/abs/2412.18994)|null|
 |**2024-12-24**|**A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs**|OpenMind et.al.|[2412.18588](http://arxiv.org/abs/2412.18588)|null|
@@ -1551,6 +1559,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-28**|**GSplatLoc: Ultra-Precise Camera Localization via 3D Gaussian Splatting**|Atticus J. Zeller et.al.|[2412.20056](http://arxiv.org/abs/2412.20056)|**[link](https://github.com/atticuszeller/gsplatloc)**|
 |**2024-12-25**|**FOR: Finetuning for Object Level Open Vocabulary Image Retrieval**|Hila Levi et.al.|[2412.18806](http://arxiv.org/abs/2412.18806)|null|
 |**2024-12-24**|**ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval**|Le Dong et.al.|[2412.18136](http://arxiv.org/abs/2412.18136)|**[link](https://github.com/milkyfun0/ERVD)**|
 |**2024-12-22**|**Where am I? Cross-View Geo-localization with Natural Language Descriptions**|Junyan Ye et.al.|[2412.17007](http://arxiv.org/abs/2412.17007)|null|
@@ -2300,6 +2309,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-28**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
 |**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
 |**2024-12-17**|**Bringing Multimodality to Amazon Visual Search System**|Xinliang Zhu et.al.|[2412.13364](http://arxiv.org/abs/2412.13364)|null|
@@ -2548,6 +2558,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-30**|**Econometric Analysis of Pandemic Disruption and Recovery Trajectory in the U.S. Rail Freight Industry**|Max T. M. Ng et.al.|[2412.20669](http://arxiv.org/abs/2412.20669)|null|
+|**2024-12-28**|**Forecasting Malaria in Indian States: A Time Series Approach with R Shiny Integration**|Sujit K. Ghosh et.al.|[2412.20121](http://arxiv.org/abs/2412.20121)|null|
 |**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
 |**2024-12-25**|**Revisiting the search for dark matter subhalos using the Fermi-LAT 4FGL-DR4 catalog**|Ji-Gui Cheng et.al.|[2412.18736](http://arxiv.org/abs/2412.18736)|null|
 |**2024-12-24**|**A Statistical Framework for Ranking LLM-Based Chatbots**|Siavash Ameli et.al.|[2412.18407](http://arxiv.org/abs/2412.18407)|null|
@@ -3225,6 +3237,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**From Raw Data to Structural Semantics: Trade-offs among Distortion, Rate, and Inference Accuracy**|Charmin Asirimath et.al.|[2412.19825](http://arxiv.org/abs/2412.19825)|null|
 |**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
 |**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
 |**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
