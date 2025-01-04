@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -3213,7 +3213,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-18**|**From Raw Data to Structural Semantics: Trade-offs among Distortion, Rate, and Inference Accuracy**|Charmin Asirimath et.al.|[2412.19825](http://arxiv.org/abs/2412.19825)|null|
+|**2024-12-18**|**From Raw Data to Structural Semantics: Trade-offs among Distortion, Rate, and Inference Accuracy**|Charmin Asirimath et.al.|[2412.19825](http://arxiv.org/abs/2412.19825)|**[link](https://github.com/icongroupcwc/data-for-structural-semantics-using-tda)**|
 |**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
 |**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
 |**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
