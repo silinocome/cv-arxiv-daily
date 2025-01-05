@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-01**|**Spatial Temporal Attention based Target Vehicle Trajectory Prediction for Internet of Vehicles**|Ouhan Huang et.al.|[2501.00890](http://arxiv.org/abs/2501.00890)|null|
+|**2024-12-31**|**Distributed Traffic Control in Complex Dynamic Roadblocks: A Multi-Agent Deep RL Approach**|Noor Aboueleneen et.al.|[2501.00211](http://arxiv.org/abs/2501.00211)|null|
 |**2024-12-30**|**Open RAN-Enabled Deep Learning-Assisted Mobility Management for Connected Vehicles**|Maria Barbosa et.al.|[2412.21161](http://arxiv.org/abs/2412.21161)|null|
 |**2024-12-28**|**Leveraging Large Language Models for Enhancing Autonomous Vehicle Perception**|Athanasios Karagounis et.al.|[2412.20230](http://arxiv.org/abs/2412.20230)|null|
 |**2024-12-24**|**StaR Maps: Unveiling Uncertainty in Geospatial Relations**|Simon Kohaut et.al.|[2412.18356](http://arxiv.org/abs/2412.18356)|**[link](https://github.com/HRI-EU/ProMis)**|
@@ -613,6 +615,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-01**|**LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management**|Yichen Luo et.al.|[2501.00826](http://arxiv.org/abs/2501.00826)|null|
+|**2024-12-31**|**M2I2: Learning Efficient Multi-Agent Communication via Masked State Modeling and Intention Inference**|Chuxiong Sun et.al.|[2501.00312](http://arxiv.org/abs/2501.00312)|null|
 |**2024-12-30**|**Impact of Fourth Industrial Revolution (4IR) on Small and Medium Enterprises (SMEs) and Employment in Bangladesh: Opportunities and Challenges**|Toukir Ahammed et.al.|[2412.21106](http://arxiv.org/abs/2412.21106)|null|
 |**2024-12-27**|**WiSER-X: Wireless Signals-based Efficient Decentralized Multi-Robot Exploration without Explicit Information Exchange**|Ninad Jadhav et.al.|[2412.19876](http://arxiv.org/abs/2412.19876)|null|
 |**2024-12-24**|**Dissipation alters modes of information encoding in small quantum reservoirs near criticality**|Krai Cheamsawat et.al.|[2412.18290](http://arxiv.org/abs/2412.18290)|null|
@@ -968,6 +972,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Enhancing Precision of Automated Teller Machines Network Quality Assessment: Machine Learning and Multi Classifier Fusion Approaches**|Alireza Safarzadeh et.al.|[2501.01067](http://arxiv.org/abs/2501.01067)|null|
+|**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037](http://arxiv.org/abs/2501.01037)|null|
 |**2024-12-30**|**Revolutionizing Mobility:The Latest Advancements in Autonomous Vehicle Technology**|Venkata Sai Chandra Prasanth Narisetty et.al.|[2412.20688](http://arxiv.org/abs/2412.20688)|null|
 |**2024-12-29**|**Occlusion aware obstacle prediction using people as sensors**|Sithija Ranaraja et.al.|[2412.20376](http://arxiv.org/abs/2412.20376)|null|
 |**2024-12-29**|**Cooperative ISAC-empowered Low-Altitude Economy**|Jun Tang et.al.|[2412.20371](http://arxiv.org/abs/2412.20371)|null|
@@ -1543,6 +1549,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421](http://arxiv.org/abs/2501.01421)|null|
+|**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377](http://arxiv.org/abs/2501.01377)|null|
+|**2025-01-02**|**Domain-invariant feature learning in brain MR imaging for content-based image retrieval**|Shuya Tobari et.al.|[2501.01326](http://arxiv.org/abs/2501.01326)|null|
 |**2024-12-28**|**GSplatLoc: Ultra-Precise Camera Localization via 3D Gaussian Splatting**|Atticus J. Zeller et.al.|[2412.20056](http://arxiv.org/abs/2412.20056)|**[link](https://github.com/atticuszeller/gsplatloc)**|
 |**2024-12-25**|**FOR: Finetuning for Object Level Open Vocabulary Image Retrieval**|Hila Levi et.al.|[2412.18806](http://arxiv.org/abs/2412.18806)|null|
 |**2024-12-24**|**ERVD: An Efficient and Robust ViT-Based Distillation Framework for Remote Sensing Image Retrieval**|Le Dong et.al.|[2412.18136](http://arxiv.org/abs/2412.18136)|**[link](https://github.com/milkyfun0/ERVD)**|
@@ -2289,6 +2298,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Sparis: Neural Implicit Surface Reconstruction of Indoor Scenes from Sparse Views**|Yulun Wu et.al.|[2501.01196](http://arxiv.org/abs/2501.01196)|null|
 |**2024-12-31**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
 |**2024-12-27**|**MINIMA: Modality Invariant Image Matching**|Xingyu Jiang et.al.|[2412.19412](http://arxiv.org/abs/2412.19412)|**[link](https://github.com/LSXI7/MINIMA)**|
 |**2024-12-24**|**GIMS: Image Matching System Based on Adaptive Graph Construction and Graph Neural Network**|Xianfeng Song et.al.|[2412.18221](http://arxiv.org/abs/2412.18221)|**[link](https://github.com/songxf1024/gims)**|
@@ -2536,6 +2546,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Vulnerability-Aware Spatio-Temporal Learning for Generalizable and Interpretable Deepfake Video Detection**|Dat Nguyen et.al.|[2501.01184](http://arxiv.org/abs/2501.01184)|null|
+|**2024-12-31**|**Grade Inflation in Generative Models**|Phuc Nguyen et.al.|[2501.00664](http://arxiv.org/abs/2501.00664)|null|
+|**2024-12-31**|**Robust distribution-free tests for the linear model**|Torey Hilbert et.al.|[2501.00583](http://arxiv.org/abs/2501.00583)|null|
+|**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[2501.00220](http://arxiv.org/abs/2501.00220)|null|
 |**2024-12-30**|**Econometric Analysis of Pandemic Disruption and Recovery Trajectory in the U.S. Rail Freight Industry**|Max T. M. Ng et.al.|[2412.20669](http://arxiv.org/abs/2412.20669)|null|
 |**2024-12-28**|**Forecasting Malaria in Indian States: A Time Series Approach with R Shiny Integration**|Sujit K. Ghosh et.al.|[2412.20121](http://arxiv.org/abs/2412.20121)|null|
 |**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
@@ -3213,6 +3227,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[2501.00220](http://arxiv.org/abs/2501.00220)|null|
 |**2024-12-18**|**From Raw Data to Structural Semantics: Trade-offs among Distortion, Rate, and Inference Accuracy**|Charmin Asirimath et.al.|[2412.19825](http://arxiv.org/abs/2412.19825)|**[link](https://github.com/icongroupcwc/data-for-structural-semantics-using-tda)**|
 |**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
 |**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
