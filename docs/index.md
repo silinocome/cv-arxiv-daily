@@ -972,6 +972,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Fusion DeepONet: A Data-Efficient Neural Operator for Geometry-Dependent Hypersonic Flows on Arbitrary Grids**|Ahmad Peyvan et.al.|[2501.01934](http://arxiv.org/abs/2501.01934)|null|
+|**2025-01-03**|**IGAF: Incremental Guided Attention Fusion for Depth Super-Resolution**|Athanasios Tragakis et.al.|[2501.01723](http://arxiv.org/abs/2501.01723)|null|
 |**2025-01-02**|**Enhancing Precision of Automated Teller Machines Network Quality Assessment: Machine Learning and Multi Classifier Fusion Approaches**|Alireza Safarzadeh et.al.|[2501.01067](http://arxiv.org/abs/2501.01067)|null|
 |**2025-01-02**|**MSC-Bench: Benchmarking and Analyzing Multi-Sensor Corruption for Driving Perception**|Xiaoshuai Hao et.al.|[2501.01037](http://arxiv.org/abs/2501.01037)|null|
 |**2024-12-30**|**Revolutionizing Mobility:The Latest Advancements in Autonomous Vehicle Technology**|Venkata Sai Chandra Prasanth Narisetty et.al.|[2412.20688](http://arxiv.org/abs/2412.20688)|null|
@@ -1549,6 +1551,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**iCBIR-Sli: Interpretable Content-Based Image Retrieval with 2D Slice Embeddings**|Shuhei Tomoshige et.al.|[2501.01642](http://arxiv.org/abs/2501.01642)|null|
 |**2025-01-02**|**R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization**|Xudong Jiang et.al.|[2501.01421](http://arxiv.org/abs/2501.01421)|null|
 |**2025-01-02**|**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**|Yucheng Zhou et.al.|[2501.01377](http://arxiv.org/abs/2501.01377)|null|
 |**2025-01-02**|**Domain-invariant feature learning in brain MR imaging for content-based image retrieval**|Shuya Tobari et.al.|[2501.01326](http://arxiv.org/abs/2501.01326)|null|
@@ -2546,6 +2549,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-03**|**Enhancing Large Vision Model in Street Scene Semantic Understanding through Leveraging Posterior Optimization Trajectory**|Wei-Bin Kou et.al.|[2501.01710](http://arxiv.org/abs/2501.01710)|null|
 |**2025-01-02**|**Vulnerability-Aware Spatio-Temporal Learning for Generalizable and Interpretable Deepfake Video Detection**|Dat Nguyen et.al.|[2501.01184](http://arxiv.org/abs/2501.01184)|null|
 |**2024-12-31**|**Grade Inflation in Generative Models**|Phuc Nguyen et.al.|[2501.00664](http://arxiv.org/abs/2501.00664)|null|
 |**2024-12-31**|**Robust distribution-free tests for the linear model**|Torey Hilbert et.al.|[2501.00583](http://arxiv.org/abs/2501.00583)|null|
