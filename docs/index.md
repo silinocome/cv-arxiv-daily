@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**|Doaa Mahmud et.al.|[2501.04437](http://arxiv.org/abs/2501.04437)|null|
+|**2025-01-07**|**SFADNet: Spatio-temporal Fused Graph based on Attention Decoupling Network for Traffic Prediction**|Mei Wu et.al.|[2501.04060](http://arxiv.org/abs/2501.04060)|**[link](https://github.com/meiwu5/sfadnet)**|
 |**2025-01-07**|**MHGNet: Multi-Heterogeneous Graph Neural Network for Traffic Prediction**|Mei Wu et.al.|[2501.03635](http://arxiv.org/abs/2501.03635)|**[link](https://github.com/meiwu5/mhgnet)**|
 |**2025-01-06**|**Wheel-GINS: A GNSS/INS Integrated Navigation System with a Wheel-mounted IMU**|Yibin Wu et.al.|[2501.03079](http://arxiv.org/abs/2501.03079)|null|
 |**2025-01-05**|**GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection**|Yihang Tao et.al.|[2501.02450](http://arxiv.org/abs/2501.02450)|null|
@@ -976,6 +978,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-08**|**Data fusion of complementary data sources using Machine Learning enables higher accuracy Solar Resource Maps**|J Rabault et.al.|[2501.04381](http://arxiv.org/abs/2501.04381)|null|
 |**2025-01-05**|**Neural Error Covariance Estimation for Precise LiDAR Localization**|Minoo Dolatabadi et.al.|[2501.02558](http://arxiv.org/abs/2501.02558)|null|
 |**2025-01-03**|**Transfer Learning for Individualized Treatment Rules: Application to Sepsis Patients Data from eICU-CRD and MIMIC-III Databases**|Andong Wang et.al.|[2501.02128](http://arxiv.org/abs/2501.02128)|null|
 |**2025-01-03**|**Fusion DeepONet: A Data-Efficient Neural Operator for Geometry-Dependent Hypersonic Flows on Arbitrary Grids**|Ahmad Peyvan et.al.|[2501.01934](http://arxiv.org/abs/2501.01934)|null|
@@ -2556,6 +2559,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**A Bayesian Modeling Framework for Estimation and Ground Segmentation of Cluttered Staircases**|Prasanna Sriganesh et.al.|[2501.04170](http://arxiv.org/abs/2501.04170)|null|
+|**2025-01-07**|**VLTI/GRAVITY enables the determination of the first dynamical masses of a classical Be + stripped and bloated pre-subdwarf binary**|R. Klement et.al.|[2501.04103](http://arxiv.org/abs/2501.04103)|null|
 |**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399](http://arxiv.org/abs/2501.03399)|null|
 |**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229](http://arxiv.org/abs/2501.03229)|null|
 |**2025-01-06**|**A two-hump spectrum in the prompt emission of GRB 240825A**|Hai-Ming Zhang et.al.|[2501.03082](http://arxiv.org/abs/2501.03082)|null|
