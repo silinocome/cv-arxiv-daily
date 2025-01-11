@@ -28,7 +28,7 @@
 |**2025-01-08**|**Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**|Doaa Mahmud et.al.|[2501.04437](http://arxiv.org/abs/2501.04437)|null|
 |**2025-01-07**|**SFADNet: Spatio-temporal Fused Graph based on Attention Decoupling Network for Traffic Prediction**|Mei Wu et.al.|[2501.04060](http://arxiv.org/abs/2501.04060)|**[link](https://github.com/meiwu5/sfadnet)**|
 |**2025-01-07**|**MHGNet: Multi-Heterogeneous Graph Neural Network for Traffic Prediction**|Mei Wu et.al.|[2501.03635](http://arxiv.org/abs/2501.03635)|**[link](https://github.com/meiwu5/mhgnet)**|
-|**2025-01-06**|**Wheel-GINS: A GNSS/INS Integrated Navigation System with a Wheel-mounted IMU**|Yibin Wu et.al.|[2501.03079](http://arxiv.org/abs/2501.03079)|null|
+|**2025-01-06**|**Wheel-GINS: A GNSS/INS Integrated Navigation System with a Wheel-mounted IMU**|Yibin Wu et.al.|[2501.03079](http://arxiv.org/abs/2501.03079)|**[link](https://github.com/i2nav-whu/wheel-gins)**|
 |**2025-01-05**|**GCP: Guarded Collaborative Perception with Spatial-Temporal Aware Malicious Agent Detection**|Yihang Tao et.al.|[2501.02450](http://arxiv.org/abs/2501.02450)|null|
 |**2025-01-01**|**Spatial Temporal Attention based Target Vehicle Trajectory Prediction for Internet of Vehicles**|Ouhan Huang et.al.|[2501.00890](http://arxiv.org/abs/2501.00890)|null|
 |**2024-12-31**|**Distributed Traffic Control in Complex Dynamic Roadblocks: A Multi-Agent Deep RL Approach**|Noor Aboueleneen et.al.|[2501.00211](http://arxiv.org/abs/2501.00211)|null|
