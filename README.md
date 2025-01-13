@@ -993,6 +993,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**BRIGHT: A globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response**|Hongruixuan Chen et.al.|[2501.06019](http://arxiv.org/abs/2501.06019)|**[link](https://github.com/chenhongruixuan/bright)**|
+|**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[2501.05997](http://arxiv.org/abs/2501.05997)|null|
 |**2025-01-08**|**Data fusion of complementary data sources using Machine Learning enables higher accuracy Solar Resource Maps**|J Rabault et.al.|[2501.04381](http://arxiv.org/abs/2501.04381)|null|
 |**2025-01-05**|**Neural Error Covariance Estimation for Precise LiDAR Localization**|Minoo Dolatabadi et.al.|[2501.02558](http://arxiv.org/abs/2501.02558)|null|
 |**2025-01-03**|**Transfer Learning for Individualized Treatment Rules: Application to Sepsis Patients Data from eICU-CRD and MIMIC-III Databases**|Andong Wang et.al.|[2501.02128](http://arxiv.org/abs/2501.02128)|null|
@@ -2582,6 +2584,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Dark Energy Survey Year 6 Results: Point-Spread Function Modeling**|T. Schutt et.al.|[2501.05781](http://arxiv.org/abs/2501.05781)|null|
+|**2025-01-10**|**Exoplanet Ephemerides Change Observations (ExoEcho). I. Transit Timing Analysis of Thirty-Seven Exoplanets using HST/WFC3 Data**|Xinyue Ma et.al.|[2501.05704](http://arxiv.org/abs/2501.05704)|null|
+|**2025-01-09**|**Phase-resolved Hubble Space Telescope WFC3 Spectroscopy of Weakly-Irradiated Brown Dwarf GD 1400 and Energy Redistribution-Irradiation Trends in Six WD $-$ BD Binaries**|Rachael C. Amaro et.al.|[2501.05609](http://arxiv.org/abs/2501.05609)|null|
 |**2025-01-09**|**Random Tessellations -- An Overview of Models**|Claudia Redenbach et.al.|[2501.05166](http://arxiv.org/abs/2501.05166)|null|
 |**2025-01-09**|**A Systematic Literature Review on Deep Learning-based Depth Estimation in Computer Vision**|Ali Rohan et.al.|[2501.05147](http://arxiv.org/abs/2501.05147)|null|
 |**2025-01-09**|**An Instrumental Variables Approach to Testing Firm Conduct**|Youngjin Hong et.al.|[2501.05022](http://arxiv.org/abs/2501.05022)|null|
