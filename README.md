@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**A Multi-Layer CNN-GRUSKIP model based on transformer for spatial TEMPORAL traffic flow prediction**|Karimeh Ibrahim Mohammad Ata et.al.|[2501.07593](http://arxiv.org/abs/2501.07593)|null|
 |**2025-01-08**|**Traffic Simulations: Multi-City Calibration of Metropolitan Highway Networks**|Chao Zhang et.al.|[2501.04783](http://arxiv.org/abs/2501.04783)|null|
 |**2025-01-08**|**Integrating LLMs with ITS: Recent Advances, Potentials, Challenges, and Future Directions**|Doaa Mahmud et.al.|[2501.04437](http://arxiv.org/abs/2501.04437)|null|
 |**2025-01-07**|**SFADNet: Spatio-temporal Fused Graph based on Attention Decoupling Network for Traffic Prediction**|Mei Wu et.al.|[2501.04060](http://arxiv.org/abs/2501.04060)|**[link](https://github.com/meiwu5/sfadnet)**|
@@ -993,6 +994,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-14**|**Cloud Removal With PolSAR-Optical Data Fusion Using A Two-Flow Residual Network**|Yuxi Wang et.al.|[2501.07901](http://arxiv.org/abs/2501.07901)|null|
 |**2025-01-13**|**A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion**|Fabio Montello et.al.|[2501.07451](http://arxiv.org/abs/2501.07451)|null|
 |**2025-01-13**|**Optimization with Multi-sourced Reference Information and Unknown Trust: A Distributionally Robust Approach**|Yanru Guo et.al.|[2501.07057](http://arxiv.org/abs/2501.07057)|null|
 |**2025-01-12**|**Uncertainty-Aware Online Extrinsic Calibration: A Conformal Prediction Approach**|Mathieu Cocheteux et.al.|[2501.06878](http://arxiv.org/abs/2501.06878)|null|
@@ -2592,7 +2594,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-13**|**Testing $γδ$ CDM Model in the Redshift Bins**|Furkan Şakir Dilsiz et.al.|[2501.07538](http://arxiv.org/abs/2501.07538)|null|
-|**2025-01-13**|**Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport**|Brendan Mallery et.al.|[2501.07446](http://arxiv.org/abs/2501.07446)|**[link](https://github.com/brendanmallery9/entropic-barycenters)**|
+|**2025-01-14**|**Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport**|Brendan Mallery et.al.|[2501.07446](http://arxiv.org/abs/2501.07446)|**[link](https://github.com/brendanmallery9/entropic-barycenters)**|
 |**2025-01-13**|**SFC-GAN: A Generative Adversarial Network for Brain Functional and Structural Connectome Translation**|Yee-Fan Tan et.al.|[2501.07055](http://arxiv.org/abs/2501.07055)|null|
 |**2025-01-10**|**Dark Energy Survey Year 6 Results: Point-Spread Function Modeling**|T. Schutt et.al.|[2501.05781](http://arxiv.org/abs/2501.05781)|null|
 |**2025-01-10**|**Exoplanet Ephemerides Change Observations (ExoEcho). I. Transit Timing Analysis of Thirty-Seven Exoplanets using HST/WFC3 Data**|Xinyue Ma et.al.|[2501.05704](http://arxiv.org/abs/2501.05704)|null|
@@ -3295,7 +3297,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-13**|**Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport**|Brendan Mallery et.al.|[2501.07446](http://arxiv.org/abs/2501.07446)|**[link](https://github.com/brendanmallery9/entropic-barycenters)**|
+|**2025-01-14**|**Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport**|Brendan Mallery et.al.|[2501.07446](http://arxiv.org/abs/2501.07446)|**[link](https://github.com/brendanmallery9/entropic-barycenters)**|
 |**2025-01-13**|**Depth and Image Fusion for Road Obstacle Detection Using Stereo Camera**|Oleg Perezyabov et.al.|[2501.07245](http://arxiv.org/abs/2501.07245)|null|
 |**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399](http://arxiv.org/abs/2501.03399)|null|
 |**2024-12-31**|**DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion**|Zixuan Yin et.al.|[2501.00220](http://arxiv.org/abs/2501.00220)|null|
