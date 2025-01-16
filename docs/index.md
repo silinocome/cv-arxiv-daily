@@ -622,6 +622,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Ensuring Truthfulness in Distributed Aggregative Optimization**|Ziqin Chen et.al.|[2501.08512](http://arxiv.org/abs/2501.08512)|null|
+|**2025-01-14**|**Towards Best Practices for Open Datasets for LLM Training**|Stefan Baack et.al.|[2501.08365](http://arxiv.org/abs/2501.08365)|null|
 |**2025-01-04**|**SMA-X: Versatile information sharing in and around telescopes, and beyond**|Attila Kovács et.al.|[2501.02328](http://arxiv.org/abs/2501.02328)|**[link](https://github.com/Smithsonian/smax-clib)**|
 |**2025-01-07**|**LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management**|Yichen Luo et.al.|[2501.00826](http://arxiv.org/abs/2501.00826)|null|
 |**2024-12-31**|**M2I2: Learning Efficient Multi-Agent Communication via Masked State Modeling and Intention Inference**|Chuxiong Sun et.al.|[2501.00312](http://arxiv.org/abs/2501.00312)|null|
@@ -980,13 +982,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**GS-LIVO: Real-Time LiDAR, Inertial, and Visual Multi-sensor Fused Odometry with Gaussian Mapping**|Sheng Hong et.al.|[2501.08672](http://arxiv.org/abs/2501.08672)|null|
 |**2025-01-14**|**Cloud Removal With PolSAR-Optical Data Fusion Using A Two-Flow Residual Network**|Yuxi Wang et.al.|[2501.07901](http://arxiv.org/abs/2501.07901)|null|
 |**2025-01-13**|**A Survey on Dynamic Neural Networks: from Computer Vision to Multi-modal Sensor Fusion**|Fabio Montello et.al.|[2501.07451](http://arxiv.org/abs/2501.07451)|null|
 |**2025-01-13**|**Optimization with Multi-sourced Reference Information and Unknown Trust: A Distributionally Robust Approach**|Yanru Guo et.al.|[2501.07057](http://arxiv.org/abs/2501.07057)|null|
 |**2025-01-12**|**Uncertainty-Aware Online Extrinsic Calibration: A Conformal Prediction Approach**|Mathieu Cocheteux et.al.|[2501.06878](http://arxiv.org/abs/2501.06878)|null|
 |**2025-01-10**|**BRIGHT: A globally distributed multimodal building damage assessment dataset with very-high-resolution for all-weather disaster response**|Hongruixuan Chen et.al.|[2501.06019](http://arxiv.org/abs/2501.06019)|**[link](https://github.com/chenhongruixuan/bright)**|
 |**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[2501.05997](http://arxiv.org/abs/2501.05997)|null|
-|**2025-01-08**|**Data fusion of complementary data sources using Machine Learning enables higher accuracy Solar Resource Maps**|J Rabault et.al.|[2501.04381](http://arxiv.org/abs/2501.04381)|null|
+|**2025-01-08**|**Data fusion of complementary data sources using Machine Learning enables higher accuracy Solar Resource Maps**|J Rabault et.al.|[2501.04381](http://arxiv.org/abs/2501.04381)|**[link](https://github.com/metno/2024_sunpoint_solar_irradiance_map_over_norway_1991-2020)**|
 |**2025-01-05**|**Neural Error Covariance Estimation for Precise LiDAR Localization**|Minoo Dolatabadi et.al.|[2501.02558](http://arxiv.org/abs/2501.02558)|null|
 |**2025-01-03**|**Transfer Learning for Individualized Treatment Rules: Application to Sepsis Patients Data from eICU-CRD and MIMIC-III Databases**|Andong Wang et.al.|[2501.02128](http://arxiv.org/abs/2501.02128)|null|
 |**2025-01-03**|**Fusion DeepONet: A Data-Efficient Neural Operator for Geometry-Dependent Hypersonic Flows on Arbitrary Grids**|Ahmad Peyvan et.al.|[2501.01934](http://arxiv.org/abs/2501.01934)|null|
@@ -1568,6 +1571,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|null|
+|**2025-01-12**|**SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval**|Bhavin Jawade et.al.|[2501.08347](http://arxiv.org/abs/2501.08347)|null|
 |**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749](http://arxiv.org/abs/2501.06749)|null|
 |**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li et.al.|[2501.02841](http://arxiv.org/abs/2501.02841)|null|
 |**2025-01-03**|**iCBIR-Sli: Interpretable Content-Based Image Retrieval with 2D Slice Embeddings**|Shuhei Tomoshige et.al.|[2501.01642](http://arxiv.org/abs/2501.01642)|null|
@@ -2571,6 +2576,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**GOTLoc: General Outdoor Text-based Localization Using Scene Graph Retrieval with OpenStreetMap**|Donghwi Jung et.al.|[2501.08575](http://arxiv.org/abs/2501.08575)|**[link](https://github.com/donghwijung/gotloc)**|
+|**2025-01-14**|**Euclid preparation LX. The use of HST images as input for weak-lensing image simulations**|Euclid Collaboration et.al.|[2501.08372](http://arxiv.org/abs/2501.08372)|null|
 |**2025-01-13**|**Testing $γδ$ CDM Model in the Redshift Bins**|Furkan Şakir Dilsiz et.al.|[2501.07538](http://arxiv.org/abs/2501.07538)|null|
 |**2025-01-14**|**Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport**|Brendan Mallery et.al.|[2501.07446](http://arxiv.org/abs/2501.07446)|**[link](https://github.com/brendanmallery9/entropic-barycenters)**|
 |**2025-01-13**|**SFC-GAN: A Generative Adversarial Network for Brain Functional and Structural Connectome Translation**|Yee-Fan Tan et.al.|[2501.07055](http://arxiv.org/abs/2501.07055)|null|
@@ -3273,6 +3280,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**GOTLoc: General Outdoor Text-based Localization Using Scene Graph Retrieval with OpenStreetMap**|Donghwi Jung et.al.|[2501.08575](http://arxiv.org/abs/2501.08575)|**[link](https://github.com/donghwijung/gotloc)**|
 |**2025-01-14**|**Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport**|Brendan Mallery et.al.|[2501.07446](http://arxiv.org/abs/2501.07446)|**[link](https://github.com/brendanmallery9/entropic-barycenters)**|
 |**2025-01-13**|**Depth and Image Fusion for Road Obstacle Detection Using Stereo Camera**|Oleg Perezyabov et.al.|[2501.07245](http://arxiv.org/abs/2501.07245)|null|
 |**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399](http://arxiv.org/abs/2501.03399)|null|
