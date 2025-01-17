@@ -634,6 +634,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Towards Federated Multi-Armed Bandit Learning for Content Dissemination using Swarm of UAVs**|Amit Kumar Bhuyan et.al.|[2501.09146](http://arxiv.org/abs/2501.09146)|null|
 |**2025-01-15**|**Ensuring Truthfulness in Distributed Aggregative Optimization**|Ziqin Chen et.al.|[2501.08512](http://arxiv.org/abs/2501.08512)|null|
 |**2025-01-14**|**Towards Best Practices for Open Datasets for LLM Training**|Stefan Baack et.al.|[2501.08365](http://arxiv.org/abs/2501.08365)|null|
 |**2025-01-04**|**SMA-X: Versatile information sharing in and around telescopes, and beyond**|Attila Kovács et.al.|[2501.02328](http://arxiv.org/abs/2501.02328)|**[link](https://github.com/Smithsonian/smax-clib)**|
@@ -2598,6 +2599,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Dynamic-Aware Spatio-temporal Representation Learning for Dynamic MRI Reconstruction**|Dayoung Baik et.al.|[2501.09049](http://arxiv.org/abs/2501.09049)|null|
 |**2025-01-15**|**GOTLoc: General Outdoor Text-based Localization Using Scene Graph Retrieval with OpenStreetMap**|Donghwi Jung et.al.|[2501.08575](http://arxiv.org/abs/2501.08575)|**[link](https://github.com/donghwijung/gotloc)**|
 |**2025-01-14**|**Euclid preparation LX. The use of HST images as input for weak-lensing image simulations**|Euclid Collaboration et.al.|[2501.08372](http://arxiv.org/abs/2501.08372)|null|
 |**2025-01-13**|**Testing $γδ$ CDM Model in the Redshift Bins**|Furkan Şakir Dilsiz et.al.|[2501.07538](http://arxiv.org/abs/2501.07538)|null|
