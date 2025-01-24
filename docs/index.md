@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**A Multi-stage Optimisation Approach to Design Relocation Strategies in One-way Car-sharing Systems with Stackable Cars**|Riccardo Iacobucci et.al.|[2501.13843](http://arxiv.org/abs/2501.13843)|null|
+|**2025-01-23**|**Knowledge-Informed Multi-Agent Trajectory Prediction at Signalized Intersections for Infrastructure-to-Everything**|Huilin Yin et.al.|[2501.13461](http://arxiv.org/abs/2501.13461)|null|
 |**2025-01-22**|**Data re-uploading in Quantum Machine Learning for time series: application to traffic forecasting**|Nikolaos Schetakis et.al.|[2501.12776](http://arxiv.org/abs/2501.12776)|null|
 |**2025-01-21**|**mmCooper: A Multi-agent Multi-stage Communication-efficient and Collaboration-robust Cooperative Perception Framework**|Bingyi Liu et.al.|[2501.12263](http://arxiv.org/abs/2501.12263)|null|
 |**2025-01-17**|**Virtual Nodes Improve Long-term Traffic Prediction**|Xiaoyang Cao et.al.|[2501.10048](http://arxiv.org/abs/2501.10048)|null|
@@ -989,6 +991,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**A real-time battle situation intelligent awareness system based on Meta-learning & RNN**|Yuchun Li et.al.|[2501.13704](http://arxiv.org/abs/2501.13704)|null|
+|**2025-01-23**|**VIGS SLAM: IMU-based Large-Scale 3D Gaussian Splatting SLAM**|Gyuhyeon Pak et.al.|[2501.13402](http://arxiv.org/abs/2501.13402)|null|
 |**2025-01-20**|**ITCFN: Incomplete Triple-Modal Co-Attention Fusion Network for Mild Cognitive Impairment Conversion Prediction**|Xiangyang Hu et.al.|[2501.11276](http://arxiv.org/abs/2501.11276)|**[link](https://github.com/justinhxy/itfc)**|
 |**2025-01-22**|**OpenEarthMap-SAR: A Benchmark Synthetic Aperture Radar Dataset for Global High-Resolution Land Cover Mapping**|Junshi Xia et.al.|[2501.10891](http://arxiv.org/abs/2501.10891)|null|
 |**2025-01-18**|**Quadcopter Position Hold Function using Optical Flow in a Smartphone-based Flight Computer**|Noel P Caliston et.al.|[2501.10752](http://arxiv.org/abs/2501.10752)|null|
@@ -2592,6 +2596,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data**|Xuemiao Zhang et.al.|[2501.13126](http://arxiv.org/abs/2501.13126)|null|
 |**2025-01-22**|**The AGILE space mission: an Italian success story and its legacy for future space astronomy**|Carlotta Pittori et.al.|[2501.12970](http://arxiv.org/abs/2501.12970)|null|
 |**2025-01-22**|**Manifold learning and optimization using tangent space proxies**|Ryan A. Robinett et.al.|[2501.12678](http://arxiv.org/abs/2501.12678)|null|
 |**2025-01-20**|**Tracing the galaxy-halo connection with galaxy clustering in COSMOS-Web from z = 0.1 to z ~ 12**|Louise Paquereau et.al.|[2501.11674](http://arxiv.org/abs/2501.11674)|null|
