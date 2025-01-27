@@ -628,6 +628,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Collaborating in a competitive world: Heterogeneous Multi-Agent Decision Making in Symbiotic Supply Chain Environments**|Wan Wang et.al.|[2501.14111](http://arxiv.org/abs/2501.14111)|null|
 |**2025-01-22**|**Information Design for Adaptive Organizations**|Wataru Tamura et.al.|[2501.12669](http://arxiv.org/abs/2501.12669)|null|
 |**2025-01-17**|**CSSDM Ontology to Enable Continuity of Care Data Interoperability**|Subhashis Das et.al.|[2501.10160](http://arxiv.org/abs/2501.10160)|null|
 |**2025-01-15**|**Towards Federated Multi-Armed Bandit Learning for Content Dissemination using Swarm of UAVs**|Amit Kumar Bhuyan et.al.|[2501.09146](http://arxiv.org/abs/2501.09146)|null|
@@ -1587,6 +1588,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Visual Localization via Semantic Structures in Autonomous Photovoltaic Power Plant Inspection**|Viktor Kozák et.al.|[2501.14587](http://arxiv.org/abs/2501.14587)|null|
+|**2025-01-23**|**Revisiting CLIP: Efficient Alignment of 3D MRI and Tabular Data using Domain-Specific Foundation Models**|Jakob Krogh Petersen et.al.|[2501.14051](http://arxiv.org/abs/2501.14051)|**[link](https://github.com/jakekrogh/3d-clip-for-brain-mri)**|
+|**2025-01-22**|**Triplet Synthesis For Enhancing Composed Image Retrieval via Counterfactual Image Generation**|Kenta Uesugi et.al.|[2501.13968](http://arxiv.org/abs/2501.13968)|null|
 |**2025-01-19**|**Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**|Zhipeng Yu et.al.|[2501.11063](http://arxiv.org/abs/2501.11063)|**[link](https://github.com/smuelpeng/sgps-noisefreedml)**|
 |**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638](http://arxiv.org/abs/2501.10638)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
@@ -2345,6 +2349,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
 |**2025-01-13**|**MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training**|Xingyi He et.al.|[2501.07556](http://arxiv.org/abs/2501.07556)|null|
 |**2025-01-13**|**Matching Free Depth Recovery from Structured Light**|Zhuohang Yu et.al.|[2501.07113](http://arxiv.org/abs/2501.07113)|null|
@@ -2596,6 +2601,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-24**|**Clear Minds Think Alike: What Makes LLM Fine-tuning Robust? A Study of Token Perplexity**|Chao-Chung Wu et.al.|[2501.14315](http://arxiv.org/abs/2501.14315)|null|
+|**2025-01-23**|**Assessing treatment efficacy for interval-censored endpoints using multistate semi-Markov models fit to multiple data streams**|Raphael Morsomme et.al.|[2501.14097](http://arxiv.org/abs/2501.14097)|null|
+|**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
+|**2025-01-21**|**Procedural Generation of 3D Maize Plant Architecture from LIDAR Data**|Mozhgan Hadadi et.al.|[2501.13963](http://arxiv.org/abs/2501.13963)|null|
 |**2025-01-21**|**Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data**|Xuemiao Zhang et.al.|[2501.13126](http://arxiv.org/abs/2501.13126)|null|
 |**2025-01-22**|**The AGILE space mission: an Italian success story and its legacy for future space astronomy**|Carlotta Pittori et.al.|[2501.12970](http://arxiv.org/abs/2501.12970)|null|
 |**2025-01-22**|**Manifold learning and optimization using tangent space proxies**|Ryan A. Robinett et.al.|[2501.12678](http://arxiv.org/abs/2501.12678)|null|
@@ -3309,6 +3318,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
+|**2025-01-21**|**Procedural Generation of 3D Maize Plant Architecture from LIDAR Data**|Mozhgan Hadadi et.al.|[2501.13963](http://arxiv.org/abs/2501.13963)|null|
 |**2025-01-22**|**Manifold learning and optimization using tangent space proxies**|Ryan A. Robinett et.al.|[2501.12678](http://arxiv.org/abs/2501.12678)|null|
 |**2025-01-15**|**GOTLoc: General Outdoor Text-based Localization Using Scene Graph Retrieval with OpenStreetMap**|Donghwi Jung et.al.|[2501.08575](http://arxiv.org/abs/2501.08575)|**[link](https://github.com/donghwijung/gotloc)**|
 |**2025-01-14**|**Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport**|Brendan Mallery et.al.|[2501.07446](http://arxiv.org/abs/2501.07446)|**[link](https://github.com/brendanmallery9/entropic-barycenters)**|
