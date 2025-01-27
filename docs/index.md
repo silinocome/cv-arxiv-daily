@@ -77,7 +77,7 @@ layout: default
 |**2024-11-08**|**Knowledge Distillation Neural Network for Predicting Car-following Behaviour of Human-driven and Autonomous Vehicles**|Ayobami Adewale et.al.|[2411.05618](http://arxiv.org/abs/2411.05618)|null|
 |**2024-11-06**|**An Experimental Study on Decomposition-Based Deep Ensemble Learning for Traffic Flow Forecasting**|Qiyuan Zhu et.al.|[2411.03588](http://arxiv.org/abs/2411.03588)|null|
 |**2024-11-05**|**Adaptive Genetic Selection based Pinning Control with Asymmetric Coupling for Multi-Network Heterogeneous Vehicular Systems**|Weian Guo et.al.|[2411.03027](http://arxiv.org/abs/2411.03027)|null|
-|**2024-11-04**|**Advanced computer vision for extracting georeferenced vehicle trajectories from drone imagery**|Robert Fonod et.al.|[2411.02136](http://arxiv.org/abs/2411.02136)|null|
+|**2024-11-04**|**Advanced computer vision for extracting georeferenced vehicle trajectories from drone imagery**|Robert Fonod et.al.|[2411.02136](http://arxiv.org/abs/2411.02136)|**[link](https://github.com/rfonod/geo-trax)**|
 |**2024-11-03**|**GITSR: Graph Interaction Transformer-based Scene Representation for Multi Vehicle Collaborative Decision-making**|Xingyu Hu et.al.|[2411.01608](http://arxiv.org/abs/2411.01608)|null|
 |**2024-10-30**|**Extralonger: Toward a Unified Perspective of Spatial-Temporal Factors for Extra-Long-Term Traffic Forecasting**|Zhiwei Zhang et.al.|[2411.00844](http://arxiv.org/abs/2411.00844)|null|
 |**2024-11-01**|**Multi-Uncertainty Aware Autonomous Cooperative Planning**|Shiyao Zhang et.al.|[2411.00413](http://arxiv.org/abs/2411.00413)|null|
@@ -2610,7 +2610,7 @@ layout: default
 |**2025-01-13**|**Testing $γδ$ CDM Model in the Redshift Bins**|Furkan Şakir Dilsiz et.al.|[2501.07538](http://arxiv.org/abs/2501.07538)|null|
 |**2025-01-14**|**Synthesis and Analysis of Data as Probability Measures with Entropy-Regularized Optimal Transport**|Brendan Mallery et.al.|[2501.07446](http://arxiv.org/abs/2501.07446)|**[link](https://github.com/brendanmallery9/entropic-barycenters)**|
 |**2025-01-13**|**SFC-GAN: A Generative Adversarial Network for Brain Functional and Structural Connectome Translation**|Yee-Fan Tan et.al.|[2501.07055](http://arxiv.org/abs/2501.07055)|null|
-|**2025-01-10**|**Dark Energy Survey Year 6 Results: Point-Spread Function Modeling**|T. Schutt et.al.|[2501.05781](http://arxiv.org/abs/2501.05781)|null|
+|**2025-01-10**|**Dark Energy Survey Year 6 Results: Point-Spread Function Modeling**|T. Schutt et.al.|[2501.05781](http://arxiv.org/abs/2501.05781)|**[link](https://github.com/rmjarvis/Piff)**|
 |**2025-01-10**|**Exoplanet Ephemerides Change Observations (ExoEcho). I. Transit Timing Analysis of Thirty-Seven Exoplanets using HST/WFC3 Data**|Xinyue Ma et.al.|[2501.05704](http://arxiv.org/abs/2501.05704)|null|
 |**2025-01-09**|**Phase-resolved Hubble Space Telescope WFC3 Spectroscopy of Weakly-Irradiated Brown Dwarf GD 1400 and Energy Redistribution-Irradiation Trends in Six WD $-$ BD Binaries**|Rachael C. Amaro et.al.|[2501.05609](http://arxiv.org/abs/2501.05609)|null|
 |**2025-01-09**|**Random Tessellations -- An Overview of Models**|Claudia Redenbach et.al.|[2501.05166](http://arxiv.org/abs/2501.05166)|null|
@@ -2636,7 +2636,7 @@ layout: default
 |**2024-12-28**|**Forecasting Malaria in Indian States: A Time Series Approach with R Shiny Integration**|Sujit K. Ghosh et.al.|[2412.20121](http://arxiv.org/abs/2412.20121)|null|
 |**2024-12-27**|**DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction**|Kai Xu et.al.|[2412.19584](http://arxiv.org/abs/2412.19584)|null|
 |**2024-12-25**|**Revisiting the search for dark matter subhalos using the Fermi-LAT 4FGL-DR4 catalog**|Ji-Gui Cheng et.al.|[2412.18736](http://arxiv.org/abs/2412.18736)|null|
-|**2024-12-24**|**A Statistical Framework for Ranking LLM-Based Chatbots**|Siavash Ameli et.al.|[2412.18407](http://arxiv.org/abs/2412.18407)|null|
+|**2024-12-24**|**A Statistical Framework for Ranking LLM-Based Chatbots**|Siavash Ameli et.al.|[2412.18407](http://arxiv.org/abs/2412.18407)|**[link](https://github.com/suquark/leaderbot)**|
 |**2024-12-24**|**Parallel Neural Computing for Scene Understanding from LiDAR Perception in Autonomous Racing**|Suwesh Prasad Sah et.al.|[2412.18165](http://arxiv.org/abs/2412.18165)|**[link](https://github.com/suwesh/parallel-perception-network)**|
 |**2024-12-23**|**Refining the Two-Band Model for Highly Compensated Semimetals Using Thermoelectric Coefficients**|Ian Leahy et.al.|[2412.17688](http://arxiv.org/abs/2412.17688)|null|
 |**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
@@ -3104,7 +3104,7 @@ layout: default
 |**2024-04-14**|**Comparing Compressed and Full-modeling Analyses with FOLPS: Implications for DESI 2024 and beyond**|H. E. Noriega et.al.|[2404.07269](http://arxiv.org/abs/2404.07269)|**[link](https://github.com/henoriega/folps-nu)**|
 |**2024-04-10**|**Using Neural Networks to Model Hysteretic Kinematics in Tendon-Actuated Continuum Robots**|Yuan Wang et.al.|[2404.07168](http://arxiv.org/abs/2404.07168)|null|
 |**2024-04-10**|**The NANOGrav 15 yr Data Set: Looking for Signs of Discreteness in the Gravitational-wave Background**|Gabriella Agazie et.al.|[2404.07020](http://arxiv.org/abs/2404.07020)|null|
-|**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/abs/2404.06814)|null|
+|**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/abs/2404.06814)|**[link](https://github.com/Tianxinhuang/ComPC)**|
 |**2024-04-09**|**Tests of the Kerr Hypothesis with MAXI J1803-298 Using Different RELXILL_NK Flavors**|Jie Liao et.al.|[2404.06020](http://arxiv.org/abs/2404.06020)|null|
 |**2024-04-08**|**Unsupervised Training of Convex Regularizers using Maximum Likelihood Estimation**|Hong Ye Tan et.al.|[2404.05445](http://arxiv.org/abs/2404.05445)|null|
 |**2024-04-08**|**BayesPPDSurv: An R Package for Bayesian Sample Size Determination Using the Power and Normalized Power Prior for Time-To-Event Data**|Yueqi Shen et.al.|[2404.05118](http://arxiv.org/abs/2404.05118)|null|
@@ -3473,7 +3473,7 @@ layout: default
 |**2024-04-23**|**StreakNet-Arch: An Anti-scattering Network-based Architecture for Underwater Carrier LiDAR-Radar Imaging**|Xuelong Li et.al.|[2404.09158](http://arxiv.org/abs/2404.09158)|**[link](https://github.com/bestanhongjun/streaknet)**|
 |**2024-04-11**|**3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces**|Xuanming Cao et.al.|[2404.07748](http://arxiv.org/abs/2404.07748)|null|
 |**2024-04-11**|**Point cloud obstacle detection with the map filtration**|Lukas Kratochvila et.al.|[2404.07730](http://arxiv.org/abs/2404.07730)|null|
-|**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/abs/2404.06814)|null|
+|**2024-04-10**|**Zero-shot Point Cloud Completion Via 2D Priors**|Tianxin Huang et.al.|[2404.06814](http://arxiv.org/abs/2404.06814)|**[link](https://github.com/Tianxinhuang/ComPC)**|
 |**2024-04-02**|**Deep Neural Networks with 3D Point Clouds for Empirical Friction Measurements in Hydrodynamic Flood Models**|Francisco Haces-Garcia et.al.|[2404.02234](http://arxiv.org/abs/2404.02234)|**[link](https://github.com/f-haces/lidarmanning)**|
 |**2024-04-01**|**Meta Episodic learning with Dynamic Task Sampling for CLIP-based Point Cloud Classification**|Shuvozit Ghose et.al.|[2404.00857](http://arxiv.org/abs/2404.00857)|null|
 |**2024-04-01**|**Transfer Learning with Point Transformers**|Kartik Gupta et.al.|[2404.00846](http://arxiv.org/abs/2404.00846)|null|
