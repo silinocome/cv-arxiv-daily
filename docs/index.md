@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-28**|**Anomaly Detection in Cooperative Vehicle Perception Systems under Imperfect Communication**|Ashish Bastola et.al.|[2501.17329](http://arxiv.org/abs/2501.17329)|null|
 |**2025-01-25**|**Deep Multimodal Learning for Real-Time DDoS Attacks Detection in Internet of Vehicles**|Mohamed Ababsa et.al.|[2501.15252](http://arxiv.org/abs/2501.15252)|null|
 |**2025-01-24**|**Performance Evaluation of Satellite-Based Data Offloading on Starlink Constellations**|Alexander Bonora et.al.|[2501.14878](http://arxiv.org/abs/2501.14878)|null|
 |**2025-01-23**|**A Multi-stage Optimisation Approach to Design Relocation Strategies in One-way Car-sharing Systems with Stackable Cars**|Riccardo Iacobucci et.al.|[2501.13843](http://arxiv.org/abs/2501.13843)|null|
@@ -630,6 +631,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Throwaway Accounts and Moderation on Reddit**|Cheng Guo et.al.|[2501.17430](http://arxiv.org/abs/2501.17430)|null|
 |**2025-01-27**|**Privacy-aware Nash Equilibrium Synthesis with Partially Ordered LTL $_f$ Objectives**|Caleb Probine et.al.|[2501.16307](http://arxiv.org/abs/2501.16307)|null|
 |**2025-01-27**|**Leveraging multi-task learning to improve the detection of SATD and vulnerability**|Barbara Russo et.al.|[2501.15934](http://arxiv.org/abs/2501.15934)|**[link](https://github.com/moritzmock/multitask-vulberability-detection)**|
 |**2025-01-27**|**Game theoretic approach for end-to-end resource allocation in multihop cognitive radio networks**|Maria Canales et.al.|[2501.15855](http://arxiv.org/abs/2501.15855)|null|
