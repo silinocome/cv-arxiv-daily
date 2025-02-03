@@ -709,7 +709,7 @@
 |**2024-09-27**|**Towards an active-learning approach to resource allocation for population-based damage prognosis**|George Tsialiamanis et.al.|[2409.18572](http://arxiv.org/abs/2409.18572)|null|
 |**2024-09-27**|**Architecture for Protecting Data Privacy in Decentralized Social Networks**|Quang Cao et.al.|[2409.18360](http://arxiv.org/abs/2409.18360)|null|
 |**2024-10-15**|**Plurals: A System for Guiding LLMs Via Simulated Social Ensembles**|Joshua Ashkinaze et.al.|[2409.17213](http://arxiv.org/abs/2409.17213)|**[link](https://github.com/josh-ashkinaze/plurals)**|
-|**2024-09-24**|**NoTeeline: Supporting Real-Time Notetaking from Keypoints with Large Language Models**|Faria Huq et.al.|[2409.16493](http://arxiv.org/abs/2409.16493)|null|
+|**2024-09-24**|**NoTeeline: Supporting Real-Time Notetaking from Keypoints with Large Language Models**|Faria Huq et.al.|[2409.16493](http://arxiv.org/abs/2409.16493)|**[link](https://github.com/oaishi/noteeline)**|
 |**2024-09-24**|**A Multi-Agent Multi-Environment Mixed Q-Learning for Partially Decentralized Wireless Network Optimization**|Talha Bozkus et.al.|[2409.16450](http://arxiv.org/abs/2409.16450)|**[link](https://github.com/talhabozkus/icassp-25-appendix)**|
 |**2024-09-21**|**Perfect Gradient Inversion in Federated Learning: A New Paradigm from the Hidden Subset Sum Problem**|Qiongxiu Li et.al.|[2409.14260](http://arxiv.org/abs/2409.14260)|null|
 |**2024-09-20**|**Wireless Interconnection Network (WINE) for Post-Exascale High-Performance Computing**|Hong Ki Kim et.al.|[2409.13281](http://arxiv.org/abs/2409.13281)|null|
@@ -748,7 +748,7 @@
 |**2024-07-24**|**Sampling-Based Hierarchical Trajectory Planning for Formation Flight**|Qingzhao Liu et.al.|[2407.17392](http://arxiv.org/abs/2407.17392)|null|
 |**2024-07-17**|**LookupViT: Compressing visual information to a limited number of tokens**|Rajat Koner et.al.|[2407.12753](http://arxiv.org/abs/2407.12753)|null|
 |**2024-07-08**|**Graph Neural Networks and Spatial Information Learning for Post-Processing Ensemble Weather Forecasts**|Moritz Feik et.al.|[2407.11050](http://arxiv.org/abs/2407.11050)|null|
-|**2024-07-15**|**Communication- and Computation-Efficient Distributed Decision-Making in Multi-Robot Networks**|Zirui Xu et.al.|[2407.10382](http://arxiv.org/abs/2407.10382)|null|
+|**2024-07-15**|**Communication- and Computation-Efficient Distributed Decision-Making in Multi-Robot Networks**|Zirui Xu et.al.|[2407.10382](http://arxiv.org/abs/2407.10382)|**[link](https://github.com/um-iral/resource-aware-coordination-airsim)**|
 |**2024-07-03**|**Insights from Large-Scale Communications: Initiation**|Suman Sarkar et.al.|[2407.03042](http://arxiv.org/abs/2407.03042)|null|
 |**2024-07-03**|**Attention Incorporated Network for Sharing Low-rank, Image and K-space Information during MR Image Reconstruction to Achieve Single Breath-hold Cardiac Cine Imaging**|Siying Xu et.al.|[2407.03034](http://arxiv.org/abs/2407.03034)|**[link](https://github.com/midas-tum/a-liknet)**|
 |**2024-07-01**|**Race and Privacy in Broadcast Police Communications**|Pranav Narayanan Venkit et.al.|[2407.01817](http://arxiv.org/abs/2407.01817)|null|
@@ -1118,7 +1118,7 @@
 |**2024-10-20**|**Bayesian data fusion for distributed learning**|Peng Wu et.al.|[2410.15473](http://arxiv.org/abs/2410.15473)|null|
 |**2024-10-20**|**Fusion of Time and Angle Measurements for Digital-Twin-Aided Probabilistic 3D Positioning**|Vincent Corlay et.al.|[2410.15237](http://arxiv.org/abs/2410.15237)|null|
 |**2024-10-16**|**Cocoon: Robust Multi-Modal Perception with Uncertainty-Aware Sensor Fusion**|Minkyoung Cho et.al.|[2410.12592](http://arxiv.org/abs/2410.12592)|null|
-|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|null|
+|**2024-10-14**|**Condition-Aware Multimodal Fusion for Robust Semantic Perception of Driving Scenes**|Tim Broedermann et.al.|[2410.10791](http://arxiv.org/abs/2410.10791)|**[link](https://github.com/timbroed/cafuser)**|
 |**2024-10-14**|**SMART-TRACK: A Novel Kalman Filter-Guided Sensor Fusion For Robust UAV Object Tracking in Dynamic Environments**|Khaled Gabr et.al.|[2410.10409](http://arxiv.org/abs/2410.10409)|**[link](https://github.com/mzahana/smart-track)**|
 |**2024-10-12**|**A Collaborative Team of UAV-Hexapod for an Autonomous Retrieval System in GNSS-Denied Maritime Environments**|Seungwook Lee et.al.|[2410.09606](http://arxiv.org/abs/2410.09606)|null|
 |**2024-10-12**|**Towards Design and Development of a Low-Cost Unmanned Surface Vehicle for Aquaculture Water Quality Monitoring in Shallow Water Environments**|Aiyelari Temilolorun et.al.|[2410.09513](http://arxiv.org/abs/2410.09513)|null|
@@ -2654,7 +2654,7 @@
 |**2025-01-25**|**Evaluating Hallucination in Large Vision-Language Models based on Context-Aware Object Similarities**|Shounak Datta et.al.|[2501.15046](http://arxiv.org/abs/2501.15046)|null|
 |**2025-01-24**|**Glissando-Net: Deep sinGLe vIew category level poSe eStimation ANd 3D recOnstruction**|Bo Sun et.al.|[2501.14896](http://arxiv.org/abs/2501.14896)|null|
 |**2025-01-24**|**Clear Minds Think Alike: What Makes LLM Fine-tuning Robust? A Study of Token Perplexity**|Chao-Chung Wu et.al.|[2501.14315](http://arxiv.org/abs/2501.14315)|null|
-|**2025-01-23**|**Assessing treatment efficacy for interval-censored endpoints using multistate semi-Markov models fit to multiple data streams**|Raphael Morsomme et.al.|[2501.14097](http://arxiv.org/abs/2501.14097)|null|
+|**2025-01-23**|**Assessing treatment efficacy for interval-censored endpoints using multistate semi-Markov models fit to multiple data streams**|Raphael Morsomme et.al.|[2501.14097](http://arxiv.org/abs/2501.14097)|**[link](https://github.com/ammateja/multistatemodelspaper)**|
 |**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-21**|**Procedural Generation of 3D Maize Plant Architecture from LIDAR Data**|Mozhgan Hadadi et.al.|[2501.13963](http://arxiv.org/abs/2501.13963)|null|
 |**2025-01-21**|**Preference Curriculum: LLMs Should Always Be Pretrained on Their Preferred Data**|Xuemiao Zhang et.al.|[2501.13126](http://arxiv.org/abs/2501.13126)|null|
