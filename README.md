@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Distributed Observer Design for Tracking Platoon of Connected and Autonomous Vehicles**|Mohammadreza Doostmohammadian et.al.|[2501.18890](http://arxiv.org/abs/2501.18890)|null|
+|**2025-01-31**|**Fully Distributed and Quantized Algorithm for MPC-based Autonomous Vehicle Platooning Optimization**|Mohammadreza Doostmohammadian et.al.|[2501.18889](http://arxiv.org/abs/2501.18889)|null|
+|**2025-01-31**|**An Optimal Cascade Feature-Level Spatiotemporal Fusion Strategy for Anomaly Detection in CAN Bus**|Mohammad Fatahi et.al.|[2501.18821](http://arxiv.org/abs/2501.18821)|null|
 |**2025-01-28**|**Anomaly Detection in Cooperative Vehicle Perception Systems under Imperfect Communication**|Ashish Bastola et.al.|[2501.17329](http://arxiv.org/abs/2501.17329)|null|
 |**2025-01-25**|**Deep Multimodal Learning for Real-Time DDoS Attacks Detection in Internet of Vehicles**|Mohamed Ababsa et.al.|[2501.15252](http://arxiv.org/abs/2501.15252)|**[link](https://github.com/mohab1707/deep-multimodal-learning-for-real-time-ddos-attacks-detection-in-internet-of-vehicles)**|
 |**2025-01-24**|**Performance Evaluation of Satellite-Based Data Offloading on Starlink Constellations**|Alexander Bonora et.al.|[2501.14878](http://arxiv.org/abs/2501.14878)|null|
@@ -1014,6 +1017,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Quantum Internet Use Case Analysis for the Automotive Industry**|K. L. van der Enden et.al.|[2501.19070](http://arxiv.org/abs/2501.19070)|null|
+|**2025-01-30**|**Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift**|Yi Liu et.al.|[2501.18798](http://arxiv.org/abs/2501.18798)|null|
 |**2025-01-28**|**What Really Matters for Learning-based LiDAR-Camera Calibration**|Shujuan Huang et.al.|[2501.16969](http://arxiv.org/abs/2501.16969)|null|
 |**2025-01-28**|**Enhancing Web Service Anomaly Detection via Fine-grained Multi-modal Association and Frequency Domain Analysis**|Xixuan Yang et.al.|[2501.16875](http://arxiv.org/abs/2501.16875)|null|
 |**2025-01-27**|**Navigation Framework for Blind and Visually Impaired Persons based on Sensor Fusion**|Chathurika S. Silva et.al.|[2501.15819](http://arxiv.org/abs/2501.15819)|null|
@@ -2638,6 +2643,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Text Data Augmentation for Large Language Models: A Comprehensive Survey of Methods, Challenges, and Opportunities**|Yaping Chai et.al.|[2501.18845](http://arxiv.org/abs/2501.18845)|null|
 |**2025-01-30**|**Surface Defect Identification using Bayesian Filtering on a 3D Mesh**|Matteo Dalle Vedove et.al.|[2501.18315](http://arxiv.org/abs/2501.18315)|null|
 |**2025-01-30**|**Synthesizing Grasps and Regrasps for Complex Manipulation Tasks**|Aditya Patankar et.al.|[2501.18075](http://arxiv.org/abs/2501.18075)|null|
 |**2025-01-29**|**Visualization of Organ Movements Using Automatic Region Segmentation of Swallowing CT**|Yukihiro Michiwaki et.al.|[2501.17897](http://arxiv.org/abs/2501.17897)|null|
