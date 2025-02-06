@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Accurate AI-Driven Emergency Vehicle Location Tracking in Healthcare ITS Digital Twin**|Sarah Al-Shareeda et.al.|[2502.03396](http://arxiv.org/abs/2502.03396)|null|
+|**2025-02-04**|**AIoT-based smart traffic management system**|Ahmed Mahmoud Elbasha et.al.|[2502.02821](http://arxiv.org/abs/2502.02821)|null|
 |**2025-02-04**|**TUMTraffic-VideoQA: A Benchmark for Unified Spatio-Temporal Video Understanding in Traffic Scenes**|Xingcheng Zhou et.al.|[2502.02449](http://arxiv.org/abs/2502.02449)|null|
 |**2025-02-03**|**Preparing for Kyber in Securing Intelligent Transportation Systems Communications: A Case Study on Fault-Enabled Chosen-Ciphertext Attack**|Kaiyuan Zhang et.al.|[2502.01848](http://arxiv.org/abs/2502.01848)|null|
 |**2025-02-03**|**Performance Analysis of Optimized VANET Protocols in Real World Tests**|Jamal Toutouh et.al.|[2502.01537](http://arxiv.org/abs/2502.01537)|null|
@@ -1011,6 +1013,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692](http://arxiv.org/abs/2502.02692)|null|
+|**2025-02-04**|**NDKF: A Neural-Enhanced Distributed Kalman Filter for Nonlinear Multi-Sensor Estimation**|Siavash Farzan et.al.|[2502.02687](http://arxiv.org/abs/2502.02687)|null|
 |**2025-02-04**|**Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation**|George Whittle et.al.|[2502.02463](http://arxiv.org/abs/2502.02463)|null|
 |**2025-02-04**|**HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM**|Hanjun Kim et.al.|[2502.01946](http://arxiv.org/abs/2502.01946)|null|
 |**2025-02-03**|**Multi-Resolution SAR and Optical Remote Sensing Image Registration Methods: A Review, Datasets, and Future Perspectives**|Wenfei Zhang et.al.|[2502.01002](http://arxiv.org/abs/2502.01002)|null|
@@ -1623,6 +1627,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Human-Aligned Image Models Improve Visual Decoding from the Brain**|Nona Rajabi et.al.|[2502.03081](http://arxiv.org/abs/2502.03081)|null|
 |**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
 |**2025-01-27**|**Freestyle Sketch-in-the-Loop Image Segmentation**|Subhadeep Koley et.al.|[2501.16022](http://arxiv.org/abs/2501.16022)|null|
 |**2025-01-26**|**Zero-Shot Interactive Text-to-Image Retrieval via Diffusion-Augmented Representations**|Zijun Long et.al.|[2501.15379](http://arxiv.org/abs/2501.15379)|null|
@@ -2388,6 +2393,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|null|
 |**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
 |**2025-01-20**|**MIFNet: Learning Modality-Invariant Features for Generalizable Multimodal Image Matching**|Yepeng Liu et.al.|[2501.11299](http://arxiv.org/abs/2501.11299)|null|
@@ -2641,6 +2647,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**DES to HSC: Detecting low surface brightness galaxies in the Abell 194 cluster using transfer learning**|H. Thuruthipilly et.al.|[2502.03142](http://arxiv.org/abs/2502.03142)|null|
 |**2025-02-04**|**The SRG/eROSITA all-sky survey: The morphologies of clusters of galaxies I: A catalogue of morphological parameters**|J. S. Sanders et.al.|[2502.02239](http://arxiv.org/abs/2502.02239)|null|
 |**2025-02-04**|**SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**|Goodarz Mehr et.al.|[2502.01894](http://arxiv.org/abs/2502.01894)|null|
 |**2025-01-31**|**Text Data Augmentation for Large Language Models: A Comprehensive Survey of Methods, Challenges, and Opportunities**|Yaping Chai et.al.|[2501.18845](http://arxiv.org/abs/2501.18845)|null|
@@ -3382,7 +3389,7 @@ layout: default
 |**2025-01-27**|**Multi-view Structural Convolution Network for Domain-Invariant Point Cloud Recognition of Autonomous Vehicles**|Younggun Kim et.al.|[2501.16289](http://arxiv.org/abs/2501.16289)|**[link](https://github.com/mlmlab/mscn)**|
 |**2025-01-27**|**Navigation Framework for Blind and Visually Impaired Persons based on Sensor Fusion**|Chathurika S. Silva et.al.|[2501.15819](http://arxiv.org/abs/2501.15819)|null|
 |**2025-01-24**|**Glissando-Net: Deep sinGLe vIew category level poSe eStimation ANd 3D recOnstruction**|Bo Sun et.al.|[2501.14896](http://arxiv.org/abs/2501.14896)|null|
-|**2025-01-22**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
+|**2025-02-05**|**GS-LiDAR: Generating Realistic LiDAR Point Clouds with Panoramic Gaussian Splatting**|Junzhe Jiang et.al.|[2501.13971](http://arxiv.org/abs/2501.13971)|**[link](https://github.com/fudan-zvg/gs-lidar)**|
 |**2025-01-21**|**Procedural Generation of 3D Maize Plant Architecture from LIDAR Data**|Mozhgan Hadadi et.al.|[2501.13963](http://arxiv.org/abs/2501.13963)|null|
 |**2025-01-22**|**Manifold learning and optimization using tangent space proxies**|Ryan A. Robinett et.al.|[2501.12678](http://arxiv.org/abs/2501.12678)|null|
 |**2025-01-15**|**GOTLoc: General Outdoor Text-based Localization Using Scene Graph Retrieval with OpenStreetMap**|Donghwi Jung et.al.|[2501.08575](http://arxiv.org/abs/2501.08575)|**[link](https://github.com/donghwijung/gotloc)**|
