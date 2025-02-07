@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**An object detection approach for lane change and overtake detection from motion profiles**|Andrea Benericetti et.al.|[2502.04244](http://arxiv.org/abs/2502.04244)|null|
+|**2025-02-06**|**Safeguarding connected autonomous vehicle communication: Protocols, intra- and inter-vehicular attacks and defenses**|Mohammed Aledhari et.al.|[2502.04201](http://arxiv.org/abs/2502.04201)|null|
+|**2025-02-06**|**Spatiotemporal Trajectory Tracking Method for Vehicles Incorporating Lead-Lag Judgement**|Yuan Li et.al.|[2502.03974](http://arxiv.org/abs/2502.03974)|null|
 |**2025-02-05**|**Accurate AI-Driven Emergency Vehicle Location Tracking in Healthcare ITS Digital Twin**|Sarah Al-Shareeda et.al.|[2502.03396](http://arxiv.org/abs/2502.03396)|null|
 |**2025-02-04**|**AIoT-based smart traffic management system**|Ahmed Mahmoud Elbasha et.al.|[2502.02821](http://arxiv.org/abs/2502.02821)|null|
 |**2025-02-04**|**TUMTraffic-VideoQA: A Benchmark for Unified Spatio-Temporal Video Understanding in Traffic Scenes**|Xingcheng Zhou et.al.|[2502.02449](http://arxiv.org/abs/2502.02449)|null|
@@ -642,6 +645,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Bridging the inference gap in Mutimodal Variational Autoencoders**|Agathe Senellart et.al.|[2502.03952](http://arxiv.org/abs/2502.03952)|null|
 |**2025-02-04**|**Hier-EgoPack: Hierarchical Egocentric Video Understanding with Diverse Task Perspectives**|Simone Alberto Peirone et.al.|[2502.02487](http://arxiv.org/abs/2502.02487)|**[link](https://github.com/sapeirone/hier-egopack)**|
 |**2025-02-02**|**Predictive Information Decomposition as a Tool to Quantify Emergent Dynamical Behaviors In Physiological Networks**|Luca Faes et.al.|[2502.00945](http://arxiv.org/abs/2502.00945)|null|
 |**2025-01-29**|**Throwaway Accounts and Moderation on Reddit**|Cheng Guo et.al.|[2501.17430](http://arxiv.org/abs/2501.17430)|null|
@@ -1013,6 +1017,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Network-Wide Traffic Flow Estimation Across Multiple Cities with Global Open Multi-Source Data: A Large-Scale Case Study in Europe and North America**|Zijian Hu et.al.|[2502.03798](http://arxiv.org/abs/2502.03798)|null|
+|**2025-02-06**|**On the effects of angular acceleration in orientation estimation using inertial measurement units**|Felix Brändle et.al.|[2502.03681](http://arxiv.org/abs/2502.03681)|null|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692](http://arxiv.org/abs/2502.02692)|null|
 |**2025-02-04**|**NDKF: A Neural-Enhanced Distributed Kalman Filter for Nonlinear Multi-Sensor Estimation**|Siavash Farzan et.al.|[2502.02687](http://arxiv.org/abs/2502.02687)|null|
 |**2025-02-04**|**Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation**|George Whittle et.al.|[2502.02463](http://arxiv.org/abs/2502.02463)|null|
@@ -1627,6 +1633,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
 |**2025-02-05**|**Human-Aligned Image Models Improve Visual Decoding from the Brain**|Nona Rajabi et.al.|[2502.03081](http://arxiv.org/abs/2502.03081)|null|
 |**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
 |**2025-01-27**|**Freestyle Sketch-in-the-Loop Image Segmentation**|Subhadeep Koley et.al.|[2501.16022](http://arxiv.org/abs/2501.16022)|null|
@@ -2647,6 +2654,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**LeAP: Consistent multi-domain 3D labeling using Foundation Models**|Simon Gebraad et.al.|[2502.03901](http://arxiv.org/abs/2502.03901)|null|
+|**2025-02-06**|**Position: Untrained Machine Learning for Anomaly Detection**|Juan Du et.al.|[2502.03876](http://arxiv.org/abs/2502.03876)|null|
 |**2025-02-05**|**DES to HSC: Detecting low surface brightness galaxies in the Abell 194 cluster using transfer learning**|H. Thuruthipilly et.al.|[2502.03142](http://arxiv.org/abs/2502.03142)|null|
 |**2025-02-04**|**The SRG/eROSITA all-sky survey: The morphologies of clusters of galaxies I: A catalogue of morphological parameters**|J. S. Sanders et.al.|[2502.02239](http://arxiv.org/abs/2502.02239)|null|
 |**2025-02-04**|**SimBEV: A Synthetic Multi-Task Multi-Sensor Driving Data Generation Tool and Dataset**|Goodarz Mehr et.al.|[2502.01894](http://arxiv.org/abs/2502.01894)|null|
@@ -3383,6 +3392,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**LeAP: Consistent multi-domain 3D labeling using Foundation Models**|Simon Gebraad et.al.|[2502.03901](http://arxiv.org/abs/2502.03901)|null|
+|**2025-02-06**|**Position: Untrained Machine Learning for Anomaly Detection**|Juan Du et.al.|[2502.03876](http://arxiv.org/abs/2502.03876)|null|
 |**2025-01-30**|**Surface Defect Identification using Bayesian Filtering on a 3D Mesh**|Matteo Dalle Vedove et.al.|[2501.18315](http://arxiv.org/abs/2501.18315)|null|
 |**2025-01-30**|**Synthesizing Grasps and Regrasps for Complex Manipulation Tasks**|Aditya Patankar et.al.|[2501.18075](http://arxiv.org/abs/2501.18075)|null|
 |**2025-01-28**|**DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications**|Muhammad Shahbaz et.al.|[2501.17076](http://arxiv.org/abs/2501.17076)|null|
