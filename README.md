@@ -657,6 +657,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**WikiReddit: Tracing Information and Attention Flows Between Online Platforms**|Patrick Gildersleve et.al.|[2502.04942](http://arxiv.org/abs/2502.04942)|null|
+|**2025-02-06**|**Decomposing Multivariate Information Rates in Networks of Random Processes**|Laura Sparacino et.al.|[2502.04555](http://arxiv.org/abs/2502.04555)|null|
+|**2025-02-06**|**Partial Information Rate Decomposition**|Luca Faes et.al.|[2502.04550](http://arxiv.org/abs/2502.04550)|null|
 |**2025-02-06**|**Bridging the inference gap in Mutimodal Variational Autoencoders**|Agathe Senellart et.al.|[2502.03952](http://arxiv.org/abs/2502.03952)|null|
 |**2025-02-04**|**Hier-EgoPack: Hierarchical Egocentric Video Understanding with Diverse Task Perspectives**|Simone Alberto Peirone et.al.|[2502.02487](http://arxiv.org/abs/2502.02487)|**[link](https://github.com/sapeirone/hier-egopack)**|
 |**2025-02-02**|**Predictive Information Decomposition as a Tool to Quantify Emergent Dynamical Behaviors In Physiological Networks**|Luca Faes et.al.|[2502.00945](http://arxiv.org/abs/2502.00945)|null|
@@ -1031,6 +1034,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**The Role of Integrity Monitoring in Connected and Automated Vehicles: Current State-of-Practice and Future Directions**|Saswat Priyadarshi Nayak et.al.|[2502.04874](http://arxiv.org/abs/2502.04874)|null|
+|**2025-02-07**|**High-Speed Dynamic 3D Imaging with Sensor Fusion Splatting**|Zihao Zou et.al.|[2502.04630](http://arxiv.org/abs/2502.04630)|null|
 |**2025-02-06**|**Network-Wide Traffic Flow Estimation Across Multiple Cities with Global Open Multi-Source Data: A Large-Scale Case Study in Europe and North America**|Zijian Hu et.al.|[2502.03798](http://arxiv.org/abs/2502.03798)|null|
 |**2025-02-06**|**On the effects of angular acceleration in orientation estimation using inertial measurement units**|Felix Brändle et.al.|[2502.03681](http://arxiv.org/abs/2502.03681)|null|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692](http://arxiv.org/abs/2502.02692)|null|
@@ -2676,6 +2681,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127](http://arxiv.org/abs/2502.05127)|null|
+|**2025-02-07**|**Measuring SES-related traits relating to technology usage: Two validated surveys**|Chimdi Chikezie et.al.|[2502.04710](http://arxiv.org/abs/2502.04710)|null|
+|**2025-02-07**|**Neural Clustering for Prefractured Mesh Generation in Real-time Object Destruction**|Seunghwan Kim et.al.|[2502.04615](http://arxiv.org/abs/2502.04615)|null|
 |**2025-02-06**|**LeAP: Consistent multi-domain 3D labeling using Foundation Models**|Simon Gebraad et.al.|[2502.03901](http://arxiv.org/abs/2502.03901)|null|
 |**2025-02-06**|**Position: Untrained Machine Learning for Anomaly Detection**|Juan Du et.al.|[2502.03876](http://arxiv.org/abs/2502.03876)|null|
 |**2025-02-05**|**DES to HSC: Detecting low surface brightness galaxies in the Abell 194 cluster using transfer learning**|H. Thuruthipilly et.al.|[2502.03142](http://arxiv.org/abs/2502.03142)|null|
@@ -3416,6 +3424,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Neural Clustering for Prefractured Mesh Generation in Real-time Object Destruction**|Seunghwan Kim et.al.|[2502.04615](http://arxiv.org/abs/2502.04615)|null|
 |**2025-02-06**|**LeAP: Consistent multi-domain 3D labeling using Foundation Models**|Simon Gebraad et.al.|[2502.03901](http://arxiv.org/abs/2502.03901)|null|
 |**2025-02-06**|**Position: Untrained Machine Learning for Anomaly Detection**|Juan Du et.al.|[2502.03876](http://arxiv.org/abs/2502.03876)|null|
 |**2025-01-30**|**Surface Defect Identification using Bayesian Filtering on a 3D Mesh**|Matteo Dalle Vedove et.al.|[2501.18315](http://arxiv.org/abs/2501.18315)|null|
