@@ -24,7 +24,7 @@ layout: default
 |**2025-02-03**|**Performance Analysis of Optimized VANET Protocols in Real World Tests**|Jamal Toutouh et.al.|[2502.01537](http://arxiv.org/abs/2502.01537)|null|
 |**2025-02-03**|**MPTCP in Single Radio Access Networks: a Paradox or an Opportunity?**|João Torrinhas et.al.|[2502.01290](http://arxiv.org/abs/2502.01290)|null|
 |**2025-02-02**|**Understanding and Mitigating the High Computational Cost in Path Data Diffusion**|Dingyuan Shi et.al.|[2502.00725](http://arxiv.org/abs/2502.00725)|null|
-|**2025-02-01**|**FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps**|Maximilian Leitenstern et.al.|[2502.00395](http://arxiv.org/abs/2502.00395)|null|
+|**2025-02-01**|**FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps**|Maximilian Leitenstern et.al.|[2502.00395](http://arxiv.org/abs/2502.00395)|**[link](https://github.com/tumftm/flexcloud)**|
 |**2025-01-31**|**Distributed Observer Design for Tracking Platoon of Connected and Autonomous Vehicles**|Mohammadreza Doostmohammadian et.al.|[2501.18890](http://arxiv.org/abs/2501.18890)|null|
 |**2025-01-31**|**Fully Distributed and Quantized Algorithm for MPC-based Autonomous Vehicle Platooning Optimization**|Mohammadreza Doostmohammadian et.al.|[2501.18889](http://arxiv.org/abs/2501.18889)|null|
 |**2025-01-31**|**An Optimal Cascade Feature-Level Spatiotemporal Fusion Strategy for Anomaly Detection in CAN Bus**|Mohammad Fatahi et.al.|[2501.18821](http://arxiv.org/abs/2501.18821)|null|
@@ -1027,10 +1027,10 @@ layout: default
 |**2025-02-02**|**Environment-Driven Online LiDAR-Camera Extrinsic Calibration**|Zhiwei Huang et.al.|[2502.00801](http://arxiv.org/abs/2502.00801)|null|
 |**2025-02-02**|**Data Fusion for Full-Range Response Reconstruction via Diffusion Models**|Wingho Feng et.al.|[2502.00795](http://arxiv.org/abs/2502.00795)|null|
 |**2025-02-02**|**TMI-CLNet: Triple-Modal Interaction Network for Chronic Liver Disease Prognosis From Imaging, Clinical, and Radiomic Data Fusion**|Linglong Wu et.al.|[2502.00695](http://arxiv.org/abs/2502.00695)|null|
-|**2025-02-02**|**EKF-Based Radar-Inertial Odometry with Online Temporal Calibration**|Changseung Kim et.al.|[2502.00661](http://arxiv.org/abs/2502.00661)|null|
+|**2025-02-02**|**EKF-Based Radar-Inertial Odometry with Online Temporal Calibration**|Changseung Kim et.al.|[2502.00661](http://arxiv.org/abs/2502.00661)|**[link](https://github.com/spearwin/ekf-rio-tc)**|
 |**2025-02-01**|**DeepUKF-VIN: Adaptively-tuned Deep Unscented Kalman Filter for 3D Visual-Inertial Navigation based on IMU-Vision-Net**|Khashayar Ghanizadegan et.al.|[2502.00575](http://arxiv.org/abs/2502.00575)|null|
 |**2025-02-04**|**INSIGHT: Enhancing Autonomous Driving Safety through Vision-Language Models on Context-Aware Hazard Detection and Edge Case Evaluation**|Dianwei Chen et.al.|[2502.00262](http://arxiv.org/abs/2502.00262)|null|
-|**2025-01-31**|**CerraData-4MM: A multimodal benchmark dataset on Cerrado for land use and land cover classification**|Mateus de Souza Miranda et.al.|[2502.00083](http://arxiv.org/abs/2502.00083)|null|
+|**2025-01-31**|**CerraData-4MM: A multimodal benchmark dataset on Cerrado for land use and land cover classification**|Mateus de Souza Miranda et.al.|[2502.00083](http://arxiv.org/abs/2502.00083)|**[link](https://github.com/ai4luc/cerradata-4mm)**|
 |**2025-01-31**|**Quantum Internet Use Case Analysis for the Automotive Industry**|K. L. van der Enden et.al.|[2501.19070](http://arxiv.org/abs/2501.19070)|null|
 |**2025-01-30**|**Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift**|Yi Liu et.al.|[2501.18798](http://arxiv.org/abs/2501.18798)|null|
 |**2025-01-28**|**What Really Matters for Learning-based LiDAR-Camera Calibration**|Shujuan Huang et.al.|[2501.16969](http://arxiv.org/abs/2501.16969)|null|
@@ -1216,7 +1216,7 @@ layout: default
 |**2024-07-16**|**Accounting for Work Zone Disruptions in Traffic Flow Forecasting**|Yuanjie Lu et.al.|[2407.11407](http://arxiv.org/abs/2407.11407)|null|
 |**2024-07-15**|**Heterogenous Multi-Source Data Fusion Through Input Mapping and Latent Variable Gaussian Process**|Yigitcan Comlek et.al.|[2407.11268](http://arxiv.org/abs/2407.11268)|null|
 |**2024-07-12**|**Uplifting Range-View-based 3D Semantic Segmentation in Real-Time with Multi-Sensor Fusion**|Shiqi Tan et.al.|[2407.09697](http://arxiv.org/abs/2407.09697)|null|
-|**2024-07-11**|**The OPNV Data Collection: A Dataset for Infrastructure-Supported Perception Research with Focus on Public Transportation**|Marcel Vosshans et.al.|[2407.08261](http://arxiv.org/abs/2407.08261)|null|
+|**2024-07-11**|**The OPNV Data Collection: A Dataset for Infrastructure-Supported Perception Research with Focus on Public Transportation**|Marcel Vosshans et.al.|[2407.08261](http://arxiv.org/abs/2407.08261)|**[link](https://github.com/MarcelVSHNS/opnv-dataset)**|
 |**2024-07-08**|**Multi-Fidelity Bayesian Neural Network for Uncertainty Quantification in Transonic Aerodynamic Loads**|Andrea Vaiuso et.al.|[2407.05684](http://arxiv.org/abs/2407.05684)|null|
 |**2024-07-04**|**StreamLTS: Query-based Temporal-Spatial LiDAR Fusion for Cooperative Object Detection**|Yunshuang Yuan et.al.|[2407.03825](http://arxiv.org/abs/2407.03825)|**[link](https://github.com/yuanyunshuang/cosense3d)**|
 |**2024-07-04**|**ConPR: Ongoing Construction Site Dataset for Place Recognition**|Dongjae Lee et.al.|[2407.03684](http://arxiv.org/abs/2407.03684)|**[link](https://github.com/dongjae0107/conpr)**|
@@ -3212,7 +3212,7 @@ layout: default
 |**2024-03-25**|**Sparse inference in Poisson Log-Normal model by approximating the L0-norm**|Togo Jean Yves Kioye et.al.|[2403.17087](http://arxiv.org/abs/2403.17087)|null|
 |**2024-03-25**|**Precise characterisation of HD 15337 with CHEOPS: a laboratory for planet formation and evolution**|N. M. Rosário et.al.|[2403.16621](http://arxiv.org/abs/2403.16621)|null|
 |**2024-03-25**|**Towards Cooperative Maneuver Planning in Mixed Traffic at Urban Intersections**|Marvin Klimke et.al.|[2403.16478](http://arxiv.org/abs/2403.16478)|null|
-|**2024-03-25**|**Is There a One-Model-Fits-All Approach to Information Extraction? Revisiting Task Definition Biases**|Wenhao Huang et.al.|[2403.16396](http://arxiv.org/abs/2403.16396)|null|
+|**2024-03-25**|**Is There a One-Model-Fits-All Approach to Information Extraction? Revisiting Task Definition Biases**|Wenhao Huang et.al.|[2403.16396](http://arxiv.org/abs/2403.16396)|**[link](https://github.com/ez-hwh/definition-bias)**|
 |**2024-03-25**|**An image-computable model of speeded decision-making**|Paul I. Jaffe et.al.|[2403.16382](http://arxiv.org/abs/2403.16382)|**[link](https://github.com/pauljaffe/vam)**|
 |**2024-03-22**|**Modular Deep Active Learning Framework for Image Annotation: A Technical Report for the Ophthalmo-AI Project**|Md Abdul Kadir et.al.|[2403.15143](http://arxiv.org/abs/2403.15143)|null|
 |**2024-03-22**|**PseudoTouch: Efficiently Imaging the Surface Feel of Objects for Robotic Manipulation**|Adrian Röfer et.al.|[2403.15107](http://arxiv.org/abs/2403.15107)|null|
