@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Fine-Tuning Federated Learning-Based Intrusion Detection Systems for Transportation IoT**|Robert Akinie et.al.|[2502.06099](http://arxiv.org/abs/2502.06099)|null|
+|**2025-02-08**|**Toward Copyright Integrity and Verifiability via Multi-Bit Watermarking for Intelligent Transportation Systems**|Yihao Wang et.al.|[2502.05425](http://arxiv.org/abs/2502.05425)|null|
 |**2025-02-06**|**An object detection approach for lane change and overtake detection from motion profiles**|Andrea Benericetti et.al.|[2502.04244](http://arxiv.org/abs/2502.04244)|null|
 |**2025-02-06**|**Safeguarding connected autonomous vehicle communication: Protocols, intra- and inter-vehicular attacks and defenses**|Mohammed Aledhari et.al.|[2502.04201](http://arxiv.org/abs/2502.04201)|null|
 |**2025-02-06**|**Spatiotemporal Trajectory Tracking Method for Vehicles Incorporating Lead-Lag Judgement**|Yuan Li et.al.|[2502.03974](http://arxiv.org/abs/2502.03974)|null|
@@ -1034,6 +1036,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Fully Exploiting Vision Foundation Model's Profound Prior Knowledge for Generalizable RGB-Depth Driving Scene Parsing**|Sicen Guo et.al.|[2502.06219](http://arxiv.org/abs/2502.06219)|null|
+|**2025-02-09**|**Multi-modal Data Fusion and Deep Ensemble Learning for Accurate Crop Yield Prediction**|Akshay Dagadu Yewle et.al.|[2502.06062](http://arxiv.org/abs/2502.06062)|null|
+|**2025-02-09**|**Predictive Crash Analytics for Traffic Safety using Deep Learning**|Karthik Sivakoti et.al.|[2502.05777](http://arxiv.org/abs/2502.05777)|null|
+|**2025-02-07**|**Semiparametric Inference for Partially Identifiable Data Fusion Estimands via Double Machine Learning**|Yicong Jiang et.al.|[2502.05319](http://arxiv.org/abs/2502.05319)|null|
 |**2025-02-07**|**The Role of Integrity Monitoring in Connected and Automated Vehicles: Current State-of-Practice and Future Directions**|Saswat Priyadarshi Nayak et.al.|[2502.04874](http://arxiv.org/abs/2502.04874)|null|
 |**2025-02-07**|**High-Speed Dynamic 3D Imaging with Sensor Fusion Splatting**|Zihao Zou et.al.|[2502.04630](http://arxiv.org/abs/2502.04630)|null|
 |**2025-02-06**|**Network-Wide Traffic Flow Estimation Across Multiple Cities with Global Open Multi-Source Data: A Large-Scale Case Study in Europe and North America**|Zijian Hu et.al.|[2502.03798](http://arxiv.org/abs/2502.03798)|null|
@@ -1654,6 +1660,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-09**|**Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education**|Yanhao Jia et.al.|[2502.05863](http://arxiv.org/abs/2502.05863)|null|
 |**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
 |**2025-02-05**|**Human-Aligned Image Models Improve Visual Decoding from the Brain**|Nona Rajabi et.al.|[2502.03081](http://arxiv.org/abs/2502.03081)|null|
 |**2025-02-03**|**ConceptVAE: Self-Supervised Fine-Grained Concept Disentanglement from 2D Echocardiographies**|Costin F. Ciusdel et.al.|[2502.01335](http://arxiv.org/abs/2502.01335)|null|
@@ -2425,6 +2432,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Matteo Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|null|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
 |**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
@@ -2681,6 +2689,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-08**|**4D VQ-GAN: Synthesising Medical Scans at Any Time Point for Personalised Disease Progression Modelling of Idiopathic Pulmonary Fibrosis**|An Zhao et.al.|[2502.05713](http://arxiv.org/abs/2502.05713)|null|
+|**2025-02-08**|**4DR P2T: 4D Radar Tensor Synthesis with Point Clouds**|Woo-Jin Jung et.al.|[2502.05550](http://arxiv.org/abs/2502.05550)|null|
 |**2025-02-07**|**Self-supervised Conformal Prediction for Uncertainty Quantification in Imaging Problems**|Jasper M. Everink et.al.|[2502.05127](http://arxiv.org/abs/2502.05127)|null|
 |**2025-02-07**|**Measuring SES-related traits relating to technology usage: Two validated surveys**|Chimdi Chikezie et.al.|[2502.04710](http://arxiv.org/abs/2502.04710)|null|
 |**2025-02-07**|**Neural Clustering for Prefractured Mesh Generation in Real-time Object Destruction**|Seunghwan Kim et.al.|[2502.04615](http://arxiv.org/abs/2502.04615)|null|
@@ -3424,6 +3434,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-08**|**4DR P2T: 4D Radar Tensor Synthesis with Point Clouds**|Woo-Jin Jung et.al.|[2502.05550](http://arxiv.org/abs/2502.05550)|null|
 |**2025-02-07**|**Neural Clustering for Prefractured Mesh Generation in Real-time Object Destruction**|Seunghwan Kim et.al.|[2502.04615](http://arxiv.org/abs/2502.04615)|null|
 |**2025-02-06**|**LeAP: Consistent multi-domain 3D labeling using Foundation Models**|Simon Gebraad et.al.|[2502.03901](http://arxiv.org/abs/2502.03901)|null|
 |**2025-02-06**|**Position: Untrained Machine Learning for Anomaly Detection**|Juan Du et.al.|[2502.03876](http://arxiv.org/abs/2502.03876)|null|
