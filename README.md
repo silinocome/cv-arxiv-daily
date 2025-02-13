@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**AdvSwap: Covert Adversarial Perturbation with High Frequency Info-swapping for Autonomous Driving Perception**|Yuanhao Huang et.al.|[2502.08374](http://arxiv.org/abs/2502.08374)|null|
+|**2025-02-07**|**CP-Guard+: A New Paradigm for Malicious Agent Detection and Defense in Collaborative Perception**|Senkang Hu et.al.|[2502.07807](http://arxiv.org/abs/2502.07807)|null|
 |**2025-02-11**|**Fast-COS: A Fast One-Stage Object Detector Based on Reparameterized Attention Vision Transformer for Autonomous Driving**|Novendra Setyawan et.al.|[2502.07417](http://arxiv.org/abs/2502.07417)|null|
 |**2025-02-11**|**USRNet: Unified Scene Recovery Network for Enhancing Traffic Imaging under Multiple Adverse Weather Conditions**|Yuxu Lu et.al.|[2502.07372](http://arxiv.org/abs/2502.07372)|null|
 |**2025-02-10**|**Task Offloading in Vehicular Edge Computing using Deep Reinforcement Learning: A Survey**|Ashab Uddin et.al.|[2502.06963](http://arxiv.org/abs/2502.06963)|null|
@@ -1040,6 +1042,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**A Novel Approach to for Multimodal Emotion Recognition : Multimodal semantic information fusion**|Wei Dai et.al.|[2502.08573](http://arxiv.org/abs/2502.08573)|null|
 |**2025-02-09**|**AI-Driven HSI: Multimodality, Fusion, Challenges, and the Deep Learning Revolution**|David S. Bhatti et.al.|[2502.06894](http://arxiv.org/abs/2502.06894)|null|
 |**2025-02-10**|**Fully Exploiting Vision Foundation Model's Profound Prior Knowledge for Generalizable RGB-Depth Driving Scene Parsing**|Sicen Guo et.al.|[2502.06219](http://arxiv.org/abs/2502.06219)|null|
 |**2025-02-09**|**Multi-modal Data Fusion and Deep Ensemble Learning for Accurate Crop Yield Prediction**|Akshay Dagadu Yewle et.al.|[2502.06062](http://arxiv.org/abs/2502.06062)|null|
@@ -1665,6 +1668,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions**|Prajwal Gatti et.al.|[2502.08438](http://arxiv.org/abs/2502.08438)|null|
+|**2025-02-11**|**Captured by Captions: On Memorization and its Mitigation in CLIP Models**|Wenhao Wang et.al.|[2502.07830](http://arxiv.org/abs/2502.07830)|null|
 |**2025-02-11**|**Ultrafast 4D scanning transmission electron microscopy for imaging of localized optical fields**|Petr Koutenský et.al.|[2502.07338](http://arxiv.org/abs/2502.07338)|null|
 |**2025-02-11**|**Generative Ghost: Investigating Ranking Bias Hidden in AI-Generated Videos**|Haowen Gao et.al.|[2502.07327](http://arxiv.org/abs/2502.07327)|null|
 |**2025-02-11**|**PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval**|Osman Tursun et.al.|[2502.07215](http://arxiv.org/abs/2502.07215)|null|
@@ -2698,6 +2703,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Network Goodness-of-Fit for the block-model family**|Jiashun Jin et.al.|[2502.08609](http://arxiv.org/abs/2502.08609)|null|
+|**2025-02-12**|**BCDDM: Branch-Corrected Denoising Diffusion Model for Black Hole Image Generation**|Ao liu et.al.|[2502.08528](http://arxiv.org/abs/2502.08528)|null|
 |**2025-02-11**|**Advancing climate model interpretability: Feature attribution for Arctic melt anomalies**|Tolulope Ale et.al.|[2502.07741](http://arxiv.org/abs/2502.07741)|null|
 |**2025-02-11**|**Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement**|Zijie Wu et.al.|[2502.07680](http://arxiv.org/abs/2502.07680)|null|
 |**2025-02-11**|**Automated Road Extraction and Centreline Fitting in LiDAR Point Clouds**|Xinyu Wang et.al.|[2502.07486](http://arxiv.org/abs/2502.07486)|null|
