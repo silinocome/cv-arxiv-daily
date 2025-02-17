@@ -1041,7 +1041,7 @@ layout: default
 |**2025-02-06**|**Network-Wide Traffic Flow Estimation Across Multiple Cities with Global Open Multi-Source Data: A Large-Scale Case Study in Europe and North America**|Zijian Hu et.al.|[2502.03798](http://arxiv.org/abs/2502.03798)|null|
 |**2025-02-06**|**On the effects of angular acceleration in orientation estimation using inertial measurement units**|Felix Brändle et.al.|[2502.03681](http://arxiv.org/abs/2502.03681)|null|
 |**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692](http://arxiv.org/abs/2502.02692)|null|
-|**2025-02-04**|**NDKF: A Neural-Enhanced Distributed Kalman Filter for Nonlinear Multi-Sensor Estimation**|Siavash Farzan et.al.|[2502.02687](http://arxiv.org/abs/2502.02687)|null|
+|**2025-02-04**|**NDKF: A Neural-Enhanced Distributed Kalman Filter for Nonlinear Multi-Sensor Estimation**|Siavash Farzan et.al.|[2502.02687](http://arxiv.org/abs/2502.02687)|**[link](https://github.com/sfarzan/NDKF)**|
 |**2025-02-04**|**Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation**|George Whittle et.al.|[2502.02463](http://arxiv.org/abs/2502.02463)|null|
 |**2025-02-04**|**HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM**|Hanjun Kim et.al.|[2502.01946](http://arxiv.org/abs/2502.01946)|null|
 |**2025-02-03**|**Multi-Resolution SAR and Optical Remote Sensing Image Registration Methods: A Review, Datasets, and Future Perspectives**|Wenfei Zhang et.al.|[2502.01002](http://arxiv.org/abs/2502.01002)|null|
@@ -1674,7 +1674,7 @@ layout: default
 |**2025-01-19**|**Enhancing Sample Utilization in Noise-Robust Deep Metric Learning With Subgroup-Based Positive-Pair Selection**|Zhipeng Yu et.al.|[2501.11063](http://arxiv.org/abs/2501.11063)|**[link](https://github.com/smuelpeng/sgps-noisefreedml)**|
 |**2025-01-18**|**A Resource-Efficient Training Framework for Remote Sensing Text--Image Retrieval**|Weihang Zhang et.al.|[2501.10638](http://arxiv.org/abs/2501.10638)|null|
 |**2025-01-17**|**FLORA: Formal Language Model Enables Robust Training-free Zero-shot Object Referring Analysis**|Zhe Chen et.al.|[2501.09887](http://arxiv.org/abs/2501.09887)|null|
-|**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|null|
+|**2025-01-15**|**Vision Foundation Models for Computed Tomography**|Suraj Pai et.al.|[2501.09001](http://arxiv.org/abs/2501.09001)|**[link](https://github.com/project-lighter/lighter)**|
 |**2025-01-12**|**SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval**|Bhavin Jawade et.al.|[2501.08347](http://arxiv.org/abs/2501.08347)|null|
 |**2025-01-12**|**Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation**|Zhenyang Feng et.al.|[2501.06749](http://arxiv.org/abs/2501.06749)|null|
 |**2025-01-06**|**Integrating Language-Image Prior into EEG Decoding for Cross-Task Zero-Calibration RSVP-BCI**|Xujin Li et.al.|[2501.02841](http://arxiv.org/abs/2501.02841)|null|
@@ -1802,7 +1802,7 @@ layout: default
 |**2024-08-21**|**FUSELOC: Fusing Global and Local Descriptors to Disambiguate 2D-3D Matching in Visual Localization**|Son Tung Nguyen et.al.|[2408.12037](http://arxiv.org/abs/2408.12037)|**[link](https://github.com/sontung/descriptor-disambiguation)**|
 |**2024-08-21**|**Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations**|Lintong Zhang et.al.|[2408.11966](http://arxiv.org/abs/2408.11966)|null|
 |**2024-08-21**|**UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation**|Xiangyu Zhao et.al.|[2408.11305](http://arxiv.org/abs/2408.11305)|**[link](https://github.com/xiangyu-mm/unifashion)**|
-|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|null|
+|**2024-08-20**|**GSLoc: Efficient Camera Pose Refinement via 3D Gaussian Splatting**|Changkun Liu et.al.|[2408.11085](http://arxiv.org/abs/2408.11085)|**[link](https://github.com/XRIM-Lab/GS-CPR)**|
 |**2024-08-19**|**BrewCLIP: A Bifurcated Representation Learning Framework for Audio-Visual Retrieval**|Zhenyu Lu et.al.|[2408.10383](http://arxiv.org/abs/2408.10383)|null|
 |**2024-08-23**|**Fashion Image-to-Image Translation for Complementary Item Retrieval**|Matteo Attimonelli et.al.|[2408.09847](http://arxiv.org/abs/2408.09847)|**[link](https://github.com/sisinflab/geco)**|
 |**2024-08-20**|**MambaLoc: Efficient Camera Localisation via State Space Model**|Jialu Wang et.al.|[2408.09680](http://arxiv.org/abs/2408.09680)|null|
