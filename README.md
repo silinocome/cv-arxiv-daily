@@ -24,6 +24,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain**|Tong Xu et.al.|[2502.11426](http://arxiv.org/abs/2502.11426)|null|
+|**2025-02-16**|**Leveraging Multimodal-LLMs Assisted by Instance Segmentation for Intelligent Traffic Monitoring**|Murat Arda Onsu et.al.|[2502.11304](http://arxiv.org/abs/2502.11304)|null|
+|**2025-02-15**|**Non-Negotiated Implicit ETSI VAM Clustering**|Felipe Valle et.al.|[2502.10617](http://arxiv.org/abs/2502.10617)|null|
 |**2025-02-14**|**RoadFed: A Multimodal Federated Learning System for Improving Road Safety**|Yachao Yuan et.al.|[2502.09978](http://arxiv.org/abs/2502.09978)|null|
 |**2025-02-12**|**AdvSwap: Covert Adversarial Perturbation with High Frequency Info-swapping for Autonomous Driving Perception**|Yuanhao Huang et.al.|[2502.08374](http://arxiv.org/abs/2502.08374)|null|
 |**2025-02-07**|**CP-Guard+: A New Paradigm for Malicious Agent Detection and Defense in Collaborative Perception**|Senkang Hu et.al.|[2502.07807](http://arxiv.org/abs/2502.07807)|null|
@@ -665,6 +668,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Information Sharing Among Countries: A Perspective from Country-Specific Websites in Global Brands**|Amit Pariyar et.al.|[2502.11695](http://arxiv.org/abs/2502.11695)|null|
+|**2025-02-16**|**Scalable Multi-Agent Offline Reinforcement Learning and the Role of Information**|Riccardo Zamboni et.al.|[2502.11260](http://arxiv.org/abs/2502.11260)|null|
 |**2025-02-11**|**Distributed Coverage Control for Time-Varying Spatial Processes**|Federico Pratissoli et.al.|[2502.07595](http://arxiv.org/abs/2502.07595)|null|
 |**2025-02-07**|**WikiReddit: Tracing Information and Attention Flows Between Online Platforms**|Patrick Gildersleve et.al.|[2502.04942](http://arxiv.org/abs/2502.04942)|**[link](https://github.com/pgilders/wikireddit)**|
 |**2025-02-06**|**Decomposing Multivariate Information Rates in Networks of Random Processes**|Laura Sparacino et.al.|[2502.04555](http://arxiv.org/abs/2502.04555)|null|
@@ -1043,6 +1048,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**Multi-view 3D surface reconstruction from SAR images by inverse rendering**|Emile Barbier--Renard et.al.|[2502.10492](http://arxiv.org/abs/2502.10492)|null|
 |**2025-02-13**|**Evolution of Data-driven Single- and Multi-Hazard Susceptibility Mapping and Emergence of Deep Learning Methods**|Jaya Sreevalsan-Nair et.al.|[2502.09045](http://arxiv.org/abs/2502.09045)|null|
 |**2025-02-13**|**Data Sensor Fusion In Digital Twin Technology For Enhanced Capabilities In A Home Environment**|Benjamin Momoh et.al.|[2502.08874](http://arxiv.org/abs/2502.08874)|null|
 |**2025-02-12**|**A Novel Approach to for Multimodal Emotion Recognition : Multimodal semantic information fusion**|Wei Dai et.al.|[2502.08573](http://arxiv.org/abs/2502.08573)|null|
@@ -1671,6 +1677,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Descriminative-Generative Custom Tokens for Vision-Language Models**|Pramuditha Perera et.al.|[2502.12095](http://arxiv.org/abs/2502.12095)|null|
+|**2025-02-17**|**ILIAS: Instance-Level Image retrieval At Scale**|Giorgos Kordopatis-Zilos et.al.|[2502.11748](http://arxiv.org/abs/2502.11748)|null|
+|**2025-02-17**|**Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics**|Francesco Croce et.al.|[2502.11725](http://arxiv.org/abs/2502.11725)|null|
+|**2025-02-17**|**Precise GPS-Denied UAV Self-Positioning via Context-Enhanced Cross-View Geo-Localization**|Yuanze Xu et.al.|[2502.11408](http://arxiv.org/abs/2502.11408)|null|
+|**2025-02-12**|**E2LVLM:Evidence-Enhanced Large Vision-Language Model for Multimodal Out-of-Context Misinformation Detection**|Junjie Wu et.al.|[2502.10455](http://arxiv.org/abs/2502.10455)|null|
 |**2025-02-11**|**Imit Diff: Semantics Guided Diffusion Transformer with Dual Resolution Fusion for Imitation Learning**|Yuhang Dong et.al.|[2502.09649](http://arxiv.org/abs/2502.09649)|null|
 |**2025-02-13**|**ImageRAG: Dynamic Image Retrieval for Reference-Guided Image Generation**|Rotem Shalev-Arkushin et.al.|[2502.09411](http://arxiv.org/abs/2502.09411)|null|
 |**2025-02-12**|**SpeechCompass: Enhancing Mobile Captioning with Diarization and Directional Guidance via Multi-Microphone Localization**|Artem Dementyev et.al.|[2502.08848](http://arxiv.org/abs/2502.08848)|null|
@@ -2452,6 +2463,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|null|
 |**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
@@ -2709,6 +2721,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**BS-Breath: Respiration Sensing with Cell-free Massive MIMO**|Haoqiu Xiong et.al.|[2502.12114](http://arxiv.org/abs/2502.12114)|null|
+|**2025-02-17**|**Deep Subspace Learning for Surface Anomaly Classification Based on 3D Point Cloud Data**|Xuanming Cao et.al.|[2502.11669](http://arxiv.org/abs/2502.11669)|null|
+|**2025-02-17**|**Cheesemap: A High-Performance Point-Indexing Data Structure for Neighbor~Search in LiDAR Data**|Ruben Laso et.al.|[2502.11602](http://arxiv.org/abs/2502.11602)|null|
+|**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461](http://arxiv.org/abs/2502.11461)|null|
+|**2025-02-17**|**Advances in Bayesian Modeling: Applications and Methods**|Yifei Yan et.al.|[2502.11321](http://arxiv.org/abs/2502.11321)|null|
+|**2025-02-16**|**Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection**|Jiaxiang Wang et.al.|[2502.11307](http://arxiv.org/abs/2502.11307)|null|
+|**2025-02-16**|**Deep Contrastive Learning for Feature Alignment: Insights from Housing-Household Relationship Inference**|Xiao Qian et.al.|[2502.11205](http://arxiv.org/abs/2502.11205)|null|
 |**2025-02-11**|**GraphCompNet: A Position-Aware Model for Predicting and Compensating Shape Deviations in 3D Printing**|Lei et.al.|[2502.09652](http://arxiv.org/abs/2502.09652)|null|
 |**2025-02-13**|**Star-crossed Clusters: Asteroseismic Ages for Individual Stars are in Tension with the Ages of their Host Clusters**|Jamie Tayar et.al.|[2502.09582](http://arxiv.org/abs/2502.09582)|null|
 |**2025-02-13**|**Training Trajectory Predictors Without Ground-Truth Data**|Mikolaj Kliniewski et.al.|[2502.08957](http://arxiv.org/abs/2502.08957)|null|
@@ -3463,6 +3482,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Deep Subspace Learning for Surface Anomaly Classification Based on 3D Point Cloud Data**|Xuanming Cao et.al.|[2502.11669](http://arxiv.org/abs/2502.11669)|null|
+|**2025-02-17**|**Cheesemap: A High-Performance Point-Indexing Data Structure for Neighbor~Search in LiDAR Data**|Ruben Laso et.al.|[2502.11602](http://arxiv.org/abs/2502.11602)|null|
+|**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461](http://arxiv.org/abs/2502.11461)|null|
+|**2025-02-16**|**Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection**|Jiaxiang Wang et.al.|[2502.11307](http://arxiv.org/abs/2502.11307)|null|
 |**2025-02-11**|**GraphCompNet: A Position-Aware Model for Predicting and Compensating Shape Deviations in 3D Printing**|Lei et.al.|[2502.09652](http://arxiv.org/abs/2502.09652)|null|
 |**2025-02-11**|**Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement**|Zijie Wu et.al.|[2502.07680](http://arxiv.org/abs/2502.07680)|null|
 |**2025-02-11**|**Blind Eye: Motion and Obstacle Detection Leveraging Wi-Fi**|Aditya Mitra et.al.|[2502.07493](http://arxiv.org/abs/2502.07493)|null|
