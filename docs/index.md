@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.21
+## Updated on 2025.02.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-19**|**Mixed Signals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration**|Katie Z Luo et.al.|[2502.14156](http://arxiv.org/abs/2502.14156)|null|
-|**2025-02-19**|**PedDet: Adaptive Spectral Optimization for Multimodal Pedestrian Detection**|Rui Zhao et.al.|[2502.14063](http://arxiv.org/abs/2502.14063)|null|
+|**2025-02-19**|**PedDet: Adaptive Spectral Optimization for Multimodal Pedestrian Detection**|Rui Zhao et.al.|[2502.14063](http://arxiv.org/abs/2502.14063)|**[link](https://github.com/AIGeeksGroup/PedDet)**|
 |**2025-02-19**|**SegRet: An Efficient Design for Semantic Segmentation with Retentive Network**|Zhiyuan Li et.al.|[2502.14014](http://arxiv.org/abs/2502.14014)|null|
 |**2025-02-18**|**Communication Strategy on Macro-and-Micro Traffic State in Cooperative Deep Reinforcement Learning for Regional Traffic Signal Control**|Hankang Gu et.al.|[2502.13248](http://arxiv.org/abs/2502.13248)|null|
 |**2025-02-18**|**Simulated Bifurcation with High-dimensional Expansion for Traffic Signal Optimization on Real-world Networks**|Shengda Zhao et.al.|[2502.12440](http://arxiv.org/abs/2502.12440)|null|
