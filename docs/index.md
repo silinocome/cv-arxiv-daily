@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-19**|**Mixed Signals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration**|Katie Z Luo et.al.|[2502.14156](http://arxiv.org/abs/2502.14156)|null|
 |**2025-02-19**|**PedDet: Adaptive Spectral Optimization for Multimodal Pedestrian Detection**|Rui Zhao et.al.|[2502.14063](http://arxiv.org/abs/2502.14063)|**[link](https://github.com/AIGeeksGroup/PedDet)**|
-|**2025-02-19**|**SegRet: An Efficient Design for Semantic Segmentation with Retentive Network**|Zhiyuan Li et.al.|[2502.14014](http://arxiv.org/abs/2502.14014)|null|
+|**2025-02-19**|**SegRet: An Efficient Design for Semantic Segmentation with Retentive Network**|Zhiyuan Li et.al.|[2502.14014](http://arxiv.org/abs/2502.14014)|**[link](https://github.com/zhiyuanli218/segret)**|
 |**2025-02-18**|**Communication Strategy on Macro-and-Micro Traffic State in Cooperative Deep Reinforcement Learning for Regional Traffic Signal Control**|Hankang Gu et.al.|[2502.13248](http://arxiv.org/abs/2502.13248)|null|
 |**2025-02-18**|**Simulated Bifurcation with High-dimensional Expansion for Traffic Signal Optimization on Real-world Networks**|Shengda Zhao et.al.|[2502.12440](http://arxiv.org/abs/2502.12440)|null|
 |**2025-02-17**|**Verti-Bench: A General and Scalable Off-Road Mobility Benchmark for Vertically Challenging Terrain**|Tong Xu et.al.|[2502.11426](http://arxiv.org/abs/2502.11426)|null|
@@ -801,7 +801,7 @@ layout: default
 |**2024-06-03**|**Hybrid-Learning Video Moment Retrieval across Multi-Domain Labels**|Weitong Cai et.al.|[2406.01791](http://arxiv.org/abs/2406.01791)|null|
 |**2024-06-07**|**Partial Information Decomposition for Data Interpretability and Feature Selection**|Charles Westphal et.al.|[2405.19212](http://arxiv.org/abs/2405.19212)|null|
 |**2024-05-27**|**Bayesian Nonparametrics for Principal Stratification with Continuous Post-Treatment Variables**|Dafne Zorzetto et.al.|[2405.17669](http://arxiv.org/abs/2405.17669)|null|
-|**2024-05-24**|**eQMARL: Entangled Quantum Multi-Agent Reinforcement Learning for Distributed Cooperation over Quantum Channels**|Alexander DeRieux et.al.|[2405.17486](http://arxiv.org/abs/2405.17486)|null|
+|**2024-05-24**|**eQMARL: Entangled Quantum Multi-Agent Reinforcement Learning for Distributed Cooperation over Quantum Channels**|Alexander DeRieux et.al.|[2405.17486](http://arxiv.org/abs/2405.17486)|**[link](https://github.com/news-vt/eqmarl)**|
 |**2024-05-23**|**Quantifying Multivariate Graph Dependencies: Theory and Estimation for Multiplex Graphs**|Anda Skeja et.al.|[2405.14482](http://arxiv.org/abs/2405.14482)|null|
 |**2024-05-23**|**Bayesian optimisation with improved information sharing for the variational quantum eigensolver**|Milena Röhrs et.al.|[2405.14353](http://arxiv.org/abs/2405.14353)|**[link](https://github.com/milena-roehrs/bois-with-immediate-sharing)**|
 |**2024-05-21**|**Exact predicates, exact constructions and combinatorics for mesh CSG**|Bruno Lévy et.al.|[2405.12949](http://arxiv.org/abs/2405.12949)|null|
@@ -1345,7 +1345,7 @@ layout: default
 |**2024-03-19**|**FUELVISION: A Multimodal Data Fusion and Multimodel Ensemble Algorithm for Wildfire Fuels Mapping**|Riyaaz Uddien Shaik et.al.|[2403.15462](http://arxiv.org/abs/2403.15462)|null|
 |**2024-03-21**|**Geom-DeepONet: A Point-cloud-based Deep Operator Network for Field Predictions on 3D Parameterized Geometries**|Junyan He et.al.|[2403.14788](http://arxiv.org/abs/2403.14788)|null|
 |**2024-03-20**|**DBA-Fusion: Tightly Integrating Deep Dense Visual Bundle Adjustment with Multiple Sensors for Large-Scale Localization and Mapping**|Yuxuan Zhou et.al.|[2403.13714](http://arxiv.org/abs/2403.13714)|**[link](https://github.com/great-whu/dba-fusion)**|
-|**2024-03-20**|**HyperFusion: A Hypernetwork Approach to Multimodal Integration of Tabular and Medical Imaging Data for Predictive Modeling**|Daniel Duenias et.al.|[2403.13319](http://arxiv.org/abs/2403.13319)|null|
+|**2024-03-20**|**HyperFusion: A Hypernetwork Approach to Multimodal Integration of Tabular and Medical Imaging Data for Predictive Modeling**|Daniel Duenias et.al.|[2403.13319](http://arxiv.org/abs/2403.13319)|**[link](https://github.com/daniel4725/hyperfusion)**|
 |**2024-03-19**|**On Designing Consistent Covariance Recovery from a Deep Learning Visual Odometry Engine**|Jagatpreet Singh Nir et.al.|[2403.13170](http://arxiv.org/abs/2403.13170)|null|
 |**2024-03-19**|**Opti-Acoustic Semantic SLAM with Unknown Objects in Underwater Environments**|Kurran Singh et.al.|[2403.12837](http://arxiv.org/abs/2403.12837)|null|
 |**2024-03-20**|**Multimodal Fusion Method with Spatiotemporal Sequences and Relationship Learning for Valence-Arousal Estimation**|Jun Yu et.al.|[2403.12425](http://arxiv.org/abs/2403.12425)|null|
@@ -2712,7 +2712,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-20**|**Outlier Detection in Mendelian Randomisation**|Maximilian M Mandl et.al.|[2502.14716](http://arxiv.org/abs/2502.14716)|null|
+|**2025-02-20**|**Outlier Detection in Mendelian Randomisation**|Maximilian M Mandl et.al.|[2502.14716](http://arxiv.org/abs/2502.14716)|**[link](https://github.com/mmax-code/MR_outliers)**|
 |**2025-02-19**|**Learning the P2D Model for Lithium-Ion Batteries with SOH Detection**|Maricela Best McKay et.al.|[2502.14147](http://arxiv.org/abs/2502.14147)|null|
 |**2025-02-19**|**Benchmarking Self-Supervised Methods for Accelerated MRI Reconstruction**|Andrew Wang et.al.|[2502.14009](http://arxiv.org/abs/2502.14009)|null|
 |**2025-02-18**|**Geometry-Aware Diffusion Models for Multiview Scene Inpainting**|Ahmad Salimi et.al.|[2502.13335](http://arxiv.org/abs/2502.13335)|null|
@@ -2768,7 +2768,7 @@ layout: default
 |**2025-01-22**|**The AGILE space mission: an Italian success story and its legacy for future space astronomy**|Carlotta Pittori et.al.|[2501.12970](http://arxiv.org/abs/2501.12970)|null|
 |**2025-01-22**|**Manifold learning and optimization using tangent space proxies**|Ryan A. Robinett et.al.|[2501.12678](http://arxiv.org/abs/2501.12678)|null|
 |**2025-01-20**|**Tracing the galaxy-halo connection with galaxy clustering in COSMOS-Web from z = 0.1 to z ~ 12**|Louise Paquereau et.al.|[2501.11674](http://arxiv.org/abs/2501.11674)|null|
-|**2025-01-20**|**Verifying Cross-modal Entity Consistency in News using Vision-language Models**|Sahar Tahmasebi et.al.|[2501.11403](http://arxiv.org/abs/2501.11403)|null|
+|**2025-01-20**|**Verifying Cross-modal Entity Consistency in News using Vision-language Models**|Sahar Tahmasebi et.al.|[2501.11403](http://arxiv.org/abs/2501.11403)|**[link](https://github.com/tibhannover/lvlm4cec)**|
 |**2025-01-20**|**Leveraging GANs For Active Appearance Models Optimized Model Fitting**|Anurag Awasthi et.al.|[2501.11218](http://arxiv.org/abs/2501.11218)|null|
 |**2025-01-18**|**The outer gravitational potential of an inhomogeneous torus with an elliptical cross-section**|Elena Bannikova et.al.|[2501.10771](http://arxiv.org/abs/2501.10771)|null|
 |**2025-01-16**|**CrossModalityDiffusion: Multi-Modal Novel View Synthesis with Unified Intermediate Representation**|Alex Berian et.al.|[2501.09838](http://arxiv.org/abs/2501.09838)|**[link](https://github.com/alexberian/crossmodalitydiffusion)**|
@@ -3009,7 +3009,7 @@ layout: default
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|Yunze Man et.al.|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**Triple trouble with PSR J1618-3921: Mass measurements and orbital dynamics of an eccentric millisecond pulsar**|K. Grunthal et.al.|[2409.03615](http://arxiv.org/abs/2409.03615)|null|
 |**2024-09-05**|**Non-stationary and Sparsely-correlated Multi-output Gaussian Process with Spike-and-Slab Prior**|Wang Xinming et.al.|[2409.03149](http://arxiv.org/abs/2409.03149)|null|
-|**2024-09-03**|**The Atacama Cosmology Telescope: Multi-probe cosmology with unWISE galaxies and ACT DR6 CMB lensing**|Gerrit S. Farren et.al.|[2409.02109](http://arxiv.org/abs/2409.02109)|null|
+|**2024-09-03**|**The Atacama Cosmology Telescope: Multi-probe cosmology with unWISE galaxies and ACT DR6 CMB lensing**|Gerrit S. Farren et.al.|[2409.02109](http://arxiv.org/abs/2409.02109)|**[link](https://github.com/actcollaboration/unwisexlens_lklh)**|
 |**2024-09-03**|**Modeling IoT Traffic Patterns: Insights from a Statistical Analysis of an MTC Dataset**|David E. Ruiz-Guirola et.al.|[2409.01932](http://arxiv.org/abs/2409.01932)|null|
 |**2024-09-03**|**UWStereo: A Large Synthetic Dataset for Underwater Stereo Matching**|Qingxuan Lv et.al.|[2409.01782](http://arxiv.org/abs/2409.01782)|null|
 |**2024-09-03**|**GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting**|Zixuan Guo et.al.|[2409.01581](http://arxiv.org/abs/2409.01581)|null|
