@@ -24,11 +24,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Characterizing Structured versus Unstructured Environments based on Pedestrians' and Vehicles' Motion Trajectories**|Mahsa Golchoubian et.al.|[2502.16847](http://arxiv.org/abs/2502.16847)|null|
+|**2025-02-24**|**CLIP-SENet: CLIP-based Semantic Enhancement Network for Vehicle Re-identification**|Liping Lu et.al.|[2502.16815](http://arxiv.org/abs/2502.16815)|null|
+|**2025-02-23**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[2502.16589](http://arxiv.org/abs/2502.16589)|null|
+|**2025-02-22**|**A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment**|Haidong Wang et.al.|[2502.16027](http://arxiv.org/abs/2502.16027)|null|
 |**2025-02-21**|**Learning-based Model Predictive Control for Passenger-Oriented Train Rescheduling with Flexible Train Composition**|Xiaoyu Liu et.al.|[2502.15544](http://arxiv.org/abs/2502.15544)|null|
 |**2025-02-21**|**Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**|Narges Semiromizadeh et.al.|[2502.15398](http://arxiv.org/abs/2502.15398)|null|
 |**2025-02-21**|**Road Traffic Sign Recognition method using Siamese network Combining Efficient-CNN based Encoder**|Zhenghao Xi et.al.|[2502.15307](http://arxiv.org/abs/2502.15307)|null|
 |**2025-02-19**|**Mixed Signals: A Diverse Point Cloud Dataset for Heterogeneous LiDAR V2X Collaboration**|Katie Z Luo et.al.|[2502.14156](http://arxiv.org/abs/2502.14156)|null|
-|**2025-02-19**|**PedDet: Adaptive Spectral Optimization for Multimodal Pedestrian Detection**|Rui Zhao et.al.|[2502.14063](http://arxiv.org/abs/2502.14063)|**[link](https://github.com/AIGeeksGroup/PedDet)**|
+|**2025-02-21**|**PedDet: Adaptive Spectral Optimization for Multimodal Pedestrian Detection**|Rui Zhao et.al.|[2502.14063](http://arxiv.org/abs/2502.14063)|**[link](https://github.com/AIGeeksGroup/PedDet)**|
 |**2025-02-19**|**SegRet: An Efficient Design for Semantic Segmentation with Retentive Network**|Zhiyuan Li et.al.|[2502.14014](http://arxiv.org/abs/2502.14014)|**[link](https://github.com/zhiyuanli218/segret)**|
 |**2025-02-18**|**Communication Strategy on Macro-and-Micro Traffic State in Cooperative Deep Reinforcement Learning for Regional Traffic Signal Control**|Hankang Gu et.al.|[2502.13248](http://arxiv.org/abs/2502.13248)|null|
 |**2025-02-18**|**Simulated Bifurcation with High-dimensional Expansion for Traffic Signal Optimization on Real-world Networks**|Shengda Zhao et.al.|[2502.12440](http://arxiv.org/abs/2502.12440)|null|
@@ -676,6 +680,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Co-Designing Augmented Reality Tools for High-Stakes Clinical Teamwork**|Angelique Taylor et.al.|[2502.17295](http://arxiv.org/abs/2502.17295)|null|
 |**2025-02-18**|**Hypernetwork-based approach for optimal composition design in partially controlled multi-agent systems**|Kyeonghyeon Park et.al.|[2502.12605](http://arxiv.org/abs/2502.12605)|null|
 |**2025-02-17**|**Information Sharing Among Countries: A Perspective from Country-Specific Websites in Global Brands**|Amit Pariyar et.al.|[2502.11695](http://arxiv.org/abs/2502.11695)|null|
 |**2025-02-16**|**Scalable Multi-Agent Offline Reinforcement Learning and the Role of Information**|Riccardo Zamboni et.al.|[2502.11260](http://arxiv.org/abs/2502.11260)|null|
@@ -1692,6 +1697,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|null|
+|**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|null|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
 |**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803](http://arxiv.org/abs/2502.13803)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|**[link](https://github.com/taco-group/re-align)**|
@@ -2482,8 +2489,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Unposed Sparse Views Room Layout Reconstruction in the Age of Pretrain Model**|Yaxuan Huang et.al.|[2502.16779](http://arxiv.org/abs/2502.16779)|null|
 |**2025-02-16**|**FeaKM: Robust Collaborative Perception under Noisy Pose Conditions**|Jiuwu Hao et.al.|[2502.11003](http://arxiv.org/abs/2502.11003)|**[link](https://github.com/uestchjw/feakm)**|
-|**2025-02-11**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
+|**2025-02-24**|**Enhancing Ground-to-Aerial Image Matching for Visual Misinformation Detection Using Semantic Segmentation**|Emanuele Mule et.al.|[2502.06288](http://arxiv.org/abs/2502.06288)|**[link](https://github.com/MatteoPannacci/SemanticAlignNet-QUAD)**|
 |**2025-02-04**|**Muographic Image Upsampling with Machine Learning for Built Infrastructure Applications**|William O'Donnell et.al.|[2502.02624](http://arxiv.org/abs/2502.02624)|null|
 |**2025-02-01**|**MambaGlue: Fast and Robust Local Feature Matching With Mamba**|Kihwan Ryoo et.al.|[2502.00462](http://arxiv.org/abs/2502.00462)|**[link](https://github.com/url-kaist/mambaglue)**|
 |**2025-01-24**|**Dense-SfM: Structure from Motion with Dense Consistent Matching**|JongMin Lee et.al.|[2501.14277](http://arxiv.org/abs/2501.14277)|null|
@@ -2740,10 +2748,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-23**|**Resolving quantitative MRI model degeneracy in self-supervised machine learning**|Giulio V. Minore et.al.|[2502.16746](http://arxiv.org/abs/2502.16746)|null|
+|**2025-02-22**|**Personhood Credentials: Human-Centered Design Recommendation Balancing Security, Usability, and Trust**|Ayae Ide et.al.|[2502.16375](http://arxiv.org/abs/2502.16375)|null|
+|**2025-02-22**|**Observational Constraints on Dark Energy Models with $Λ$ as an Equilibrium Point**|Andronikos Paliathanasis et.al.|[2502.16221](http://arxiv.org/abs/2502.16221)|null|
+|**2025-02-21**|**Forecasting Open-Weight AI Model Growth on Hugging Face**|Kushal Raj Bhandari et.al.|[2502.15987](http://arxiv.org/abs/2502.15987)|null|
+|**2025-02-21**|**DiffCheck: a Scan-CAD Evaluation Tool for Digital Manufacturing and Assembly Processes in Timber Construction**|Andrea Settimi et.al.|[2502.15864](http://arxiv.org/abs/2502.15864)|null|
 |**2025-02-21**|**Testing the limits of fine-tuning to improve reasoning in vision language models**|Luca M. Schulze Buschoff et.al.|[2502.15678](http://arxiv.org/abs/2502.15678)|null|
 |**2025-02-20**|**Outlier Detection in Mendelian Randomisation**|Maximilian M Mandl et.al.|[2502.14716](http://arxiv.org/abs/2502.14716)|**[link](https://github.com/mmax-code/MR_outliers)**|
 |**2025-02-19**|**Learning the P2D Model for Lithium-Ion Batteries with SOH Detection**|Maricela Best McKay et.al.|[2502.14147](http://arxiv.org/abs/2502.14147)|null|
-|**2025-02-19**|**Benchmarking Self-Supervised Methods for Accelerated MRI Reconstruction**|Andrew Wang et.al.|[2502.14009](http://arxiv.org/abs/2502.14009)|null|
+|**2025-02-23**|**Benchmarking Self-Supervised Methods for Accelerated MRI Reconstruction**|Andrew Wang et.al.|[2502.14009](http://arxiv.org/abs/2502.14009)|null|
 |**2025-02-18**|**Geometry-Aware Diffusion Models for Multiview Scene Inpainting**|Ahmad Salimi et.al.|[2502.13335](http://arxiv.org/abs/2502.13335)|null|
 |**2025-02-18**|**Imputation Strategies for Rightcensored Wages in Longitudinal Datasets**|Jörg Drechsler et.al.|[2502.12967](http://arxiv.org/abs/2502.12967)|null|
 |**2025-02-17**|**The bulge globular cluster Terzan 6 as seen from multi-conjugate adaptive optics and HST**|Martina Loriga et.al.|[2502.12247](http://arxiv.org/abs/2502.12247)|null|
@@ -3508,6 +3521,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**DiffCheck: a Scan-CAD Evaluation Tool for Digital Manufacturing and Assembly Processes in Timber Construction**|Andrea Settimi et.al.|[2502.15864](http://arxiv.org/abs/2502.15864)|null|
 |**2025-02-17**|**Deep Subspace Learning for Surface Anomaly Classification Based on 3D Point Cloud Data**|Xuanming Cao et.al.|[2502.11669](http://arxiv.org/abs/2502.11669)|null|
 |**2025-02-18**|**Cheesemap: A High-Performance Point-Indexing Data Structure for Neighbor Search in LiDAR Data**|Ruben Laso et.al.|[2502.11602](http://arxiv.org/abs/2502.11602)|null|
 |**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461](http://arxiv.org/abs/2502.11461)|null|
