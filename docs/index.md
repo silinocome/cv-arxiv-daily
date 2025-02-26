@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-24**|**Characterizing Structured versus Unstructured Environments based on Pedestrians' and Vehicles' Motion Trajectories**|Mahsa Golchoubian et.al.|[2502.16847](http://arxiv.org/abs/2502.16847)|null|
 |**2025-02-24**|**CLIP-SENet: CLIP-based Semantic Enhancement Network for Vehicle Re-identification**|Liping Lu et.al.|[2502.16815](http://arxiv.org/abs/2502.16815)|null|
-|**2025-02-23**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[2502.16589](http://arxiv.org/abs/2502.16589)|null|
+|**2025-02-23**|**Co-MTP: A Cooperative Trajectory Prediction Framework with Multi-Temporal Fusion for Autonomous Driving**|Xinyu Zhang et.al.|[2502.16589](http://arxiv.org/abs/2502.16589)|**[link](https://github.com/xiaomiaozhang/Co-MTP)**|
 |**2025-02-22**|**A Brain-Inspired Perception-Decision Driving Model Based on Neural Pathway Anatomical Alignment**|Haidong Wang et.al.|[2502.16027](http://arxiv.org/abs/2502.16027)|null|
 |**2025-02-21**|**Learning-based Model Predictive Control for Passenger-Oriented Train Rescheduling with Flexible Train Composition**|Xiaoyu Liu et.al.|[2502.15544](http://arxiv.org/abs/2502.15544)|null|
 |**2025-02-21**|**Enhancing Vehicle Make and Model Recognition with 3D Attention Modules**|Narges Semiromizadeh et.al.|[2502.15398](http://arxiv.org/abs/2502.15398)|null|
@@ -1681,7 +1681,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|null|
+|**2025-02-24**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|null|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
 |**2025-02-19**|**3D Gaussian Splatting aided Localization for Large and Complex Indoor-Environments**|Vincent Ress et.al.|[2502.13803](http://arxiv.org/abs/2502.13803)|null|
