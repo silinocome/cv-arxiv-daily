@@ -723,7 +723,7 @@ layout: default
 |**2024-11-13**|**Feature Interaction Fusion Self-Distillation Network For CTR Prediction**|Lei Sang et.al.|[2411.07508](http://arxiv.org/abs/2411.07508)|null|
 |**2024-11-07**|**Survival of the Notable: Gender Asymmetry in Wikipedia Collective Deliberations**|Khandaker Tasnim Huq et.al.|[2411.04340](http://arxiv.org/abs/2411.04340)|null|
 |**2024-11-06**|**Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation**|Long Shi et.al.|[2411.03713](http://arxiv.org/abs/2411.03713)|**[link](https://github.com/lshi91/GTMC-HOA)**|
-|**2024-11-04**|**Preemptive Holistic Collaborative System and Its Application in Road Transportation**|Ting Peng et.al.|[2411.01918](http://arxiv.org/abs/2411.01918)|null|
+|**2024-11-04**|**Preemptive Holistic Collaborative System and Its Application in Road Transportation**|Ting Peng et.al.|[2411.01918](http://arxiv.org/abs/2411.01918)|**[link](https://github.com/tpeng1977/preemptiveholisticcollaborativesystem)**|
 |**2024-11-01**|**Development of a Web-based Research Consortium Database Management System: Advancing Data-driven and Knowledge-based Project Management**|Mitch Arkeen Salvador et.al.|[2411.00483](http://arxiv.org/abs/2411.00483)|null|
 |**2024-11-01**|**Communication Learning in Multi-Agent Systems from Graph Modeling Perspective**|Shengchao Hu et.al.|[2411.00382](http://arxiv.org/abs/2411.00382)|**[link](https://github.com/charleshsc/CommFormer)**|
 |**2024-10-29**|**Synergizing LLM Agents and Knowledge Graph for Socioeconomic Prediction in LBSN**|Zhilun Zhou et.al.|[2411.00028](http://arxiv.org/abs/2411.00028)|null|
