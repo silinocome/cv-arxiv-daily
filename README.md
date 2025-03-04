@@ -1067,13 +1067,13 @@
 |**2025-02-28**|**Learning-Based Leader Localization for Underwater Vehicles With Optical-Acoustic-Pressure Sensor Fusion**|Mingyang Yang et.al.|[2502.20817](http://arxiv.org/abs/2502.20817)|null|
 |**2025-02-28**|**A2DO: Adaptive Anti-Degradation Odometry with Deep Multi-Sensor Fusion for Autonomous Navigation**|Hui Lai et.al.|[2502.20767](http://arxiv.org/abs/2502.20767)|null|
 |**2025-02-26**|**Integrating Biological and Machine Intelligence: Attention Mechanisms in Brain-Computer Interfaces**|Jiyuan Wang et.al.|[2502.19281](http://arxiv.org/abs/2502.19281)|null|
-|**2025-02-26**|**CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement**|Lei Cheng et.al.|[2502.17648](http://arxiv.org/abs/2502.17648)|null|
+|**2025-02-26**|**CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement**|Lei Cheng et.al.|[2502.17648](http://arxiv.org/abs/2502.17648)|**[link](https://github.com/radar-lab/Lidar_Camera_Automatic_Calibration)**|
 |**2025-02-20**|**FIP: Endowing Robust Motion Capture on Daily Garment by Fusing Flex and Inertial Sensors**|Jiawei Fang et.al.|[2502.15058](http://arxiv.org/abs/2502.15058)|null|
 |**2025-02-20**|**Ultra-High-Frequency Harmony: mmWave Radar and Event Camera Orchestrate Accurate Drone Landing**|Haoyang Wang et.al.|[2502.14992](http://arxiv.org/abs/2502.14992)|null|
 |**2025-02-19**|**AI-Driven Discovery of High Performance Polymer Electrodes for Next-Generation Batteries**|Subhash V. S. Ganti et.al.|[2502.13899](http://arxiv.org/abs/2502.13899)|null|
 |**2025-02-19**|**SNN-Driven Multimodal Human Action Recognition via Event Camera and Skeleton Data Fusion**|Naichuan Zheng et.al.|[2502.13385](http://arxiv.org/abs/2502.13385)|null|
 |**2025-02-19**|**Integrated Sensing and Communication for 6G Holographic Digital Twins**|Haijun Zhang et.al.|[2502.13352](http://arxiv.org/abs/2502.13352)|null|
-|**2025-02-19**|**An Attention-Assisted AI Model for Real-Time Underwater Sound Speed Estimation Leveraging Remote Sensing Sea Surface Temperature Data**|Pengfei Wu et.al.|[2502.12817](http://arxiv.org/abs/2502.12817)|null|
+|**2025-03-02**|**An Attention-Assisted Multi-Modal Data Fusion Model for Real-Time Estimation of Underwater Sound Velocity**|Pengfei Wu et.al.|[2502.12817](http://arxiv.org/abs/2502.12817)|null|
 |**2025-02-14**|**Multi-view 3D surface reconstruction from SAR images by inverse rendering**|Emile Barbier--Renard et.al.|[2502.10492](http://arxiv.org/abs/2502.10492)|null|
 |**2025-02-13**|**Evolution of Data-driven Single- and Multi-Hazard Susceptibility Mapping and Emergence of Deep Learning Methods**|Jaya Sreevalsan-Nair et.al.|[2502.09045](http://arxiv.org/abs/2502.09045)|null|
 |**2025-02-13**|**Data Sensor Fusion In Digital Twin Technology For Enhanced Capabilities In A Home Environment**|Benjamin Momoh et.al.|[2502.08874](http://arxiv.org/abs/2502.08874)|null|
@@ -2766,7 +2766,7 @@
 |**2025-02-28**|**Measuring and identifying factors of individuals' trust in Large Language Models**|Edoardo Sebastiano De Duro et.al.|[2502.21028](http://arxiv.org/abs/2502.21028)|null|
 |**2025-02-26**|**Evidence for an Instability-Induced Binary Merger in the Double-Peaked, Helium-Rich Type IIn Supernova 2023zkd**|A. Gagliano et.al.|[2502.19469](http://arxiv.org/abs/2502.19469)|**[link](https://github.com/AmpelAstro/sfdmap2)**|
 |**2025-02-26**|**Self-supervised conformal prediction for uncertainty quantification in Poisson imaging problems**|Bernardin Tamo Amougou et.al.|[2502.19194](http://arxiv.org/abs/2502.19194)|null|
-|**2025-02-25**|**Variability of Central Stars of Planetary Nebulae with the Zwicky Transient Facility. II. Long-Timescale Variables including Wide Binary and Late Thermal Pulse Candidates**|Soumyadeep Bhattacharjee et.al.|[2502.18651](http://arxiv.org/abs/2502.18651)|null|
+|**2025-03-02**|**Variability of Central Stars of Planetary Nebulae with the Zwicky Transient Facility. II. Long-Timescale Variables including Wide Binary and Late Thermal Pulse Candidates**|Soumyadeep Bhattacharjee et.al.|[2502.18651](http://arxiv.org/abs/2502.18651)|null|
 |**2025-02-25**|**Multi-class Seismic Building Damage Assessment from InSAR Imagery using Quadratic Variational Causal Bayesian Inference**|Xuechun Li et.al.|[2502.18546](http://arxiv.org/abs/2502.18546)|null|
 |**2025-02-25**|**Convolutional neural networks for mineral prospecting through alteration mapping with remote sensing data**|Ehsan Farahbakhsh et.al.|[2502.18533](http://arxiv.org/abs/2502.18533)|**[link](https://github.com/sydney-machine-learning/deeplearning_alteration_zones)**|
 |**2025-02-25**|**From underwater to aerial: a novel multi-scale knowledge distillation approach for coral reef monitoring**|Matteo Contini et.al.|[2502.17883](http://arxiv.org/abs/2502.17883)|**[link](https://github.com/seatizendoi/zenodo-tools)**|
