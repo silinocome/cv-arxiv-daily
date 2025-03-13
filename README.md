@@ -1731,6 +1731,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370](http://arxiv.org/abs/2503.09370)|null|
 |**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Michael Green et.al.|[2503.07038](http://arxiv.org/abs/2503.07038)|null|
 |**2025-03-10**|**Zero-Shot Hashing Based on Reconstruction With Part Alignment**|Yan Jiang et.al.|[2503.07037](http://arxiv.org/abs/2503.07037)|null|
 |**2025-03-09**|**RoboDesign1M: A Large-scale Dataset for Robot Design Understanding**|Tri Le et.al.|[2503.06796](http://arxiv.org/abs/2503.06796)|null|
@@ -2811,6 +2812,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Monte Carlo Diffusion for Generalizable Learning-Based RANSAC**|Jiale Wang et.al.|[2503.09410](http://arxiv.org/abs/2503.09410)|null|
+|**2025-03-12**|**On the Wisdom of Crowds (of Economists)**|Francis X. Diebold et.al.|[2503.09287](http://arxiv.org/abs/2503.09287)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
 |**2025-03-11**|**X-Field: A Physically Grounded Representation for 3D X-ray Reconstruction**|Feiran Wang et.al.|[2503.08596](http://arxiv.org/abs/2503.08596)|null|
 |**2025-03-11**|**A census of OB stars within 1 kpc and the star formation and core collapse supernova rates of the Milky Way**|Alexis L. Quintana et.al.|[2503.08286](http://arxiv.org/abs/2503.08286)|null|
@@ -3618,6 +3621,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Out-of-Distribution Segmentation in Autonomous Driving: Problems and State of the Art**|Youssef Shoeb et.al.|[2503.08695](http://arxiv.org/abs/2503.08695)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
 |**2025-03-11**|**HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views**|Ethan Griffiths et.al.|[2503.08140](http://arxiv.org/abs/2503.08140)|null|
 |**2025-03-11**|**SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection**|Hyeongseok Son et.al.|[2503.08092](http://arxiv.org/abs/2503.08092)|null|
