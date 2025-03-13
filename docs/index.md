@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -23,7 +23,7 @@ layout: default
 |**2025-03-03**|**A Survey on Semantic Communications in Internet of Vehicles**|Sha Ye et.al.|[2503.03767](http://arxiv.org/abs/2503.03767)|null|
 |**2025-03-05**|**Simulation-Based Performance Evaluation of 3D Object Detection Methods with Deep Learning for a LiDAR Point Cloud Dataset in a SOTIF-related Use Case**|Milin Patel et.al.|[2503.03548](http://arxiv.org/abs/2503.03548)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
 |**2025-03-05**|**CoSDH: Communication-Efficient Collaborative Perception via Supply-Demand Awareness and Intermediate-Late Hybridization**|Junhao Xu et.al.|[2503.03430](http://arxiv.org/abs/2503.03430)|**[link](https://github.com/xu2729/cosdh)**|
-|**2025-03-05**|**TrafficKAN-GCN: Graph Convolutional-based Kolmogorov-Arnold Network for Traffic Flow Optimization**|Jiayi Zhang et.al.|[2503.03276](http://arxiv.org/abs/2503.03276)|null|
+|**2025-03-05**|**TrafficKAN-GCN: Graph Convolutional-based Kolmogorov-Arnold Network for Traffic Flow Optimization**|Jiayi Zhang et.al.|[2503.03276](http://arxiv.org/abs/2503.03276)|**[link](https://github.com/ZhangJiayi24/KAN_GCN_Traffic)**|
 |**2025-03-04**|**V2X-LLM: Enhancing V2X Integration and Understanding in Connected Vehicle Corridors**|Keshu Wu et.al.|[2503.02239](http://arxiv.org/abs/2503.02239)|null|
 |**2025-03-03**|**Uncertainty Representation in a SOTIF-Related Use Case with Dempster-Shafer Theory for LiDAR Sensor-Based Object Detection**|Milin Patel et.al.|[2503.02087](http://arxiv.org/abs/2503.02087)|**[link](https://github.com/milinpatel07/SOTIF-PCOD)**|
 |**2025-03-03**|**STGAN: Spatial-temporal Graph Autoregression Network for Pavement Distress Deterioration Prediction**|Shilin Tong et.al.|[2503.01152](http://arxiv.org/abs/2503.01152)|null|
@@ -1070,7 +1070,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-11**|**Uncertainty Quantification for Multi-fidelity Simulations**|Swapnil Kumar et.al.|[2503.08408](http://arxiv.org/abs/2503.08408)|null|
 |**2025-03-10**|**Probabilistic Segmentation for Robust Field of View Estimation**|R. Spencer Hallyburton et.al.|[2503.07375](http://arxiv.org/abs/2503.07375)|null|
-|**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029](http://arxiv.org/abs/2503.07029)|null|
+|**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029](http://arxiv.org/abs/2503.07029)|**[link](https://github.com/kaist-avelab/k-radar)**|
 |**2025-03-07**|**An End-to-End Learning-Based Multi-Sensor Fusion for Autonomous Vehicle Localization**|Changhong Lin et.al.|[2503.05088](http://arxiv.org/abs/2503.05088)|null|
 |**2025-03-06**|**Security-Aware Sensor Fusion with MATE: the Multi-Agent Trust Estimator**|R. Spencer Hallyburton et.al.|[2503.04954](http://arxiv.org/abs/2503.04954)|null|
 |**2025-03-06**|**scDD: Latent Codes Based scRNA-seq Dataset Distillation with Foundation Model Knowledge**|Zhen Yu et.al.|[2503.04357](http://arxiv.org/abs/2503.04357)|null|
