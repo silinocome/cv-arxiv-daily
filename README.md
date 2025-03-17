@@ -1735,6 +1735,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|null|
 |**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166](http://arxiv.org/abs/2503.10166)|null|
 |**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370](http://arxiv.org/abs/2503.09370)|null|
 |**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Michael Green et.al.|[2503.07038](http://arxiv.org/abs/2503.07038)|null|
@@ -2548,6 +2549,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
 |**2025-03-06**|**Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis**|Xingcan Hu et.al.|[2503.04205](http://arxiv.org/abs/2503.04205)|null|
@@ -2818,11 +2820,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532](http://arxiv.org/abs/2503.11532)|null|
+|**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|null|
 |**2025-03-13**|**Sample and Map from a Single Convex Potential: Generation using Conjugate Moment Measures**|Nina Vesseron et.al.|[2503.10576](http://arxiv.org/abs/2503.10576)|null|
 |**2025-03-13**|**Neural network-based identification of state-space switching nonlinear systems**|Yanxin Zhang et.al.|[2503.10114](http://arxiv.org/abs/2503.10114)|null|
 |**2025-03-13**|**Bayesian Inference of Geometric Brownian Motion: An Extension with Jumps**|Yifei Yan et.al.|[2503.09923](http://arxiv.org/abs/2503.09923)|null|
 |**2025-03-12**|**Cosmology with Supernova Encore in the strong lensing cluster MACS J0138 $-$ 2155: photometry, cluster members, and lens mass model**|S. Ertl et.al.|[2503.09718](http://arxiv.org/abs/2503.09718)|null|
-|**2025-03-12**|**Power Spectrum Signatures of Graphs**|Karamatou Yacoubou Djima et.al.|[2503.09660](http://arxiv.org/abs/2503.09660)|null|
+|**2025-03-14**|**Power Spectrum Signatures of Graphs**|Karamatou Yacoubou Djima et.al.|[2503.09660](http://arxiv.org/abs/2503.09660)|null|
 |**2025-03-12**|**Monte Carlo Diffusion for Generalizable Learning-Based RANSAC**|Jiale Wang et.al.|[2503.09410](http://arxiv.org/abs/2503.09410)|null|
 |**2025-03-12**|**On the Wisdom of Crowds (of Economists)**|Francis X. Diebold et.al.|[2503.09287](http://arxiv.org/abs/2503.09287)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
@@ -3632,8 +3636,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|null|
 |**2025-03-13**|**Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments**|Linzuo Zhang et.al.|[2503.10141](http://arxiv.org/abs/2503.10141)|null|
-|**2025-03-12**|**Power Spectrum Signatures of Graphs**|Karamatou Yacoubou Djima et.al.|[2503.09660](http://arxiv.org/abs/2503.09660)|null|
+|**2025-03-14**|**Power Spectrum Signatures of Graphs**|Karamatou Yacoubou Djima et.al.|[2503.09660](http://arxiv.org/abs/2503.09660)|null|
 |**2025-03-04**|**Out-of-Distribution Segmentation in Autonomous Driving: Problems and State of the Art**|Youssef Shoeb et.al.|[2503.08695](http://arxiv.org/abs/2503.08695)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
 |**2025-03-11**|**HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views**|Ethan Griffiths et.al.|[2503.08140](http://arxiv.org/abs/2503.08140)|null|
