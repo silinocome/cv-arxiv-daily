@@ -96,7 +96,7 @@ layout: default
 |**2024-12-13**|**Vehicle Detection and Classification for Toll collection using YOLOv11 and Ensemble OCR**|Karthik Sivakoti et.al.|[2412.12191](http://arxiv.org/abs/2412.12191)|null|
 |**2024-12-16**|**Multimodal LLM for Intelligent Transportation Systems**|Dexter Le et.al.|[2412.11683](http://arxiv.org/abs/2412.11683)|null|
 |**2024-12-15**|**Grey Wolf-Based Task Scheduling in Vehicular Fog Computing Systems**|Maryam Taghizadeh et.al.|[2412.11230](http://arxiv.org/abs/2412.11230)|null|
-|**2024-12-13**|**Which cycling environment appears safer? Learning cycling safety perceptions from pairwise image comparisons**|Miguel Costa et.al.|[2412.09835](http://arxiv.org/abs/2412.09835)|null|
+|**2024-12-13**|**Which cycling environment appears safer? Learning cycling safety perceptions from pairwise image comparisons**|Miguel Costa et.al.|[2412.09835](http://arxiv.org/abs/2412.09835)|**[link](https://github.com/mncosta/cycling_safety_subjective_learning_pairwise)**|
 |**2024-12-12**|**TransferLight: Zero-Shot Traffic Signal Control on any Road-Network**|Johann Schmidt et.al.|[2412.09719](http://arxiv.org/abs/2412.09719)|null|
 |**2024-12-11**|**Pole-based Vehicle Localization with Vector Maps: A Camera-LiDAR Comparative Study**|Maxime Noizet et.al.|[2412.09649](http://arxiv.org/abs/2412.09649)|null|
 |**2024-12-12**|**Multi-Aircraft Scheduling Optimization in Urban Environments**|Jin Zhang et.al.|[2412.09279](http://arxiv.org/abs/2412.09279)|null|
@@ -1730,7 +1730,7 @@ layout: default
 |**2025-03-06**|**RadIR: A Scalable Framework for Multi-Grained Medical Image Retrieval via Radiology Report Mining**|Tengfei Zhang et.al.|[2503.04653](http://arxiv.org/abs/2503.04653)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235](http://arxiv.org/abs/2503.04235)|null|
 |**2025-03-06**|**Bridging the Vision-Brain Gap with an Uncertainty-Aware Blur Prior**|Haitao Wu et.al.|[2503.04207](http://arxiv.org/abs/2503.04207)|null|
-|**2025-03-06**|**Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments**|Beverley Gorry et.al.|[2503.04096](http://arxiv.org/abs/2503.04096)|null|
+|**2025-03-06**|**Image-Based Relocalization and Alignment for Long-Term Monitoring of Dynamic Underwater Environments**|Beverley Gorry et.al.|[2503.04096](http://arxiv.org/abs/2503.04096)|**[link](https://github.com/bev-gorry/underloc)**|
 |**2025-03-03**|**Composed Multi-modal Retrieval: A Survey of Approaches and Applications**|Kun Zhang et.al.|[2503.01334](http://arxiv.org/abs/2503.01334)|**[link](https://github.com/kkzhang95/awesome-composed-multi-modal-retrieval)**|
 |**2025-03-02**|**Efficient End-to-end Visual Localization for Autonomous Driving with Decoupled BEV Neural Matching**|Jinyu Miao et.al.|[2503.00862](http://arxiv.org/abs/2503.00862)|null|
 |**2025-03-01**|**Class-Independent Increment: An Efficient Approach for Multi-label Class-Incremental Learning**|Songlin Dong et.al.|[2503.00515](http://arxiv.org/abs/2503.00515)|null|
@@ -1738,7 +1738,7 @@ layout: default
 |**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826](http://arxiv.org/abs/2502.20826)|null|
 |**2025-02-27**|**A2-GNN: Angle-Annular GNN for Visual Descriptor-free Camera Relocalization**|Yejun Zhang et.al.|[2502.20036](http://arxiv.org/abs/2502.20036)|**[link](https://github.com/yejunzhang/a2-gnn)**|
 |**2025-02-27**|**On the Importance of Text Preprocessing for Multimodal Representation Learning and Pathology Report Generation**|Ruben T. Lucassen et.al.|[2502.19285](http://arxiv.org/abs/2502.19285)|null|
-|**2025-02-19**|**A Comprehensive Survey on Composed Image Retrieval**|Xuemeng Song et.al.|[2502.18495](http://arxiv.org/abs/2502.18495)|null|
+|**2025-02-19**|**A Comprehensive Survey on Composed Image Retrieval**|Xuemeng Song et.al.|[2502.18495](http://arxiv.org/abs/2502.18495)|**[link](https://github.com/haokunwen/awesome-composed-image-retrieval)**|
 |**2025-02-25**|**MegaLoc: One Retrieval to Place Them All**|Gabriele Berton et.al.|[2502.17237](http://arxiv.org/abs/2502.17237)|**[link](https://github.com/gmberton/megaloc)**|
 |**2025-02-23**|**Visual-RAG: Benchmarking Text-to-Image Retrieval Augmented Generation for Visual Knowledge Intensive Queries**|Yin Wu et.al.|[2502.16636](http://arxiv.org/abs/2502.16636)|**[link](https://github.com/LuciusLan/Visual-RAG)**|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
@@ -2810,7 +2810,7 @@ layout: default
 |**2025-03-11**|**SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection**|Hyeongseok Son et.al.|[2503.08092](http://arxiv.org/abs/2503.08092)|null|
 |**2025-03-10**|**AgriField3D: A Curated 3D Point Cloud and Procedural Model Dataset of Field-Grown Maize from a Diversity Panel**|Elvis Kimara et.al.|[2503.07813](http://arxiv.org/abs/2503.07813)|null|
 |**2025-03-10**|**How do the professional players select their shot locations? An analysis of Field Goal Attempts via Bayesian Additive Regression Trees**|Jiahao Cao et.al.|[2503.07789](http://arxiv.org/abs/2503.07789)|null|
-|**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/abs/2503.07435)|null|
+|**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/abs/2503.07435)|**[link](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)**|
 |**2025-03-10**|**ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration**|Youngseok Kim et.al.|[2503.06986](http://arxiv.org/abs/2503.06986)|null|
 |**2025-03-07**|**Early Light Curve Excess in Type IIb Supernovae Observed by the ATLAS Survey: Qualitative Constraints on Progenitor Systems**|Bastian Ayala et.al.|[2503.05909](http://arxiv.org/abs/2503.05909)|null|
 |**2025-03-06**|**Extended atomic carbon around molecular clouds**|V. Ossenkopf-Okada et.al.|[2503.04967](http://arxiv.org/abs/2503.04967)|null|
@@ -2824,10 +2824,10 @@ layout: default
 |**2025-03-04**|**Activity of comet 7P/Pons-Winnecke during the 2021 apparition**|Irene Mariblanca-Escalona et.al.|[2503.02434](http://arxiv.org/abs/2503.02434)|null|
 |**2025-03-04**|**Label-Efficient LiDAR Panoptic Segmentation**|Ahmet Selim Çanakçı et.al.|[2503.02372](http://arxiv.org/abs/2503.02372)|null|
 |**2025-03-04**|**DESI Spectroscopy of HETDEX Emission-line Candidates I: Line Discrimination Validation**|Martin Landriau et.al.|[2503.02229](http://arxiv.org/abs/2503.02229)|null|
-|**2025-03-04**|**Time-Varying Coronary Artery Deformation: A Dynamic Skinning Framework for Surgical Training**|Shuo Wang et.al.|[2503.02218](http://arxiv.org/abs/2503.02218)|null|
+|**2025-03-04**|**Time-Varying Coronary Artery Deformation: A Dynamic Skinning Framework for Surgical Training**|Shuo Wang et.al.|[2503.02218](http://arxiv.org/abs/2503.02218)|**[link](https://github.com/ipoirot/dynamicartery)**|
 |**2025-03-03**|**Road Boundary Detection Using 4D mmWave Radar for Autonomous Driving**|Yuyan Wu et.al.|[2503.01930](http://arxiv.org/abs/2503.01930)|null|
 |**2025-03-03**|**Recommendations for visual predictive checks in Bayesian workflow**|Teemu Säilynoja et.al.|[2503.01509](http://arxiv.org/abs/2503.01509)|null|
-|**2025-03-02**|**ICanC: Improving Camera-based Object Detection and Energy Consumption in Low-Illumination Environments**|Daniel Ma et.al.|[2503.00709](http://arxiv.org/abs/2503.00709)|null|
+|**2025-03-02**|**ICanC: Improving Camera-based Object Detection and Energy Consumption in Low-Illumination Environments**|Daniel Ma et.al.|[2503.00709](http://arxiv.org/abs/2503.00709)|**[link](https://github.com/danielma4/ICanC_v2)**|
 |**2025-02-28**|**Manifold Topological Deep Learning for Biomedical Data**|Xiang Liu et.al.|[2503.00175](http://arxiv.org/abs/2503.00175)|null|
 |**2025-02-28**|**Measuring and identifying factors of individuals' trust in Large Language Models**|Edoardo Sebastiano De Duro et.al.|[2502.21028](http://arxiv.org/abs/2502.21028)|null|
 |**2025-02-26**|**Evidence for an Instability-Induced Binary Merger in the Double-Peaked, Helium-Rich Type IIn Supernova 2023zkd**|A. Gagliano et.al.|[2502.19469](http://arxiv.org/abs/2502.19469)|**[link](https://github.com/AmpelAstro/sfdmap2)**|
@@ -2941,7 +2941,7 @@ layout: default
 |**2024-12-23**|**OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving**|Tianyi Yan et.al.|[2412.17226](http://arxiv.org/abs/2412.17226)|null|
 |**2024-12-22**|**Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge**|Hanfang Liang et.al.|[2412.16947](http://arxiv.org/abs/2412.16947)|null|
 |**2024-12-17**|**Saliency Methods are Encoders: Analysing Logical Relations Towards Interpretation**|Leonid Schwenke et.al.|[2412.16204](http://arxiv.org/abs/2412.16204)|null|
-|**2024-12-20**|**A Bayesian prevalence-incidence mixture model for screening outcomes with misclassification**|Thomas Klausch et.al.|[2412.16065](http://arxiv.org/abs/2412.16065)|null|
+|**2024-12-20**|**A Bayesian prevalence-incidence mixture model for screening outcomes with misclassification**|Thomas Klausch et.al.|[2412.16065](http://arxiv.org/abs/2412.16065)|**[link](https://github.com/thomasklausch2/BayesPIM)**|
 |**2024-12-19**|**Concave-convex nonautonomous scalar ordinary differential equations: from bifurcation theory to critical transitions**|Jesús Dueñas et.al.|[2412.14667](http://arxiv.org/abs/2412.14667)|null|
 |**2024-12-19**|**Benign Overfitting in Out-of-Distribution Generalization of Linear Models**|Shange Tang et.al.|[2412.14474](http://arxiv.org/abs/2412.14474)|null|
 |**2024-12-19**|**Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization**|Jingwei Bao et.al.|[2412.14449](http://arxiv.org/abs/2412.14449)|null|
@@ -2968,7 +2968,7 @@ layout: default
 |**2024-12-06**|**Imaging and Spectral Fitting of Bright Gamma-ray Sources with the COSI Balloon Payload**|Jarred M. Roberts et.al.|[2412.04721](http://arxiv.org/abs/2412.04721)|null|
 |**2024-12-05**|**Supertoroid fitting of objects with holes for robotic grasping and scene generation**|Joan Badia Torres et.al.|[2412.04174](http://arxiv.org/abs/2412.04174)|**[link](https://github.com/jbadiat/supertoroidfitting)**|
 |**2024-12-05**|**Two-Carrier Model-Fitting of Hall Effect in Semiconductors with Dual-Band Occupation: A Case Study in GaN Two-Dimensional Hole Gas**|Joseph E. Dill et.al.|[2412.03818](http://arxiv.org/abs/2412.03818)|null|
-|**2024-12-04**|**Revisiting the impact of neutrino mass hierarchies on neutrino mass constraints in light of recent DESI data**|Laura Herold et.al.|[2412.03546](http://arxiv.org/abs/2412.03546)|null|
+|**2024-12-04**|**Revisiting the impact of neutrino mass hierarchies on neutrino mass constraints in light of recent DESI data**|Laura Herold et.al.|[2412.03546](http://arxiv.org/abs/2412.03546)|**[link](https://github.com/LauraHerold/MontePython_desilike)**|
 |**2024-12-04**|**Visualisation for Exploratory Modelling Analysis of Bayesian Hierarchical Models**|Oluwayomi Akinfenwa et.al.|[2412.03484](http://arxiv.org/abs/2412.03484)|**[link](https://github.com/Oluwayomi-Project/Visualisation-for-exploratory-analysis-of-BHM)**|
 |**2024-12-04**|**Building Europe's first space-based Quantum Key Distribution system -- The German Aerospace Center's role in the EAGLE-1 mission**|Gabriela Calistro Rivera et.al.|[2412.03222](http://arxiv.org/abs/2412.03222)|null|
 |**2024-12-04**|**Parametric Enhancement of PerceptNet: A Human-Inspired Approach for Image Quality Assessment**|Jorge Vila-Tomás et.al.|[2412.03210](http://arxiv.org/abs/2412.03210)|**[link](https://github.com/Jorgvt/PerceptualTests)**|
@@ -3172,14 +3172,14 @@ layout: default
 |**2024-08-24**|**Uncovering Biases with Reflective Large Language Models**|Edward Y. Chang et.al.|[2408.13464](http://arxiv.org/abs/2408.13464)|null|
 |**2024-08-22**|**Does Spatial Information Improve Influenza Forecasting?**|Gabrielle Thivierge et.al.|[2408.12722](http://arxiv.org/abs/2408.12722)|**[link](https://github.com/gthivierge/spatial-flu-forecasting)**|
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
-|**2024-08-21**|**MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**|Eyal Hanania et.al.|[2408.11992](http://arxiv.org/abs/2408.11992)|null|
+|**2024-08-21**|**MBSS-T1: Model-Based Self-Supervised Motion Correction for Robust Cardiac T1 Mapping**|Eyal Hanania et.al.|[2408.11992](http://arxiv.org/abs/2408.11992)|**[link](https://github.com/technioncomputationalmrilab/mbss-t1)**|
 |**2024-08-21**|**Time-Evolution Images of the Hypergiant RW Cephei During the Re-brightening Phase Following the Great Dimming**|Narsireddy Anugu et.al.|[2408.11906](http://arxiv.org/abs/2408.11906)|null|
 |**2024-08-21**|**Intrinsic Alignments and Spin Correlations of [OII] Emitters at $z=1.2$ and $z=1.5$ from HSC Narrow-band Survey**|Motonari Tonegawa et.al.|[2408.11462](http://arxiv.org/abs/2408.11462)|null|
 |**2024-08-20**|**Compress Guidance in Conditional Diffusion Sampling**|Anh-Dung Dinh et.al.|[2408.11194](http://arxiv.org/abs/2408.11194)|null|
 |**2024-08-20**|**GUTs -- how common are they?**|Johannes Herms et.al.|[2408.11089](http://arxiv.org/abs/2408.11089)|null|
 |**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
 |**2024-08-19**|**DELIA: Diversity-Enhanced Learning for Instruction Adaptation in Large Language Models**|Yuanhao Zeng et.al.|[2408.10841](http://arxiv.org/abs/2408.10841)|null|
-|**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|null|
+|**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|**[link](https://github.com/chengjt1999/mv-mos)**|
 |**2024-08-20**|**GPT-based Textile Pilling Classification Using 3D Point Cloud Data**|Yu Lu et.al.|[2408.10496](http://arxiv.org/abs/2408.10496)|null|
 |**2024-08-19**|**Stream-Based Ground Segmentation for Real-Time LiDAR Point Cloud Processing on FPGA**|Xiao Zhang et.al.|[2408.10410](http://arxiv.org/abs/2408.10410)|null|
 |**2024-08-19**|**Parallel Processing of Point Cloud Ground Segmentation for Mechanical and Solid-State LiDARs**|Xiao Zhang et.al.|[2408.10404](http://arxiv.org/abs/2408.10404)|null|
@@ -3621,7 +3621,7 @@ layout: default
 |**2025-03-04**|**ImpedanceGPT: VLM-driven Impedance Control of Swarm of Mini-drones for Intelligent Navigation in Dynamic Environment**|Faryal Batool et.al.|[2503.02723](http://arxiv.org/abs/2503.02723)|null|
 |**2025-03-04**|**Label-Efficient LiDAR Panoptic Segmentation**|Ahmet Selim Çanakçı et.al.|[2503.02372](http://arxiv.org/abs/2503.02372)|null|
 |**2025-03-03**|**Road Boundary Detection Using 4D mmWave Radar for Autonomous Driving**|Yuyan Wu et.al.|[2503.01930](http://arxiv.org/abs/2503.01930)|null|
-|**2025-03-02**|**ICanC: Improving Camera-based Object Detection and Energy Consumption in Low-Illumination Environments**|Daniel Ma et.al.|[2503.00709](http://arxiv.org/abs/2503.00709)|null|
+|**2025-03-02**|**ICanC: Improving Camera-based Object Detection and Energy Consumption in Low-Illumination Environments**|Daniel Ma et.al.|[2503.00709](http://arxiv.org/abs/2503.00709)|**[link](https://github.com/danielma4/ICanC_v2)**|
 |**2025-02-28**|**Manifold Topological Deep Learning for Biomedical Data**|Xiang Liu et.al.|[2503.00175](http://arxiv.org/abs/2503.00175)|null|
 |**2025-02-28**|**LV-DOT: LiDAR-visual dynamic obstacle detection and tracking for autonomous robot navigation**|Zhefan Xu et.al.|[2502.20607](http://arxiv.org/abs/2502.20607)|**[link](https://github.com/zhefan-xu/lv-dot)**|
 |**2025-02-21**|**DiffCheck: a Scan-CAD Evaluation Tool for Digital Manufacturing and Assembly Processes in Timber Construction**|Andrea Settimi et.al.|[2502.15864](http://arxiv.org/abs/2502.15864)|null|
@@ -3741,7 +3741,7 @@ layout: default
 |**2024-08-22**|**Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection**|Ruixiao Zhang et.al.|[2408.12708](http://arxiv.org/abs/2408.12708)|null|
 |**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322](http://arxiv.org/abs/2408.12322)|null|
 |**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
-|**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|null|
+|**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|**[link](https://github.com/chengjt1999/mv-mos)**|
 |**2024-08-20**|**GPT-based Textile Pilling Classification Using 3D Point Cloud Data**|Yu Lu et.al.|[2408.10496](http://arxiv.org/abs/2408.10496)|null|
 |**2024-08-16**|**LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression**|Yuqi Ye et.al.|[2408.08682](http://arxiv.org/abs/2408.08682)|null|
 |**2024-08-16**|**Zero-Shot Dual-Path Integration Framework for Open-Vocabulary 3D Instance Segmentation**|Tri Ton et.al.|[2408.08591](http://arxiv.org/abs/2408.08591)|null|
