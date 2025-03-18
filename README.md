@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-16**|**GAN-Based Single-Stage Defense for Traffic Sign Classification Under Adversarial Patch Attack**|Abyad Enan et.al.|[2503.12567](http://arxiv.org/abs/2503.12567)|null|
+|**2025-03-15**|**Hierarchical Evolutionary Optimization with Predictive Modeling for Stable Delay-Constrained Routing in Vehicular Networks**|Zhang Zhiou et.al.|[2503.12050](http://arxiv.org/abs/2503.12050)|null|
 |**2025-03-13**|**Enhanced Route Planning with Calibrated Uncertainty Set**|Lingxuan Tang et.al.|[2503.10088](http://arxiv.org/abs/2503.10088)|null|
 |**2025-03-09**|**PDB: Not All Drivers Are the Same -- A Personalized Dataset for Understanding Driving Behavior**|Chuheng Wei et.al.|[2503.06477](http://arxiv.org/abs/2503.06477)|null|
 |**2025-03-09**|**Mobility-Aware Multi-Task Decentralized Federated Learning for Vehicular Networks: Modeling, Analysis, and Optimization**|Dongyu Chen et.al.|[2503.06468](http://arxiv.org/abs/2503.06468)|null|
@@ -695,6 +697,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254](http://arxiv.org/abs/2503.13254)|null|
+|**2025-03-17**|**Hybrid Work in Agile Software Development: Recurring Meetings**|Emily Laue Christensen et.al.|[2503.13002](http://arxiv.org/abs/2503.13002)|null|
+|**2025-03-15**|**Efficient and Privacy-Preserved Link Prediction via Condensed Graphs**|Yunbo Long et.al.|[2503.12156](http://arxiv.org/abs/2503.12156)|null|
 |**2025-03-10**|**DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems**|Junwei Yu et.al.|[2503.07675](http://arxiv.org/abs/2503.07675)|null|
 |**2025-03-10**|**An Analytics-Driven Approach to Enhancing Supply Chain Visibility with Graph Neural Networks and Federated Learning**|Ge Zheng et.al.|[2503.07231](http://arxiv.org/abs/2503.07231)|null|
 |**2025-03-14**|**Generative Multi-Agent Q-Learning for Policy Optimization: Decentralized Wireless Networks**|Talha Bozkus et.al.|[2503.05970](http://arxiv.org/abs/2503.05970)|null|
@@ -1083,6 +1088,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**A Block-Sparse Bayesian Learning Algorithm with Dictionary Parameter Estimation for Multi-Sensor Data Fusion**|Jakob Möderl et.al.|[2503.12913](http://arxiv.org/abs/2503.12913)|null|
+|**2025-03-17**|**Indoor Fusion Positioning Based on "IMU-Ultrasonic-UWB" and Factor Graph Optimization Method**|Fengyun Zhang et.al.|[2503.12726](http://arxiv.org/abs/2503.12726)|null|
 |**2025-03-13**|**Increased GM-WM in a prefrontal network and decreased GM in the insula and the precuneus are associated with reappraisal usage: A data fusion approach**|Alessandro Grecucci et.al.|[2503.09984](http://arxiv.org/abs/2503.09984)|null|
 |**2025-03-12**|**Demonstration of a new CLLBC-based gamma- and neutron-sensitive free-moving omnidirectional imaging detector**|Jayson R. Vavrek et.al.|[2503.09862](http://arxiv.org/abs/2503.09862)|null|
 |**2025-03-12**|**4D-ACFNet: A 4D Attention Mechanism-Based Prognostic Framework for Colorectal Cancer Liver Metastasis Integrating Multimodal Spatiotemporal Features**|Zesheng Li et.al.|[2503.09652](http://arxiv.org/abs/2503.09652)|null|
@@ -1735,6 +1742,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
+|**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090](http://arxiv.org/abs/2503.13090)|null|
+|**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|null|
 |**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|null|
 |**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166](http://arxiv.org/abs/2503.10166)|null|
 |**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370](http://arxiv.org/abs/2503.09370)|null|
@@ -2393,6 +2403,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
 |**2025-03-07**|**Automatic determination of quasicrystalline patterns from microscopy images**|Tano Kim Kender et.al.|[2503.05472](http://arxiv.org/abs/2503.05472)|null|
 |**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
 |**2025-01-13**|**Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps**|Saurabh Gupta et.al.|[2501.07399](http://arxiv.org/abs/2501.07399)|null|
@@ -2549,6 +2560,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
+|**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
 |**2025-03-11**|**Keypoint Detection and Description for Raw Bayer Images**|Jiakai Lin et.al.|[2503.08673](http://arxiv.org/abs/2503.08673)|null|
@@ -2820,6 +2833,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
+|**2025-03-14**|**Curves Ahead: Enhancing the Steering Law for Complex Curved Trajectories**|Jennie J. Y. Chen et.al.|[2503.11914](http://arxiv.org/abs/2503.11914)|null|
 |**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532](http://arxiv.org/abs/2503.11532)|null|
 |**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|null|
 |**2025-03-13**|**Sample and Map from a Single Convex Potential: Generation using Conjugate Moment Measures**|Nina Vesseron et.al.|[2503.10576](http://arxiv.org/abs/2503.10576)|null|
@@ -3644,7 +3659,7 @@
 |**2025-03-11**|**HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views**|Ethan Griffiths et.al.|[2503.08140](http://arxiv.org/abs/2503.08140)|null|
 |**2025-03-11**|**SparseVoxFormer: Sparse Voxel-based Transformer for Multi-modal 3D Object Detection**|Hyeongseok Son et.al.|[2503.08092](http://arxiv.org/abs/2503.08092)|null|
 |**2025-03-10**|**AgriField3D: A Curated 3D Point Cloud and Procedural Model Dataset of Field-Grown Maize from a Diversity Panel**|Elvis Kimara et.al.|[2503.07813](http://arxiv.org/abs/2503.07813)|null|
-|**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/abs/2503.07435)|**[link](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)**|
+|**2025-03-17**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/abs/2503.07435)|**[link](https://github.com/rmazzier/OpenSetGaitRecognition_PCAA)**|
 |**2025-03-10**|**ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration**|Youngseok Kim et.al.|[2503.06986](http://arxiv.org/abs/2503.06986)|null|
 |**2025-03-06**|**Spectral Informed Mamba for Robust Point Cloud Processing**|Ali Bahri et.al.|[2503.04953](http://arxiv.org/abs/2503.04953)|null|
 |**2025-03-04**|**ImpedanceGPT: VLM-driven Impedance Control of Swarm of Mini-drones for Intelligent Navigation in Dynamic Environment**|Faryal Batool et.al.|[2503.02723](http://arxiv.org/abs/2503.02723)|null|
