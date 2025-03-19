@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**A Parallel Hybrid Action Space Reinforcement Learning Model for Real-world Adaptive Traffic Signal Control**|Yuxuan Wang et.al.|[2503.14250](http://arxiv.org/abs/2503.14250)|null|
+|**2025-03-18**|**ChatBEV: A Visual Language Model that Understands BEV Maps**|Qingyao Xu et.al.|[2503.13938](http://arxiv.org/abs/2503.13938)|null|
 |**2025-03-16**|**GAN-Based Single-Stage Defense for Traffic Sign Classification Under Adversarial Patch Attack**|Abyad Enan et.al.|[2503.12567](http://arxiv.org/abs/2503.12567)|null|
 |**2025-03-15**|**Hierarchical Evolutionary Optimization with Predictive Modeling for Stable Delay-Constrained Routing in Vehicular Networks**|Zhang Zhiou et.al.|[2503.12050](http://arxiv.org/abs/2503.12050)|null|
 |**2025-03-13**|**Enhanced Route Planning with Calibrated Uncertainty Set**|Lingxuan Tang et.al.|[2503.10088](http://arxiv.org/abs/2503.10088)|null|
@@ -697,6 +699,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Room Impulse Response Estimation through Optimal Mass Transport Barycenters**|Rumeshika Pallewela et.al.|[2503.14207](http://arxiv.org/abs/2503.14207)|**[link](https://github.com/yuyangLiu-1/RIR_Estimation_OMT_Barycenter)**|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254](http://arxiv.org/abs/2503.13254)|null|
 |**2025-03-17**|**Hybrid Work in Agile Software Development: Recurring Meetings**|Emily Laue Christensen et.al.|[2503.13002](http://arxiv.org/abs/2503.13002)|null|
 |**2025-03-15**|**Efficient and Privacy-Preserved Link Prediction via Condensed Graphs**|Yunbo Long et.al.|[2503.12156](http://arxiv.org/abs/2503.12156)|null|
@@ -1088,6 +1091,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**FusDreamer: Label-efficient Remote Sensing World Model for Multimodal Data Classification**|Jinping Wang et.al.|[2503.13814](http://arxiv.org/abs/2503.13814)|null|
 |**2025-03-17**|**A Block-Sparse Bayesian Learning Algorithm with Dictionary Parameter Estimation for Multi-Sensor Data Fusion**|Jakob Möderl et.al.|[2503.12913](http://arxiv.org/abs/2503.12913)|null|
 |**2025-03-17**|**Indoor Fusion Positioning Based on "IMU-Ultrasonic-UWB" and Factor Graph Optimization Method**|Fengyun Zhang et.al.|[2503.12726](http://arxiv.org/abs/2503.12726)|null|
 |**2025-03-13**|**Increased GM-WM in a prefrontal network and decreased GM in the insula and the precuneus are associated with reappraisal usage: A data fusion approach**|Alessandro Grecucci et.al.|[2503.09984](http://arxiv.org/abs/2503.09984)|null|
@@ -1742,6 +1746,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
+|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|null|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
 |**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090](http://arxiv.org/abs/2503.13090)|null|
 |**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|null|
@@ -2833,6 +2839,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Global survey of star clusters in the Milky Way VIII. Cluster formation and evolution**|Jonathan H. Klos et.al.|[2503.14480](http://arxiv.org/abs/2503.14480)|null|
+|**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
+|**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
 |**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-14**|**Curves Ahead: Enhancing the Steering Law for Complex Curved Trajectories**|Jennie J. Y. Chen et.al.|[2503.11914](http://arxiv.org/abs/2503.11914)|null|
 |**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532](http://arxiv.org/abs/2503.11532)|null|
@@ -3651,6 +3660,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
+|**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
 |**2025-03-14**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|null|
 |**2025-03-13**|**Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments**|Linzuo Zhang et.al.|[2503.10141](http://arxiv.org/abs/2503.10141)|null|
 |**2025-03-14**|**Power Spectrum Signatures of Graphs**|Karamatou Yacoubou Djima et.al.|[2503.09660](http://arxiv.org/abs/2503.09660)|null|
