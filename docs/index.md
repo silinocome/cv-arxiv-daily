@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Low Cost C-ITS Stations Using Raspberry Pi and the Open Source Software OScar**|L. Farina et.al.|[2503.15461](http://arxiv.org/abs/2503.15461)|null|
 |**2025-03-18**|**A Parallel Hybrid Action Space Reinforcement Learning Model for Real-world Adaptive Traffic Signal Control**|Yuxuan Wang et.al.|[2503.14250](http://arxiv.org/abs/2503.14250)|null|
 |**2025-03-18**|**ChatBEV: A Visual Language Model that Understands BEV Maps**|Qingyao Xu et.al.|[2503.13938](http://arxiv.org/abs/2503.13938)|null|
 |**2025-03-16**|**GAN-Based Single-Stage Defense for Traffic Sign Classification Under Adversarial Patch Attack**|Abyad Enan et.al.|[2503.12567](http://arxiv.org/abs/2503.12567)|null|
@@ -687,6 +688,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**TF-TI2I: Training-Free Text-and-Image-to-Image Generation via Multi-Modal Implicit-Context Learning in Text-to-Image Models**|Teng-Fang Hsiao et.al.|[2503.15283](http://arxiv.org/abs/2503.15283)|null|
+|**2025-03-19**|**SemanticFlow: A Self-Supervised Framework for Joint Scene Flow Prediction and Instance Segmentation in Dynamic Environments**|Yinqi Chen et.al.|[2503.14837](http://arxiv.org/abs/2503.14837)|null|
 |**2025-03-18**|**Room Impulse Response Estimation through Optimal Mass Transport Barycenters**|Rumeshika Pallewela et.al.|[2503.14207](http://arxiv.org/abs/2503.14207)|**[link](https://github.com/yuyangLiu-1/RIR_Estimation_OMT_Barycenter)**|
 |**2025-03-17**|**Federated Mixture-of-Expert for Non-Overlapped Cross-Domain Sequential Recommendation**|Yu Liu et.al.|[2503.13254](http://arxiv.org/abs/2503.13254)|null|
 |**2025-03-17**|**Hybrid Work in Agile Software Development: Recurring Meetings**|Emily Laue Christensen et.al.|[2503.13002](http://arxiv.org/abs/2503.13002)|null|
@@ -1077,6 +1080,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
+|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284](http://arxiv.org/abs/2503.15284)|null|
 |**2025-03-18**|**FusDreamer: Label-efficient Remote Sensing World Model for Multimodal Data Classification**|Jinping Wang et.al.|[2503.13814](http://arxiv.org/abs/2503.13814)|null|
 |**2025-03-17**|**A Block-Sparse Bayesian Learning Algorithm with Dictionary Parameter Estimation for Multi-Sensor Data Fusion**|Jakob Möderl et.al.|[2503.12913](http://arxiv.org/abs/2503.12913)|null|
 |**2025-03-17**|**Indoor Fusion Positioning Based on "IMU-Ultrasonic-UWB" and Factor Graph Optimization Method**|Fengyun Zhang et.al.|[2503.12726](http://arxiv.org/abs/2503.12726)|null|
@@ -1731,11 +1736,11 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-18**|**3D Densification for Multi-Map Monocular VSLAM in Endoscopy**|X. Anadón et.al.|[2503.14346](http://arxiv.org/abs/2503.14346)|null|
-|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|null|
+|**2025-03-18**|**A-SCoRe: Attention-based Scene Coordinate Regression for wide-ranging scenarios**|Huy-Hoang Bui et.al.|[2503.13982](http://arxiv.org/abs/2503.13982)|**[link](https://github.com/ais-lab/a-score)**|
 |**2025-03-17**|**Scale Efficient Training for Large Datasets**|Qing Zhou et.al.|[2503.13385](http://arxiv.org/abs/2503.13385)|null|
 |**2025-03-17**|**Multi-Platform Teach-and-Repeat Navigation by Visual Place Recognition Based on Deep-Learned Local Features**|Václav Truhlařík et.al.|[2503.13090](http://arxiv.org/abs/2503.13090)|null|
 |**2025-03-17**|**All You Need to Know About Training Image Retrieval Models**|Gabriele Berton et.al.|[2503.13045](http://arxiv.org/abs/2503.13045)|null|
-|**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|null|
+|**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692](http://arxiv.org/abs/2503.10692)|**[link](https://github.com/uav-avl/benchmark)**|
 |**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166](http://arxiv.org/abs/2503.10166)|**[link](https://github.com/pengfei-luo/ImageScope)**|
 |**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370](http://arxiv.org/abs/2503.09370)|null|
 |**2025-03-10**|**Find your Needle: Small Object Image Retrieval via Multi-Object Attention Optimization**|Michael Green et.al.|[2503.07038](http://arxiv.org/abs/2503.07038)|null|
@@ -2546,6 +2551,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
 |**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|null|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
@@ -2817,13 +2823,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Euclid Quick Data Release (Q1): From images to multiwavelength catalogues: the Euclid MERge Processing Function**|Euclid Collaboration et.al.|[2503.15305](http://arxiv.org/abs/2503.15305)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1): VIS processing and data products**|Euclid Collaboration et.al.|[2503.15303](http://arxiv.org/abs/2503.15303)|null|
+|**2025-03-19**|**Bayesian hierarchical non-stationary hybrid modeling for threshold estimation in peak over threshold approach**|Quansheng Yue et.al.|[2503.14839](http://arxiv.org/abs/2503.14839)|null|
 |**2025-03-18**|**Global survey of star clusters in the Milky Way VIII. Cluster formation and evolution**|Jonathan H. Klos et.al.|[2503.14480](http://arxiv.org/abs/2503.14480)|null|
 |**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
 |**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
 |**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-14**|**Curves Ahead: Enhancing the Steering Law for Complex Curved Trajectories**|Jennie J. Y. Chen et.al.|[2503.11914](http://arxiv.org/abs/2503.11914)|null|
-|**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532](http://arxiv.org/abs/2503.11532)|null|
-|**2025-03-18**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|null|
+|**2025-03-14**|**Observation-only learning of neural mapping schemes for gappy satellite-derived ocean colour parameters**|Clément Dorffer et.al.|[2503.11532](http://arxiv.org/abs/2503.11532)|**[link](https://github.com/CIA-Oceanix/4dvarnet-core)**|
+|**2025-03-18**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|**[link](https://github.com/vaclavnezerka/cloud2bim)**|
 |**2025-03-13**|**Sample and Map from a Single Convex Potential: Generation using Conjugate Moment Measures**|Nina Vesseron et.al.|[2503.10576](http://arxiv.org/abs/2503.10576)|null|
 |**2025-03-13**|**Neural network-based identification of state-space switching nonlinear systems**|Yanxin Zhang et.al.|[2503.10114](http://arxiv.org/abs/2503.10114)|null|
 |**2025-03-13**|**Bayesian Inference of Geometric Brownian Motion: An Extension with Jumps**|Yifei Yan et.al.|[2503.09923](http://arxiv.org/abs/2503.09923)|null|
@@ -3638,7 +3647,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
 |**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
-|**2025-03-18**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|null|
+|**2025-03-18**|**Cloud2BIM: An open-source automatic pipeline for efficient conversion of large-scale point clouds into IFC format**|Slávek Zbirovský et.al.|[2503.11498](http://arxiv.org/abs/2503.11498)|**[link](https://github.com/vaclavnezerka/cloud2bim)**|
 |**2025-03-13**|**Mapless Collision-Free Flight via MPC using Dual KD-Trees in Cluttered Environments**|Linzuo Zhang et.al.|[2503.10141](http://arxiv.org/abs/2503.10141)|null|
 |**2025-03-14**|**Power Spectrum Signatures of Graphs**|Karamatou Yacoubou Djima et.al.|[2503.09660](http://arxiv.org/abs/2503.09660)|null|
 |**2025-03-04**|**Out-of-Distribution Segmentation in Autonomous Driving: Problems and State of the Art**|Youssef Shoeb et.al.|[2503.08695](http://arxiv.org/abs/2503.08695)|null|
