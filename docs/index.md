@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -2823,7 +2823,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-19**|**Euclid Quick Data Release (Q1): From images to multiwavelength catalogues: the Euclid MERge Processing Function**|Euclid Collaboration et.al.|[2503.15305](http://arxiv.org/abs/2503.15305)|null|
+|**2025-03-20**|**Euclid Quick Data Release (Q1): From images to multiwavelength catalogues: the Euclid MERge Processing Function**|Euclid Collaboration et.al.|[2503.15305](http://arxiv.org/abs/2503.15305)|null|
 |**2025-03-19**|**Euclid Quick Data Release (Q1): VIS processing and data products**|Euclid Collaboration et.al.|[2503.15303](http://arxiv.org/abs/2503.15303)|null|
 |**2025-03-19**|**Bayesian hierarchical non-stationary hybrid modeling for threshold estimation in peak over threshold approach**|Quansheng Yue et.al.|[2503.14839](http://arxiv.org/abs/2503.14839)|null|
 |**2025-03-18**|**Global survey of star clusters in the Milky Way VIII. Cluster formation and evolution**|Jonathan H. Klos et.al.|[2503.14480](http://arxiv.org/abs/2503.14480)|null|
