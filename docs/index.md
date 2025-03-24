@@ -916,7 +916,7 @@ layout: default
 |**2023-11-30**|**Reasoning with the Theory of Mind for Pragmatic Semantic Communication**|Christo Kurisummoottil Thomas et.al.|[2311.18224](http://arxiv.org/abs/2311.18224)|null|
 |**2023-11-24**|**Highly Detailed and Temporal Consistent Video Stylization via Synchronized Multi-Frame Diffusion**|Minshan Xie et.al.|[2311.14343](http://arxiv.org/abs/2311.14343)|null|
 |**2023-11-24**|**How We Manage an Army of Teaching Assistants: Experience Report on Scaling a CS1 Course**|Ildar Akhmetov et.al.|[2311.14241](http://arxiv.org/abs/2311.14241)|null|
-|**2023-11-21**|**Text-Guided Texturing by Synchronized Multi-View Diffusion**|Yuxin Liu et.al.|[2311.12891](http://arxiv.org/abs/2311.12891)|null|
+|**2023-11-21**|**Text-Guided Texturing by Synchronized Multi-View Diffusion**|Yuxin Liu et.al.|[2311.12891](http://arxiv.org/abs/2311.12891)|**[link](https://github.com/LIU-Yuxin/SyncMVD)**|
 |**2023-11-17**|**Joint Sensing and Communication Optimization in Target-Mounted STARS-Assisted Vehicular Networks: A MADRL Approach**|Haocheng Zhang et.al.|[2311.10352](http://arxiv.org/abs/2311.10352)|null|
 |**2023-11-14**|**Cooperative Bidirectional Mixed-Traffic Overtaking**|Faizan M. Tariq et.al.|[2311.08491](http://arxiv.org/abs/2311.08491)|null|
 |**2023-11-13**|**EvoFed: Leveraging Evolutionary Strategies for Communication-Efficient Federated Learning**|Mohammad Mahdi Rahimi et.al.|[2311.07485](http://arxiv.org/abs/2311.07485)|null|
@@ -1230,7 +1230,7 @@ layout: default
 |**2024-10-30**|**PDSR: Efficient UAV Deployment for Swift and Accurate Post-Disaster Search and Rescue**|Alaa Awad Abdellatif et.al.|[2410.22982](http://arxiv.org/abs/2410.22982)|null|
 |**2024-11-02**|**GPTR: Gaussian Process Trajectory Representation for Continuous-Time Motion Estimation**|Thien-Minh Nguyen et.al.|[2410.22931](http://arxiv.org/abs/2410.22931)|**[link](https://github.com/brytsknguyen/gptr)**|
 |**2024-10-29**|**Unsupervised Multimodal Fusion of In-process Sensor Data for Advanced Manufacturing Process Monitoring**|Matthew McKinney et.al.|[2410.22558](http://arxiv.org/abs/2410.22558)|null|
-|**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
+|**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|**[link](https://github.com/NingMingHao/Yolov8TensorrtRos)**|
 |**2024-10-29**|**Enhanced Survival Prediction in Head and Neck Cancer Using Convolutional Block Attention and Multimodal Data Fusion**|Aiman Farooq et.al.|[2410.21831](http://arxiv.org/abs/2410.21831)|null|
 |**2024-10-27**|**Sensor Fusion for Autonomous Indoor UAV Navigation in Confined Spaces**|Alice James et.al.|[2410.20599](http://arxiv.org/abs/2410.20599)|null|
 |**2024-10-24**|**Attention-based Citywide Electric Vehicle Charging Demand Prediction Approach Considering Urban Region and Dynamic Influences**|Haoxuan Kuang et.al.|[2410.18766](http://arxiv.org/abs/2410.18766)|null|
@@ -3740,7 +3740,7 @@ layout: default
 |**2024-11-01**|**On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR**|Li Li et.al.|[2411.00600](http://arxiv.org/abs/2411.00600)|**[link](https://github.com/l1997i/DurLAR)**|
 |**2024-11-01**|**PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling**|Donghyun Kim et.al.|[2411.00432](http://arxiv.org/abs/2411.00432)|null|
 |**2024-11-14**|**Efficient End-to-End 6-Dof Grasp Detection Framework for Edge Devices with Hierarchical Heatmaps and Feature Propagation**|Kaiqin Yang et.al.|[2410.22980](http://arxiv.org/abs/2410.22980)|null|
-|**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|null|
+|**2024-10-29**|**An Efficient Approach to Generate Safe Drivable Space by LiDAR-Camera-HDmap Fusion**|Minghao Ning et.al.|[2410.22314](http://arxiv.org/abs/2410.22314)|**[link](https://github.com/NingMingHao/Yolov8TensorrtRos)**|
 |**2024-10-29**|**Surface reconstruction from point cloud using a semi-Lagrangian scheme with local interpolator**|Silvia Preda et.al.|[2410.22205](http://arxiv.org/abs/2410.22205)|null|
 |**2024-10-27**|**A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing**|Julia Balla et.al.|[2410.20516](http://arxiv.org/abs/2410.20516)|**[link](https://github.com/smsharma/eqnn-jax)**|
 |**2024-10-24**|**Moving Object Segmentation in Point Cloud Data using Hidden Markov Models**|Vedant Bhandari et.al.|[2410.18638](http://arxiv.org/abs/2410.18638)|**[link](https://github.com/vb44/hmm-mos)**|
