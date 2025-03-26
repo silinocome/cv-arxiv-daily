@@ -704,6 +704,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Multi-agent Application System in Office Collaboration Scenarios**|Songtao Sun et.al.|[2503.19584](http://arxiv.org/abs/2503.19584)|null|
+|**2025-03-25**|**ChA-MAEViT: Unifying Channel-Aware Masked Autoencoders and Multi-Channel Vision Transformers for Improved Cross-Channel Learning**|Chau Pham et.al.|[2503.19331](http://arxiv.org/abs/2503.19331)|null|
+|**2025-03-25**|**CoMAC: Conversational Agent for Multi-Source Auxiliary Context with Sparse and Symmetric Latent Interactions**|Junfeng Liu et.al.|[2503.19274](http://arxiv.org/abs/2503.19274)|null|
 |**2025-03-24**|**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction**|Enrico Pallotta et.al.|[2503.18933](http://arxiv.org/abs/2503.18933)|null|
 |**2025-03-21**|**Collaborative Value Function Estimation Under Model Mismatch: A Federated Temporal Difference Analysis**|Ali Beikmohammadi et.al.|[2503.17454](http://arxiv.org/abs/2503.17454)|null|
 |**2025-03-19**|**Cyber Threats in Financial Transactions -- Addressing the Dual Challenge of AI and Quantum Computing**|Ahmed M. Elmisery et.al.|[2503.15678](http://arxiv.org/abs/2503.15678)|null|
@@ -1101,6 +1104,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**Resilient Sensor Fusion under Adverse Sensor Failures via Multi-Modal Expert Fusion**|Konyul Park et.al.|[2503.19776](http://arxiv.org/abs/2503.19776)|null|
 |**2025-03-24**|**Inertial-Based LQG Control: A New Look at Inverted Pendulum Stabilization**|Daniel Engelsman et.al.|[2503.18926](http://arxiv.org/abs/2503.18926)|null|
 |**2025-03-23**|**Vehicular Road Crack Detection with Deep Learning: A New Online Benchmark for Comprehensive Evaluation of Existing Algorithms**|Nachuan Ma et.al.|[2503.18082](http://arxiv.org/abs/2503.18082)|null|
 |**2025-03-22**|**Hierarchy-Aware and Channel-Adaptive Semantic Communication for Bandwidth-Limited Data Fusion**|Lei Guo et.al.|[2503.17777](http://arxiv.org/abs/2503.17777)|null|
@@ -1108,7 +1112,7 @@
 |**2025-03-20**|**A preliminary data fusion study to assess the feasibility of Foundation Process-Property Models in Laser Powder Bed Fusion**|Oriol Vendrell-Gallart et.al.|[2503.16667](http://arxiv.org/abs/2503.16667)|null|
 |**2025-03-20**|**MobiFuse: Learning Universal Human Mobility Patterns through Cross-domain Data Fusion**|Haoxuan Ma et.al.|[2503.15779](http://arxiv.org/abs/2503.15779)|null|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
-|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284](http://arxiv.org/abs/2503.15284)|null|
+|**2025-03-19**|**EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds**|Yuanchao Yue et.al.|[2503.15284](http://arxiv.org/abs/2503.15284)|**[link](https://github.com/esrschao/edgeregnet)**|
 |**2025-03-18**|**FusDreamer: Label-efficient Remote Sensing World Model for Multimodal Data Classification**|Jinping Wang et.al.|[2503.13814](http://arxiv.org/abs/2503.13814)|null|
 |**2025-03-17**|**A Block-Sparse Bayesian Learning Algorithm with Dictionary Parameter Estimation for Multi-Sensor Data Fusion**|Jakob Möderl et.al.|[2503.12913](http://arxiv.org/abs/2503.12913)|null|
 |**2025-03-17**|**Indoor Fusion Positioning Based on "IMU-Ultrasonic-UWB" and Factor Graph Optimization Method**|Fengyun Zhang et.al.|[2503.12726](http://arxiv.org/abs/2503.12726)|null|
@@ -1764,6 +1768,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|null|
+|**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
+|**2025-03-25**|**From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting**|Zhiwei Huang et.al.|[2503.19358](http://arxiv.org/abs/2503.19358)|null|
+|**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|null|
 |**2025-03-23**|**LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space**|Zhangyu Wang et.al.|[2503.18142](http://arxiv.org/abs/2503.18142)|null|
 |**2025-03-23**|**Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**|Xiang Fang et.al.|[2503.17938](http://arxiv.org/abs/2503.17938)|null|
 |**2025-03-23**|**What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**|Dongheng Lin et.al.|[2503.17899](http://arxiv.org/abs/2503.17899)|null|
@@ -2868,6 +2876,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Jet-mode feedback in NGC 5972: insights from resolved MUSE, GMRT and VLA observations**|Arshi Ali et.al.|[2503.19031](http://arxiv.org/abs/2503.19031)|null|
+|**2025-03-23**|**Generative Data Imputation for Sparse Learner Performance Data Using Generative Adversarial Imputation Networks**|Liang Zhang et.al.|[2503.18982](http://arxiv.org/abs/2503.18982)|null|
 |**2025-03-23**|**Unified Geometry and Color Compression Framework for Point Clouds via Generative Diffusion Priors**|Tianxin Huang et.al.|[2503.18083](http://arxiv.org/abs/2503.18083)|null|
 |**2025-03-23**|**GenMetaLoc: Learning to Learn Environment-Aware Fingerprint Generation for Sample Efficient Wireless Localization**|Jun Gao et.al.|[2503.18078](http://arxiv.org/abs/2503.18078)|null|
 |**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168](http://arxiv.org/abs/2503.17168)|null|
@@ -3701,6 +3711,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Cooperative Control of Multi-Quadrotors for Transporting Cable-Suspended Payloads: Obstacle-Aware Planning and Event-Based Nonlinear Model Predictive Control**|Tohid Kargar Tasooji et.al.|[2503.19135](http://arxiv.org/abs/2503.19135)|null|
 |**2025-03-23**|**Unified Geometry and Color Compression Framework for Point Clouds via Generative Diffusion Priors**|Tianxin Huang et.al.|[2503.18083](http://arxiv.org/abs/2503.18083)|null|
 |**2025-03-23**|**GenMetaLoc: Learning to Learn Environment-Aware Fingerprint Generation for Sample Efficient Wireless Localization**|Jun Gao et.al.|[2503.18078](http://arxiv.org/abs/2503.18078)|null|
 |**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168](http://arxiv.org/abs/2503.17168)|null|
