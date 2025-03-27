@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.26
+## Updated on 2025.03.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -692,7 +692,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-25**|**Multi-agent Application System in Office Collaboration Scenarios**|Songtao Sun et.al.|[2503.19584](http://arxiv.org/abs/2503.19584)|null|
+|**2025-03-26**|**Multi-agent Application System in Office Collaboration Scenarios**|Songtao Sun et.al.|[2503.19584](http://arxiv.org/abs/2503.19584)|null|
 |**2025-03-25**|**ChA-MAEViT: Unifying Channel-Aware Masked Autoencoders and Multi-Channel Vision Transformers for Improved Cross-Channel Learning**|Chau Pham et.al.|[2503.19331](http://arxiv.org/abs/2503.19331)|null|
 |**2025-03-25**|**CoMAC: Conversational Agent for Multi-Source Auxiliary Context with Sparse and Symmetric Latent Interactions**|Junfeng Liu et.al.|[2503.19274](http://arxiv.org/abs/2503.19274)|null|
 |**2025-03-24**|**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction**|Enrico Pallotta et.al.|[2503.18933](http://arxiv.org/abs/2503.18933)|null|
@@ -1752,7 +1752,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|null|
+|**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
 |**2025-03-25**|**From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting**|Zhiwei Huang et.al.|[2503.19358](http://arxiv.org/abs/2503.19358)|null|
 |**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|null|
@@ -2858,9 +2858,9 @@ layout: default
 |**2025-03-23**|**Generative Data Imputation for Sparse Learner Performance Data Using Generative Adversarial Imputation Networks**|Liang Zhang et.al.|[2503.18982](http://arxiv.org/abs/2503.18982)|null|
 |**2025-03-23**|**Unified Geometry and Color Compression Framework for Point Clouds via Generative Diffusion Priors**|Tianxin Huang et.al.|[2503.18083](http://arxiv.org/abs/2503.18083)|null|
 |**2025-03-23**|**GenMetaLoc: Learning to Learn Environment-Aware Fingerprint Generation for Sample Efficient Wireless Localization**|Jun Gao et.al.|[2503.18078](http://arxiv.org/abs/2503.18078)|null|
-|**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168](http://arxiv.org/abs/2503.17168)|null|
+|**2025-03-26**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168](http://arxiv.org/abs/2503.17168)|null|
 |**2025-03-21**|**Learning Non-Ideal Single Vortex Flows Using the Differentiable Vortex Particle Method**|Ziqi Ji et.al.|[2503.17012](http://arxiv.org/abs/2503.17012)|null|
-|**2025-03-21**|**HEAPO -- An Open Dataset for Heat Pump Optimization with Smart Electricity Meter Data and On-Site Inspection Protocols**|Tobias Brudermueller et.al.|[2503.16993](http://arxiv.org/abs/2503.16993)|null|
+|**2025-03-21**|**HEAPO -- An Open Dataset for Heat Pump Optimization with Smart Electricity Meter Data and On-Site Inspection Protocols**|Tobias Brudermueller et.al.|[2503.16993](http://arxiv.org/abs/2503.16993)|**[link](https://github.com/tbrumue/heapo)**|
 |**2025-03-21**|**A categorization of performance measures for estimated non-linear associations between an outcome and continuous predictors**|Theresa Ullmann et.al.|[2503.16981](http://arxiv.org/abs/2503.16981)|null|
 |**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429](http://arxiv.org/abs/2503.16429)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2025-03-20**|**GAN-enhanced Simulation-driven DNN Testing in Absence of Ground Truth**|Mohammed Attaoui et.al.|[2503.15953](http://arxiv.org/abs/2503.15953)|null|
@@ -3690,7 +3690,7 @@ layout: default
 |**2025-03-24**|**Cooperative Control of Multi-Quadrotors for Transporting Cable-Suspended Payloads: Obstacle-Aware Planning and Event-Based Nonlinear Model Predictive Control**|Tohid Kargar Tasooji et.al.|[2503.19135](http://arxiv.org/abs/2503.19135)|null|
 |**2025-03-23**|**Unified Geometry and Color Compression Framework for Point Clouds via Generative Diffusion Priors**|Tianxin Huang et.al.|[2503.18083](http://arxiv.org/abs/2503.18083)|null|
 |**2025-03-23**|**GenMetaLoc: Learning to Learn Environment-Aware Fingerprint Generation for Sample Efficient Wireless Localization**|Jun Gao et.al.|[2503.18078](http://arxiv.org/abs/2503.18078)|null|
-|**2025-03-21**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168](http://arxiv.org/abs/2503.17168)|null|
+|**2025-03-26**|**Hi-ALPS -- An Experimental Robustness Quantification of Six LiDAR-based Object Detection Systems for Autonomous Driving**|Alexandra Arzberger et.al.|[2503.17168](http://arxiv.org/abs/2503.17168)|null|
 |**2025-03-20**|**Sonata: Self-Supervised Learning of Reliable Point Representations**|Xiaoyang Wu et.al.|[2503.16429](http://arxiv.org/abs/2503.16429)|**[link](https://github.com/Pointcept/Pointcept)**|
 |**2025-03-18**|**Flying in Highly Dynamic Environments with End-to-end Learning Approach**|Xiyu Fan et.al.|[2503.14352](http://arxiv.org/abs/2503.14352)|null|
 |**2025-03-18**|**Robust3D-CIL: Robust Class-Incremental Learning for 3D Perception**|Jinge Ma et.al.|[2503.13869](http://arxiv.org/abs/2503.13869)|null|
