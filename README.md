@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-28**|**Optimized Vehicular Antenna Placement for Phase-Coherent Positioning**|Victor Pettersson et.al.|[2503.22530](http://arxiv.org/abs/2503.22530)|null|
-|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|null|
+|**2025-03-27**|**Exploring the Roles of Large Language Models in Reshaping Transportation Systems: A Survey, Framework, and Roadmap**|Tong Nie et.al.|[2503.21411](http://arxiv.org/abs/2503.21411)|**[link](https://github.com/tongnie/awesome-llm4tr)**|
 |**2025-03-25**|**Hyperdimensional Uncertainty Quantification for Multimodal Uncertainty Fusion in Autonomous Vehicles Perception**|Luke Chen et.al.|[2503.20011](http://arxiv.org/abs/2503.20011)|null|
 |**2025-03-21**|**Salient Object Detection in Traffic Scene through the TSOD10K Dataset**|Yu Qiu et.al.|[2503.16910](http://arxiv.org/abs/2503.16910)|null|
 |**2025-03-20**|**SA-Occ: Satellite-Assisted 3D Occupancy Prediction in Real World**|Chen Chen et.al.|[2503.16399](http://arxiv.org/abs/2503.16399)|**[link](https://github.com/chenchen235/sa-occ)**|
@@ -701,7 +701,7 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 ## Collaborative Perception
 
@@ -710,7 +710,7 @@
 |**2025-03-27**|**A Delphi Study on the Adaptation of SCRUM Practices to Remote Work**|Cleyton Magalhaes et.al.|[2503.21960](http://arxiv.org/abs/2503.21960)|null|
 |**2025-03-26**|**Multi-agent Application System in Office Collaboration Scenarios**|Songtao Sun et.al.|[2503.19584](http://arxiv.org/abs/2503.19584)|null|
 |**2025-03-25**|**ChA-MAEViT: Unifying Channel-Aware Masked Autoencoders and Multi-Channel Vision Transformers for Improved Cross-Channel Learning**|Chau Pham et.al.|[2503.19331](http://arxiv.org/abs/2503.19331)|null|
-|**2025-03-25**|**CoMAC: Conversational Agent for Multi-Source Auxiliary Context with Sparse and Symmetric Latent Interactions**|Junfeng Liu et.al.|[2503.19274](http://arxiv.org/abs/2503.19274)|null|
+|**2025-03-25**|**CoMAC: Conversational Agent for Multi-Source Auxiliary Context with Sparse and Symmetric Latent Interactions**|Junfeng Liu et.al.|[2503.19274](http://arxiv.org/abs/2503.19274)|**[link](https://github.com/jliu-v/CoMAC)**|
 |**2025-03-24**|**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction**|Enrico Pallotta et.al.|[2503.18933](http://arxiv.org/abs/2503.18933)|**[link](https://github.com/PallottaEnrico/SyncVP)**|
 |**2025-03-21**|**Collaborative Value Function Estimation Under Model Mismatch: A Federated Temporal Difference Analysis**|Ali Beikmohammadi et.al.|[2503.17454](http://arxiv.org/abs/2503.17454)|**[link](https://github.com/AliBeikmohammadi/FedRL)**|
 |**2025-03-19**|**Cyber Threats in Financial Transactions -- Addressing the Dual Challenge of AI and Quantum Computing**|Ahmed M. Elmisery et.al.|[2503.15678](http://arxiv.org/abs/2503.15678)|null|
@@ -1102,7 +1102,7 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 ## sensor fusion
 
@@ -1115,7 +1115,7 @@
 |**2025-03-24**|**Inertial-Based LQG Control: A New Look at Inverted Pendulum Stabilization**|Daniel Engelsman et.al.|[2503.18926](http://arxiv.org/abs/2503.18926)|**[link](https://github.com/ansfl/lqg-a-ipoc)**|
 |**2025-03-23**|**Vehicular Road Crack Detection with Deep Learning: A New Online Benchmark for Comprehensive Evaluation of Existing Algorithms**|Nachuan Ma et.al.|[2503.18082](http://arxiv.org/abs/2503.18082)|null|
 |**2025-03-22**|**Hierarchy-Aware and Channel-Adaptive Semantic Communication for Bandwidth-Limited Data Fusion**|Lei Guo et.al.|[2503.17777](http://arxiv.org/abs/2503.17777)|null|
-|**2025-03-21**|**Enhanced Smart Contract Reputability Analysis using Multimodal Data Fusion on Ethereum**|Cyrus Malik et.al.|[2503.17426](http://arxiv.org/abs/2503.17426)|null|
+|**2025-03-29**|**Enhanced Smart Contract Reputability Analysis using Multimodal Data Fusion on Ethereum**|Cyrus Malik et.al.|[2503.17426](http://arxiv.org/abs/2503.17426)|null|
 |**2025-03-20**|**A preliminary data fusion study to assess the feasibility of Foundation Process-Property Models in Laser Powder Bed Fusion**|Oriol Vendrell-Gallart et.al.|[2503.16667](http://arxiv.org/abs/2503.16667)|null|
 |**2025-03-20**|**MobiFuse: Learning Universal Human Mobility Patterns through Cross-domain Data Fusion**|Haoxuan Ma et.al.|[2503.15779](http://arxiv.org/abs/2503.15779)|null|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
@@ -1769,20 +1769,20 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 ## localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-27**|**LOCORE: Image Re-ranking with Long-Context Sequence Modeling**|Zilin Xiao et.al.|[2503.21772](http://arxiv.org/abs/2503.21772)|null|
+|**2025-03-27**|**LOCORE: Image Re-ranking with Long-Context Sequence Modeling**|Zilin Xiao et.al.|[2503.21772](http://arxiv.org/abs/2503.21772)|**[link](https://github.com/MrZilinXiao/LongContextReranker)**|
 |**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757](http://arxiv.org/abs/2503.21757)|null|
 |**2025-03-27**|**FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval**|Zixu Li et.al.|[2503.21309](http://arxiv.org/abs/2503.21309)|**[link](https://github.com/sdu-l/finecir)**|
 |**2025-03-27**|**Clean Image May be Dangerous: Data Poisoning Attacks Against Deep Hashing**|Shuai Li et.al.|[2503.21236](http://arxiv.org/abs/2503.21236)|null|
 |**2025-03-25**|**CoLLM: A Large Language Model for Composed Image Retrieval**|Chuong Huynh et.al.|[2503.19910](http://arxiv.org/abs/2503.19910)|**[link](https://github.com/hmchuong/CoLLM)**|
 |**2025-03-25**|**Scene-agnostic Pose Regression for Visual Localization**|Junwei Zheng et.al.|[2503.19543](http://arxiv.org/abs/2503.19543)|null|
 |**2025-03-25**|**From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting**|Zhiwei Huang et.al.|[2503.19358](http://arxiv.org/abs/2503.19358)|null|
-|**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|null|
+|**2025-03-25**|**Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval**|Haoqiang Lin et.al.|[2503.19296](http://arxiv.org/abs/2503.19296)|**[link](https://github.com/ZiChao111/FTI4CIR)**|
 |**2025-03-23**|**LocDiffusion: Identifying Locations on Earth by Diffusing in the Hilbert Space**|Zhangyu Wang et.al.|[2503.18142](http://arxiv.org/abs/2503.18142)|null|
 |**2025-03-23**|**Selecting and Pruning: A Differentiable Causal Sequentialized State-Space Model for Two-View Correspondence Learning**|Xiang Fang et.al.|[2503.17938](http://arxiv.org/abs/2503.17938)|null|
 |**2025-03-23**|**What Time Tells Us? An Explorative Study of Time Awareness Learned from Static Images**|Dongheng Lin et.al.|[2503.17899](http://arxiv.org/abs/2503.17899)|null|
@@ -2447,7 +2447,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 ## Detection
 
@@ -2604,7 +2604,7 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 ## Matching
 
@@ -2882,7 +2882,7 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 ## ground segmentation
 
@@ -2895,7 +2895,7 @@
 |**2025-03-27**|**Multimodal surface defect detection from wooden logs for sawing optimization**|Bořek Reich et.al.|[2503.21367](http://arxiv.org/abs/2503.21367)|null|
 |**2025-03-27**|**Euclid Quick Data Release (Q1). The Euclid view on Planck galaxy protocluster candidates: towards a probe of the highest sites of star formation at cosmic noon**|Euclid Collaboration et.al.|[2503.21304](http://arxiv.org/abs/2503.21304)|null|
 |**2025-03-26**|**Cherry Yield Forecast: Harvest Prediction for Individual Sweet Cherry Trees**|Andreas Gilson et.al.|[2503.20419](http://arxiv.org/abs/2503.20419)|null|
-|**2025-03-25**|**Bayesian measures of leverage and influence**|Martyn Plummer et.al.|[2503.19996](http://arxiv.org/abs/2503.19996)|null|
+|**2025-03-25**|**Bayesian measures of leverage and influence**|Martyn Plummer et.al.|[2503.19996](http://arxiv.org/abs/2503.19996)|**[link](https://github.com/martynplummer/bayesian-influence)**|
 |**2025-03-24**|**Jet-mode feedback in NGC 5972: insights from resolved MUSE, GMRT and VLA observations**|Arshi Ali et.al.|[2503.19031](http://arxiv.org/abs/2503.19031)|null|
 |**2025-03-23**|**Generative Data Imputation for Sparse Learner Performance Data Using Generative Adversarial Imputation Networks**|Liang Zhang et.al.|[2503.18982](http://arxiv.org/abs/2503.18982)|null|
 |**2025-03-23**|**Unified Geometry and Color Compression Framework for Point Clouds via Generative Diffusion Priors**|Tianxin Huang et.al.|[2503.18083](http://arxiv.org/abs/2503.18083)|null|
@@ -3725,7 +3725,7 @@
 |**2023-11-22**|**Exploring Physically-Motivated Models to Fit Gamma-Ray Burst Spectra**|Suraj Poolakkil et.al.|[2311.13566](http://arxiv.org/abs/2311.13566)|null|
 |**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 ## point cloud
 
@@ -4018,7 +4018,7 @@
 |**2023-11-05**|**Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook**|Huang Zhang et.al.|[2311.02608](http://arxiv.org/abs/2311.02608)|null|
 |**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552](http://arxiv.org/abs/2311.02552)|**[link](https://github.com/robotic-vision-lab/implicit-point-voxel-features-network)**|
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
