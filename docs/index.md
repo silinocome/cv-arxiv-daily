@@ -698,6 +698,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Sequential Binary Hypothesis Testing with Competing Agents under Information Asymmetry**|Aneesh Raghavan et.al.|[2504.02743](http://arxiv.org/abs/2504.02743)|null|
+|**2025-04-01**|**OccludeNeRF: Geometric-aware 3D Scene Inpainting with Collaborative Score Distillation in NeRF**|Jingyu Shi et.al.|[2504.02007](http://arxiv.org/abs/2504.02007)|null|
 |**2025-04-02**|**Vers une modélisation de la confiance dans le renseignement sur les menaces cyber**|Laurent Bobelin et.al.|[2504.01606](http://arxiv.org/abs/2504.01606)|null|
 |**2025-03-27**|**A Delphi Study on the Adaptation of SCRUM Practices to Remote Work**|Cleyton Magalhaes et.al.|[2503.21960](http://arxiv.org/abs/2503.21960)|null|
 |**2025-03-26**|**Multi-agent Application System in Office Collaboration Scenarios**|Songtao Sun et.al.|[2503.19584](http://arxiv.org/abs/2503.19584)|null|
@@ -1098,7 +1100,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-31**|**Cal or No Cal? -- Real-Time Miscalibration Detection of LiDAR and Camera Sensors**|Ilir Tahiraj et.al.|[2504.01040](http://arxiv.org/abs/2504.01040)|null|
+|**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287](http://arxiv.org/abs/2504.02287)|null|
+|**2025-04-03**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279](http://arxiv.org/abs/2504.02279)|null|
+|**2025-03-31**|**Cal or No Cal? -- Real-Time Miscalibration Detection of LiDAR and Camera Sensors**|Ilir Tahiraj et.al.|[2504.01040](http://arxiv.org/abs/2504.01040)|**[link](https://github.com/tumftm/miscalibrationdetection)**|
 |**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253](http://arxiv.org/abs/2503.24253)|null|
 |**2025-03-30**|**Design and Experimental Validation of an Autonomous USV for Sensor Fusion-Based Navigation in GNSS-Denied Environments**|Samuel Cohen-Salmon et.al.|[2503.23445](http://arxiv.org/abs/2503.23445)|null|
 |**2025-03-30**|**VideoFusion: A Spatio-Temporal Collaborative Network for Mutli-modal Video Fusion and Restoration**|Linfeng Tang et.al.|[2503.23359](http://arxiv.org/abs/2503.23359)|null|
@@ -1768,6 +1772,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
@@ -2884,6 +2889,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
 |**2025-04-01**|**Safety and Security Risk Mitigation in Satellite Missions via Attack-Fault-Defense Trees**|Reza Soltani et.al.|[2504.00988](http://arxiv.org/abs/2504.00988)|null|
 |**2025-04-01**|**pumBayes: Bayesian Estimation of Probit Unfolding Models for Binary Preference Data in R**|Skylar Shi et.al.|[2504.00423](http://arxiv.org/abs/2504.00423)|null|
 |**2025-03-29**|**Skeletonization Quality Evaluation: Geometric Metrics for Point Cloud Analysis in Robotics**|Qingmeng Wen et.al.|[2504.00032](http://arxiv.org/abs/2504.00032)|null|
@@ -3730,6 +3736,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
 |**2025-03-29**|**Skeletonization Quality Evaluation: Geometric Metrics for Point Cloud Analysis in Robotics**|Qingmeng Wen et.al.|[2504.00032](http://arxiv.org/abs/2504.00032)|null|
 |**2025-03-31**|**Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes**|Daichi Otsuka et.al.|[2503.24229](http://arxiv.org/abs/2503.24229)|null|
 |**2025-03-29**|**Advancing THz Radio Map Construction and Obstacle Sensing: An Integrated Generative Framework in ISAC**|Tianyu Hu et.al.|[2503.23055](http://arxiv.org/abs/2503.23055)|null|
