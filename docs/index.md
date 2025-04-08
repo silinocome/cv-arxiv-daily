@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-06**|**Systematic Literature Review on Vehicular Collaborative Perception -- A Computer Vision Perspective**|Lei Wan et.al.|[2504.04631](http://arxiv.org/abs/2504.04631)|null|
 |**2025-03-31**|**Trajectory Planning for Automated Driving using Target Funnels**|Benjamin Bogenberger et.al.|[2503.23795](http://arxiv.org/abs/2503.23795)|null|
 |**2025-03-29**|**MNT-TNN: Spatiotemporal Traffic Data Imputation via Compact Multimode Nonlinear Transform-based Tensor Nuclear Norm**|Yihang Lu et.al.|[2503.22955](http://arxiv.org/abs/2503.22955)|null|
 |**2025-03-24**|**Risk-Calibrated Affective Speech Recognition via Conformal Coverage Guarantees: A Stochastic Calibrative Framework for Emergent Uncertainty Quantification**|Zijun Jia et.al.|[2503.22712](http://arxiv.org/abs/2503.22712)|null|
@@ -698,11 +699,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-05**|**A Self-Supervised Learning Approach with Differentiable Optimization for UAV Trajectory Planning**|Yufei Jiang et.al.|[2504.04289](http://arxiv.org/abs/2504.04289)|null|
 |**2025-04-03**|**Sequential Binary Hypothesis Testing with Competing Agents under Information Asymmetry**|Aneesh Raghavan et.al.|[2504.02743](http://arxiv.org/abs/2504.02743)|null|
 |**2025-04-01**|**OccludeNeRF: Geometric-aware 3D Scene Inpainting with Collaborative Score Distillation in NeRF**|Jingyu Shi et.al.|[2504.02007](http://arxiv.org/abs/2504.02007)|null|
 |**2025-04-02**|**Vers une modélisation de la confiance dans le renseignement sur les menaces cyber**|Laurent Bobelin et.al.|[2504.01606](http://arxiv.org/abs/2504.01606)|null|
 |**2025-03-27**|**A Delphi Study on the Adaptation of SCRUM Practices to Remote Work**|Cleyton Magalhaes et.al.|[2503.21960](http://arxiv.org/abs/2503.21960)|null|
-|**2025-03-26**|**Multi-agent Application System in Office Collaboration Scenarios**|Songtao Sun et.al.|[2503.19584](http://arxiv.org/abs/2503.19584)|null|
+|**2025-04-07**|**Multi-agent Application System in Office Collaboration Scenarios**|Songtao Sun et.al.|[2503.19584](http://arxiv.org/abs/2503.19584)|null|
 |**2025-03-25**|**ChA-MAEViT: Unifying Channel-Aware Masked Autoencoders and Multi-Channel Vision Transformers for Improved Cross-Channel Learning**|Chau Pham et.al.|[2503.19331](http://arxiv.org/abs/2503.19331)|null|
 |**2025-03-25**|**CoMAC: Conversational Agent for Multi-Source Auxiliary Context with Sparse and Symmetric Latent Interactions**|Junfeng Liu et.al.|[2503.19274](http://arxiv.org/abs/2503.19274)|**[link](https://github.com/jliu-v/CoMAC)**|
 |**2025-03-24**|**SyncVP: Joint Diffusion for Synchronous Multi-Modal Video Prediction**|Enrico Pallotta et.al.|[2503.18933](http://arxiv.org/abs/2503.18933)|**[link](https://github.com/PallottaEnrico/SyncVP)**|
@@ -1100,10 +1102,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-04**|**MIMRS: A Survey on Masked Image Modeling in Remote Sensing**|Shabnam Choudhury et.al.|[2504.03181](http://arxiv.org/abs/2504.03181)|null|
+|**2025-04-06**|**Systematic Literature Review on Vehicular Collaborative Perception -- A Computer Vision Perspective**|Lei Wan et.al.|[2504.04631](http://arxiv.org/abs/2504.04631)|null|
+|**2025-04-07**|**MIMRS: A Survey on Masked Image Modeling in Remote Sensing**|Shabnam Choudhury et.al.|[2504.03181](http://arxiv.org/abs/2504.03181)|null|
 |**2025-04-04**|**Real-Time Roadway Obstacle Detection for Electric Scooters Using Deep Learning and Multi-Sensor Fusion**|Zeyang Zheng et.al.|[2504.03171](http://arxiv.org/abs/2504.03171)|null|
 |**2025-04-03**|**MultiSensor-Home: A Wide-area Multi-modal Multi-view Dataset for Action Recognition and Transformer-based Sensor Fusion**|Trung Thanh Nguyen et.al.|[2504.02287](http://arxiv.org/abs/2504.02287)|null|
-|**2025-04-03**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279](http://arxiv.org/abs/2504.02279)|null|
+|**2025-04-07**|**MultiTSF: Transformer-based Sensor Fusion for Human-Centric Multi-view and Multi-modal Action Recognition**|Trung Thanh Nguyen et.al.|[2504.02279](http://arxiv.org/abs/2504.02279)|null|
 |**2025-03-31**|**Cal or No Cal? -- Real-Time Miscalibration Detection of LiDAR and Camera Sensors**|Ilir Tahiraj et.al.|[2504.01040](http://arxiv.org/abs/2504.01040)|**[link](https://github.com/tumftm/miscalibrationdetection)**|
 |**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253](http://arxiv.org/abs/2503.24253)|null|
 |**2025-03-30**|**Design and Experimental Validation of an Autonomous USV for Sensor Fusion-Based Navigation in GNSS-Denied Environments**|Samuel Cohen-Salmon et.al.|[2503.23445](http://arxiv.org/abs/2503.23445)|null|
@@ -1774,8 +1777,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
 |**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
-|**2025-04-03**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
+|**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
 |**2025-04-02**|**Prompt-Guided Attention Head Selection for Focus-Oriented Image Retrieval**|Yuji Nozawa et.al.|[2504.01348](http://arxiv.org/abs/2504.01348)|null|
 |**2025-04-01**|**IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval**|Bangwei Liu et.al.|[2504.00954](http://arxiv.org/abs/2504.00954)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
@@ -2613,6 +2617,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
 |**2025-03-31**|**CoMatch: Dynamic Covisibility-Aware Transformer for Bilateral Subpixel-Level Semi-Dense Image Matching**|Zizhuo Li et.al.|[2503.23925](http://arxiv.org/abs/2503.23925)|null|
 |**2025-03-28**|**Pairwise Matching of Intermediate Representations for Fine-grained Explainability**|Lauren Shrack et.al.|[2503.22881](http://arxiv.org/abs/2503.22881)|**[link](https://github.com/pairx-explains/pairx)**|
@@ -2621,7 +2626,7 @@ layout: default
 |**2025-03-20**|**Loop Closure from Two Views: Revisiting PGO for Scalable Trajectory Estimation through Monocular Priors**|Tian Yi Lim et.al.|[2503.16275](http://arxiv.org/abs/2503.16275)|null|
 |**2025-03-20**|**MapGlue: Multimodal Remote Sensing Image Matching**|Peihao Wu et.al.|[2503.16185](http://arxiv.org/abs/2503.16185)|**[link](https://github.com/peihaowu/mapglue)**|
 |**2025-03-19**|**PAPI-Reg: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image**|Yuanchao Yue et.al.|[2503.15285](http://arxiv.org/abs/2503.15285)|null|
-|**2025-03-17**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
+|**2025-04-07**|**Less Biased Noise Scale Estimation for Threshold-Robust RANSAC**|Johan Edstedt et.al.|[2503.13433](http://arxiv.org/abs/2503.13433)|null|
 |**2025-03-17**|**SatDepth: A Novel Dataset for Satellite Image Matching**|Rahul Deshmukh et.al.|[2503.12706](http://arxiv.org/abs/2503.12706)|**[link](https://github.com/rahuldeshmukh43/satdepth)**|
 |**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148](http://arxiv.org/abs/2503.11148)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017](http://arxiv.org/abs/2503.10017)|null|
@@ -2892,6 +2897,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**Modeling Micro-Doppler Signature of Multi-Propeller Drones in Distributed ISAC**|Heraldo Cesar Alves Costa et.al.|[2504.05168](http://arxiv.org/abs/2504.05168)|null|
+|**2025-04-07**|**SurvSurf: a partially monotonic neural network for first-hitting time prediction of intermittently observed discrete and continuous sequential events**|Yichen Kelly Chen et.al.|[2504.04997](http://arxiv.org/abs/2504.04997)|null|
+|**2025-04-04**|**CREASE-2D Analysis of Small Angle X-ray Scattering Data from Supramolecular Dipeptide Systems**|Nitant Gupta et.al.|[2504.03869](http://arxiv.org/abs/2504.03869)|null|
+|**2025-04-01**|**Artificial Geographically Weighted Neural Network: A Novel Framework for Spatial Analysis with Geographically Weighted Layers**|Jianfei Cao et.al.|[2504.03734](http://arxiv.org/abs/2504.03734)|null|
 |**2025-04-04**|**The Binary Fraction of Red Supergiants in the Magellanic Clouds**|Min Dai et.al.|[2504.03357](http://arxiv.org/abs/2504.03357)|null|
 |**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
 |**2025-04-01**|**Safety and Security Risk Mitigation in Satellite Missions via Attack-Fault-Defense Trees**|Reza Soltani et.al.|[2504.00988](http://arxiv.org/abs/2504.00988)|null|
