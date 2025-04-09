@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -2899,7 +2899,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-07**|**Modeling Micro-Doppler Signature of Multi-Propeller Drones in Distributed ISAC**|Heraldo Cesar Alves Costa et.al.|[2504.05168](http://arxiv.org/abs/2504.05168)|null|
 |**2025-04-07**|**SurvSurf: a partially monotonic neural network for first-hitting time prediction of intermittently observed discrete and continuous sequential events**|Yichen Kelly Chen et.al.|[2504.04997](http://arxiv.org/abs/2504.04997)|null|
-|**2025-04-04**|**CREASE-2D Analysis of Small Angle X-ray Scattering Data from Supramolecular Dipeptide Systems**|Nitant Gupta et.al.|[2504.03869](http://arxiv.org/abs/2504.03869)|null|
+|**2025-04-04**|**CREASE-2D Analysis of Small Angle X-ray Scattering Data from Supramolecular Dipeptide Systems**|Nitant Gupta et.al.|[2504.03869](http://arxiv.org/abs/2504.03869)|**[link](https://github.com/arthijayaraman-lab/CREASE-2D-Analysis-of-Small-Angle-X-ray-Scattering-Data-from-Supramolecular-Dipeptide-Systems)**|
 |**2025-04-01**|**Artificial Geographically Weighted Neural Network: A Novel Framework for Spatial Analysis with Geographically Weighted Layers**|Jianfei Cao et.al.|[2504.03734](http://arxiv.org/abs/2504.03734)|null|
 |**2025-04-04**|**The Binary Fraction of Red Supergiants in the Magellanic Clouds**|Min Dai et.al.|[2504.03357](http://arxiv.org/abs/2504.03357)|null|
 |**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
