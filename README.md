@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Towards Efficient Roadside LiDAR Deployment: A Fast Surrogate Metric Based on Entropy-Guided Visibility**|Yuze Jiang et.al.|[2504.06772](http://arxiv.org/abs/2504.06772)|null|
 |**2025-04-07**|**Towards Zero Trust Security in Connected Vehicles: A Comprehensive Survey**|Malak Annabi et.al.|[2504.05485](http://arxiv.org/abs/2504.05485)|null|
 |**2025-04-06**|**Systematic Literature Review on Vehicular Collaborative Perception -- A Computer Vision Perspective**|Lei Wan et.al.|[2504.04631](http://arxiv.org/abs/2504.04631)|null|
 |**2025-03-31**|**Trajectory Planning for Automated Driving using Target Funnels**|Benjamin Bogenberger et.al.|[2503.23795](http://arxiv.org/abs/2503.23795)|null|
@@ -712,6 +713,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Evaluating amyloid-beta as a surrogate endpoint in trials of anti-amyloid drugs in Alzheimer's disease: a Bayesian meta-analysis**|Sa Ren et.al.|[2504.06807](http://arxiv.org/abs/2504.06807)|null|
 |**2025-04-05**|**A Self-Supervised Learning Approach with Differentiable Optimization for UAV Trajectory Planning**|Yufei Jiang et.al.|[2504.04289](http://arxiv.org/abs/2504.04289)|null|
 |**2025-04-03**|**Sequential Binary Hypothesis Testing with Competing Agents under Information Asymmetry**|Aneesh Raghavan et.al.|[2504.02743](http://arxiv.org/abs/2504.02743)|null|
 |**2025-04-01**|**OccludeNeRF: Geometric-aware 3D Scene Inpainting with Collaborative Score Distillation in NeRF**|Jingyu Shi et.al.|[2504.02007](http://arxiv.org/abs/2504.02007)|null|
@@ -1117,6 +1119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Holistic Fusion: Task- and Setup-Agnostic Robot Localization and State Estimation with Factor Graphs**|Julian Nubert et.al.|[2504.06479](http://arxiv.org/abs/2504.06479)|null|
 |**2025-04-08**|**OSDM-MReg: Multimodal Image Registration based One Step Diffusion Model**|Xiaochen Wei et.al.|[2504.06027](http://arxiv.org/abs/2504.06027)|null|
 |**2025-04-06**|**Systematic Literature Review on Vehicular Collaborative Perception -- A Computer Vision Perspective**|Lei Wan et.al.|[2504.04631](http://arxiv.org/abs/2504.04631)|null|
 |**2025-04-07**|**MIMRS: A Survey on Masked Image Modeling in Remote Sensing**|Shabnam Choudhury et.al.|[2504.03181](http://arxiv.org/abs/2504.03181)|null|
@@ -1795,6 +1798,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception**|Ruotian Peng et.al.|[2504.06666](http://arxiv.org/abs/2504.06666)|null|
 |**2025-04-06**|**NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval**|Peng Gao et.al.|[2504.04339](http://arxiv.org/abs/2504.04339)|null|
 |**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
 |**2025-04-06**|**Re-thinking Temporal Search for Long-Form Video Understanding**|Jinhui Ye et.al.|[2504.02259](http://arxiv.org/abs/2504.02259)|null|
@@ -2639,6 +2643,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|null|
 |**2025-04-08**|**To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition**|Davide Sferrazza et.al.|[2504.06116](http://arxiv.org/abs/2504.06116)|null|
 |**2025-04-07**|**Learning Affine Correspondences by Integrating Geometric Constraints**|Pengju Sun et.al.|[2504.04834](http://arxiv.org/abs/2504.04834)|null|
 |**2025-04-01**|**Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data**|Yiqun Duan et.al.|[2504.00812](http://arxiv.org/abs/2504.00812)|null|
@@ -2922,6 +2927,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Cerebral blood flow monitoring using a deep learning implementation of the two-layer DCS analytical model with a 512 512 SPAD array**|Mingliang Pan et.al.|[2504.06997](http://arxiv.org/abs/2504.06997)|null|
+|**2025-04-09**|**Using theory-driven Integrated Population Models to evaluate competitive outcomes in stage-structured systems**|Matthieu Paquet et.al.|[2504.06725](http://arxiv.org/abs/2504.06725)|null|
+|**2025-04-08**|**Physical spline for denoising object trajectory data by combining splines, ML feature regression and model knowledge**|Jonas Torzewski et.al.|[2504.06404](http://arxiv.org/abs/2504.06404)|null|
 |**2025-04-08**|**Unified Beta Regression Model with Random Effects for the Analysis of Sensory Attributes**|João César Reis Alves et.al.|[2504.05996](http://arxiv.org/abs/2504.05996)|null|
 |**2025-04-08**|**SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**|Minghao Ning et.al.|[2504.05727](http://arxiv.org/abs/2504.05727)|**[link](https://github.com/HopeYless/SAP-CoPE-Project)**|
 |**2025-04-07**|**Modeling Micro-Doppler Signature of Multi-Propeller Drones in Distributed ISAC**|Heraldo Cesar Alves Costa et.al.|[2504.05168](http://arxiv.org/abs/2504.05168)|null|
