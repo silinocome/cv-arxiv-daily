@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -705,7 +705,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-16**|**Bayesian dynamic borrowing considering semantic similarity between outcomes for disproportionality analysis in FAERS**|François Haguinet et.al.|[2504.12052](http://arxiv.org/abs/2504.12052)|null|
+|**2025-04-17**|**Bayesian dynamic borrowing considering semantic similarity between outcomes for disproportionality analysis in FAERS**|François Haguinet et.al.|[2504.12052](http://arxiv.org/abs/2504.12052)|null|
 |**2025-04-15**|**A Nonparametric Bayesian Local-Global Model for Enhanced Adverse Event Signal Detection in Spontaneous Reporting System Data**|Xin-Wei Huang et.al.|[2504.10881](http://arxiv.org/abs/2504.10881)|null|
 |**2025-04-11**|**Distributed Uplink Joint Transmission for 6G Communication**|Kumar Sai Bondada et.al.|[2504.08567](http://arxiv.org/abs/2504.08567)|null|
 |**2025-04-11**|**Distributed Kalman Filter with Ultimately Accurate Fused Measurement Covariance**|Tuo Yang et.al.|[2504.08302](http://arxiv.org/abs/2504.08302)|null|
