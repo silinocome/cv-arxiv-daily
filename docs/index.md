@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -2947,7 +2947,7 @@ layout: default
 |**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611](http://arxiv.org/abs/2504.13611)|null|
 |**2025-04-16**|**Mitigating LLM Hallucinations with Knowledge Graphs: A Case Study**|Harry Li et.al.|[2504.12422](http://arxiv.org/abs/2504.12422)|null|
 |**2025-04-16**|**SHeaP: Self-Supervised Head Geometry Predictor Learned via 2D Gaussians**|Liam Schoneveld et.al.|[2504.12292](http://arxiv.org/abs/2504.12292)|null|
-|**2025-04-15**|**Interpretable Hybrid-Rule Temporal Point Processes**|Yunyang Cao et.al.|[2504.11344](http://arxiv.org/abs/2504.11344)|null|
+|**2025-04-19**|**Interpretable Hybrid-Rule Temporal Point Processes**|Yunyang Cao et.al.|[2504.11344](http://arxiv.org/abs/2504.11344)|null|
 |**2025-04-15**|**Clinically Interpretable Survival Risk Stratification in Head and Neck Cancer Using Bayesian Networks and Markov Blankets**|Keyur D. Shah et.al.|[2504.11188](http://arxiv.org/abs/2504.11188)|null|
 |**2025-04-14**|**Multi-Object Grounding via Hierarchical Contrastive Siamese Transformers**|Chengyi Du et.al.|[2504.10048](http://arxiv.org/abs/2504.10048)|null|
 |**2025-04-12**|**Minority Reports: Balancing Cost and Quality in Ground Truth Data Annotation**|Hsuan Wei Liao et.al.|[2504.09341](http://arxiv.org/abs/2504.09341)|null|
