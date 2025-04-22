@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-20**|**Semantic HARQ for Intelligent Transportation Systems: Joint Source-Channel Coding-Powered Reliable Retransmissions**|Yongkang Li et.al.|[2504.14615](http://arxiv.org/abs/2504.14615)|null|
+|**2025-04-19**|**Rethinking Traffic Flow Forecasting: From Transition to Generatation**|Li Shijiao et.al.|[2504.14248](http://arxiv.org/abs/2504.14248)|null|
 |**2025-04-17**|**Leveraging Functional Encryption and Deep Learning for Privacy-Preserving Traffic Forecasting**|Isaac Adom et.al.|[2504.13267](http://arxiv.org/abs/2504.13267)|null|
 |**2025-04-17**|**SC3EF: A Joint Self-Correlation and Cross-Correspondence Estimation Framework for Visible and Thermal Image Registration**|Xi Tong et.al.|[2504.12869](http://arxiv.org/abs/2504.12869)|null|
 |**2025-04-17**|**Quantum Computing Supported Adversarial Attack-Resilient Autonomous Vehicle Perception Module for Traffic Sign Classification**|Reek Majumder et.al.|[2504.12644](http://arxiv.org/abs/2504.12644)|**[link](https://github.com/reek129/QuantumAI_MultiClass_Sign_Recognition)**|
@@ -708,7 +710,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-18**|**LangCoop: Collaborative Driving with Language**|Xiangbo Gao et.al.|[2504.13406](http://arxiv.org/abs/2504.13406)|**[link](https://github.com/taco-group/LangCoop)**|
+|**2025-04-21**|**LangCoop: Collaborative Driving with Language**|Xiangbo Gao et.al.|[2504.13406](http://arxiv.org/abs/2504.13406)|**[link](https://github.com/taco-group/LangCoop)**|
 |**2025-04-16**|**I Know What You Bought Last Summer: Investigating User Data Leakage in E-Commerce Platforms**|Ioannis Vlachogiannakis et.al.|[2504.13212](http://arxiv.org/abs/2504.13212)|null|
 |**2025-04-17**|**CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval**|Hao Deng et.al.|[2504.12920](http://arxiv.org/abs/2504.12920)|null|
 |**2025-04-17**|**Bayesian dynamic borrowing considering semantic similarity between outcomes for disproportionality analysis in FAERS**|François Haguinet et.al.|[2504.12052](http://arxiv.org/abs/2504.12052)|null|
@@ -1119,7 +1121,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-18**|**Learning from Noisy Pseudo-labels for All-Weather Land Cover Mapping**|Wang Liu et.al.|[2504.13458](http://arxiv.org/abs/2504.13458)|null|
+|**2025-04-19**|**Enhanced UAV Navigation Systems through Sensor Fusion with Trident Quaternions**|Sebastian Incicco et.al.|[2504.14133](http://arxiv.org/abs/2504.14133)|null|
+|**2025-04-18**|**Learning from Noisy Pseudo-labels for All-Weather Land Cover Mapping**|Wang Liu et.al.|[2504.13458](http://arxiv.org/abs/2504.13458)|**[link](https://github.com/stuliu/dfc2025track1)**|
 |**2025-04-18**|**Testing the Fault-Tolerance of Multi-Sensor Fusion Perception in Autonomous Driving Systems**|Haoxiang Tian et.al.|[2504.13420](http://arxiv.org/abs/2504.13420)|null|
 |**2025-04-17**|**Multi-Sensor Fusion-Based Mobile Manipulator Remote Control for Intelligent Smart Home Assistance**|Xiao Jin et.al.|[2504.13370](http://arxiv.org/abs/2504.13370)|null|
 |**2025-04-17**|**Hadamard product in deep learning: Introduction, Advances and Challenges**|Grigorios G Chrysos et.al.|[2504.13112](http://arxiv.org/abs/2504.13112)|null|
@@ -1806,6 +1809,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-19**|**A Multimodal Recaptioning Framework to Account for Perceptual Diversity in Multilingual Vision-Language Modeling**|Kyle Buettner et.al.|[2504.14359](http://arxiv.org/abs/2504.14359)|null|
 |**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
 |**2025-04-15**|**Visual Re-Ranking with Non-Visual Side Information**|Gustav Hanning et.al.|[2504.11134](http://arxiv.org/abs/2504.11134)|**[link](https://github.com/ghanning/gcsa)**|
@@ -2943,6 +2947,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-20**|**Using street view imagery and deep generative modeling for estimating the health of urban forests**|Akshit Gupta et.al.|[2504.14583](http://arxiv.org/abs/2504.14583)|null|
+|**2025-04-19**|**ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**|Xie Liang et.al.|[2504.14240](http://arxiv.org/abs/2504.14240)|null|
+|**2025-04-19**|**Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation**|Johannes Spoecklberger et.al.|[2504.14231](http://arxiv.org/abs/2504.14231)|null|
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
 |**2025-04-18**|**Static linear density response from X-ray Thomson scattering measurements: a case study of warm dense beryllium**|Sebastian Schwalbe et.al.|[2504.13611](http://arxiv.org/abs/2504.13611)|null|
 |**2025-04-16**|**Mitigating LLM Hallucinations with Knowledge Graphs: A Case Study**|Harry Li et.al.|[2504.12422](http://arxiv.org/abs/2504.12422)|null|
@@ -3820,6 +3827,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-19**|**ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**|Xie Liang et.al.|[2504.14240](http://arxiv.org/abs/2504.14240)|null|
+|**2025-04-19**|**Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation**|Johannes Spoecklberger et.al.|[2504.14231](http://arxiv.org/abs/2504.14231)|null|
 |**2025-04-14**|**Multi-Object Grounding via Hierarchical Contrastive Siamese Transformers**|Chengyi Du et.al.|[2504.10048](http://arxiv.org/abs/2504.10048)|null|
 |**2025-04-11**|**II-NVM: Enhancing Map Accuracy and Consistency with Normal Vector-Assisted Mapping**|Chengwei Zhao et.al.|[2504.08204](http://arxiv.org/abs/2504.08204)|**[link](https://github.com/chengwei0427/ii-nvm)**|
 |**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172](http://arxiv.org/abs/2504.08172)|null|
