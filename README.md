@@ -722,6 +722,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model**|Luankang Zhang et.al.|[2504.16454](http://arxiv.org/abs/2504.16454)|null|
 |**2025-04-21**|**LangCoop: Collaborative Driving with Language**|Xiangbo Gao et.al.|[2504.13406](http://arxiv.org/abs/2504.13406)|**[link](https://github.com/taco-group/LangCoop)**|
 |**2025-04-16**|**I Know What You Bought Last Summer: Investigating User Data Leakage in E-Commerce Platforms**|Ioannis Vlachogiannakis et.al.|[2504.13212](http://arxiv.org/abs/2504.13212)|null|
 |**2025-04-17**|**CSMF: Cascaded Selective Mask Fine-Tuning for Multi-Objective Embedding-Based Retrieval**|Hao Deng et.al.|[2504.12920](http://arxiv.org/abs/2504.12920)|null|
@@ -1135,6 +1136,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Distributed Optimization with Efficient Communication, Event-Triggered Solution Enhancement, and Operation Stopping**|Apostolos I. Rikos et.al.|[2504.16477](http://arxiv.org/abs/2504.16477)|null|
 |**2025-04-22**|**Multi-Modal Fusion of In-Situ Video Data and Process Parameters for Online Forecasting of Cookie Drying Readiness**|Shichen Li et.al.|[2504.15599](http://arxiv.org/abs/2504.15599)|null|
 |**2025-04-22**|**Grasping Deformable Objects via Reinforcement Learning with Cross-Modal Attention to Visuo-Tactile Inputs**|Yonghyun Lee et.al.|[2504.15595](http://arxiv.org/abs/2504.15595)|null|
 |**2025-04-19**|**Enhanced UAV Navigation Systems through Sensor Fusion with Trident Quaternions**|Sebastian Incicco et.al.|[2504.14133](http://arxiv.org/abs/2504.14133)|null|
@@ -1827,6 +1829,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**|Xin Jiang et.al.|[2504.16691](http://arxiv.org/abs/2504.16691)|null|
+|**2025-04-22**|**Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**|Merve Cerit et.al.|[2504.16323](http://arxiv.org/abs/2504.16323)|null|
 |**2025-04-19**|**A Multimodal Recaptioning Framework to Account for Perceptual Diversity in Multilingual Vision-Language Modeling**|Kyle Buettner et.al.|[2504.14359](http://arxiv.org/abs/2504.14359)|null|
 |**2025-04-17**|**SemCORE: A Semantic-Enhanced Generative Cross-Modal Retrieval Framework with MLLMs**|Haoxuan Li et.al.|[2504.13172](http://arxiv.org/abs/2504.13172)|null|
 |**2025-04-16**|**Generalized Visual Relation Detection with Diffusion Models**|Kaifeng Gao et.al.|[2504.12100](http://arxiv.org/abs/2504.12100)|null|
@@ -2685,6 +2689,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
 |**2025-04-11**|**Geometric Consistency Refinement for Single Image Novel View Synthesis via Test-Time Adaptation of Diffusion Models**|Josef Bengtson et.al.|[2504.08348](http://arxiv.org/abs/2504.08348)|null|
 |**2025-04-10**|**Image registration of 2D optical thin sections in a 3D porous medium: Application to a Berea sandstone digital rock image**|Jaehong Chung et.al.|[2504.06604](http://arxiv.org/abs/2504.06604)|**[link](https://github.com/jh-chung1/imgregister2dto3d)**|
@@ -2971,6 +2976,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**Accretion Flow Properties of MAXI J1834-021 During Its Double-Outbursts In 2023**|Dipak Debnath et.al.|[2504.16398](http://arxiv.org/abs/2504.16398)|null|
+|**2025-04-23**|**Evolution of QPO during Rising Phase of Discovery Outburst of Swift J1727.8-1613: Estimation of Mass from Spectro-Temporal Study**|Dipak Debnath et.al.|[2504.16391](http://arxiv.org/abs/2504.16391)|null|
+|**2025-04-22**|**MetaHarm: Harmful YouTube Video Dataset Annotated by Domain Experts, GPT-4-Turbo, and Crowdworkers**|Wonjeong Jo et.al.|[2504.16304](http://arxiv.org/abs/2504.16304)|null|
+|**2025-04-22**|**Measuring Uncertainty in Shape Completion to Improve Grasp Quality**|Nuno Ferreira Duarte et.al.|[2504.16183](http://arxiv.org/abs/2504.16183)|null|
 |**2025-04-22**|**Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness**|Jiaqi Tang et.al.|[2504.15796](http://arxiv.org/abs/2504.15796)|null|
 |**2025-04-22**|**From predictions to confidence intervals: an empirical study of conformal prediction methods for in-context learning**|Zhe Huang et.al.|[2504.15722](http://arxiv.org/abs/2504.15722)|null|
 |**2025-04-22**|**Diffuse X-ray emission in M51: a hierarchical Bayesian spatially-resolved spectral analysis**|Luan Luan et.al.|[2504.15641](http://arxiv.org/abs/2504.15641)|null|
@@ -3857,6 +3866,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-22**|**Measuring Uncertainty in Shape Completion to Improve Grasp Quality**|Nuno Ferreira Duarte et.al.|[2504.16183](http://arxiv.org/abs/2504.16183)|null|
 |**2025-04-22**|**Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness**|Jiaqi Tang et.al.|[2504.15796](http://arxiv.org/abs/2504.15796)|null|
 |**2025-04-19**|**ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**|Xie Liang et.al.|[2504.14240](http://arxiv.org/abs/2504.14240)|null|
 |**2025-04-19**|**Exploring Modality Guidance to Enhance VFM-based Feature Fusion for UDA in 3D Semantic Segmentation**|Johannes Spoecklberger et.al.|[2504.14231](http://arxiv.org/abs/2504.14231)|null|
