@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Multi-Modal Traffic Analysis: Integrating Time-Series Forecasting, Accident Prediction, and Image Classification**|Nivedita M et.al.|[2504.17232](http://arxiv.org/abs/2504.17232)|null|
+|**2025-04-24**|**A Double-Norm Aggregated Tensor Latent Factorization Model for Temporal-Aware Traffic Speed Imputation**|Jiawen Hou et.al.|[2504.17196](http://arxiv.org/abs/2504.17196)|null|
+|**2025-04-24**|**AUTHENTICATION: Identifying Rare Failure Modes in Autonomous Vehicle Perception Systems using Adversarially Guided Diffusion Models**|Mohammad Zarei et.al.|[2504.17179](http://arxiv.org/abs/2504.17179)|null|
 |**2025-04-20**|**Semantic HARQ for Intelligent Transportation Systems: Joint Source-Channel Coding-Powered Reliable Retransmissions**|Yongkang Li et.al.|[2504.14615](http://arxiv.org/abs/2504.14615)|null|
 |**2025-04-19**|**Rethinking Traffic Flow Forecasting: From Transition to Generatation**|Li Shijiao et.al.|[2504.14248](http://arxiv.org/abs/2504.14248)|null|
 |**2025-04-17**|**Leveraging Functional Encryption and Deep Learning for Privacy-Preserving Traffic Forecasting**|Isaac Adom et.al.|[2504.13267](http://arxiv.org/abs/2504.13267)|null|
@@ -1122,6 +1125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
 |**2025-04-23**|**Distributed Optimization with Efficient Communication, Event-Triggered Solution Enhancement, and Operation Stopping**|Apostolos I. Rikos et.al.|[2504.16477](http://arxiv.org/abs/2504.16477)|null|
 |**2025-04-22**|**Multi-Modal Fusion of In-Situ Video Data and Process Parameters for Online Forecasting of Cookie Drying Readiness**|Shichen Li et.al.|[2504.15599](http://arxiv.org/abs/2504.15599)|null|
 |**2025-04-22**|**Grasping Deformable Objects via Reinforcement Learning with Cross-Modal Attention to Visuo-Tactile Inputs**|Yonghyun Lee et.al.|[2504.15595](http://arxiv.org/abs/2504.15595)|null|
@@ -1813,6 +1817,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
 |**2025-04-23**|**Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval**|Xin Jiang et.al.|[2504.16691](http://arxiv.org/abs/2504.16691)|null|
 |**2025-04-22**|**Media Content Atlas: A Pipeline to Explore and Investigate Multidimensional Media Space using Multimodal LLMs**|Merve Cerit et.al.|[2504.16323](http://arxiv.org/abs/2504.16323)|null|
 |**2025-04-19**|**A Multimodal Recaptioning Framework to Account for Perceptual Diversity in Multilingual Vision-Language Modeling**|Kyle Buettner et.al.|[2504.14359](http://arxiv.org/abs/2504.14359)|null|
@@ -2954,6 +2959,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Self-Supervised Noise Adaptive MRI Denoising via Repetition to Repetition (Rep2Rep) Learning**|Nikola Janjušević et.al.|[2504.17698](http://arxiv.org/abs/2504.17698)|null|
+|**2025-04-23**|**Modeling Solar Spectral Irradiance (SSI) from Iron lines using the COronal DEnsity and Temperature (CODET) model version 1.1**|Jenny M. Rodríguez-Gómez et.al.|[2504.17072](http://arxiv.org/abs/2504.17072)|null|
+|**2025-04-23**|**Dense Air Pollution Estimation from Sparse in-situ Measurements and Satellite Data**|Ruben Gonzalez Avilés et.al.|[2504.17039](http://arxiv.org/abs/2504.17039)|null|
+|**2025-04-23**|**The black hole - pair instability boundary for high stellar rotation**|Ethan R. J. Winch et.al.|[2504.17009](http://arxiv.org/abs/2504.17009)|null|
 |**2025-04-23**|**Accretion Flow Properties of MAXI J1834-021 During Its Double-Outbursts In 2023**|Dipak Debnath et.al.|[2504.16398](http://arxiv.org/abs/2504.16398)|null|
 |**2025-04-23**|**Evolution of QPO during Rising Phase of Discovery Outburst of Swift J1727.8-1613: Estimation of Mass from Spectro-Temporal Study**|Dipak Debnath et.al.|[2504.16391](http://arxiv.org/abs/2504.16391)|null|
 |**2025-04-22**|**MetaHarm: Harmful YouTube Video Dataset Annotated by Domain Experts, GPT-4-Turbo, and Crowdworkers**|Wonjeong Jo et.al.|[2504.16304](http://arxiv.org/abs/2504.16304)|null|
