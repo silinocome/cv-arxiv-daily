@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1125,7 +1125,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
+|**2025-04-25**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
 |**2025-04-23**|**Distributed Optimization with Efficient Communication, Event-Triggered Solution Enhancement, and Operation Stopping**|Apostolos I. Rikos et.al.|[2504.16477](http://arxiv.org/abs/2504.16477)|null|
 |**2025-04-22**|**Multi-Modal Fusion of In-Situ Video Data and Process Parameters for Online Forecasting of Cookie Drying Readiness**|Shichen Li et.al.|[2504.15599](http://arxiv.org/abs/2504.15599)|null|
 |**2025-04-22**|**Grasping Deformable Objects via Reinforcement Learning with Cross-Modal Attention to Visuo-Tactile Inputs**|Yonghyun Lee et.al.|[2504.15595](http://arxiv.org/abs/2504.15595)|null|
