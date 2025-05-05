@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**MultiGran-STGCNFog: Towards Accurate and High-Throughput Inference for Multi-Granular Spatiotemporal Traffic Forecasting**|Zhaoyan Wang et.al.|[2505.01279](http://arxiv.org/abs/2505.01279)|null|
+|**2025-05-02**|**A Self-Supervised Transformer for Unusable Shared Bike Detection**|Yin Huang et.al.|[2505.00932](http://arxiv.org/abs/2505.00932)|null|
+|**2025-05-01**|**Neural Networks Enabled Discovery On the Higher-Order Nonlinear Partial Differential Equation of Traffic Dynamics**|Zihang Wei et.al.|[2505.00904](http://arxiv.org/abs/2505.00904)|null|
+|**2025-04-30**|**Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey**|Zhiying Song et.al.|[2505.00747](http://arxiv.org/abs/2505.00747)|null|
 |**2025-05-01**|**A Robust Deep Networks based Multi-Object MultiCamera Tracking System for City Scale Traffic**|Muhammad Imran Zaman et.al.|[2505.00534](http://arxiv.org/abs/2505.00534)|null|
 |**2025-05-01**|**Vehicular Communication Security: Multi-Channel and Multi-Factor Authentication**|Marco De Vincenzi et.al.|[2505.00340](http://arxiv.org/abs/2505.00340)|null|
 |**2025-04-30**|**Is Intermediate Fusion All You Need for UAV-based Collaborative Perception?**|Jiuwu Hao et.al.|[2504.21774](http://arxiv.org/abs/2504.21774)|null|
@@ -721,6 +725,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Uncovering complementary information sharing in spider monkey collective foraging using higher-order spatial networks**|Gabriel Ramos-Fernandez et.al.|[2505.01167](http://arxiv.org/abs/2505.01167)|**[link](https://github.com/ramosfer/complementarity)**|
+|**2025-04-30**|**Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey**|Zhiying Song et.al.|[2505.00747](http://arxiv.org/abs/2505.00747)|null|
 |**2025-05-01**|**Selling Information in Games with Externalities**|Thomas Falconer et.al.|[2505.00405](http://arxiv.org/abs/2505.00405)|null|
 |**2025-04-30**|**A Bayesian approach to sharing information on sensitivity of a Multi-Cancer Early Detection test across and within tumour types and stages**|Sofia Dias et.al.|[2504.21517](http://arxiv.org/abs/2504.21517)|null|
 |**2025-04-29**|**Enhancing Vulnerability Reports with Automated and Augmented Description Summarization**|Hattan Althebeiti et.al.|[2504.20726](http://arxiv.org/abs/2504.20726)|null|
@@ -1838,6 +1844,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
 |**2025-04-24**|**A Guide to Structureless Visual Localization**|Vojtech Panek et.al.|[2504.17636](http://arxiv.org/abs/2504.17636)|null|
@@ -2985,6 +2992,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**A Sequential Quadratic Hamiltonian-Based Estimation Method for Box-Cox Transformation Cure Model**|Phuong Bui et.al.|[2505.01097](http://arxiv.org/abs/2505.01097)|null|
+|**2025-05-02**|**A Survey Of Model Fits to Brown Dwarf Spectra Through the L-T Sequence**|Savanah K. Turner et.al.|[2505.00978](http://arxiv.org/abs/2505.00978)|null|
 |**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695](http://arxiv.org/abs/2504.21695)|null|
 |**2025-04-30**|**Padding Matters -- Exploring Function Detection in PE Files**|Raphael Springer et.al.|[2504.21520](http://arxiv.org/abs/2504.21520)|**[link](https://github.com/internet-sicherheit/Padding-Matters---Exploring-Function-Detection-in-PE-Files)**|
 |**2025-04-29**|**Automated detection and modeling of binary microlensing events in OGLE-IV data. I. Events with well-separated bumps**|R. A. P. Oliveira et.al.|[2504.21085](http://arxiv.org/abs/2504.21085)|null|
