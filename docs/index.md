@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Lane-Wise Highway Anomaly Detection**|Mei Qiu et.al.|[2505.02613](http://arxiv.org/abs/2505.02613)|null|
 |**2025-05-02**|**MultiGran-STGCNFog: Towards Accurate and High-Throughput Inference for Multi-Granular Spatiotemporal Traffic Forecasting**|Zhaoyan Wang et.al.|[2505.01279](http://arxiv.org/abs/2505.01279)|null|
 |**2025-05-02**|**A Self-Supervised Transformer for Unusable Shared Bike Detection**|Yin Huang et.al.|[2505.00932](http://arxiv.org/abs/2505.00932)|null|
 |**2025-05-01**|**Neural Networks Enabled Discovery On the Higher-Order Nonlinear Partial Differential Equation of Traffic Dynamics**|Zihang Wei et.al.|[2505.00904](http://arxiv.org/abs/2505.00904)|null|
@@ -1144,6 +1145,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-04**|**DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**|Xinmeng Hou et.al.|[2505.02123](http://arxiv.org/abs/2505.02123)|null|
+|**2025-05-04**|**A Deep Learning-Aided Approach for Estimating Field Permeability Map by Fusing Well Logs, Well Tests, and Seismic Data**|Grigoriy Shutov et.al.|[2505.02093](http://arxiv.org/abs/2505.02093)|null|
+|**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
+|**2025-05-03**|**PhysNav-DG: A Novel Adaptive Framework for Robust VLM-Sensor Fusion in Navigation Applications**|Trisanth Srinivasan et.al.|[2505.01881](http://arxiv.org/abs/2505.01881)|null|
+|**2025-05-02**|**Multimodal and Multiview Deep Fusion for Autonomous Marine Navigation**|Dimitrios Dagdilelis et.al.|[2505.01615](http://arxiv.org/abs/2505.01615)|null|
 |**2025-04-30**|**Generative Multimodal Multiscale Data Fusion for Digital Twins in Aerosol Jet Electronics Printing**|Fatemeh Elhambakhsh et.al.|[2505.00176](http://arxiv.org/abs/2505.00176)|null|
 |**2025-04-30**|**An Underwater, Fault-Tolerant, Laser-Aided Robotic Multi-Modal Dense SLAM System for Continuous Underwater In-Situ Observation**|Yaming Ou et.al.|[2504.21826](http://arxiv.org/abs/2504.21826)|null|
 |**2025-04-29**|**Multi-Sensor Fusion for Quadruped Robot State Estimation using Invariant Filtering and Smoothing**|Ylenia Nisticò et.al.|[2504.20615](http://arxiv.org/abs/2504.20615)|null|
@@ -1844,6 +1850,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-04**|**SafeNav: Safe Path Navigation using Landmark Based Localization in a GPS-denied Environment**|Ganesh Sapkota et.al.|[2505.01956](http://arxiv.org/abs/2505.01956)|null|
 |**2025-05-02**|**NeuroLoc: Encoding Navigation Cells for 6-DOF Camera Localization**|Xun Li et.al.|[2505.01113](http://arxiv.org/abs/2505.01113)|null|
 |**2025-05-01**|**GSFeatLoc: Visual Localization Using Feature Correspondence on 3D Gaussian Splatting**|Jongwon Lee et.al.|[2504.20379](http://arxiv.org/abs/2504.20379)|null|
 |**2025-04-25**|**From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval**|Yabing Wang et.al.|[2504.17990](http://arxiv.org/abs/2504.17990)|null|
@@ -2548,6 +2555,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-04-29**|**Emotion Recognition in Contemporary Dance Performances Using Laban Movement Analysis**|Muhammad Turab et.al.|[2504.21154](http://arxiv.org/abs/2504.21154)|null|
 |**2025-04-15**|**Acquisition of high-quality images for camera calibration in robotics applications via speech prompts**|Timm Linder et.al.|[2504.11031](http://arxiv.org/abs/2504.11031)|null|
 |**2025-03-16**|**Histogram Transporter: Learning Rotation-Equivariant Orientation Histograms for High-Precision Robotic Kitting**|Jiadong Zhou et.al.|[2503.12541](http://arxiv.org/abs/2503.12541)|null|
@@ -2705,6 +2713,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
 |**2025-04-29**|**Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**|Taoyu Su et.al.|[2504.19458](http://arxiv.org/abs/2504.19458)|null|
 |**2025-04-28**|**Dynamic Arthroscopic Navigation System for Anterior Cruciate Ligament Reconstruction Based on Multi-level Memory Architecture**|Shuo Wang et.al.|[2504.19398](http://arxiv.org/abs/2504.19398)|null|
 |**2025-04-23**|**Road Similarity-Based BEV-Satellite Image Matching for UGV Localization**|Zhenping Sun et.al.|[2504.16346](http://arxiv.org/abs/2504.16346)|null|
@@ -2992,6 +3001,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664](http://arxiv.org/abs/2505.02664)|null|
+|**2025-05-05**|**Point Cloud Recombination: Systematic Real Data Augmentation Using Robotic Targets for LiDAR Perception Validation**|Hubert Padusinski et.al.|[2505.02476](http://arxiv.org/abs/2505.02476)|null|
+|**2025-05-04**|**GRAIL: Graph Edit Distance and Node Alignment Using LLM-Generated Code**|Samidha Verma et.al.|[2505.02124](http://arxiv.org/abs/2505.02124)|null|
+|**2025-05-04**|**SignSplat: Rendering Sign Language via Gaussian Splatting**|Maksym Ivashechkin et.al.|[2505.02108](http://arxiv.org/abs/2505.02108)|null|
+|**2025-05-03**|**HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder**|Qi Yang et.al.|[2505.01938](http://arxiv.org/abs/2505.01938)|null|
+|**2025-05-02**|**Data-driven Approach for Interpolation of Sparse Data**|R. F. Ferguson et.al.|[2505.01473](http://arxiv.org/abs/2505.01473)|null|
 |**2025-05-02**|**A Sequential Quadratic Hamiltonian-Based Estimation Method for Box-Cox Transformation Cure Model**|Phuong Bui et.al.|[2505.01097](http://arxiv.org/abs/2505.01097)|null|
 |**2025-05-02**|**A Survey Of Model Fits to Brown Dwarf Spectra Through the L-T Sequence**|Savanah K. Turner et.al.|[2505.00978](http://arxiv.org/abs/2505.00978)|null|
 |**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695](http://arxiv.org/abs/2504.21695)|null|
@@ -3896,6 +3911,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664](http://arxiv.org/abs/2505.02664)|null|
+|**2025-05-05**|**Point Cloud Recombination: Systematic Real Data Augmentation Using Robotic Targets for LiDAR Perception Validation**|Hubert Padusinski et.al.|[2505.02476](http://arxiv.org/abs/2505.02476)|null|
+|**2025-05-03**|**HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder**|Qi Yang et.al.|[2505.01938](http://arxiv.org/abs/2505.01938)|null|
 |**2025-04-29**|**Measuring Train Driver Performance as Key to Approval of Driverless Trains**|Rustam Tagiew et.al.|[2504.19735](http://arxiv.org/abs/2504.19735)|null|
 |**2025-04-28**|**QuickGrasp: Lightweight Antipodal Grasp Planning with Point Clouds**|Navin Sriram Ravie et.al.|[2504.19716](http://arxiv.org/abs/2504.19716)|null|
 |**2025-04-22**|**Measuring Uncertainty in Shape Completion to Improve Grasp Quality**|Nuno Ferreira Duarte et.al.|[2504.16183](http://arxiv.org/abs/2504.16183)|null|
