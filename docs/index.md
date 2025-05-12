@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.11
+## Updated on 2025.05.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -3936,7 +3936,7 @@ layout: default
 |**2025-05-05**|**Point Cloud Recombination: Systematic Real Data Augmentation Using Robotic Targets for LiDAR Perception Validation**|Hubert Padusinski et.al.|[2505.02476](http://arxiv.org/abs/2505.02476)|null|
 |**2025-05-03**|**HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder**|Qi Yang et.al.|[2505.01938](http://arxiv.org/abs/2505.01938)|**[link](https://github.com/qi-yangsjtu/hybridgs)**|
 |**2025-04-29**|**Measuring Train Driver Performance as Key to Approval of Driverless Trains**|Rustam Tagiew et.al.|[2504.19735](http://arxiv.org/abs/2504.19735)|null|
-|**2025-04-28**|**QuickGrasp: Lightweight Antipodal Grasp Planning with Point Clouds**|Navin Sriram Ravie et.al.|[2504.19716](http://arxiv.org/abs/2504.19716)|null|
+|**2025-05-09**|**QuickGrasp: Lightweight Antipodal Grasp Planning with Point Clouds**|Navin Sriram Ravie et.al.|[2504.19716](http://arxiv.org/abs/2504.19716)|null|
 |**2025-04-22**|**Measuring Uncertainty in Shape Completion to Improve Grasp Quality**|Nuno Ferreira Duarte et.al.|[2504.16183](http://arxiv.org/abs/2504.16183)|null|
 |**2025-04-22**|**Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness**|Jiaqi Tang et.al.|[2504.15796](http://arxiv.org/abs/2504.15796)|null|
 |**2025-04-19**|**ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision**|Xie Liang et.al.|[2504.14240](http://arxiv.org/abs/2504.14240)|null|
