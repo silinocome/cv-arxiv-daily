@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
 |**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397](http://arxiv.org/abs/2505.05397)|null|
 |**2025-05-08**|**Real-Time Model Predictive Control of Vehicles with Convex-Polygon-Aware Collision Avoidance in Tight Spaces**|Haruki Kojima et.al.|[2505.04935](http://arxiv.org/abs/2505.04935)|null|
 |**2025-05-08**|**Federated Learning for Cyber Physical Systems: A Comprehensive Survey**|Minh K. Quan et.al.|[2505.04873](http://arxiv.org/abs/2505.04873)|null|
@@ -3016,6 +3017,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**GLOSSA: a user-friendly R Shiny application for Bayesian machine learning analysis of marine species distribution**|J. Mestre-Tomás et.al.|[2505.05862](http://arxiv.org/abs/2505.05862)|null|
+|**2025-05-09**|**Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data**|Amin Ghafourian et.al.|[2505.05752](http://arxiv.org/abs/2505.05752)|**[link](https://github.com/soltanilara/surveyautomation)**|
 |**2025-05-08**|**Low-Rank Regularization of Global Fréchet Regression Models for Distributional Responses**|Kyunghee Han et.al.|[2505.04926](http://arxiv.org/abs/2505.04926)|null|
 |**2025-05-07**|**GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**|Zixiang Ai et.al.|[2505.04119](http://arxiv.org/abs/2505.04119)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
 |**2025-05-06**|**Mitigating mode collapse in normalizing flows by annealing with an adaptive schedule: Application to parameter estimation**|Yihang Wang et.al.|[2505.03652](http://arxiv.org/abs/2505.03652)|null|
@@ -3931,6 +3934,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data**|Amin Ghafourian et.al.|[2505.05752](http://arxiv.org/abs/2505.05752)|**[link](https://github.com/soltanilara/surveyautomation)**|
 |**2025-05-07**|**GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**|Zixiang Ai et.al.|[2505.04119](http://arxiv.org/abs/2505.04119)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664](http://arxiv.org/abs/2505.02664)|null|
 |**2025-05-05**|**Point Cloud Recombination: Systematic Real Data Augmentation Using Robotic Targets for LiDAR Perception Validation**|Hubert Padusinski et.al.|[2505.02476](http://arxiv.org/abs/2505.02476)|null|
