@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
+|**2025-05-10**|**RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**|Zhiwen Zeng et.al.|[2505.06515](http://arxiv.org/abs/2505.06515)|null|
 |**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
 |**2025-05-08**|**PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model**|Zhang Zhang et.al.|[2505.05397](http://arxiv.org/abs/2505.05397)|null|
 |**2025-05-08**|**Real-Time Model Predictive Control of Vehicles with Convex-Polygon-Aware Collision Avoidance in Tight Spaces**|Haruki Kojima et.al.|[2505.04935](http://arxiv.org/abs/2505.04935)|null|
@@ -733,6 +735,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-11**|**Non-Stationary Time Series Forecasting Based on Fourier Analysis and Cross Attention Mechanism**|Yuqi Xiong et.al.|[2505.06917](http://arxiv.org/abs/2505.06917)|null|
+|**2025-05-11**|**Cross-Link Interference Mitigation With Over-the-Air Pilot Forwarding for Dynamic TDD**|Jia-Hui Bi et.al.|[2505.06816](http://arxiv.org/abs/2505.06816)|null|
+|**2025-05-10**|**Varieties of Distributed Knowledge**|Rustam Galimullin et.al.|[2505.06619](http://arxiv.org/abs/2505.06619)|null|
 |**2025-05-02**|**Uncovering complementary information sharing in spider monkey collective foraging using higher-order spatial networks**|Gabriel Ramos-Fernandez et.al.|[2505.01167](http://arxiv.org/abs/2505.01167)|**[link](https://github.com/ramosfer/complementarity)**|
 |**2025-04-30**|**Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey**|Zhiying Song et.al.|[2505.00747](http://arxiv.org/abs/2505.00747)|null|
 |**2025-05-01**|**Selling Information in Games with Externalities**|Thomas Falconer et.al.|[2505.00405](http://arxiv.org/abs/2505.00405)|null|
@@ -1152,6 +1157,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Deep Learning Advances in Vision-Based Traffic Accident Anticipation: A Comprehensive Review of Methods,Datasets,and Future Directions**|Yi Zhang et.al.|[2505.07611](http://arxiv.org/abs/2505.07611)|null|
+|**2025-05-11**|**DeepSORT-Driven Visual Tracking Approach for Gesture Recognition in Interactive Systems**|Tong Zhang et.al.|[2505.07110](http://arxiv.org/abs/2505.07110)|null|
+|**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
 |**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941](http://arxiv.org/abs/2505.04941)|null|
 |**2025-05-02**|**AI-driven multi-source data fusion for algal bloom severity classification in small inland water bodies: Leveraging Sentinel-2, DEM, and NOAA climate data**|Ioannis Nasios et.al.|[2505.03808](http://arxiv.org/abs/2505.03808)|null|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
@@ -2727,6 +2735,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection**|Yuqi Cheng et.al.|[2505.07375](http://arxiv.org/abs/2505.07375)|**[link](https://github.com/hustCYQ/GLFM-Multi-class-3DAD)**|
 |**2025-05-04**|**OBD-Finder: Explainable Coarse-to-Fine Text-Centric Oracle Bone Duplicates Discovery**|Chongsheng Zhang et.al.|[2505.03836](http://arxiv.org/abs/2505.03836)|**[link](https://github.com/cszhanglmu/obd-finder)**|
 |**2025-05-06**|**LiftFeat: 3D Geometry-Aware Local Feature Matching**|Yepeng Liu et.al.|[2505.03422](http://arxiv.org/abs/2505.03422)|**[link](https://github.com/lyp-deeplearning/liftfeat)**|
 |**2025-05-04**|**Focus What Matters: Matchability-Based Reweighting for Local Feature Matching**|Dongyue Li et.al.|[2505.02161](http://arxiv.org/abs/2505.02161)|null|
@@ -3017,6 +3026,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**The JDISC Survey: Linking the Physics and Chemistry of Inner and Outer Protoplanetary Disk Zones**|Nicole Arulanantham et.al.|[2505.07562](http://arxiv.org/abs/2505.07562)|null|
+|**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503](http://arxiv.org/abs/2505.07503)|null|
+|**2025-05-10**|**ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors**|Xingchen Li et.al.|[2505.06573](http://arxiv.org/abs/2505.06573)|null|
+|**2025-05-09**|**Learning Sequential Kinematic Models from Demonstrations for Multi-Jointed Articulated Objects**|Anmol Gupta et.al.|[2505.06363](http://arxiv.org/abs/2505.06363)|null|
 |**2025-05-09**|**GLOSSA: a user-friendly R Shiny application for Bayesian machine learning analysis of marine species distribution**|J. Mestre-Tomás et.al.|[2505.05862](http://arxiv.org/abs/2505.05862)|null|
 |**2025-05-09**|**Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data**|Amin Ghafourian et.al.|[2505.05752](http://arxiv.org/abs/2505.05752)|**[link](https://github.com/soltanilara/surveyautomation)**|
 |**2025-05-08**|**Low-Rank Regularization of Global Fréchet Regression Models for Distributional Responses**|Kyunghee Han et.al.|[2505.04926](http://arxiv.org/abs/2505.04926)|null|
@@ -3934,6 +3947,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-10**|**ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors**|Xingchen Li et.al.|[2505.06573](http://arxiv.org/abs/2505.06573)|null|
+|**2025-05-09**|**Learning Sequential Kinematic Models from Demonstrations for Multi-Jointed Articulated Objects**|Anmol Gupta et.al.|[2505.06363](http://arxiv.org/abs/2505.06363)|null|
 |**2025-05-09**|**Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data**|Amin Ghafourian et.al.|[2505.05752](http://arxiv.org/abs/2505.05752)|**[link](https://github.com/soltanilara/surveyautomation)**|
 |**2025-05-07**|**GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**|Zixiang Ai et.al.|[2505.04119](http://arxiv.org/abs/2505.04119)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664](http://arxiv.org/abs/2505.02664)|null|
