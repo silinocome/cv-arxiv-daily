@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Machine Learning-Based Detection of DDoS Attacks in VANETs for Emergency Vehicle Communication**|Bappa Muktar et.al.|[2505.08810](http://arxiv.org/abs/2505.08810)|null|
 |**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
 |**2025-05-10**|**RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**|Zhiwen Zeng et.al.|[2505.06515](http://arxiv.org/abs/2505.06515)|null|
 |**2025-05-09**|**Camera-Only Bird's Eye View Perception: A Neural Approach to LiDAR-Free Environmental Mapping for Autonomous Vehicles**|Anupkumar Bochare et.al.|[2505.06113](http://arxiv.org/abs/2505.06113)|null|
@@ -735,6 +736,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Optimized Couplings for Watermarking Large Language Models**|Dor Tsur et.al.|[2505.08878](http://arxiv.org/abs/2505.08878)|**[link](https://github.com/carol-long/cc_watermark)**|
 |**2025-05-13**|**Comparative Analysis of Blockchain Systems**|Jiaqi Huang et.al.|[2505.08652](http://arxiv.org/abs/2505.08652)|null|
 |**2025-05-12**|**PRISM: Complete Online Decentralized Multi-Agent Pathfinding with Rapid Information Sharing using Motion Constraints**|Hannah Lee et.al.|[2505.08025](http://arxiv.org/abs/2505.08025)|null|
 |**2025-05-11**|**Non-Stationary Time Series Forecasting Based on Fourier Analysis and Cross Attention Mechanism**|Yuqi Xiong et.al.|[2505.06917](http://arxiv.org/abs/2505.06917)|**[link](https://github.com/YukiBear426/AEFIN)**|
@@ -3030,6 +3032,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Ages and metallicities of quiescent galaxies: confronting broadband ( $UVJ$ ) colours with stellar absorption lines**|Chloe M. Cheng et.al.|[2505.08858](http://arxiv.org/abs/2505.08858)|null|
 |**2025-05-13**|**CHEOPS Ground Segment: Systems and Automation for Mission and Science Operations**|Alexis Heitzmann et.al.|[2505.08352](http://arxiv.org/abs/2505.08352)|null|
 |**2025-05-13**|**A Tightly Coupled IMU-Based Motion Capture Approach for Estimating Multibody Kinematics and Kinetics**|Hassan Osman et.al.|[2505.08193](http://arxiv.org/abs/2505.08193)|null|
 |**2025-05-12**|**The JDISC Survey: Linking the Physics and Chemistry of Inner and Outer Protoplanetary Disk Zones**|Nicole Arulanantham et.al.|[2505.07562](http://arxiv.org/abs/2505.07562)|null|
