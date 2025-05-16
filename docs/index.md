@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**AttentionGuard: Transformer-based Misbehavior Detection for Secure Vehicular Platoons**|Hexu Li et.al.|[2505.10273](http://arxiv.org/abs/2505.10273)|null|
+|**2025-05-15**|**JointDistill: Adaptive Multi-Task Distillation for Joint Depth Estimation and Scene Segmentation**|Tiancong Cheng et.al.|[2505.10057](http://arxiv.org/abs/2505.10057)|null|
+|**2025-05-15**|**Application of YOLOv8 in monocular downward multiple Car Target detection**|Shijie Lyu et.al.|[2505.10016](http://arxiv.org/abs/2505.10016)|null|
 |**2025-05-12**|**Machine Learning-Based Detection of DDoS Attacks in VANETs for Emergency Vehicle Communication**|Bappa Muktar et.al.|[2505.08810](http://arxiv.org/abs/2505.08810)|null|
 |**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
 |**2025-05-10**|**RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**|Zhiwen Zeng et.al.|[2505.06515](http://arxiv.org/abs/2505.06515)|null|
@@ -736,6 +739,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**DeFeed: Secure Decentralized Cross-Contract Data Feed in Web 3.0 for Connected Autonomous Vehicles**|Xingchen Sun et.al.|[2505.09928](http://arxiv.org/abs/2505.09928)|null|
+|**2025-05-14**|**Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration**|Zhaoyang Shi et.al.|[2505.09756](http://arxiv.org/abs/2505.09756)|null|
 |**2025-05-13**|**Optimized Couplings for Watermarking Large Language Models**|Dor Tsur et.al.|[2505.08878](http://arxiv.org/abs/2505.08878)|**[link](https://github.com/carol-long/cc_watermark)**|
 |**2025-05-13**|**Comparative Analysis of Blockchain Systems**|Jiaqi Huang et.al.|[2505.08652](http://arxiv.org/abs/2505.08652)|null|
 |**2025-05-12**|**PRISM: Complete Online Decentralized Multi-Agent Pathfinding with Rapid Information Sharing using Motion Constraints**|Hannah Lee et.al.|[2505.08025](http://arxiv.org/abs/2505.08025)|null|
@@ -3032,6 +3037,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
+|**2025-05-15**|**Spatially resolved centrifugal magnetosphere caught in motion around the secondary component of $ρ$ Oph A**|R. Klement et.al.|[2505.10038](http://arxiv.org/abs/2505.10038)|null|
+|**2025-05-15**|**Unsupervised Radar Point Cloud Enhancement via Arbitrary LiDAR Guided Diffusion Prior**|Yanlong Yang et.al.|[2505.09887](http://arxiv.org/abs/2505.09887)|null|
+|**2025-05-14**|**Inference for Dispersion and Curvature of Random Objects**|Wookyeong Song et.al.|[2505.09844](http://arxiv.org/abs/2505.09844)|null|
 |**2025-05-13**|**Ages and metallicities of quiescent galaxies: confronting broadband ( $UVJ$ ) colours with stellar absorption lines**|Chloe M. Cheng et.al.|[2505.08858](http://arxiv.org/abs/2505.08858)|null|
 |**2025-05-13**|**CHEOPS Ground Segment: Systems and Automation for Mission and Science Operations**|Alexis Heitzmann et.al.|[2505.08352](http://arxiv.org/abs/2505.08352)|null|
 |**2025-05-13**|**A Tightly Coupled IMU-Based Motion Capture Approach for Estimating Multibody Kinematics and Kinetics**|Hassan Osman et.al.|[2505.08193](http://arxiv.org/abs/2505.08193)|null|
@@ -3956,6 +3965,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Inference for Dispersion and Curvature of Random Objects**|Wookyeong Song et.al.|[2505.09844](http://arxiv.org/abs/2505.09844)|null|
+|**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837](http://arxiv.org/abs/2505.09837)|null|
 |**2025-05-10**|**ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors**|Xingchen Li et.al.|[2505.06573](http://arxiv.org/abs/2505.06573)|null|
 |**2025-05-09**|**Learning Sequential Kinematic Models from Demonstrations for Multi-Jointed Articulated Objects**|Anmol Gupta et.al.|[2505.06363](http://arxiv.org/abs/2505.06363)|null|
 |**2025-05-09**|**Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data**|Amin Ghafourian et.al.|[2505.05752](http://arxiv.org/abs/2505.05752)|**[link](https://github.com/soltanilara/surveyautomation)**|
