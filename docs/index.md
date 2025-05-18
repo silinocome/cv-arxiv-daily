@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.17
+## Updated on 2025.05.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -3966,7 +3966,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-14**|**Inference for Dispersion and Curvature of Random Objects**|Wookyeong Song et.al.|[2505.09844](http://arxiv.org/abs/2505.09844)|null|
-|**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837](http://arxiv.org/abs/2505.09837)|null|
+|**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837](http://arxiv.org/abs/2505.09837)|**[link](https://github.com/egirgin/storaige-b950)**|
 |**2025-05-10**|**ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors**|Xingchen Li et.al.|[2505.06573](http://arxiv.org/abs/2505.06573)|null|
 |**2025-05-09**|**Learning Sequential Kinematic Models from Demonstrations for Multi-Jointed Articulated Objects**|Anmol Gupta et.al.|[2505.06363](http://arxiv.org/abs/2505.06363)|null|
 |**2025-05-09**|**Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data**|Amin Ghafourian et.al.|[2505.05752](http://arxiv.org/abs/2505.05752)|**[link](https://github.com/soltanilara/surveyautomation)**|
