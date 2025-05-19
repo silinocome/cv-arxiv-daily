@@ -1172,7 +1172,7 @@ layout: default
 |**2025-05-11**|**DeepSORT-Driven Visual Tracking Approach for Gesture Recognition in Interactive Systems**|Tong Zhang et.al.|[2505.07110](http://arxiv.org/abs/2505.07110)|null|
 |**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
 |**2025-05-08**|**Building-Guided Pseudo-Label Learning for Cross-Modal Building Damage Mapping**|Jiepan Li et.al.|[2505.04941](http://arxiv.org/abs/2505.04941)|**[link](https://github.com/Henryjiepanli/Building-Guided-Pseudo-Label-Learning-for-Cross-Modal-Building-Damage-Mapping)**|
-|**2025-05-02**|**AI-driven multi-source data fusion for algal bloom severity classification in small inland water bodies: Leveraging Sentinel-2, DEM, and NOAA climate data**|Ioannis Nasios et.al.|[2505.03808](http://arxiv.org/abs/2505.03808)|null|
+|**2025-05-02**|**AI-driven multi-source data fusion for algal bloom severity classification in small inland water bodies: Leveraging Sentinel-2, DEM, and NOAA climate data**|Ioannis Nasios et.al.|[2505.03808](http://arxiv.org/abs/2505.03808)|**[link](https://github.com/ioannisnasios/harmfulalgalbloomdetection)**|
 |**2025-05-06**|**Thermal-LiDAR Fusion for Robust Tunnel Localization in GNSS-Denied and Low-Visibility Conditions**|Lukas Schichler et.al.|[2505.03565](http://arxiv.org/abs/2505.03565)|null|
 |**2025-05-04**|**DriveAgent: Multi-Agent Structured Reasoning with LLM and Multimodal Sensor Fusion for Autonomous Driving**|Xinmeng Hou et.al.|[2505.02123](http://arxiv.org/abs/2505.02123)|**[link](https://github.com/paparare/driveagent)**|
 |**2025-05-04**|**A Deep Learning-Aided Approach for Estimating Field Permeability Map by Fusing Well Logs, Well Tests, and Seismic Data**|Grigoriy Shutov et.al.|[2505.02093](http://arxiv.org/abs/2505.02093)|null|
@@ -1187,7 +1187,7 @@ layout: default
 |**2025-04-25**|**Research on Personalized Medical Intervention Strategy Generation System based on Group Relative Policy Optimization and Time-Series Data Fusion**|Dingxin Lu et.al.|[2504.18631](http://arxiv.org/abs/2504.18631)|null|
 |**2025-04-25**|**Multi-Sensor Fusion of Active and Passive Measurements for Extended Object Tracking**|Hong Zhu et.al.|[2504.18301](http://arxiv.org/abs/2504.18301)|null|
 |**2025-04-25**|**Learning to fuse: dynamic integration of multi-source data for accurate battery lifespan prediction**|He Shanxuan et.al.|[2504.18230](http://arxiv.org/abs/2504.18230)|null|
-|**2025-04-25**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
+|**2025-04-25**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|**[link](https://github.com/olivesgatech/DARai)**|
 |**2025-04-23**|**Distributed Optimization with Efficient Communication, Event-Triggered Solution Enhancement, and Operation Stopping**|Apostolos I. Rikos et.al.|[2504.16477](http://arxiv.org/abs/2504.16477)|null|
 |**2025-04-22**|**Multi-Modal Fusion of In-Situ Video Data and Process Parameters for Online Forecasting of Cookie Drying Readiness**|Shichen Li et.al.|[2504.15599](http://arxiv.org/abs/2504.15599)|null|
 |**2025-04-22**|**Grasping Deformable Objects via Reinforcement Learning with Cross-Modal Attention to Visuo-Tactile Inputs**|Yonghyun Lee et.al.|[2504.15595](http://arxiv.org/abs/2504.15595)|null|
@@ -3048,7 +3048,7 @@ layout: default
 |**2025-05-12**|**Identifying Causal Direction via Variational Bayesian Compression**|Quang-Duy Tran et.al.|[2505.07503](http://arxiv.org/abs/2505.07503)|null|
 |**2025-05-10**|**ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors**|Xingchen Li et.al.|[2505.06573](http://arxiv.org/abs/2505.06573)|null|
 |**2025-05-09**|**Learning Sequential Kinematic Models from Demonstrations for Multi-Jointed Articulated Objects**|Anmol Gupta et.al.|[2505.06363](http://arxiv.org/abs/2505.06363)|null|
-|**2025-05-09**|**GLOSSA: a user-friendly R Shiny application for Bayesian machine learning analysis of marine species distribution**|J. Mestre-Tomás et.al.|[2505.05862](http://arxiv.org/abs/2505.05862)|null|
+|**2025-05-09**|**GLOSSA: a user-friendly R Shiny application for Bayesian machine learning analysis of marine species distribution**|J. Mestre-Tomás et.al.|[2505.05862](http://arxiv.org/abs/2505.05862)|**[link](https://github.com/iMARES-group/glossa)**|
 |**2025-05-09**|**Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data**|Amin Ghafourian et.al.|[2505.05752](http://arxiv.org/abs/2505.05752)|**[link](https://github.com/soltanilara/surveyautomation)**|
 |**2025-05-08**|**Low-Rank Regularization of Global Fréchet Regression Models for Distributional Responses**|Kyunghee Han et.al.|[2505.04926](http://arxiv.org/abs/2505.04926)|null|
 |**2025-05-07**|**GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**|Zixiang Ai et.al.|[2505.04119](http://arxiv.org/abs/2505.04119)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
@@ -3066,7 +3066,7 @@ layout: default
 |**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695](http://arxiv.org/abs/2504.21695)|null|
 |**2025-04-30**|**Padding Matters -- Exploring Function Detection in PE Files**|Raphael Springer et.al.|[2504.21520](http://arxiv.org/abs/2504.21520)|**[link](https://github.com/internet-sicherheit/Padding-Matters---Exploring-Function-Detection-in-PE-Files)**|
 |**2025-04-29**|**Automated detection and modeling of binary microlensing events in OGLE-IV data. I. Events with well-separated bumps**|R. A. P. Oliveira et.al.|[2504.21085](http://arxiv.org/abs/2504.21085)|null|
-|**2025-04-29**|**Bayesian Optimization-based Tire Parameter and Uncertainty Estimation for Real-World Data**|Sven Goblirsch et.al.|[2504.20863](http://arxiv.org/abs/2504.20863)|null|
+|**2025-04-29**|**Bayesian Optimization-based Tire Parameter and Uncertainty Estimation for Real-World Data**|Sven Goblirsch et.al.|[2504.20863](http://arxiv.org/abs/2504.20863)|**[link](https://github.com/TUMFTM/Tire_Parameter_and_Uncertainty_Estimation)**|
 |**2025-04-28**|**Flexible extreme thresholds through generalised Bayesian model averaging**|Sébastien Jessup et.al.|[2504.20216](http://arxiv.org/abs/2504.20216)|null|
 |**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038](http://arxiv.org/abs/2504.20038)|**[link](https://github.com/qujia7/spt_act_likelihood)**|
 |**2025-04-28**|**QuickGrasp: Lightweight Antipodal Grasp Planning with Point Clouds**|Navin Sriram Ravie et.al.|[2504.19716](http://arxiv.org/abs/2504.19716)|null|
