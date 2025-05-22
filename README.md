@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,10 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-20**|**MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation**|Marc Kaufeld et.al.|[2505.13959](http://arxiv.org/abs/2505.13959)|null|
+|**2025-05-20**|**MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation**|Marc Kaufeld et.al.|[2505.13959](http://arxiv.org/abs/2505.13959)|**[link](https://github.com/tum-avs/multidrive)**|
 |**2025-05-20**|**Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer**|Tian Sun et.al.|[2505.13857](http://arxiv.org/abs/2505.13857)|null|
 |**2025-05-19**|**HarmonE: A Self-Adaptive Approach to Architecting Sustainable MLOps**|Hiya Bhatt et.al.|[2505.13693](http://arxiv.org/abs/2505.13693)|null|
-|**2025-05-19**|**PPTNet: A Hybrid Periodic Pattern-Transformer Architecture for Traffic Flow Prediction and Congestion Identification**|Hongrui Kou et.al.|[2505.13047](http://arxiv.org/abs/2505.13047)|null|
+|**2025-05-19**|**PPTNet: A Hybrid Periodic Pattern-Transformer Architecture for Traffic Flow Prediction and Congestion Identification**|Hongrui Kou et.al.|[2505.13047](http://arxiv.org/abs/2505.13047)|**[link](https://github.com/adsafetyjointlab/pptnet)**|
 |**2025-05-19**|**Confidence-Regulated Generative Diffusion Models for Reliable AI Agent Migration in Vehicular Metaverses**|Yingkai Kang et.al.|[2505.12710](http://arxiv.org/abs/2505.12710)|null|
 |**2025-05-17**|**Lightweight Spatio-Temporal Attention Network with Graph Embedding and Rotational Position Encoding for Traffic Forecasting**|Xiao Wang et.al.|[2505.12136](http://arxiv.org/abs/2505.12136)|null|
 |**2025-05-15**|**Decision Making in Urban Traffic: A Game Theoretic Approach for Autonomous Vehicles Adhering to Traffic Rules**|Keqi Shu et.al.|[2505.10690](http://arxiv.org/abs/2505.10690)|null|
@@ -752,7 +752,7 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
 
 ## Collaborative Perception
 
@@ -1181,12 +1181,17 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
 
 ## sensor fusion
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**Clustering and Pruning in Causal Data Fusion**|Otto Tabell et.al.|[2505.15215](http://arxiv.org/abs/2505.15215)|null|
+|**2025-05-21**|**Multispectral Detection Transformer with Infrared-Centric Sensor Fusion**|Seongmin Hwang et.al.|[2505.15137](http://arxiv.org/abs/2505.15137)|null|
+|**2025-05-21**|**Learning-based Airflow Inertial Odometry for MAVs using Thermal Anemometers in a GPS and vision denied environment**|Ze Wang et.al.|[2505.15044](http://arxiv.org/abs/2505.15044)|null|
+|**2025-05-21**|**UniSTPA: A Safety Analysis Framework for End-to-End Autonomous Driving**|Hongrui Kou et.al.|[2505.15005](http://arxiv.org/abs/2505.15005)|null|
+|**2025-05-20**|**The Evolution of Alpha in Finance Harnessing Human Insight and LLM Agents**|Mohammad Rubyet Islam et.al.|[2505.14727](http://arxiv.org/abs/2505.14727)|null|
 |**2025-05-19**|**VLC Fusion: Vision-Language Conditioned Sensor Fusion for Robust Object Detection**|Aditya Taparia et.al.|[2505.12715](http://arxiv.org/abs/2505.12715)|null|
 |**2025-05-16**|**A Step towards Interpretable Multimodal AI Models with MultiFIX**|Mafalda Malafaia et.al.|[2505.11262](http://arxiv.org/abs/2505.11262)|null|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
@@ -1898,7 +1903,7 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
 
 ## localization
 
@@ -2612,7 +2617,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
 
 ## Detection
 
@@ -2773,7 +2778,7 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
 
 ## Matching
 
@@ -3067,15 +3072,18 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
 
 ## ground segmentation
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**SplitWise Regression: Stepwise Modeling with Adaptive Dummy Encoding**|Marcell T. Kurbucz et.al.|[2505.15423](http://arxiv.org/abs/2505.15423)|null|
+|**2025-05-21**|**MINDS. Water reservoirs of compact planet-forming dust disk: A diversity of H $_2$ O distributions**|Milou Temmink et.al.|[2505.15237](http://arxiv.org/abs/2505.15237)|null|
+|**2025-05-20**|**Population demographics of white dwarf binaries with intermediate separations: Gaia constraints on post-AGB mass transfer**|Natsuko Yamaguchi et.al.|[2505.14786](http://arxiv.org/abs/2505.14786)|null|
 |**2025-05-18**|**Time-Continuous Frequency Allocation for Feeder Links of Mega Constellations with Multi-Antenna Gateway Stations**|Zijun Liu et.al.|[2505.12429](http://arxiv.org/abs/2505.12429)|null|
 |**2025-05-17**|**MT-CYP-Net: Multi-Task Network for Pixel-Level Crop Yield Prediction Under Very Few Samples**|Shenzhou Liu et.al.|[2505.12069](http://arxiv.org/abs/2505.12069)|null|
-|**2025-05-16**|**MultiLink: Multi-class Structure Recovery via Agglomerative Clustering and Model Selection**|Luca Magri et.al.|[2505.10874](http://arxiv.org/abs/2505.10874)|null|
+|**2025-05-16**|**MultiLink: Multi-class Structure Recovery via Agglomerative Clustering and Model Selection**|Luca Magri et.al.|[2505.10874](http://arxiv.org/abs/2505.10874)|**[link](https://github.com/magrilu/multilink)**|
 |**2025-05-15**|**SRMamba: Mamba for Super-Resolution of LiDAR Point Clouds**|Chuang Chen et.al.|[2505.10601](http://arxiv.org/abs/2505.10601)|null|
 |**2025-05-15**|**Learned Lightweight Smartphone ISP with Unpaired Data**|Andrei Arhire et.al.|[2505.10420](http://arxiv.org/abs/2505.10420)|**[link](https://github.com/andreiiarhire/learned-lightweight-smartphone-isp-with-unpaired-data)**|
 |**2025-05-15**|**Spatially resolved centrifugal magnetosphere caught in motion around the secondary component of $ρ$ Oph A**|R. Klement et.al.|[2505.10038](http://arxiv.org/abs/2505.10038)|null|
@@ -4001,7 +4009,7 @@
 |**2023-11-22**|**Exploring Physically-Motivated Models to Fit Gamma-Ray Burst Spectra**|Suraj Poolakkil et.al.|[2311.13566](http://arxiv.org/abs/2311.13566)|null|
 |**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
 
 ## point cloud
 
@@ -4325,7 +4333,7 @@
 |**2023-11-05**|**Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook**|Huang Zhang et.al.|[2311.02608](http://arxiv.org/abs/2311.02608)|null|
 |**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552](http://arxiv.org/abs/2311.02552)|**[link](https://github.com/robotic-vision-lab/implicit-point-voxel-features-network)**|
 
-<p align=right>(<a href=#Updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
