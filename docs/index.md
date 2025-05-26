@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -15,8 +15,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-20**|**MultiDrive: A Co-Simulation Framework Bridging 2D and 3D Driving Simulation for AV Software Validation**|Marc Kaufeld et.al.|[2505.13959](http://arxiv.org/abs/2505.13959)|**[link](https://github.com/tum-avs/multidrive)**|
-|**2025-05-20**|**Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer**|Tian Sun et.al.|[2505.13857](http://arxiv.org/abs/2505.13857)|null|
-|**2025-05-19**|**HarmonE: A Self-Adaptive Approach to Architecting Sustainable MLOps**|Hiya Bhatt et.al.|[2505.13693](http://arxiv.org/abs/2505.13693)|null|
+|**2025-05-20**|**Learning Spatio-Temporal Dynamics for Trajectory Recovery via Time-Aware Transformer**|Tian Sun et.al.|[2505.13857](http://arxiv.org/abs/2505.13857)|**[link](https://github.com/ysygmhdxw/tedtrajrec)**|
+|**2025-05-19**|**HarmonE: A Self-Adaptive Approach to Architecting Sustainable MLOps**|Hiya Bhatt et.al.|[2505.13693](http://arxiv.org/abs/2505.13693)|**[link](https://github.com/sa4s-serc/harmone)**|
 |**2025-05-19**|**PPTNet: A Hybrid Periodic Pattern-Transformer Architecture for Traffic Flow Prediction and Congestion Identification**|Hongrui Kou et.al.|[2505.13047](http://arxiv.org/abs/2505.13047)|**[link](https://github.com/adsafetyjointlab/pptnet)**|
 |**2025-05-19**|**Confidence-Regulated Generative Diffusion Models for Reliable AI Agent Migration in Vehicular Metaverses**|Yingkai Kang et.al.|[2505.12710](http://arxiv.org/abs/2505.12710)|null|
 |**2025-05-17**|**Lightweight Spatio-Temporal Attention Network with Graph Embedding and Rotational Position Encoding for Traffic Forecasting**|Xiao Wang et.al.|[2505.12136](http://arxiv.org/abs/2505.12136)|null|
@@ -1173,7 +1173,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**Zero-Shot Hyperspectral Pansharpening Using Hysteresis-Based Tuning for Spectral Quality Control**|Giuseppe Guarino et.al.|[2505.16658](http://arxiv.org/abs/2505.16658)|null|
+|**2025-05-22**|**Zero-Shot Hyperspectral Pansharpening Using Hysteresis-Based Tuning for Spectral Quality Control**|Giuseppe Guarino et.al.|[2505.16658](http://arxiv.org/abs/2505.16658)|**[link](https://github.com/giu-guarino/rho-pnn)**|
 |**2025-05-21**|**RadarRGBD A Multi-Sensor Fusion Dataset for Perception with RGB-D and mmWave Radar**|Tieshuai Song et.al.|[2505.15860](http://arxiv.org/abs/2505.15860)|null|
 |**2025-05-21**|**Clustering and Pruning in Causal Data Fusion**|Otto Tabell et.al.|[2505.15215](http://arxiv.org/abs/2505.15215)|**[link](https://github.com/ottotabell/clustering-pruning)**|
 |**2025-05-21**|**Multispectral Detection Transformer with Infrared-Centric Sensor Fusion**|Seongmin Hwang et.al.|[2505.15137](http://arxiv.org/abs/2505.15137)|null|
@@ -3060,7 +3060,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-21**|**SplitWise Regression: Stepwise Modeling with Adaptive Dummy Encoding**|Marcell T. Kurbucz et.al.|[2505.15423](http://arxiv.org/abs/2505.15423)|null|
+|**2025-05-21**|**SplitWise Regression: Stepwise Modeling with Adaptive Dummy Encoding**|Marcell T. Kurbucz et.al.|[2505.15423](http://arxiv.org/abs/2505.15423)|**[link](https://github.com/mtkurbucz/SplitWise)**|
 |**2025-05-21**|**MINDS. Water reservoirs of compact planet-forming dust disk: A diversity of H $_2$ O distributions**|Milou Temmink et.al.|[2505.15237](http://arxiv.org/abs/2505.15237)|null|
 |**2025-05-20**|**Population demographics of white dwarf binaries with intermediate separations: Gaia constraints on post-AGB mass transfer**|Natsuko Yamaguchi et.al.|[2505.14786](http://arxiv.org/abs/2505.14786)|null|
 |**2025-05-18**|**Time-Continuous Frequency Allocation for Feeder Links of Mega Constellations with Multi-Antenna Gateway Stations**|Zijun Liu et.al.|[2505.12429](http://arxiv.org/abs/2505.12429)|null|
