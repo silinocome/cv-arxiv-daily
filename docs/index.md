@@ -2507,7 +2507,7 @@ layout: default
 |**2023-05-23**|**EDIS: Entity-Driven Image Search over Multimodal Web Content**|Siqi Liu et.al.|[2305.13631](http://arxiv.org/abs/2305.13631)|**[link](https://github.com/emerisly/edis)**|
 |**2023-05-20**|**DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**|Javier Tirado-Garín et.al.|[2305.12250](http://arxiv.org/abs/2305.12250)|**[link](https://github.com/javrtg/dac)**|
 |**2023-05-19**|**Towards More Transparent and Accurate Cancer Diagnosis with an Unsupervised CAE Approach**|Zahra Tabatabaei et.al.|[2305.11728](http://arxiv.org/abs/2305.11728)|null|
-|**2023-05-12**|**IMAGINATOR: Pre-Trained Image+Text Joint Embeddings using Word-Level Grounding of Images**|Varuna Krishna et.al.|[2305.10438](http://arxiv.org/abs/2305.10438)|null|
+|**2023-05-12**|**IMAGINATOR: Pre-Trained Image+Text Joint Embeddings using Word-Level Grounding of Images**|Varuna Krishna et.al.|[2305.10438](http://arxiv.org/abs/2305.10438)|**[link](https://github.com/varunakk/imaginator)**|
 |**2023-05-17**|**Self-Training Boosted Multi-Faceted Matching Network for Composed Image Retrieval**|Haokun Wen et.al.|[2305.09979](http://arxiv.org/abs/2305.09979)|null|
 |**2023-05-13**|**Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**|Xinyu Lin et.al.|[2305.07943](http://arxiv.org/abs/2305.07943)|**[link](https://github.com/roylin1229/IIB_descriptor)**|
 |**2023-05-09**|**Vision-Language Models in Remote Sensing: Current Progress and Future Trends**|Congcong Wen et.al.|[2305.05726](http://arxiv.org/abs/2305.05726)|null|
@@ -3997,7 +3997,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-20**|**A Review of Vision-Based Assistive Systems for Visually Impaired People: Technologies, Applications, and Future Directions**|Fulong Yao et.al.|[2505.14298](http://arxiv.org/abs/2505.14298)|null|
 |**2025-05-17**|**PROBE: Proprioceptive Obstacle Detection and Estimation while Navigating in Clutter**|Dhruv Metha Ramesh et.al.|[2505.11848](http://arxiv.org/abs/2505.11848)|null|
-|**2025-05-16**|**SynRailObs: A Synthetic Dataset for Obstacle Detection in Railway Scenarios**|Qiushi Guo et.al.|[2505.10784](http://arxiv.org/abs/2505.10784)|null|
+|**2025-05-16**|**SynRailObs: A Synthetic Dataset for Obstacle Detection in Railway Scenarios**|Qiushi Guo et.al.|[2505.10784](http://arxiv.org/abs/2505.10784)|**[link](https://github.com/guoqiushi/SynRailObs)**|
 |**2025-05-15**|**SRMamba: Mamba for Super-Resolution of LiDAR Point Clouds**|Chuang Chen et.al.|[2505.10601](http://arxiv.org/abs/2505.10601)|null|
 |**2025-05-14**|**Inference for Dispersion and Curvature of Random Objects**|Wookyeong Song et.al.|[2505.09844](http://arxiv.org/abs/2505.09844)|null|
 |**2025-05-14**|**EdgeAI Drone for Autonomous Construction Site Demonstrator**|Emre Girgin et.al.|[2505.09837](http://arxiv.org/abs/2505.09837)|**[link](https://github.com/egirgin/storaige-b950)**|
