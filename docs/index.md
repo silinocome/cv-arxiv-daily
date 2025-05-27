@@ -750,6 +750,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems**|Wenqing Zhou et.al.|[2505.19847](http://arxiv.org/abs/2505.19847)|null|
+|**2025-05-25**|**DLF: Enhancing Explicit-Implicit Interaction via Dynamic Low-Order-Aware Fusion for CTR Prediction**|Kefan Wang et.al.|[2505.19182](http://arxiv.org/abs/2505.19182)|null|
+|**2025-05-24**|**Understanding the Relationship Between Personal Data Privacy Literacy and Data Privacy Information Sharing by University Students**|Brady D. Lund et.al.|[2505.18870](http://arxiv.org/abs/2505.18870)|null|
 |**2025-05-19**|**DeFeed: Secure Decentralized Cross-Contract Data Feed in Web 3.0 for Connected Autonomous Vehicles**|Xingchen Sun et.al.|[2505.09928](http://arxiv.org/abs/2505.09928)|null|
 |**2025-05-14**|**Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration**|Zhaoyang Shi et.al.|[2505.09756](http://arxiv.org/abs/2505.09756)|null|
 |**2025-05-13**|**Optimized Couplings for Watermarking Large Language Models**|Dor Tsur et.al.|[2505.08878](http://arxiv.org/abs/2505.08878)|**[link](https://github.com/carol-long/cc_watermark)**|
@@ -1177,6 +1180,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Target Tracking via LiDAR-RADAR Sensor Fusion for Autonomous Racing**|Marcello Cellina et.al.|[2505.20043](http://arxiv.org/abs/2505.20043)|null|
+|**2025-05-25**|**Towards a Spatiotemporal Fusion Approach to Precipitation Nowcasting**|Felipe Curcio et.al.|[2505.19258](http://arxiv.org/abs/2505.19258)|null|
 |**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
 |**2025-05-22**|**Zero-Shot Hyperspectral Pansharpening Using Hysteresis-Based Tuning for Spectral Quality Control**|Giuseppe Guarino et.al.|[2505.16658](http://arxiv.org/abs/2505.16658)|**[link](https://github.com/giu-guarino/rho-pnn)**|
 |**2025-05-21**|**RadarRGBD A Multi-Sensor Fusion Dataset for Perception with RGB-D and mmWave Radar**|Tieshuai Song et.al.|[2505.15860](http://arxiv.org/abs/2505.15860)|null|
@@ -1900,6 +1905,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952](http://arxiv.org/abs/2505.19952)|null|
+|**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944](http://arxiv.org/abs/2505.19944)|null|
+|**2025-05-26**|**MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19707](http://arxiv.org/abs/2505.19707)|null|
+|**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|null|
+|**2025-05-24**|**TNG-CLIP:Training-Time Negation Data Generation for Negation Awareness of CLIP**|Yuliang Cai et.al.|[2505.18434](http://arxiv.org/abs/2505.18434)|null|
+|**2025-05-23**|**DART $^3$ : Leveraging Distance for Test Time Adaptation in Person Re-Identification**|Rajarshi Bhattacharya et.al.|[2505.18337](http://arxiv.org/abs/2505.18337)|null|
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
 |**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
@@ -3068,6 +3079,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Proxy-Free GFlowNet**|Ruishuo Chen et.al.|[2505.20110](http://arxiv.org/abs/2505.20110)|null|
+|**2025-05-26**|**Comparing Grid Model Fitting Methodologies for Low-Temperature Atmospheres: Markov Chain Monte Carlo versus Random Forest Retrieval**|Anna Lueber et.al.|[2505.19993](http://arxiv.org/abs/2505.19993)|null|
+|**2025-05-26**|**SN 2024aecx: A double-peaked rapidly evolving Type IIb supernova at 11 Mpc**|Xingzhu Zou et.al.|[2505.19831](http://arxiv.org/abs/2505.19831)|null|
+|**2025-05-26**|**SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model**|Hala Djeghim et.al.|[2505.19751](http://arxiv.org/abs/2505.19751)|null|
+|**2025-05-26**|**Surrogate Signals from Format and Length: Reinforcement Learning for Solving Mathematical Problems without Ground Truth Answers**|Rihui Xin et.al.|[2505.19439](http://arxiv.org/abs/2505.19439)|null|
 |**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994](http://arxiv.org/abs/2505.17994)|null|
 |**2025-05-23**|**4D-CTA Image and geometry dataset for kinematic analysis of abdominal aortic aneurysms**|Mostafa Jamshidian et.al.|[2505.17647](http://arxiv.org/abs/2505.17647)|null|
 |**2025-05-23**|**Hyperspectral in situ remote sensing of water surface nitrate in the Fitzroy River estuary, Queensland, Australia, using deep learning**|Yiqing Guo et.al.|[2505.17483](http://arxiv.org/abs/2505.17483)|null|
