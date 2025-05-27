@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -758,7 +758,7 @@ layout: default
 |**2025-05-11**|**Non-Stationary Time Series Forecasting Based on Fourier Analysis and Cross Attention Mechanism**|Yuqi Xiong et.al.|[2505.06917](http://arxiv.org/abs/2505.06917)|**[link](https://github.com/YukiBear426/AEFIN)**|
 |**2025-05-11**|**Cross-Link Interference Mitigation With Over-the-Air Pilot Forwarding for Dynamic TDD**|Jia-Hui Bi et.al.|[2505.06816](http://arxiv.org/abs/2505.06816)|null|
 |**2025-05-10**|**Varieties of Distributed Knowledge**|Rustam Galimullin et.al.|[2505.06619](http://arxiv.org/abs/2505.06619)|null|
-|**2025-05-02**|**Uncovering complementary information sharing in spider monkey collective foraging using higher-order spatial networks**|Gabriel Ramos-Fernandez et.al.|[2505.01167](http://arxiv.org/abs/2505.01167)|**[link](https://github.com/ramosfer/complementarity)**|
+|**2025-05-23**|**Uncovering complementary information sharing in spider monkey collective foraging using higher-order spatial networks**|Gabriel Ramos-Fernandez et.al.|[2505.01167](http://arxiv.org/abs/2505.01167)|**[link](https://github.com/ramosfer/complementarity)**|
 |**2025-04-30**|**Wireless Communication as an Information Sensor for Multi-agent Cooperative Perception: A Survey**|Zhiying Song et.al.|[2505.00747](http://arxiv.org/abs/2505.00747)|null|
 |**2025-05-01**|**Selling Information in Games with Externalities**|Thomas Falconer et.al.|[2505.00405](http://arxiv.org/abs/2505.00405)|**[link](https://github.com/tdfalc/trading-information)**|
 |**2025-04-30**|**A Bayesian approach to sharing information on sensitivity of a Multi-Cancer Early Detection test across and within tumour types and stages**|Sofia Dias et.al.|[2504.21517](http://arxiv.org/abs/2504.21517)|**[link](https://github.com/mced-galleri-healtheconomiceval-program/bayesianmodeltestsens-1)**|
@@ -1903,7 +1903,7 @@ layout: default
 |**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
 |**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
 |**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
-|**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|null|
+|**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|**[link](https://github.com/nickhaidos/scenir-icml2025)**|
 |**2025-05-20**|**Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models**|Kiarash Naghavi Khanghah et.al.|[2505.13828](http://arxiv.org/abs/2505.13828)|null|
 |**2025-05-16**|**Improved Bag-of-Words Image Retrieval with Geometric Constraints for Ground Texture Localization**|Aaron Wilhelm et.al.|[2505.11620](http://arxiv.org/abs/2505.11620)|null|
 |**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
@@ -4015,7 +4015,7 @@ layout: default
 |**2025-05-10**|**ElectricSight: 3D Hazard Monitoring for Power Lines Using Low-Cost Sensors**|Xingchen Li et.al.|[2505.06573](http://arxiv.org/abs/2505.06573)|null|
 |**2025-05-09**|**Learning Sequential Kinematic Models from Demonstrations for Multi-Jointed Articulated Objects**|Anmol Gupta et.al.|[2505.06363](http://arxiv.org/abs/2505.06363)|null|
 |**2025-05-09**|**Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data**|Amin Ghafourian et.al.|[2505.05752](http://arxiv.org/abs/2505.05752)|**[link](https://github.com/soltanilara/surveyautomation)**|
-|**2025-05-07**|**GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**|Zixiang Ai et.al.|[2505.04119](http://arxiv.org/abs/2505.04119)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
+|**2025-05-24**|**GAPrompt: Geometry-Aware Point Cloud Prompt for 3D Vision Model**|Zixiang Ai et.al.|[2505.04119](http://arxiv.org/abs/2505.04119)|**[link](https://github.com/zhoujiahuan1991/icml2025-vgp)**|
 |**2025-05-05**|**Grasp the Graph (GtG) 2.0: Ensemble of GNNs for High-Precision Grasp Pose Detection in Clutter**|Ali Rashidi Moghadam et.al.|[2505.02664](http://arxiv.org/abs/2505.02664)|null|
 |**2025-05-05**|**Point Cloud Recombination: Systematic Real Data Augmentation Using Robotic Targets for LiDAR Perception Validation**|Hubert Padusinski et.al.|[2505.02476](http://arxiv.org/abs/2505.02476)|null|
 |**2025-05-03**|**HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder**|Qi Yang et.al.|[2505.01938](http://arxiv.org/abs/2505.01938)|**[link](https://github.com/qi-yangsjtu/hybridgs)**|
