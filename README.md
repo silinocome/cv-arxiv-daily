@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -756,7 +756,7 @@
 |**2022-10-29**|**Boosting Monocular 3D Object Detection with Object-Centric Auxiliary Depth Supervision**|Youngseok Kim et.al.|[2210.16574](http://arxiv.org/abs/2210.16574)|null|
 |**2022-10-29**|**DeFIX: Detecting and Fixing Failure Scenarios with Reinforcement Learning in Imitation Learning Based Autonomous Driving**|Resul Dagdanov et.al.|[2210.16567](http://arxiv.org/abs/2210.16567)|**[link](https://github.com/data-and-decision-lab/defix)**|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 
 ## Collaborative Perception
 
@@ -765,7 +765,7 @@
 |**2025-05-27**|**Imago Obscura: An Image Privacy AI Co-pilot to Enable Identification and Mitigation of Risks**|Kyzyl Monteiro et.al.|[2505.20916](http://arxiv.org/abs/2505.20916)|null|
 |**2025-05-27**|**MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems**|Kai Chen et.al.|[2505.20824](http://arxiv.org/abs/2505.20824)|null|
 |**2025-05-26**|**DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems**|Wenqing Zhou et.al.|[2505.19847](http://arxiv.org/abs/2505.19847)|null|
-|**2025-05-25**|**DLF: Enhancing Explicit-Implicit Interaction via Dynamic Low-Order-Aware Fusion for CTR Prediction**|Kefan Wang et.al.|[2505.19182](http://arxiv.org/abs/2505.19182)|null|
+|**2025-05-25**|**DLF: Enhancing Explicit-Implicit Interaction via Dynamic Low-Order-Aware Fusion for CTR Prediction**|Kefan Wang et.al.|[2505.19182](http://arxiv.org/abs/2505.19182)|**[link](https://github.com/ustc-starteam/dlf)**|
 |**2025-05-24**|**Understanding the Relationship Between Personal Data Privacy Literacy and Data Privacy Information Sharing by University Students**|Brady D. Lund et.al.|[2505.18870](http://arxiv.org/abs/2505.18870)|null|
 |**2025-05-19**|**DeFeed: Secure Decentralized Cross-Contract Data Feed in Web 3.0 for Connected Autonomous Vehicles**|Xingchen Sun et.al.|[2505.09928](http://arxiv.org/abs/2505.09928)|null|
 |**2025-05-14**|**Community-based Multi-Agent Reinforcement Learning with Transfer and Active Exploration**|Zhaoyang Shi et.al.|[2505.09756](http://arxiv.org/abs/2505.09756)|null|
@@ -1190,7 +1190,7 @@
 |**2022-11-24**|**False Consensus, Information Theory, and Prediction Markets**|Yuqing Kong et.al.|[2206.02993](http://arxiv.org/abs/2206.02993)|null|
 |**2022-06-01**|**RMT-Net: Reject-aware Multi-Task Network for Modeling Missing-not-at-random Data in Financial Credit Scoring**|Qiang Liu et.al.|[2206.00568](http://arxiv.org/abs/2206.00568)|null|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 
 ## sensor fusion
 
@@ -1198,7 +1198,7 @@
 |---|---|---|---|---|
 |**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Matthew Lisondra et.al.|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
 |**2025-05-26**|**Target Tracking via LiDAR-RADAR Sensor Fusion for Autonomous Racing**|Marcello Cellina et.al.|[2505.20043](http://arxiv.org/abs/2505.20043)|null|
-|**2025-05-25**|**Towards a Spatiotemporal Fusion Approach to Precipitation Nowcasting**|Felipe Curcio et.al.|[2505.19258](http://arxiv.org/abs/2505.19258)|null|
+|**2025-05-25**|**Towards a Spatiotemporal Fusion Approach to Precipitation Nowcasting**|Felipe Curcio et.al.|[2505.19258](http://arxiv.org/abs/2505.19258)|**[link](https://github.com/ailab-cefet-rj/fusion2025)**|
 |**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
 |**2025-05-22**|**Zero-Shot Hyperspectral Pansharpening Using Hysteresis-Based Tuning for Spectral Quality Control**|Giuseppe Guarino et.al.|[2505.16658](http://arxiv.org/abs/2505.16658)|**[link](https://github.com/giu-guarino/rho-pnn)**|
 |**2025-05-21**|**RadarRGBD A Multi-Sensor Fusion Dataset for Perception with RGB-D and mmWave Radar**|Tieshuai Song et.al.|[2505.15860](http://arxiv.org/abs/2505.15860)|null|
@@ -1918,14 +1918,14 @@
 |**2022-12-01**|**AstroSLAM: Autonomous Monocular Navigation in the Vicinity of a Celestial Small Body -- Theory and Experiments**|Mehregan Dor et.al.|[2212.00350](http://arxiv.org/abs/2212.00350)|null|
 |**2022-11-29**|**Segment-based fusion of multi-sensor multi-scale satellite soil moisture retrievals**|Reza Attarzadeh et.al.|[2211.15938](http://arxiv.org/abs/2211.15938)|null|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 
 ## localization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-27**|**ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval**|Eric Xing et.al.|[2505.20764](http://arxiv.org/abs/2505.20764)|null|
-|**2025-05-26**|**Visualized Text-to-Image Retrieval**|Di Wu et.al.|[2505.20291](http://arxiv.org/abs/2505.20291)|null|
+|**2025-05-26**|**Visualized Text-to-Image Retrieval**|Di Wu et.al.|[2505.20291](http://arxiv.org/abs/2505.20291)|**[link](https://github.com/xiaowu0162/visualize-then-retrieve)**|
 |**2025-05-26**|**Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19952](http://arxiv.org/abs/2505.19952)|null|
 |**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944](http://arxiv.org/abs/2505.19944)|null|
 |**2025-05-26**|**MLLM-Guided VLM Fine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval**|Rong-Cheng Tu et.al.|[2505.19707](http://arxiv.org/abs/2505.19707)|null|
@@ -2644,7 +2644,7 @@
 |**2023-03-07**|**Fashion Image Retrieval with Multi-Granular Alignment**|Jinkuan Zhu et.al.|[2302.08902](http://arxiv.org/abs/2302.08902)|null|
 |**2023-02-15**|**Unsupervised Hashing via Similarity Distribution Calibration**|Kam Woh Ng et.al.|[2302.07669](http://arxiv.org/abs/2302.07669)|**[link](https://github.com/kamwoh/sdc)**|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 
 ## Detection
 
@@ -2805,7 +2805,7 @@
 |**2020-11-23**|**Improving the HardNet Descriptor**|Milan Pultar et.al.|[2007.09699](http://arxiv.org/abs/2007.09699)|**[link](https://github.com/pultarmi/HardNet_MultiDataset)**|
 |**2020-07-23**|**Online Invariance Selection for Local Feature Descriptors**|Rémi Pautrat et.al.|[2007.08988](http://arxiv.org/abs/2007.08988)|**[link](https://github.com/rpautrat/LISRD)**|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 
 ## Matching
 
@@ -3100,7 +3100,7 @@
 |**2022-04-20**|**Uncertainty-based Cross-Modal Retrieval with Probabilistic Representations**|Leila Pishdad et.al.|[2204.09268](http://arxiv.org/abs/2204.09268)|null|
 |**2022-04-19**|**OpenGlue: Open Source Graph Neural Net Based Pipeline for Image Matching**|Ostap Viniavskyi et.al.|[2204.08870](http://arxiv.org/abs/2204.08870)|**[link](https://github.com/ucuapps/openglue)**|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 
 ## ground segmentation
 
@@ -3110,7 +3110,7 @@
 |**2025-05-26**|**Comparing Grid Model Fitting Methodologies for Low-Temperature Atmospheres: Markov Chain Monte Carlo versus Random Forest Retrieval**|Anna Lueber et.al.|[2505.19993](http://arxiv.org/abs/2505.19993)|null|
 |**2025-05-26**|**SN 2024aecx: A double-peaked rapidly evolving Type IIb supernova at 11 Mpc**|Xingzhu Zou et.al.|[2505.19831](http://arxiv.org/abs/2505.19831)|null|
 |**2025-05-27**|**SAIL: Self-supervised Albedo Estimation from Real Images with a Latent Diffusion Model**|Hala Djeghim et.al.|[2505.19751](http://arxiv.org/abs/2505.19751)|null|
-|**2025-05-26**|**Surrogate Signals from Format and Length: Reinforcement Learning for Solving Mathematical Problems without Ground Truth Answers**|Rihui Xin et.al.|[2505.19439](http://arxiv.org/abs/2505.19439)|null|
+|**2025-05-26**|**Surrogate Signals from Format and Length: Reinforcement Learning for Solving Mathematical Problems without Ground Truth Answers**|Rihui Xin et.al.|[2505.19439](http://arxiv.org/abs/2505.19439)|**[link](https://github.com/insightllm/rl-without-gt)**|
 |**2025-05-23**|**Segment Anyword: Mask Prompt Inversion for Open-Set Grounded Segmentation**|Zhihua Liu et.al.|[2505.17994](http://arxiv.org/abs/2505.17994)|null|
 |**2025-05-23**|**4D-CTA Image and geometry dataset for kinematic analysis of abdominal aortic aneurysms**|Mostafa Jamshidian et.al.|[2505.17647](http://arxiv.org/abs/2505.17647)|null|
 |**2025-05-23**|**Hyperspectral in situ remote sensing of water surface nitrate in the Fitzroy River estuary, Queensland, Australia, using deep learning**|Yiqing Guo et.al.|[2505.17483](http://arxiv.org/abs/2505.17483)|null|
@@ -4045,7 +4045,7 @@
 |**2023-11-22**|**Exploring Physically-Motivated Models to Fit Gamma-Ray Burst Spectra**|Suraj Poolakkil et.al.|[2311.13566](http://arxiv.org/abs/2311.13566)|null|
 |**2023-11-22**|**Test-Time Augmentation for 3D Point Cloud Classification and Segmentation**|Tuan-Anh Vu et.al.|[2311.13152](http://arxiv.org/abs/2311.13152)|null|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 
 ## point cloud
 
@@ -4369,7 +4369,7 @@
 |**2023-11-05**|**Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook**|Huang Zhang et.al.|[2311.02608](http://arxiv.org/abs/2311.02608)|null|
 |**2023-11-05**|**IPVNet: Learning Implicit Point-Voxel Features for Open-Surface 3D Reconstruction**|Mohammad Samiul Arshad et.al.|[2311.02552](http://arxiv.org/abs/2311.02552)|**[link](https://github.com/robotic-vision-lab/implicit-point-voxel-features-network)**|
 
-<p align=right>(<a href=#Updated-on-20250528>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250529>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
