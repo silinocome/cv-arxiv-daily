@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Offline Map Matching Based on Localization Error Distribution Modeling**|Ruilin Xu et.al.|[2505.23123](http://arxiv.org/abs/2505.23123)|null|
+|**2025-05-28**|**LLM-ODDR: A Large Language Model Framework for Joint Order Dispatching and Driver Repositioning**|Tengfei Lyu et.al.|[2505.22695](http://arxiv.org/abs/2505.22695)|null|
 |**2025-05-27**|**Real-World Deployment of Cloud Autonomous Mobility System Using 5G Networks for Outdoor and Indoor Environments**|Yufeng Yang et.al.|[2505.21676](http://arxiv.org/abs/2505.21676)|null|
 |**2025-05-23**|**LLM4SP: Large Language Models for Scatterer Prediction via Synesthesia of Machines**|Zengrui Han et.al.|[2505.17879](http://arxiv.org/abs/2505.17879)|null|
 |**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
@@ -751,6 +753,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**MEF-Explore: Communication-Constrained Multi-Robot Entropy-Field-Based Exploration**|Khattiya Pongsirijinda et.al.|[2505.23376](http://arxiv.org/abs/2505.23376)|null|
 |**2025-05-27**|**Imago Obscura: An Image Privacy AI Co-pilot to Enable Identification and Mitigation of Risks**|Kyzyl Monteiro et.al.|[2505.20916](http://arxiv.org/abs/2505.20916)|null|
 |**2025-05-27**|**MedSentry: Understanding and Mitigating Safety Risks in Medical LLM Multi-Agent Systems**|Kai Chen et.al.|[2505.20824](http://arxiv.org/abs/2505.20824)|null|
 |**2025-05-26**|**DGRAG: Distributed Graph-based Retrieval-Augmented Generation in Edge-Cloud Systems**|Wenqing Zhou et.al.|[2505.19847](http://arxiv.org/abs/2505.19847)|null|
@@ -1183,6 +1186,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**HyperPointFormer: Multimodal Fusion in 3D Space with Dual-Branch Cross-Attention Transformers**|Aldino Rizaldy et.al.|[2505.23206](http://arxiv.org/abs/2505.23206)|null|
 |**2025-05-27**|**Preventing Adversarial AI Attacks Against Autonomous Situational Awareness: A Maritime Case Study**|Mathew J. Walter et.al.|[2505.21609](http://arxiv.org/abs/2505.21609)|null|
 |**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Matthew Lisondra et.al.|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
 |**2025-05-26**|**Target Tracking via LiDAR-RADAR Sensor Fusion for Autonomous Racing**|Marcello Cellina et.al.|[2505.20043](http://arxiv.org/abs/2505.20043)|null|
@@ -1910,6 +1914,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
+|**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
 |**2025-05-27**|**QuARI: Query Adaptive Retrieval Improvement**|Eric Xing et.al.|[2505.21647](http://arxiv.org/abs/2505.21647)|null|
@@ -3090,6 +3096,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Bayesian kernel machine regression for heteroscedastic health outcome data**|Melissa J. Smith et.al.|[2505.23644](http://arxiv.org/abs/2505.23644)|null|
+|**2025-05-29**|**Compartmentalization in the Dark Sector of the Universe after DESI DR2 BAO data**|Marcel van der Westhuizen et.al.|[2505.23306](http://arxiv.org/abs/2505.23306)|null|
 |**2025-05-26**|**Proxy-Free GFlowNet**|Ruishuo Chen et.al.|[2505.20110](http://arxiv.org/abs/2505.20110)|null|
 |**2025-05-26**|**Comparing Grid Model Fitting Methodologies for Low-Temperature Atmospheres: Markov Chain Monte Carlo versus Random Forest Retrieval**|Anna Lueber et.al.|[2505.19993](http://arxiv.org/abs/2505.19993)|null|
 |**2025-05-26**|**SN 2024aecx: A double-peaked rapidly evolving Type IIb supernova at 11 Mpc**|Xingzhu Zou et.al.|[2505.19831](http://arxiv.org/abs/2505.19831)|null|
