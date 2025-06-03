@@ -27,7 +27,7 @@
 |**2025-05-29**|**Offline Map Matching Based on Localization Error Distribution Modeling**|Ruilin Xu et.al.|[2505.23123](http://arxiv.org/abs/2505.23123)|null|
 |**2025-05-28**|**LLM-ODDR: A Large Language Model Framework for Joint Order Dispatching and Driver Repositioning**|Tengfei Lyu et.al.|[2505.22695](http://arxiv.org/abs/2505.22695)|null|
 |**2025-05-27**|**Real-World Deployment of Cloud Autonomous Mobility System Using 5G Networks for Outdoor and Indoor Environments**|Yufeng Yang et.al.|[2505.21676](http://arxiv.org/abs/2505.21676)|null|
-|**2025-05-23**|**LLM4SP: Large Language Models for Scatterer Prediction via Synesthesia of Machines**|Zengrui Han et.al.|[2505.17879](http://arxiv.org/abs/2505.17879)|null|
+|**2025-06-02**|**LLM4SG: Large Language Models for Scatterer Generation via Synesthesia of Machines**|Zengrui Han et.al.|[2505.17879](http://arxiv.org/abs/2505.17879)|null|
 |**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
 |**2025-05-23**|**Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds**|Hao Jing et.al.|[2505.17442](http://arxiv.org/abs/2505.17442)|null|
 |**2025-05-22**|**Vehicular Intrusion Detection System for Controller Area Network: A Comprehensive Survey and Evaluation**|Yangyang Liu et.al.|[2505.17274](http://arxiv.org/abs/2505.17274)|null|
