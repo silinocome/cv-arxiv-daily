@@ -24,6 +24,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**A Pretrained Probabilistic Transformer for City-Scale Traffic Volume Prediction**|Shiyu Shen et.al.|[2506.02654](http://arxiv.org/abs/2506.02654)|null|
+|**2025-06-03**|**A Time-Enhanced Data Disentanglement Network for Traffic Flow Forecasting**|Tianfan Jiang et.al.|[2506.02609](http://arxiv.org/abs/2506.02609)|null|
+|**2025-06-02**|**A Reliable Vertical Federated Learning Framework for Traffic State Estimation with Data Selection and Incentive Mechanisms**|Zijun Zhan et.al.|[2506.01285](http://arxiv.org/abs/2506.01285)|null|
+|**2025-06-01**|**Improving Multi-Vehicle Perception Fusion with Millimeter-Wave Radar Assistance**|Zhiqing Luo et.al.|[2506.00837](http://arxiv.org/abs/2506.00837)|null|
 |**2025-05-29**|**Offline Map Matching Based on Localization Error Distribution Modeling**|Ruilin Xu et.al.|[2505.23123](http://arxiv.org/abs/2505.23123)|null|
 |**2025-05-28**|**LLM-ODDR: A Large Language Model Framework for Joint Order Dispatching and Driver Repositioning**|Tengfei Lyu et.al.|[2505.22695](http://arxiv.org/abs/2505.22695)|null|
 |**2025-05-27**|**Real-World Deployment of Cloud Autonomous Mobility System Using 5G Networks for Outdoor and Indoor Environments**|Yufeng Yang et.al.|[2505.21676](http://arxiv.org/abs/2505.21676)|null|
@@ -765,6 +769,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-01**|**Quantum Key Distribution by Quantum Energy Teleportation**|Shlomi Dolev et.al.|[2506.02054](http://arxiv.org/abs/2506.02054)|null|
 |**2025-05-30**|**Multi-task Learning for Heterogeneous Data via Integrating Shared and Task-Specific Encodings**|Yang Sui et.al.|[2505.24281](http://arxiv.org/abs/2505.24281)|null|
 |**2025-05-29**|**Multi-output Classification using a Cross-talk Architecture for Compound Fault Diagnosis of Motors in Partially Labeled Condition**|Wonjun Yi et.al.|[2505.24001](http://arxiv.org/abs/2505.24001)|null|
 |**2025-05-29**|**MEF-Explore: Communication-Constrained Multi-Robot Entropy-Field-Based Exploration**|Khattiya Pongsirijinda et.al.|[2505.23376](http://arxiv.org/abs/2505.23376)|null|
@@ -1202,6 +1207,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models**|Yan Shu et.al.|[2506.01667](http://arxiv.org/abs/2506.01667)|null|
+|**2025-06-02**|**GenDMR: A dynamic multimodal role-swapping network for identifying risk gene phenotypes**|Lina Qin et.al.|[2506.01456](http://arxiv.org/abs/2506.01456)|null|
+|**2025-05-31**|**Sensor Fusion Methods for Gaussian Mixture Models**|Ishan Paranjape et.al.|[2506.00383](http://arxiv.org/abs/2506.00383)|null|
+|**2025-05-31**|**Feature Fusion and Knowledge-Distilled Multi-Modal Multi-Target Detection**|Ngoc Tuyen Do et.al.|[2506.00365](http://arxiv.org/abs/2506.00365)|null|
+|**2025-05-27**|**GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving**|Shuai Liu et.al.|[2506.00034](http://arxiv.org/abs/2506.00034)|null|
 |**2025-05-30**|**Data Fusion for Partial Identification of Causal Effects**|Quinn Lanners et.al.|[2505.24296](http://arxiv.org/abs/2505.24296)|null|
 |**2025-05-29**|**Fault-Tolerant IoT System Using Software-Based "Digital Twin"**|Tanish Baranwal et.al.|[2505.24047](http://arxiv.org/abs/2505.24047)|null|
 |**2025-05-29**|**Acoustic Classification of Maritime Vessels using Learnable Filterbanks**|Jonas Elsborg et.al.|[2505.23964](http://arxiv.org/abs/2505.23964)|null|
@@ -1935,6 +1945,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**Entity Image and Mixed-Modal Image Retrieval Datasets**|Cristian-Ioan Blaga et.al.|[2506.02291](http://arxiv.org/abs/2506.02291)|null|
+|**2025-06-01**|**Quantization-based Bounds on the Wasserstein Metric**|Jonathan Bobrutsky et.al.|[2506.00976](http://arxiv.org/abs/2506.00976)|null|
 |**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|null|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
@@ -3125,6 +3137,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-03**|**NextQuill: Causal Preference Modeling for Enhancing LLM Personalization**|Xiaoyan Zhao et.al.|[2506.02368](http://arxiv.org/abs/2506.02368)|null|
+|**2025-05-31**|**BAGNet: A Boundary-Aware Graph Attention Network for 3D Point Cloud Semantic Segmentation**|Wei Tao et.al.|[2506.00475](http://arxiv.org/abs/2506.00475)|null|
+|**2025-05-30**|**Automatic detection of overshooting tops and their properties from visible satellite channels**|Anežka Doležalová et.al.|[2506.00246](http://arxiv.org/abs/2506.00246)|null|
+|**2025-05-29**|**Whose Name Comes Up? Auditing LLM-Based Scholar Recommendations**|Daniele Barolo et.al.|[2506.00074](http://arxiv.org/abs/2506.00074)|null|
 |**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669](http://arxiv.org/abs/2505.24669)|null|
 |**2025-05-30**|**A Cross Branch Fusion-Based Contrastive Learning Framework for Point Cloud Self-supervised Learning**|Chengzhi Wu et.al.|[2505.24641](http://arxiv.org/abs/2505.24641)|null|
 |**2025-05-30**|**Two-stage MCMC for Fast Bayesian Inference of Large Spatio-temporal Ordinal Data, with Application to US Drought**|Staci Hepler et.al.|[2505.24594](http://arxiv.org/abs/2505.24594)|null|
@@ -4077,6 +4093,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-31**|**BAGNet: A Boundary-Aware Graph Attention Network for 3D Point Cloud Semantic Segmentation**|Wei Tao et.al.|[2506.00475](http://arxiv.org/abs/2506.00475)|null|
 |**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669](http://arxiv.org/abs/2505.24669)|null|
 |**2025-05-30**|**A Cross Branch Fusion-Based Contrastive Learning Framework for Point Cloud Self-supervised Learning**|Chengzhi Wu et.al.|[2505.24641](http://arxiv.org/abs/2505.24641)|null|
 |**2025-05-30**|**A 3D Mobile Crowdsensing Framework for Sustainable Urban Digital Twins**|Taku Yamazaki et.al.|[2505.24348](http://arxiv.org/abs/2505.24348)|null|
