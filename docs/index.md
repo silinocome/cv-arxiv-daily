@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -1201,7 +1201,7 @@ layout: default
 |**2025-05-30**|**Data Fusion for Partial Identification of Causal Effects**|Quinn Lanners et.al.|[2505.24296](http://arxiv.org/abs/2505.24296)|null|
 |**2025-05-29**|**Fault-Tolerant IoT System Using Software-Based "Digital Twin"**|Tanish Baranwal et.al.|[2505.24047](http://arxiv.org/abs/2505.24047)|null|
 |**2025-05-29**|**Acoustic Classification of Maritime Vessels using Learnable Filterbanks**|Jonas Elsborg et.al.|[2505.23964](http://arxiv.org/abs/2505.23964)|null|
-|**2025-05-29**|**HyperPointFormer: Multimodal Fusion in 3D Space with Dual-Branch Cross-Attention Transformers**|Aldino Rizaldy et.al.|[2505.23206](http://arxiv.org/abs/2505.23206)|null|
+|**2025-05-29**|**HyperPointFormer: Multimodal Fusion in 3D Space with Dual-Branch Cross-Attention Transformers**|Aldino Rizaldy et.al.|[2505.23206](http://arxiv.org/abs/2505.23206)|**[link](https://github.com/aldinorizaldy/hyperpointformer)**|
 |**2025-05-27**|**Preventing Adversarial AI Attacks Against Autonomous Situational Awareness: A Maritime Case Study**|Mathew J. Walter et.al.|[2505.21609](http://arxiv.org/abs/2505.21609)|null|
 |**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Matthew Lisondra et.al.|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
 |**2025-05-26**|**Target Tracking via LiDAR-RADAR Sensor Fusion for Autonomous Racing**|Marcello Cellina et.al.|[2505.20043](http://arxiv.org/abs/2505.20043)|null|
