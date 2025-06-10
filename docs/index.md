@@ -7,13 +7,15 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Twenty-Five Years of the Intelligent Driver Model: Foundations, Extensions, Applications, and Future Directions**|Shirui Zhou et.al.|[2506.05909](http://arxiv.org/abs/2506.05909)|null|
+|**2025-06-05**|**Network Hexagons Under Attack: Secure Crowdsourcing of Geo-Referenced Data**|Okemawo Obadofin et.al.|[2506.05601](http://arxiv.org/abs/2506.05601)|null|
 |**2025-06-03**|**A Pretrained Probabilistic Transformer for City-Scale Traffic Volume Prediction**|Shiyu Shen et.al.|[2506.02654](http://arxiv.org/abs/2506.02654)|null|
 |**2025-06-03**|**A Time-Enhanced Data Disentanglement Network for Traffic Flow Forecasting**|Tianfan Jiang et.al.|[2506.02609](http://arxiv.org/abs/2506.02609)|null|
 |**2025-06-02**|**A Reliable Vertical Federated Learning Framework for Traffic State Estimation with Data Selection and Incentive Mechanisms**|Zijun Zhan et.al.|[2506.01285](http://arxiv.org/abs/2506.01285)|null|
@@ -1193,6 +1195,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Robust sensor fusion against on-vehicle sensor staleness**|Meng Fan et.al.|[2506.05780](http://arxiv.org/abs/2506.05780)|null|
 |**2025-06-02**|**EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models**|Yan Shu et.al.|[2506.01667](http://arxiv.org/abs/2506.01667)|null|
 |**2025-06-02**|**GenDMR: A dynamic multimodal role-swapping network for identifying risk gene phenotypes**|Lina Qin et.al.|[2506.01456](http://arxiv.org/abs/2506.01456)|null|
 |**2025-05-31**|**Sensor Fusion Methods for Gaussian Mixture Models**|Ishan Paranjape et.al.|[2506.00383](http://arxiv.org/abs/2506.00383)|null|
@@ -1200,7 +1203,7 @@ layout: default
 |**2025-05-27**|**GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving**|Shuai Liu et.al.|[2506.00034](http://arxiv.org/abs/2506.00034)|null|
 |**2025-05-30**|**Data Fusion for Partial Identification of Causal Effects**|Quinn Lanners et.al.|[2505.24296](http://arxiv.org/abs/2505.24296)|null|
 |**2025-05-29**|**Fault-Tolerant IoT System Using Software-Based "Digital Twin"**|Tanish Baranwal et.al.|[2505.24047](http://arxiv.org/abs/2505.24047)|null|
-|**2025-05-29**|**Acoustic Classification of Maritime Vessels using Learnable Filterbanks**|Jonas Elsborg et.al.|[2505.23964](http://arxiv.org/abs/2505.23964)|null|
+|**2025-05-29**|**Acoustic Classification of Maritime Vessels using Learnable Filterbanks**|Jonas Elsborg et.al.|[2505.23964](http://arxiv.org/abs/2505.23964)|**[link](https://github.com/jotels/catfish)**|
 |**2025-05-29**|**HyperPointFormer: Multimodal Fusion in 3D Space with Dual-Branch Cross-Attention Transformers**|Aldino Rizaldy et.al.|[2505.23206](http://arxiv.org/abs/2505.23206)|**[link](https://github.com/aldinorizaldy/hyperpointformer)**|
 |**2025-05-27**|**Preventing Adversarial AI Attacks Against Autonomous Situational Awareness: A Maritime Case Study**|Mathew J. Walter et.al.|[2505.21609](http://arxiv.org/abs/2505.21609)|null|
 |**2025-05-26**|**Embodied AI with Foundation Models for Mobile Service Robots: A Systematic Review**|Matthew Lisondra et.al.|[2505.20503](http://arxiv.org/abs/2505.20503)|null|
@@ -1929,10 +1932,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-02**|**Entity Image and Mixed-Modal Image Retrieval Datasets**|Cristian-Ioan Blaga et.al.|[2506.02291](http://arxiv.org/abs/2506.02291)|null|
 |**2025-06-01**|**Quantization-based Bounds on the Wasserstein Metric**|Jonathan Bobrutsky et.al.|[2506.00976](http://arxiv.org/abs/2506.00976)|null|
-|**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|null|
+|**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441](http://arxiv.org/abs/2505.24441)|**[link](https://github.com/mcg-nju/sorce)**|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763](http://arxiv.org/abs/2505.23763)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859](http://arxiv.org/abs/2505.22859)|null|
 |**2025-05-28**|**UAVPairs: A Challenging Benchmark for Match Pair Retrieval of Large-scale UAV Images**|Junhuan Liu et.al.|[2505.22098](http://arxiv.org/abs/2505.22098)|null|
@@ -3118,6 +3122,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Phonetically-Augmented Discriminative Rescoring for Voice Search Error Correction**|Christophe Van Gysel et.al.|[2506.06117](http://arxiv.org/abs/2506.06117)|null|
+|**2025-06-05**|**Trinity VII. Predictions for the Observable Correlation Functions of Accreting Black Holes**|Oddisey Knox et.al.|[2506.05612](http://arxiv.org/abs/2506.05612)|null|
 |**2025-06-05**|**Unregularized limit of stochastic gradient method for Wasserstein distributionally robust optimization**|Tam Le et.al.|[2506.04948](http://arxiv.org/abs/2506.04948)|null|
 |**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|null|
 |**2025-06-05**|**Optimized and regularly repeated lattice-based Latin hypercube designs for large-scale computer experiments**|Xu He et.al.|[2506.04582](http://arxiv.org/abs/2506.04582)|null|
