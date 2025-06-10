@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Realistic Urban Traffic Generator using Decentralized Federated Learning for the SUMO simulator**|Alberto Bazán-Guillén et.al.|[2506.07980](http://arxiv.org/abs/2506.07980)|null|
+|**2025-06-06**|**Edge-Enabled Collaborative Object Detection for Real-Time Multi-Vehicle Perception**|Everett Richards et.al.|[2506.06474](http://arxiv.org/abs/2506.06474)|null|
 |**2025-06-06**|**Twenty-Five Years of the Intelligent Driver Model: Foundations, Extensions, Applications, and Future Directions**|Shirui Zhou et.al.|[2506.05909](http://arxiv.org/abs/2506.05909)|null|
 |**2025-06-05**|**Network Hexagons Under Attack: Secure Crowdsourcing of Geo-Referenced Data**|Okemawo Obadofin et.al.|[2506.05601](http://arxiv.org/abs/2506.05601)|null|
 |**2025-06-03**|**A Pretrained Probabilistic Transformer for City-Scale Traffic Volume Prediction**|Shiyu Shen et.al.|[2506.02654](http://arxiv.org/abs/2506.02654)|null|
@@ -759,6 +761,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-08**|**From Inquisitorial to Adversarial: Using Legal Theory to Redesign Online Reporting Systems**|Leijie Wang et.al.|[2506.07041](http://arxiv.org/abs/2506.07041)|null|
+|**2025-06-08**|**Boosting Adversarial Transferability via Commonality-Oriented Gradient Optimization**|Yanting Gao et.al.|[2506.06992](http://arxiv.org/abs/2506.06992)|null|
 |**2025-06-01**|**Quantum Key Distribution by Quantum Energy Teleportation**|Shlomi Dolev et.al.|[2506.02054](http://arxiv.org/abs/2506.02054)|null|
 |**2025-05-30**|**Multi-task Learning for Heterogeneous Data via Integrating Shared and Task-Specific Encodings**|Yang Sui et.al.|[2505.24281](http://arxiv.org/abs/2505.24281)|null|
 |**2025-05-29**|**Multi-output Classification using a Cross-talk Architecture for Compound Fault Diagnosis of Motors in Partially Labeled Condition**|Wonjun Yi et.al.|[2505.24001](http://arxiv.org/abs/2505.24001)|null|
@@ -1195,6 +1199,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Predicting Situation Awareness from Physiological Signals**|Kieran J. Smith et.al.|[2506.07930](http://arxiv.org/abs/2506.07930)|null|
+|**2025-06-09**|**FuXi-Air: Urban Air Quality Forecasting Based on Emission-Meteorology-Pollutant multimodal Machine Learning**|Zhixin Geng et.al.|[2506.07616](http://arxiv.org/abs/2506.07616)|null|
+|**2025-06-03**|**From Transformers to Large Language Models: A systematic review of AI applications in the energy sector towards Agentic Digital Twins**|Gabriel Antonesi et.al.|[2506.06359](http://arxiv.org/abs/2506.06359)|null|
 |**2025-06-06**|**Robust sensor fusion against on-vehicle sensor staleness**|Meng Fan et.al.|[2506.05780](http://arxiv.org/abs/2506.05780)|null|
 |**2025-06-02**|**EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models**|Yan Shu et.al.|[2506.01667](http://arxiv.org/abs/2506.01667)|null|
 |**2025-06-02**|**GenDMR: A dynamic multimodal role-swapping network for identifying risk gene phenotypes**|Lina Qin et.al.|[2506.01456](http://arxiv.org/abs/2506.01456)|null|
@@ -1932,6 +1939,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045](http://arxiv.org/abs/2506.07045)|null|
+|**2025-06-07**|**Zero Shot Composed Image Retrieval**|Santhosh Kakarla et.al.|[2506.06602](http://arxiv.org/abs/2506.06602)|null|
 |**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-02**|**Entity Image and Mixed-Modal Image Retrieval Datasets**|Cristian-Ioan Blaga et.al.|[2506.02291](http://arxiv.org/abs/2506.02291)|null|
@@ -2825,6 +2834,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Anti-interrupted sampling repeater jamming via linear canonical Wigner distribution lightweight LFM detection**|Jia-Mian Li et.al.|[2506.06302](http://arxiv.org/abs/2506.06302)|null|
 |**2025-06-05**|**Vanishing arcs for isolated plane curve singularities**|Hanwool Bae et.al.|[2506.04917](http://arxiv.org/abs/2506.04917)|null|
 |**2025-06-05**|**Deep Learning Reforms Image Matching: A Survey and Outlook**|Shihua Zhang et.al.|[2506.04619](http://arxiv.org/abs/2506.04619)|null|
 |**2025-06-05**|**SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping**|Mingxu Zhang et.al.|[2505.24305](http://arxiv.org/abs/2505.24305)|null|
@@ -3122,6 +3132,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848](http://arxiv.org/abs/2506.07848)|null|
+|**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491](http://arxiv.org/abs/2506.07491)|null|
+|**2025-06-07**|**KNN-Defense: Defense against 3D Adversarial Point Clouds using Nearest-Neighbor Search**|Nima Jamali et.al.|[2506.06906](http://arxiv.org/abs/2506.06906)|null|
 |**2025-06-06**|**Phonetically-Augmented Discriminative Rescoring for Voice Search Error Correction**|Christophe Van Gysel et.al.|[2506.06117](http://arxiv.org/abs/2506.06117)|null|
 |**2025-06-05**|**Trinity VII. Predictions for the Observable Correlation Functions of Accreting Black Holes**|Oddisey Knox et.al.|[2506.05612](http://arxiv.org/abs/2506.05612)|null|
 |**2025-06-05**|**Unregularized limit of stochastic gradient method for Wasserstein distributionally robust optimization**|Tam Le et.al.|[2506.04948](http://arxiv.org/abs/2506.04948)|null|
@@ -4081,6 +4094,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491](http://arxiv.org/abs/2506.07491)|null|
+|**2025-06-07**|**KNN-Defense: Defense against 3D Adversarial Point Clouds using Nearest-Neighbor Search**|Nima Jamali et.al.|[2506.06906](http://arxiv.org/abs/2506.06906)|null|
 |**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|null|
 |**2025-05-31**|**BAGNet: A Boundary-Aware Graph Attention Network for 3D Point Cloud Semantic Segmentation**|Wei Tao et.al.|[2506.00475](http://arxiv.org/abs/2506.00475)|null|
 |**2025-05-30**|**6D Pose Estimation on Point Cloud Data through Prior Knowledge Integration: A Case Study in Autonomous Disassembly**|Chengzhi Wu et.al.|[2505.24669](http://arxiv.org/abs/2505.24669)|null|
