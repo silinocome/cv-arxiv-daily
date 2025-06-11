@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**STAMImputer: Spatio-Temporal Attention MoE for Traffic Data Imputation**|Yiming Wang et.al.|[2506.08054](http://arxiv.org/abs/2506.08054)|null|
+|**2025-06-05**|**Joint Routing and Control Optimization in VANET**|Chen Huang et.al.|[2506.08038](http://arxiv.org/abs/2506.08038)|null|
 |**2025-06-09**|**Realistic Urban Traffic Generator using Decentralized Federated Learning for the SUMO simulator**|Alberto Bazán-Guillén et.al.|[2506.07980](http://arxiv.org/abs/2506.07980)|null|
 |**2025-06-06**|**Edge-Enabled Collaborative Object Detection for Real-Time Multi-Vehicle Perception**|Everett Richards et.al.|[2506.06474](http://arxiv.org/abs/2506.06474)|null|
 |**2025-06-06**|**Twenty-Five Years of the Intelligent Driver Model: Foundations, Extensions, Applications, and Future Directions**|Shirui Zhou et.al.|[2506.05909](http://arxiv.org/abs/2506.05909)|null|
@@ -773,6 +775,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Price Discovery in Cryptocurrency Markets**|Juan Plazuelo Pascual et.al.|[2506.08718](http://arxiv.org/abs/2506.08718)|null|
+|**2025-06-09**|**Ego-centric Learning of Communicative World Models for Autonomous Driving**|Hang Wang et.al.|[2506.08149](http://arxiv.org/abs/2506.08149)|null|
 |**2025-06-08**|**From Inquisitorial to Adversarial: Using Legal Theory to Redesign Online Reporting Systems**|Leijie Wang et.al.|[2506.07041](http://arxiv.org/abs/2506.07041)|null|
 |**2025-06-08**|**Boosting Adversarial Transferability via Commonality-Oriented Gradient Optimization**|Yanting Gao et.al.|[2506.06992](http://arxiv.org/abs/2506.06992)|null|
 |**2025-06-01**|**Quantum Key Distribution by Quantum Energy Teleportation**|Shlomi Dolev et.al.|[2506.02054](http://arxiv.org/abs/2506.02054)|null|
@@ -1213,6 +1217,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Noise Analysis and Hierarchical Adaptive Body State Estimator For Biped Robot Walking With ESVC Foot**|Boyang Chen et.al.|[2506.08578](http://arxiv.org/abs/2506.08578)|null|
+|**2025-06-10**|**GPS Spoofing Attacks on AI-based Navigation Systems with Obstacle Avoidance in UAV**|Ji Hyuk Jung et.al.|[2506.08445](http://arxiv.org/abs/2506.08445)|null|
+|**2025-06-02**|**Sensor Fusion for Track Geometry Monitoring: Integrating On-Board Data and Degradation Models via Kalman Filtering**|Huy Truong-Ba et.al.|[2506.08028](http://arxiv.org/abs/2506.08028)|null|
 |**2025-06-09**|**Predicting Situation Awareness from Physiological Signals**|Kieran J. Smith et.al.|[2506.07930](http://arxiv.org/abs/2506.07930)|null|
 |**2025-06-09**|**FuXi-Air: Urban Air Quality Forecasting Based on Emission-Meteorology-Pollutant multimodal Machine Learning**|Zhixin Geng et.al.|[2506.07616](http://arxiv.org/abs/2506.07616)|null|
 |**2025-06-03**|**From Transformers to Large Language Models: A systematic review of AI applications in the energy sector towards Agentic Digital Twins**|Gabriel Antonesi et.al.|[2506.06359](http://arxiv.org/abs/2506.06359)|null|
@@ -1955,6 +1962,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Robust Visual Localization via Semantic-Guided Multi-Scale Transformer**|Zhongtao Tian et.al.|[2506.08526](http://arxiv.org/abs/2506.08526)|null|
 |**2025-06-08**|**Interpretable and Reliable Detection of AI-Generated Images via Grounded Reasoning in MLLMs**|Yikun Ji et.al.|[2506.07045](http://arxiv.org/abs/2506.07045)|null|
 |**2025-06-07**|**Zero Shot Composed Image Retrieval**|Santhosh Kakarla et.al.|[2506.06602](http://arxiv.org/abs/2506.06602)|null|
 |**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
@@ -3154,6 +3162,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**The enhanced X-ray Timing and Polarimetry mission -- eXTP for launch in 2030**|Shuang-Nan Zhang et.al.|[2506.08101](http://arxiv.org/abs/2506.08101)|null|
 |**2025-06-09**|**PolyVivid: Vivid Multi-Subject Video Generation with Cross-Modal Interaction and Enhancement**|Teng Hu et.al.|[2506.07848](http://arxiv.org/abs/2506.07848)|null|
 |**2025-06-09**|**SpatialLM: Training Large Language Models for Structured Indoor Modeling**|Yongsen Mao et.al.|[2506.07491](http://arxiv.org/abs/2506.07491)|null|
 |**2025-06-07**|**KNN-Defense: Defense against 3D Adversarial Point Clouds using Nearest-Neighbor Search**|Nima Jamali et.al.|[2506.06906](http://arxiv.org/abs/2506.06906)|null|
