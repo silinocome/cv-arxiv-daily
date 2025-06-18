@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems**|Sanjeda Akter et.al.|[2506.14096](http://arxiv.org/abs/2506.14096)|null|
 |**2025-06-16**|**Joint Optimization of Multi-UAV Deployment and 3D Positioning in Traffic-Aware Aerial Networks**|Kamran Shafafi et.al.|[2506.13287](http://arxiv.org/abs/2506.13287)|null|
 |**2025-06-14**|**Trust-MARL: Trust-Based Multi-Agent Reinforcement Learning Framework for Cooperative On-Ramp Merging Control in Heterogeneous Traffic Flow**|Jie Pan et.al.|[2506.12600](http://arxiv.org/abs/2506.12600)|null|
 |**2025-06-14**|**Topology-Assisted Spatio-Temporal Pattern Disentangling for Scalable MARL in Large-scale Autonomous Traffic Control**|Rongpeng Li et.al.|[2506.12453](http://arxiv.org/abs/2506.12453)|null|
@@ -1224,6 +1225,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Integrating Radiomics with Deep Learning Enhances Multiple Sclerosis Lesion Delineation**|Nadezhda Alsahanova et.al.|[2506.14524](http://arxiv.org/abs/2506.14524)|null|
+|**2025-06-17**|**Affective-CARA: A Knowledge Graph Driven Framework for Culturally Adaptive Emotional Intelligence in HCI**|Nirodya Pussadeniya et.al.|[2506.14166](http://arxiv.org/abs/2506.14166)|null|
 |**2025-06-16**|**A Novel ViDAR Device With Visual Inertial Encoder Odometry and Reinforcement Learning-Based Active SLAM Method**|Zhanhua Xin et.al.|[2506.13100](http://arxiv.org/abs/2506.13100)|null|
 |**2025-06-14**|**Deep Fusion of Ultra-Low-Resolution Thermal Camera and Gyroscope Data for Lighting-Robust and Compute-Efficient Rotational Odometry**|Farida Mohsen et.al.|[2506.12536](http://arxiv.org/abs/2506.12536)|null|
 |**2025-06-12**|**Nonparametric estimation of an optimal treatment rule with fused randomized trials and missing effect modifiers**|Nicholas Williams et.al.|[2506.10863](http://arxiv.org/abs/2506.10863)|null|
@@ -1973,6 +1976,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
 |**2025-06-16**|**A Semantically-Aware Relevance Measure for Content-Based Medical Image Retrieval Evaluation**|Xiaoyang Wei et.al.|[2506.13509](http://arxiv.org/abs/2506.13509)|null|
 |**2025-06-16**|**Hierarchical Multi-Positive Contrastive Learning for Patent Image Retrieval**|Kshitij Kavimandan et.al.|[2506.13496](http://arxiv.org/abs/2506.13496)|null|
 |**2025-06-16**|**EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition**|Bingxi Liu et.al.|[2506.13133](http://arxiv.org/abs/2506.13133)|null|
@@ -3184,6 +3188,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**FAST Pulsar Database: II. Scattering profiles of 122 Pulsars**|W. C. Jing et.al.|[2506.14519](http://arxiv.org/abs/2506.14519)|null|
+|**2025-06-17**|**A break from the norm? Parametric representations of preference heterogeneity for discrete choice models in health**|John Buckell et.al.|[2506.14099](http://arxiv.org/abs/2506.14099)|null|
+|**2025-06-16**|**The Impact of Social Isolation on Subjective Cognitive Decline in Older Adults: A Study Based on Network Analysis and Longitudinal Mode**|Yingchen Liu et.al.|[2506.13914](http://arxiv.org/abs/2506.13914)|null|
 |**2025-06-16**|**FreeQ-Graph: Free-form Querying with Semantic Consistent Scene Graph for 3D Scene Understanding**|Chenlu Zhan et.al.|[2506.13629](http://arxiv.org/abs/2506.13629)|null|
 |**2025-06-16**|**Vector Ontologies as an LLM world view extraction method**|Kaspar Rothenfusser et.al.|[2506.13252](http://arxiv.org/abs/2506.13252)|**[link](https://github.com/Thoughtful-Oasis/LLM-Worldview-Extraction-using-vector-ontologies)**|
 |**2025-06-16**|**Fractional order derivative approach of viscoelastic behavior of tropical wood**|Loic Chrislin Nguedjio et.al.|[2506.13208](http://arxiv.org/abs/2506.13208)|null|
