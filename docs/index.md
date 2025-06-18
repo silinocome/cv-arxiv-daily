@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -3166,7 +3166,7 @@ layout: default
 |**2025-06-16**|**Vector Ontologies as an LLM world view extraction method**|Kaspar Rothenfusser et.al.|[2506.13252](http://arxiv.org/abs/2506.13252)|**[link](https://github.com/Thoughtful-Oasis/LLM-Worldview-Extraction-using-vector-ontologies)**|
 |**2025-06-16**|**Fractional order derivative approach of viscoelastic behavior of tropical wood**|Loic Chrislin Nguedjio et.al.|[2506.13208](http://arxiv.org/abs/2506.13208)|null|
 |**2025-06-16**|**MT-PCR: A Hybrid Mamba-Transformer with Spatial Serialization for Hierarchical Point Cloud Registration**|Bingxi Liu et.al.|[2506.13183](http://arxiv.org/abs/2506.13183)|null|
-|**2025-06-16**|**Formation Pathways of Compact Elliptical Galaxies: Perspective of Internal Structures**|Yi Jinwon et.al.|[2506.13108](http://arxiv.org/abs/2506.13108)|null|
+|**2025-06-17**|**Formation Pathways of Compact Elliptical Galaxies: Perspective of Internal Structures**|Jinwon Yi et.al.|[2506.13108](http://arxiv.org/abs/2506.13108)|null|
 |**2025-06-13**|**Use of Redshifts as Evidence of Dark Energy**|Jan Stenflo et.al.|[2506.12279](http://arxiv.org/abs/2506.12279)|null|
 |**2025-06-13**|**Accuracy and Precision of Random Walk with Barrier Model Fitting: Simulations and Applications in Head and Neck Cancers**|Jiaren Zou et.al.|[2506.12228](http://arxiv.org/abs/2506.12228)|null|
 |**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
