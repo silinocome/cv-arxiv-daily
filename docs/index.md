@@ -3172,7 +3172,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-18**|**A Unified Graph-based Framework for Scalable 3D Tree Reconstruction and Non-Destructive Biomass Estimation from Point Clouds**|Di Wang et.al.|[2506.15577](http://arxiv.org/abs/2506.15577)|null|
-|**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160](http://arxiv.org/abs/2506.15160)|null|
+|**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160](http://arxiv.org/abs/2506.15160)|**[link](https://github.com/agent9717/pointdistribution)**|
 |**2025-06-17**|**FAST Pulsar Database: II. Scattering profiles of 122 Pulsars**|W. C. Jing et.al.|[2506.14519](http://arxiv.org/abs/2506.14519)|null|
 |**2025-06-17**|**A break from the norm? Parametric representations of preference heterogeneity for discrete choice models in health**|John Buckell et.al.|[2506.14099](http://arxiv.org/abs/2506.14099)|null|
 |**2025-06-18**|**The Impact of Social Isolation on Subjective Cognitive Decline in Older Adults: A Study Based on Network Analysis and Longitudinal Model**|Yingchen Liu et.al.|[2506.13914](http://arxiv.org/abs/2506.13914)|null|
@@ -4156,7 +4156,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-18**|**A Unified Graph-based Framework for Scalable 3D Tree Reconstruction and Non-Destructive Biomass Estimation from Point Clouds**|Di Wang et.al.|[2506.15577](http://arxiv.org/abs/2506.15577)|null|
-|**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160](http://arxiv.org/abs/2506.15160)|null|
+|**2025-06-18**|**Enhancing point cloud analysis via neighbor aggregation correction based on cross-stage structure correlation**|Jiaqi Shi et.al.|[2506.15160](http://arxiv.org/abs/2506.15160)|**[link](https://github.com/agent9717/pointdistribution)**|
 |**2025-06-16**|**MT-PCR: A Hybrid Mamba-Transformer with Spatial Serialization for Hierarchical Point Cloud Registration**|Bingxi Liu et.al.|[2506.13183](http://arxiv.org/abs/2506.13183)|null|
 |**2025-06-13**|**Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds**|Filippo Bragato et.al.|[2506.11804](http://arxiv.org/abs/2506.11804)|null|
 |**2025-06-11**|**UniPre3D: Unified Pre-training of 3D Point Cloud Models with Cross-Modal Gaussian Splatting**|Ziyi Wang et.al.|[2506.09952](http://arxiv.org/abs/2506.09952)|**[link](https://github.com/wangzy22/unipre3d)**|
