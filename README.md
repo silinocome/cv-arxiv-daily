@@ -1346,7 +1346,7 @@
 |**2025-03-04**|**CalibRefine: Deep Learning-Based Online Automatic Targetless LiDAR-Camera Calibration with Iterative and Attention-Driven Post-Refinement**|Lei Cheng et.al.|[2502.17648](http://arxiv.org/abs/2502.17648)|**[link](https://github.com/radar-lab/Lidar_Camera_Automatic_Calibration)**|
 |**2025-02-20**|**FIP: Endowing Robust Motion Capture on Daily Garment by Fusing Flex and Inertial Sensors**|Jiawei Fang et.al.|[2502.15058](http://arxiv.org/abs/2502.15058)|null|
 |**2025-02-20**|**Ultra-High-Frequency Harmony: mmWave Radar and Event Camera Orchestrate Accurate Drone Landing**|Haoyang Wang et.al.|[2502.14992](http://arxiv.org/abs/2502.14992)|null|
-|**2025-02-19**|**AI-Driven Discovery of High Performance Polymer Electrodes for Next-Generation Batteries**|Subhash V. S. Ganti et.al.|[2502.13899](http://arxiv.org/abs/2502.13899)|null|
+|**2025-02-19**|**AI-Driven Discovery of High Performance Polymer Electrodes for Next-Generation Batteries**|Subhash V. S. Ganti et.al.|[2502.13899](http://arxiv.org/abs/2502.13899)|**[link](https://github.com/kuennethgroup/organic_battery_predictor)**|
 |**2025-02-19**|**SNN-Driven Multimodal Human Action Recognition via Event Camera and Skeleton Data Fusion**|Naichuan Zheng et.al.|[2502.13385](http://arxiv.org/abs/2502.13385)|null|
 |**2025-02-19**|**Integrated Sensing and Communication for 6G Holographic Digital Twins**|Haijun Zhang et.al.|[2502.13352](http://arxiv.org/abs/2502.13352)|null|
 |**2025-03-02**|**An Attention-Assisted Multi-Modal Data Fusion Model for Real-Time Estimation of Underwater Sound Velocity**|Pengfei Wu et.al.|[2502.12817](http://arxiv.org/abs/2502.12817)|null|
@@ -2009,7 +2009,7 @@
 |**2025-05-24**|**Why Not Replace? Sustaining Long-Term Visual Localization via Handcrafted-Learned Feature Collaboration on CPU**|Yicheng Lin et.al.|[2505.18652](http://arxiv.org/abs/2505.18652)|**[link](https://github.com/linyicheng1/orb_slam3_localization)**|
 |**2025-05-24**|**TNG-CLIP:Training-Time Negation Data Generation for Negation Awareness of CLIP**|Yuliang Cai et.al.|[2505.18434](http://arxiv.org/abs/2505.18434)|null|
 |**2025-05-23**|**DART $^3$ : Leveraging Distance for Test Time Adaptation in Person Re-Identification**|Rajarshi Bhattacharya et.al.|[2505.18337](http://arxiv.org/abs/2505.18337)|null|
-|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|null|
+|**2025-05-23**|**To Glue or Not to Glue? Classical vs Learned Image Matching for Mobile Mapping Cameras to Textured Semantic 3D Building Models**|Simone Gaisbauer et.al.|[2505.17973](http://arxiv.org/abs/2505.17973)|**[link](https://github.com/simbauer/to_glue_or_not_to_glue)**|
 |**2025-05-23**|**DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval**|Yuxin Yang et.al.|[2505.17796](http://arxiv.org/abs/2505.17796)|null|
 |**2025-05-21**|**Highlighting What Matters: Promptable Embeddings for Attribute-Focused Image Retrieval**|Siting Li et.al.|[2505.15877](http://arxiv.org/abs/2505.15877)|null|
 |**2025-05-21**|**SCENIR: Visual Semantic Clarity through Unsupervised Scene Graph Retrieval**|Nikolaos Chaidos et.al.|[2505.15867](http://arxiv.org/abs/2505.15867)|**[link](https://github.com/nickhaidos/scenir-icml2025)**|
@@ -3272,7 +3272,7 @@
 |**2025-05-04**|**GRAIL: Graph Edit Distance and Node Alignment Using LLM-Generated Code**|Samidha Verma et.al.|[2505.02124](http://arxiv.org/abs/2505.02124)|**[link](https://github.com/idea-iitd/grail)**|
 |**2025-05-04**|**SignSplat: Rendering Sign Language via Gaussian Splatting**|Maksym Ivashechkin et.al.|[2505.02108](http://arxiv.org/abs/2505.02108)|null|
 |**2025-05-03**|**HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder**|Qi Yang et.al.|[2505.01938](http://arxiv.org/abs/2505.01938)|**[link](https://github.com/qi-yangsjtu/hybridgs)**|
-|**2025-05-02**|**Data-driven Approach for Interpolation of Sparse Data**|R. F. Ferguson et.al.|[2505.01473](http://arxiv.org/abs/2505.01473)|null|
+|**2025-05-02**|**Data-driven Approach for Interpolation of Sparse Data**|R. F. Ferguson et.al.|[2505.01473](http://arxiv.org/abs/2505.01473)|**[link](https://github.com/rferguson22/gaussian-process)**|
 |**2025-05-02**|**A Sequential Quadratic Hamiltonian-Based Estimation Method for Box-Cox Transformation Cure Model**|Phuong Bui et.al.|[2505.01097](http://arxiv.org/abs/2505.01097)|null|
 |**2025-05-02**|**A Survey Of Model Fits to Brown Dwarf Spectra Through the L-T Sequence**|Savanah K. Turner et.al.|[2505.00978](http://arxiv.org/abs/2505.00978)|null|
 |**2025-04-30**|**Self-Supervised Monocular Visual Drone Model Identification through Improved Occlusion Handling**|Stavrow A. Bahnam et.al.|[2504.21695](http://arxiv.org/abs/2504.21695)|null|
@@ -3321,7 +3321,7 @@
 |**2025-04-10**|**ThermoStereoRT: Thermal Stereo Matching in Real Time via Knowledge Distillation and Attention-based Refinement**|Anning Hu et.al.|[2504.07418](http://arxiv.org/abs/2504.07418)|null|
 |**2025-04-09**|**GPR_calculator: An On-the-Fly Surrogate Model to Accelerate Massive Nudged Elastic Band Calculations**|Isaac Onyango et.al.|[2504.07319](http://arxiv.org/abs/2504.07319)|**[link](https://github.com/matersim/gpr_calculator)**|
 |**2025-04-09**|**Cerebral blood flow monitoring using a deep learning implementation of the two-layer DCS analytical model with a 512 512 SPAD array**|Mingliang Pan et.al.|[2504.06997](http://arxiv.org/abs/2504.06997)|null|
-|**2025-04-09**|**Using theory-driven Integrated Population Models to evaluate competitive outcomes in stage-structured systems**|Matthieu Paquet et.al.|[2504.06725](http://arxiv.org/abs/2504.06725)|null|
+|**2025-04-09**|**Using theory-driven Integrated Population Models to evaluate competitive outcomes in stage-structured systems**|Matthieu Paquet et.al.|[2504.06725](http://arxiv.org/abs/2504.06725)|**[link](https://github.com/matthieupaquet/ipm_competition_2_species_age_structured)**|
 |**2025-04-08**|**Physical spline for denoising object trajectory data by combining splines, ML feature regression and model knowledge**|Jonas Torzewski et.al.|[2504.06404](http://arxiv.org/abs/2504.06404)|**[link](https://github.com/jonastorz/physical_spline)**|
 |**2025-04-08**|**Unified Beta Regression Model with Random Effects for the Analysis of Sensory Attributes**|João César Reis Alves et.al.|[2504.05996](http://arxiv.org/abs/2504.05996)|null|
 |**2025-04-08**|**SAP-CoPE: Social-Aware Planning using Cooperative Pose Estimation with Infrastructure Sensor Nodes**|Minghao Ning et.al.|[2504.05727](http://arxiv.org/abs/2504.05727)|**[link](https://github.com/HopeYless/SAP-CoPE-Project)**|
@@ -3487,7 +3487,7 @@
 |**2025-01-09**|**SyNPar: Synthetic Null Data Parallelism for High-Power False Discovery Rate Control in High-Dimensional Variable Selection**|Changhu Wang et.al.|[2501.05012](http://arxiv.org/abs/2501.05012)|null|
 |**2025-01-09**|**Quantifying Itch and its Impact on Sleep Using Machine Learning and Radio Signals**|Michail Ouroutzoglou et.al.|[2501.04896](http://arxiv.org/abs/2501.04896)|null|
 |**2025-01-08**|**Lyman Alpha Forest - Halo Cross-Correlations in Effective Field Theory**|Anton Chudaykin et.al.|[2501.04770](http://arxiv.org/abs/2501.04770)|null|
-|**2025-01-07**|**A Bayesian Modeling Framework for Estimation and Ground Segmentation of Cluttered Staircases**|Prasanna Sriganesh et.al.|[2501.04170](http://arxiv.org/abs/2501.04170)|null|
+|**2025-01-07**|**A Bayesian Modeling Framework for Estimation and Ground Segmentation of Cluttered Staircases**|Prasanna Sriganesh et.al.|[2501.04170](http://arxiv.org/abs/2501.04170)|**[link](https://github.com/Prassi07/staircase_autonomy)**|
 |**2025-01-07**|**VLTI/GRAVITY enables the determination of the first dynamical masses of a classical Be + stripped and bloated pre-subdwarf binary**|R. Klement et.al.|[2501.04103](http://arxiv.org/abs/2501.04103)|null|
 |**2025-01-06**|**Compression of 3D Gaussian Splatting with Optimized Feature Planes and Standard Video Codecs**|Soonbin Lee et.al.|[2501.03399](http://arxiv.org/abs/2501.03399)|null|
 |**2025-01-06**|**Gaussian Masked Autoencoders**|Jathushan Rajasegaran et.al.|[2501.03229](http://arxiv.org/abs/2501.03229)|null|
