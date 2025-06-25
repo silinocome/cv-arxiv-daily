@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration**|Xiangbo Gao et.al.|[2506.19283](http://arxiv.org/abs/2506.19283)|null|
 |**2025-06-20**|**A workflow for generating synthetic LiDAR datasets in simulation environments**|Abhishek Phadke et.al.|[2506.17378](http://arxiv.org/abs/2506.17378)|null|
 |**2025-06-20**|**Exploring Traffic Simulation and Cybersecurity Strategies Using Large Language Models**|Lu Gao et.al.|[2506.16699](http://arxiv.org/abs/2506.16699)|null|
 |**2025-06-18**|**Fiber Signal Denoising Algorithm using Hybrid Deep Learning Networks**|Linlin Wang et.al.|[2506.15125](http://arxiv.org/abs/2506.15125)|null|
@@ -1231,6 +1232,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects**|Shulan Ruan et.al.|[2506.19769](http://arxiv.org/abs/2506.19769)|null|
+|**2025-06-22**|**Bird's-eye view safety monitoring for the construction top under the tower crane**|Yanke Wang et.al.|[2506.18938](http://arxiv.org/abs/2506.18938)|null|
 |**2025-06-21**|**Optimizing Exploration with a New Uncertainty Framework for Active SLAM Systems**|Sebastian Sansoni et.al.|[2506.17775](http://arxiv.org/abs/2506.17775)|null|
 |**2025-06-19**|**Quantum Artificial Intelligence for Secure Autonomous Vehicle Navigation: An Architectural Proposal**|Hemanth Kannamarlapudi et.al.|[2506.16000](http://arxiv.org/abs/2506.16000)|null|
 |**2025-06-18**|**Foundation of Affective Computing and Interaction**|Changzeng Fu et.al.|[2506.15497](http://arxiv.org/abs/2506.15497)|null|
@@ -3205,6 +3208,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**XMM-Newton follow-up of a sample of apparent low surface brightness galaxy groups detected in the ROSAT All-Sky Survey**|Claudia Spinelli et.al.|[2506.19718](http://arxiv.org/abs/2506.19718)|null|
+|**2025-06-24**|**In-Context Occam's Razor: How Transformers Prefer Simpler Hypotheses on the Fly**|Puneesh Deora et.al.|[2506.19351](http://arxiv.org/abs/2506.19351)|null|
+|**2025-06-23**|**Accurate identification of communication between multiple interacting neural populations**|Belle Liu et.al.|[2506.19094](http://arxiv.org/abs/2506.19094)|null|
 |**2025-06-23**|**High-Dimensional Multi-Study Robust Factor Model for Analyzing RNA Sequencing Data from Heterogeneous Sources**|Xiaolu Jiang et.al.|[2506.18478](http://arxiv.org/abs/2506.18478)|null|
 |**2025-06-23**|**From Barthel Randers Kropina Geometries to the Accelerating Universe: A Brief Review of Recent Advances in Finslerian Cosmology**|Amine Bouali et.al.|[2506.18422](http://arxiv.org/abs/2506.18422)|null|
 |**2025-06-23**|**Unveiling Galaxy Structures: Systematic Analysis of Bulge+Disk Decomposition Using Simulated JWST/NIRCam Observations**|Zhengxin Tang et.al.|[2506.18351](http://arxiv.org/abs/2506.18351)|null|
