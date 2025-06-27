@@ -775,6 +775,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation**|Gurusha Juneja et.al.|[2506.20737](http://arxiv.org/abs/2506.20737)|null|
 |**2025-06-25**|**BotHash: Efficient and Training-Free Bot Detection Through Approximate Nearest Neighbor**|Edoardo Di Paolo et.al.|[2506.20503](http://arxiv.org/abs/2506.20503)|null|
 |**2025-06-21**|**Location Information Sharing Using Software Defined Radio in Multi-UAV Systems**|Mehmet Kaan Erol et.al.|[2506.17678](http://arxiv.org/abs/2506.17678)|null|
 |**2025-06-21**|**Network Heterogeneity and Value of Information**|Kota Murayama et.al.|[2506.17660](http://arxiv.org/abs/2506.17660)|null|
@@ -1974,6 +1975,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography**|Caoshuo Li et.al.|[2506.21101](http://arxiv.org/abs/2506.21101)|null|
 |**2025-06-25**|**Visualizing intercalation effects in 2D materials using AFM based techniques**|Karmen Kapustić et.al.|[2506.20467](http://arxiv.org/abs/2506.20467)|null|
 |**2025-06-25**|**On the Burstiness of Faces in Set**|Jiong Wang et.al.|[2506.20312](http://arxiv.org/abs/2506.20312)|null|
 |**2025-06-24**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902](http://arxiv.org/abs/2506.18902)|null|
@@ -3191,6 +3193,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Improved seeding strategies for k-means and k-GMM**|Guillaume Carrière et.al.|[2506.21291](http://arxiv.org/abs/2506.21291)|null|
+|**2025-06-26**|**Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability**|Boyong He et.al.|[2506.21042](http://arxiv.org/abs/2506.21042)|null|
 |**2025-06-25**|**BotHash: Efficient and Training-Free Bot Detection Through Approximate Nearest Neighbor**|Edoardo Di Paolo et.al.|[2506.20503](http://arxiv.org/abs/2506.20503)|null|
 |**2025-06-25**|**Constraints on the dark sector from electroweak precision observables**|B. M. Loizos et.al.|[2506.20080](http://arxiv.org/abs/2506.20080)|null|
 |**2025-06-25**|**Low-Luminosity Type IIP Supernovae from the Zwicky Transient Facility Census of the Local Universe. II: Lightcurve Analysis**|Kaustav K. Das et.al.|[2506.20068](http://arxiv.org/abs/2506.20068)|null|
