@@ -3237,7 +3237,7 @@ layout: default
 |**2025-06-06**|**Phonetically-Augmented Discriminative Rescoring for Voice Search Error Correction**|Christophe Van Gysel et.al.|[2506.06117](http://arxiv.org/abs/2506.06117)|null|
 |**2025-06-05**|**Trinity VII. Predictions for the Observable Correlation Functions of Accreting Black Holes**|Oddisey Knox et.al.|[2506.05612](http://arxiv.org/abs/2506.05612)|null|
 |**2025-06-05**|**Unregularized limit of stochastic gradient method for Wasserstein distributionally robust optimization**|Tam Le et.al.|[2506.04948](http://arxiv.org/abs/2506.04948)|null|
-|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|null|
+|**2025-06-05**|**OpenMaskDINO3D : Reasoning 3D Segmentation via Large Language Model**|Kunshen Zhang et.al.|[2506.04837](http://arxiv.org/abs/2506.04837)|**[link](https://github.com/zhangkuns/openmaskdino3d)**|
 |**2025-06-05**|**Optimized and regularly repeated lattice-based Latin hypercube designs for large-scale computer experiments**|Xu He et.al.|[2506.04582](http://arxiv.org/abs/2506.04582)|null|
 |**2025-06-03**|**NextQuill: Causal Preference Modeling for Enhancing LLM Personalization**|Xiaoyan Zhao et.al.|[2506.02368](http://arxiv.org/abs/2506.02368)|null|
 |**2025-05-31**|**BAGNet: A Boundary-Aware Graph Attention Network for 3D Point Cloud Semantic Segmentation**|Wei Tao et.al.|[2506.00475](http://arxiv.org/abs/2506.00475)|null|
