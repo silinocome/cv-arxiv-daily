@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -18,7 +18,7 @@ layout: default
 |**2025-06-20**|**A workflow for generating synthetic LiDAR datasets in simulation environments**|Abhishek Phadke et.al.|[2506.17378](http://arxiv.org/abs/2506.17378)|null|
 |**2025-06-20**|**Exploring Traffic Simulation and Cybersecurity Strategies Using Large Language Models**|Lu Gao et.al.|[2506.16699](http://arxiv.org/abs/2506.16699)|null|
 |**2025-06-18**|**Fiber Signal Denoising Algorithm using Hybrid Deep Learning Networks**|Linlin Wang et.al.|[2506.15125](http://arxiv.org/abs/2506.15125)|null|
-|**2025-06-18**|**Neural Canonical Polyadic Factorization for Traffic Analysis**|Yikai Hou et.al.|[2506.15079](http://arxiv.org/abs/2506.15079)|null|
+|**2025-06-30**|**Neural Canonical Polyadic Factorization for Traffic Analysis**|Yikai Hou et.al.|[2506.15079](http://arxiv.org/abs/2506.15079)|null|
 |**2025-06-17**|**Image Segmentation with Large Language Models: A Survey with Perspectives for Intelligent Transportation Systems**|Sanjeda Akter et.al.|[2506.14096](http://arxiv.org/abs/2506.14096)|null|
 |**2025-06-16**|**Joint Optimization of Multi-UAV Deployment and 3D Positioning in Traffic-Aware Aerial Networks**|Kamran Shafafi et.al.|[2506.13287](http://arxiv.org/abs/2506.13287)|null|
 |**2025-06-14**|**Trust-MARL: Trust-Based Multi-Agent Reinforcement Learning Framework for Cooperative On-Ramp Merging Control in Heterogeneous Traffic Flow**|Jie Pan et.al.|[2506.12600](http://arxiv.org/abs/2506.12600)|null|
@@ -778,7 +778,7 @@ layout: default
 |**2025-06-25**|**MAGPIE: A dataset for Multi-AGent contextual PrIvacy Evaluation**|Gurusha Juneja et.al.|[2506.20737](http://arxiv.org/abs/2506.20737)|null|
 |**2025-06-25**|**BotHash: Efficient and Training-Free Bot Detection Through Approximate Nearest Neighbor**|Edoardo Di Paolo et.al.|[2506.20503](http://arxiv.org/abs/2506.20503)|null|
 |**2025-06-21**|**Location Information Sharing Using Software Defined Radio in Multi-UAV Systems**|Mehmet Kaan Erol et.al.|[2506.17678](http://arxiv.org/abs/2506.17678)|null|
-|**2025-06-21**|**Network Heterogeneity and Value of Information**|Kota Murayama et.al.|[2506.17660](http://arxiv.org/abs/2506.17660)|null|
+|**2025-06-29**|**Network Heterogeneity and Value of Information**|Kota Murayama et.al.|[2506.17660](http://arxiv.org/abs/2506.17660)|null|
 |**2025-06-13**|**Privacy Reasoning in Ambiguous Contexts**|Ren Yi et.al.|[2506.12241](http://arxiv.org/abs/2506.12241)|null|
 |**2025-06-10**|**Price Discovery in Cryptocurrency Markets**|Juan Plazuelo Pascual et.al.|[2506.08718](http://arxiv.org/abs/2506.08718)|null|
 |**2025-06-09**|**Ego-centric Learning of Communicative World Models for Autonomous Driving**|Hang Wang et.al.|[2506.08149](http://arxiv.org/abs/2506.08149)|null|
@@ -3207,9 +3207,9 @@ layout: default
 |**2025-06-27**|**Stop Lying to Me: New Visual Tools to Choose the Most Honest Nonlinear Dimension Reduction**|Jayani P. Gamage et.al.|[2506.22051](http://arxiv.org/abs/2506.22051)|null|
 |**2025-06-27**|**SODA: Out-of-Distribution Detection in Domain-Shifted Point Clouds via Neighborhood Propagation**|Adam Goodge et.al.|[2506.21892](http://arxiv.org/abs/2506.21892)|null|
 |**2025-06-26**|**Improved seeding strategies for k-means and k-GMM**|Guillaume Carrière et.al.|[2506.21291](http://arxiv.org/abs/2506.21291)|null|
-|**2025-06-26**|**Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability**|Boyong He et.al.|[2506.21042](http://arxiv.org/abs/2506.21042)|null|
+|**2025-06-28**|**Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability**|Boyong He et.al.|[2506.21042](http://arxiv.org/abs/2506.21042)|null|
 |**2025-06-25**|**BotHash: Efficient and Training-Free Bot Detection Through Approximate Nearest Neighbor**|Edoardo Di Paolo et.al.|[2506.20503](http://arxiv.org/abs/2506.20503)|null|
-|**2025-06-25**|**Constraints on the dark sector from electroweak precision observables**|B. M. Loizos et.al.|[2506.20080](http://arxiv.org/abs/2506.20080)|null|
+|**2025-06-30**|**Constraints on the dark sector from electroweak precision observables**|B. M. Loizos et.al.|[2506.20080](http://arxiv.org/abs/2506.20080)|null|
 |**2025-06-25**|**Low-Luminosity Type IIP Supernovae from the Zwicky Transient Facility Census of the Local Universe. II: Lightcurve Analysis**|Kaustav K. Das et.al.|[2506.20068](http://arxiv.org/abs/2506.20068)|null|
 |**2025-06-24**|**Robust Robotic Exploration and Mapping Using Generative Occupancy Map Synthesis**|Lorin Achey et.al.|[2506.20049](http://arxiv.org/abs/2506.20049)|null|
 |**2025-06-24**|**A Bayesian approach to modelling spectrometer data chromaticity corrected using beam factors -- II. Model priors and posterior odds**|Peter H. Sims et.al.|[2506.20042](http://arxiv.org/abs/2506.20042)|null|
