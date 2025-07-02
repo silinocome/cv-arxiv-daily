@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -17,7 +17,7 @@ layout: default
 |**2025-06-30**|**Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment**|Lisa Marie Otto et.al.|[2506.23739](http://arxiv.org/abs/2506.23739)|null|
 |**2025-06-30**|**A New Perspective On AI Safety Through Control Theory Methodologies**|Lars Ullrich et.al.|[2506.23703](http://arxiv.org/abs/2506.23703)|null|
 |**2025-06-30**|**From Large-scale Audio Tagging to Real-Time Explainable Emergency Vehicle Sirens Detection**|Stefano Giacomelli et.al.|[2506.23437](http://arxiv.org/abs/2506.23437)|null|
-|**2025-06-24**|**AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration**|Xiangbo Gao et.al.|[2506.19283](http://arxiv.org/abs/2506.19283)|null|
+|**2025-07-01**|**AirV2X: Unified Air-Ground Vehicle-to-Everything Collaboration**|Xiangbo Gao et.al.|[2506.19283](http://arxiv.org/abs/2506.19283)|null|
 |**2025-06-20**|**A workflow for generating synthetic LiDAR datasets in simulation environments**|Abhishek Phadke et.al.|[2506.17378](http://arxiv.org/abs/2506.17378)|null|
 |**2025-06-20**|**Exploring Traffic Simulation and Cybersecurity Strategies Using Large Language Models**|Lu Gao et.al.|[2506.16699](http://arxiv.org/abs/2506.16699)|null|
 |**2025-06-18**|**Fiber Signal Denoising Algorithm using Hybrid Deep Learning Networks**|Linlin Wang et.al.|[2506.15125](http://arxiv.org/abs/2506.15125)|null|
