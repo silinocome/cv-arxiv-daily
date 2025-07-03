@@ -24,6 +24,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Sphereabout: A Spherical Intersection Design for Networked Urban Air Mobility**|Farzan Moosavi et.al.|[2507.01610](http://arxiv.org/abs/2507.01610)|null|
+|**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Robert Aufschläger et.al.|[2507.01504](http://arxiv.org/abs/2507.01504)|null|
+|**2025-07-02**|**VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**|Cristian Gariboldi et.al.|[2507.01284](http://arxiv.org/abs/2507.01284)|null|
+|**2025-07-01**|**Quantum Machine Learning in Transportation: A Case Study of Pedestrian Stress Modelling**|Bara Rababa et.al.|[2507.01235](http://arxiv.org/abs/2507.01235)|null|
+|**2025-07-01**|**SComCP: Task-Oriented Semantic Communication for Collaborative Perception**|Jipeng Gan et.al.|[2507.00895](http://arxiv.org/abs/2507.00895)|null|
+|**2025-07-01**|**Decentralized Pliable Index Coding For Federated Learning In Intelligent Transportation Systems**|Sadina Kadakkottiri et.al.|[2507.00643](http://arxiv.org/abs/2507.00643)|null|
+|**2025-07-01**|**De-Simplifying Pseudo Labels to Enhancing Domain Adaptive Object Detection**|Zehua Fu et.al.|[2507.00608](http://arxiv.org/abs/2507.00608)|null|
+|**2025-06-30**|**A Joint Topology-Data Fusion Graph Network for Robust Traffic Speed Prediction with Data Anomalism**|Ruiyuan Jiang et.al.|[2507.00085](http://arxiv.org/abs/2507.00085)|null|
 |**2025-06-30**|**Validation of AI-Based 3D Human Pose Estimation in a Cyber-Physical Environment**|Lisa Marie Otto et.al.|[2506.23739](http://arxiv.org/abs/2506.23739)|null|
 |**2025-06-30**|**A New Perspective On AI Safety Through Control Theory Methodologies**|Lars Ullrich et.al.|[2506.23703](http://arxiv.org/abs/2506.23703)|null|
 |**2025-06-30**|**From Large-scale Audio Tagging to Real-Time Explainable Emergency Vehicle Sirens Detection**|Stefano Giacomelli et.al.|[2506.23437](http://arxiv.org/abs/2506.23437)|null|
@@ -1238,6 +1246,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**A Joint Topology-Data Fusion Graph Network for Robust Traffic Speed Prediction with Data Anomalism**|Ruiyuan Jiang et.al.|[2507.00085](http://arxiv.org/abs/2507.00085)|null|
 |**2025-06-24**|**AGI Enabled Solutions For IoX Layers Bottlenecks In Cyber-Physical-Social-Thinking Space**|Amar Khelloufi et.al.|[2506.22487](http://arxiv.org/abs/2506.22487)|null|
 |**2025-06-27**|**Robotic Multimodal Data Acquisition for In-Field Deep Learning Estimation of Cover Crop Biomass**|Joe Johnson et.al.|[2506.22364](http://arxiv.org/abs/2506.22364)|null|
 |**2025-06-27**|**Integrating Multi-Modal Sensors: A Review of Fusion Techniques for Intelligent Vehicles**|Chuheng Wei et.al.|[2506.21885](http://arxiv.org/abs/2506.21885)|null|
@@ -1999,6 +2008,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-01**|**LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**|Juelin Zhu et.al.|[2507.00659](http://arxiv.org/abs/2507.00659)|null|
 |**2025-06-28**|**Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**|Ghufran A. Omran et.al.|[2506.22939](http://arxiv.org/abs/2506.22939)|null|
 |**2025-06-28**|**Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval**|Li-Cheng Shen et.al.|[2506.22864](http://arxiv.org/abs/2506.22864)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
@@ -2922,6 +2932,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
@@ -3233,6 +3244,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Calibrating $\rm{DM_{IGM}}-z$ relation using host galaxies of FRBs**|Rui-Nan Li et.al.|[2507.01270](http://arxiv.org/abs/2507.01270)|null|
+|**2025-07-01**|**Good Enough to Learn: LLM-based Anomaly Detection in ECU Logs without Reliable Labels**|Bogdan Bogdan et.al.|[2507.01077](http://arxiv.org/abs/2507.01077)|null|
 |**2025-06-30**|**Querying Attack-Fault-Defense Trees: Property Specification in Smart Grid and Aerospace Case Studies**|Reza Soltani et.al.|[2506.23789](http://arxiv.org/abs/2506.23789)|null|
 |**2025-06-29**|**Enhancing Spatial Reasoning in Multimodal Large Language Models through Reasoning-based Segmentation**|Zhenhua Ning et.al.|[2506.23120](http://arxiv.org/abs/2506.23120)|null|
 |**2025-06-28**|**XRISM View of the Newly Detected Galactic Source MAXI J1744-294**|Kaushik Chatterjee et.al.|[2506.22964](http://arxiv.org/abs/2506.22964)|null|
@@ -4246,6 +4259,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-01**|**Novel Pigeon-inspired 3D Obstacle Detection and Avoidance Maneuver for Multi-UAV Systems**|Reza Ahmadvand et.al.|[2507.00443](http://arxiv.org/abs/2507.00443)|null|
 |**2025-06-29**|**Enhancing Spatial Reasoning in Multimodal Large Language Models through Reasoning-based Segmentation**|Zhenhua Ning et.al.|[2506.23120](http://arxiv.org/abs/2506.23120)|null|
 |**2025-06-28**|**Point Cloud Compression and Objective Quality Assessment: A Survey**|Yiling Xu et.al.|[2506.22902](http://arxiv.org/abs/2506.22902)|null|
 |**2025-06-27**|**Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation**|Tiankai Chen et.al.|[2506.22375](http://arxiv.org/abs/2506.22375)|null|
