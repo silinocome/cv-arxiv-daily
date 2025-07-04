@@ -24,6 +24,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Large Language Models for Crash Detection in Video: A Survey of Methods, Datasets, and Challenges**|Sanjeda Akter et.al.|[2507.02074](http://arxiv.org/abs/2507.02074)|null|
 |**2025-07-02**|**Sphereabout: A Spherical Intersection Design for Networked Urban Air Mobility**|Farzan Moosavi et.al.|[2507.01610](http://arxiv.org/abs/2507.01610)|null|
 |**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Robert Aufschläger et.al.|[2507.01504](http://arxiv.org/abs/2507.01504)|null|
 |**2025-07-02**|**VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**|Cristian Gariboldi et.al.|[2507.01284](http://arxiv.org/abs/2507.01284)|null|
@@ -1246,6 +1247,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245](http://arxiv.org/abs/2507.02245)|null|
+|**2025-07-02**|**GPS-DRIFT: Marine Surface Robot Localization using IMU-GPS Fusion and Invariant Filtering**|Surya Pratap Singh et.al.|[2507.02198](http://arxiv.org/abs/2507.02198)|null|
 |**2025-06-30**|**A Joint Topology-Data Fusion Graph Network for Robust Traffic Speed Prediction with Data Anomalism**|Ruiyuan Jiang et.al.|[2507.00085](http://arxiv.org/abs/2507.00085)|null|
 |**2025-06-24**|**AGI Enabled Solutions For IoX Layers Bottlenecks In Cyber-Physical-Social-Thinking Space**|Amar Khelloufi et.al.|[2506.22487](http://arxiv.org/abs/2506.22487)|null|
 |**2025-06-27**|**Robotic Multimodal Data Acquisition for In-Field Deep Learning Estimation of Cover Crop Biomass**|Joe Johnson et.al.|[2506.22364](http://arxiv.org/abs/2506.22364)|null|
@@ -3244,6 +3247,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Angular correlation functions of bright Lyman-break galaxies at $\mathbf{3 \lesssim z \lesssim 5}$**|Isabelle Ye et.al.|[2507.02515](http://arxiv.org/abs/2507.02515)|null|
+|**2025-07-02**|**Underwater Monocular Metric Depth Estimation: Real-World Benchmarks and Synthetic Fine-Tuning**|Zijie Cai et.al.|[2507.02148](http://arxiv.org/abs/2507.02148)|null|
 |**2025-07-02**|**Calibrating $\rm{DM_{IGM}}-z$ relation using host galaxies of FRBs**|Rui-Nan Li et.al.|[2507.01270](http://arxiv.org/abs/2507.01270)|null|
 |**2025-07-01**|**Good Enough to Learn: LLM-based Anomaly Detection in ECU Logs without Reliable Labels**|Bogdan Bogdan et.al.|[2507.01077](http://arxiv.org/abs/2507.01077)|null|
 |**2025-06-30**|**Querying Attack-Fault-Defense Trees: Property Specification in Smart Grid and Aerospace Case Studies**|Reza Soltani et.al.|[2506.23789](http://arxiv.org/abs/2506.23789)|null|
