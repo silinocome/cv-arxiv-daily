@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## V2X
@@ -2002,7 +2002,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
-|**2025-07-07**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
+|**2025-07-08**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
 |**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
 |**2025-07-01**|**LoD-Loc v2: Aerial Visual Localization over Low Level-of-Detail City Models using Explicit Silhouette Alignment**|Juelin Zhu et.al.|[2507.00659](http://arxiv.org/abs/2507.00659)|null|
 |**2025-06-28**|**Utilizing a Novel Deep Learning Method for Scene Categorization in Remote Sensing Data**|Ghufran A. Omran et.al.|[2506.22939](http://arxiv.org/abs/2506.22939)|null|
@@ -3240,7 +3240,7 @@ layout: default
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |**2025-07-05**|**KEA Explain: Explanations of Hallucinations using Graph Kernel Analysis**|Reilly Haskins et.al.|[2507.03847](http://arxiv.org/abs/2507.03847)|null|
-|**2025-07-03**|**Testing Photometric Techniques for Measuring the Rest-Frame UV Spectral Slope Against JWST PRISM Spectroscopy**|Alexa M. Morales et.al.|[2507.03118](http://arxiv.org/abs/2507.03118)|null|
+|**2025-07-08**|**Testing Photometric Techniques for Measuring the Rest-Frame UV Spectral Slope Against JWST PRISM Spectroscopy**|Alexa M. Morales et.al.|[2507.03118](http://arxiv.org/abs/2507.03118)|null|
 |**2025-07-03**|**Angular correlation functions of bright Lyman-break galaxies at $\mathbf{3 \lesssim z \lesssim 5}$**|Isabelle Ye et.al.|[2507.02515](http://arxiv.org/abs/2507.02515)|null|
 |**2025-07-02**|**Underwater Monocular Metric Depth Estimation: Real-World Benchmarks and Synthetic Fine-Tuning**|Zijie Cai et.al.|[2507.02148](http://arxiv.org/abs/2507.02148)|null|
 |**2025-07-02**|**Calibrating $\rm{DM_{IGM}}-z$ relation using host galaxies of FRBs**|Rui-Nan Li et.al.|[2507.01270](http://arxiv.org/abs/2507.01270)|null|
