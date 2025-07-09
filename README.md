@@ -24,6 +24,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**YOLO-APD: Enhancing YOLOv8 for Robust Pedestrian Detection on Complex Road Geometries**|Aquino Joctum et.al.|[2507.05376](http://arxiv.org/abs/2507.05376)|null|
+|**2025-07-04**|**Chat2SPaT: A Large Language Model Based Tool for Automating Traffic Signal Control Plan Management**|Yue Wang et.al.|[2507.05283](http://arxiv.org/abs/2507.05283)|null|
 |**2025-07-07**|**From Marginal to Joint Predictions: Evaluating Scene-Consistent Trajectory Prediction Approaches for Automated Driving**|Fabian Konstantinidis et.al.|[2507.05254](http://arxiv.org/abs/2507.05254)|null|
 |**2025-07-07**|**Application and Evaluation of Large Language Models for Forecasting the Impact of Traffic Incidents**|George Jagadeesh et.al.|[2507.04803](http://arxiv.org/abs/2507.04803)|null|
 |**2025-07-05**|**MCST-Mamba: Multivariate Mamba-Based Model for Traffic Prediction**|Mohamed Hamad et.al.|[2507.03927](http://arxiv.org/abs/2507.03927)|null|
@@ -1251,6 +1253,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Event-RGB Fusion for Spacecraft Pose Estimation Under Harsh Lighting**|Mohsi Jawaid et.al.|[2507.05698](http://arxiv.org/abs/2507.05698)|null|
+|**2025-07-07**|**Feature Geometry for Stereo Sidescan and Forward-looking Sonar**|Kalin Norman et.al.|[2507.05410](http://arxiv.org/abs/2507.05410)|null|
 |**2025-07-07**|**Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing**|Chanh Nguyen et.al.|[2507.04969](http://arxiv.org/abs/2507.04969)|null|
 |**2025-07-05**|**Consistency-Aware Padding for Incomplete Multi-Modal Alignment Clustering Based on Self-Repellent Greedy Anchor Search**|Shubin Ma et.al.|[2507.03917](http://arxiv.org/abs/2507.03917)|null|
 |**2025-07-04**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245](http://arxiv.org/abs/2507.02245)|null|
@@ -2017,6 +2021,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
+|**2025-07-08**|**OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval**|Zhiwei Chen et.al.|[2507.05631](http://arxiv.org/abs/2507.05631)|null|
+|**2025-07-07**|**Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model**|Mengyao Xu et.al.|[2507.05513](http://arxiv.org/abs/2507.05513)|null|
 |**2025-07-07**|**An analysis of vision-language models for fabric retrieval**|Francesco Giuliari et.al.|[2507.04735](http://arxiv.org/abs/2507.04735)|null|
 |**2025-07-08**|**What's Making That Sound Right Now? Video-centric Audio-Visual Localization**|Hahyeon Choi et.al.|[2507.04667](http://arxiv.org/abs/2507.04667)|null|
 |**2025-07-06**|**U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration**|Xiaofan Li et.al.|[2507.04503](http://arxiv.org/abs/2507.04503)|null|
@@ -3257,6 +3264,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Topological Sequence Analysis of Genomes: Delta Complex approaches**|Jian Liu et.al.|[2507.05452](http://arxiv.org/abs/2507.05452)|null|
 |**2025-07-07**|**Satellite-based Rabi rice paddy field mapping in India: a case study on Telangana state**|Prashanth Reddy Putta et.al.|[2507.05189](http://arxiv.org/abs/2507.05189)|null|
 |**2025-07-07**|**Deep Learning to Automate Parameter Extraction and Model Fitting of Two-Dimensional Transistors**|Robert K. A. Bennett et.al.|[2507.05134](http://arxiv.org/abs/2507.05134)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
@@ -4280,6 +4288,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Topological Sequence Analysis of Genomes: Delta Complex approaches**|Jian Liu et.al.|[2507.05452](http://arxiv.org/abs/2507.05452)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
 |**2025-07-07**|**Simultaneous Localization and Mapping Using Active mmWave Sensing in 5G NR**|Tao Du et.al.|[2507.04662](http://arxiv.org/abs/2507.04662)|null|
 |**2025-07-01**|**Novel Pigeon-inspired 3D Obstacle Detection and Avoidance Maneuver for Multi-UAV Systems**|Reza Ahmadvand et.al.|[2507.00443](http://arxiv.org/abs/2507.00443)|null|
