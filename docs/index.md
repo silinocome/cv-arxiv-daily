@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**RADAR: a Radio-based Analytics for Dynamic Association and Recognition of pseudonyms in VANETs**|Giovanni Gambigliani Zoccoli et.al.|[2507.07732](http://arxiv.org/abs/2507.07732)|null|
 |**2025-07-09**|**Toward a Full-Stack Co-Simulation Platform for Testing of Automated Driving Systems**|Dong Bi et.al.|[2507.06884](http://arxiv.org/abs/2507.06884)|null|
 |**2025-07-07**|**YOLO-APD: Enhancing YOLOv8 for Robust Pedestrian Detection on Complex Road Geometries**|Aquino Joctum et.al.|[2507.05376](http://arxiv.org/abs/2507.05376)|null|
 |**2025-07-04**|**Chat2SPaT: A Large Language Model Based Tool for Automating Traffic Signal Control Plan Management**|Yue Wang et.al.|[2507.05283](http://arxiv.org/abs/2507.05283)|null|
@@ -1242,6 +1243,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[2507.07938](http://arxiv.org/abs/2507.07938)|null|
 |**2025-07-08**|**Event-RGB Fusion for Spacecraft Pose Estimation Under Harsh Lighting**|Mohsi Jawaid et.al.|[2507.05698](http://arxiv.org/abs/2507.05698)|null|
 |**2025-07-07**|**Feature Geometry for Stereo Sidescan and Forward-looking Sonar**|Kalin Norman et.al.|[2507.05410](http://arxiv.org/abs/2507.05410)|null|
 |**2025-07-09**|**Silent Failures in Stateless Systems: Rethinking Anomaly Detection for Serverless Computing**|Chanh Nguyen et.al.|[2507.04969](http://arxiv.org/abs/2507.04969)|null|
@@ -2008,6 +2010,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467](http://arxiv.org/abs/2507.07467)|null|
+|**2025-07-10**|**VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching**|Yu Chen et.al.|[2507.07384](http://arxiv.org/abs/2507.07384)|null|
+|**2025-07-08**|**FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval**|François Gardères et.al.|[2507.07135](http://arxiv.org/abs/2507.07135)|null|
 |**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079](http://arxiv.org/abs/2507.07079)|null|
 |**2025-07-09**|**MS-DPPs: Multi-Source Determinantal Point Processes for Contextual Diversity Refinement of Composite Attributes in Text to Image Retrieval**|Naoya Sogi et.al.|[2507.06654](http://arxiv.org/abs/2507.06654)|null|
 |**2025-07-08**|**Automatic Synthesis of High-Quality Triplet Data for Composed Image Retrieval**|Haiwen Li et.al.|[2507.05970](http://arxiv.org/abs/2507.05970)|null|
@@ -3248,6 +3253,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Tracking the economy at high frequency**|Freddy García-Albán et.al.|[2507.07450](http://arxiv.org/abs/2507.07450)|null|
+|**2025-07-09**|**Braneworld Dark Energy in light of DESI DR2**|Swagat S. Mishra et.al.|[2507.07193](http://arxiv.org/abs/2507.07193)|null|
 |**2025-07-09**|**Fast Equivariant Imaging: Acceleration for Unsupervised Learning via Augmented Lagrangian and Auxiliary PnP Denoisers**|Guixian Xu et.al.|[2507.06764](http://arxiv.org/abs/2507.06764)|null|
 |**2025-07-09**|**Eclipse timing variations in 7 post-common envelope binaries: an update on recent circumbinary models**|D. Pulley et.al.|[2507.06748](http://arxiv.org/abs/2507.06748)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
@@ -4273,6 +4280,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**g2o vs. Ceres: Optimizing Scan Matching in Cartographer SLAM**|Quanjie Qiu et.al.|[2507.07142](http://arxiv.org/abs/2507.07142)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
 |**2025-07-07**|**Topological Sequence Analysis of Genomes: Delta Complex approaches**|Jian Liu et.al.|[2507.05452](http://arxiv.org/abs/2507.05452)|null|
 |**2025-07-07**|**Estimating Object Physical Properties from RGB-D Vision and Depth Robot Sensors Using Deep Learning**|Ricardo Cardoso et.al.|[2507.05029](http://arxiv.org/abs/2507.05029)|null|
