@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**OnlineBEV: Recurrent Temporal Fusion in Bird's Eye View Representations for Multi-Camera 3D Perception**|Junho Koh et.al.|[2507.08644](http://arxiv.org/abs/2507.08644)|null|
 |**2025-07-10**|**RADAR: a Radio-based Analytics for Dynamic Association and Recognition of pseudonyms in VANETs**|Giovanni Gambigliani Zoccoli et.al.|[2507.07732](http://arxiv.org/abs/2507.07732)|null|
 |**2025-07-09**|**Toward a Full-Stack Co-Simulation Platform for Testing of Automated Driving Systems**|Dong Bi et.al.|[2507.06884](http://arxiv.org/abs/2507.06884)|null|
 |**2025-07-07**|**YOLO-APD: Enhancing YOLOv8 for Robust Pedestrian Detection on Complex Road Geometries**|Aquino Joctum et.al.|[2507.05376](http://arxiv.org/abs/2507.05376)|null|
@@ -795,6 +796,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320](http://arxiv.org/abs/2507.08320)|null|
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997](http://arxiv.org/abs/2507.06997)|null|
 |**2025-07-04**|**Pronunciation-Lexicon Free Training for Phoneme-based Crosslingual ASR via Joint Stochastic Approximation**|Saierdaer Yusuyin et.al.|[2507.06249](http://arxiv.org/abs/2507.06249)|null|
 |**2025-06-28**|**Momentum-based Accelerated Algorithm for Distributed Optimization under Sector-Bound Nonlinearity**|Mohammadreza Doostmohammadian et.al.|[2506.22855](http://arxiv.org/abs/2506.22855)|null|
@@ -1243,6 +1245,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Towards Robust Sensor-Fusion Ground SLAM: A Comprehensive Benchmark and A Resilient Framework**|Deteng Zhang et.al.|[2507.08364](http://arxiv.org/abs/2507.08364)|null|
+|**2025-07-11**|**Joint Optimization-based Targetless Extrinsic Calibration for Multiple LiDARs and GNSS-Aided INS of Ground Vehicles**|Junhui Wang et.al.|[2507.08349](http://arxiv.org/abs/2507.08349)|null|
+|**2025-07-10**|**Imitation Learning for Obstacle Avoidance Using End-to-End CNN-Based Sensor Fusion**|Lamiaa H. Zain et.al.|[2507.08112](http://arxiv.org/abs/2507.08112)|null|
 |**2025-07-10**|**Multimodal Framework for Explainable Autonomous Driving: Integrating Video, Sensor, and Textual Data for Enhanced Decision-Making and Transparency**|Abolfazl Zarghani et.al.|[2507.07938](http://arxiv.org/abs/2507.07938)|null|
 |**2025-07-08**|**Event-RGB Fusion for Spacecraft Pose Estimation Under Harsh Lighting**|Mohsi Jawaid et.al.|[2507.05698](http://arxiv.org/abs/2507.05698)|null|
 |**2025-07-07**|**Feature Geometry for Stereo Sidescan and Forward-looking Sonar**|Kalin Norman et.al.|[2507.05410](http://arxiv.org/abs/2507.05410)|null|
@@ -2010,6 +2015,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**RadiomicsRetrieval: A Customizable Framework for Medical Image Retrieval Using Radiomics Features**|Inye Na et.al.|[2507.08546](http://arxiv.org/abs/2507.08546)|null|
+|**2025-07-11**|**Deep Hashing with Semantic Hash Centers for Image Retrieval**|Li Chen et.al.|[2507.08404](http://arxiv.org/abs/2507.08404)|null|
+|**2025-07-08**|**Unveiling Effective In-Context Configurations for Image Captioning: An External & Internal Analysis**|Li Li et.al.|[2507.08021](http://arxiv.org/abs/2507.08021)|null|
 |**2025-07-10**|**SCREP: Scene Coordinate Regression and Evidential Learning-based Perception-Aware Trajectory Generation**|Juyeop Han et.al.|[2507.07467](http://arxiv.org/abs/2507.07467)|null|
 |**2025-07-10**|**VP-SelDoA: Visual-prompted Selective DoA Estimation of Target Sound via Semantic-Spatial Matching**|Yu Chen et.al.|[2507.07384](http://arxiv.org/abs/2507.07384)|null|
 |**2025-07-08**|**FACap: A Large-scale Fashion Dataset for Fine-grained Composed Image Retrieval**|François Gardères et.al.|[2507.07135](http://arxiv.org/abs/2507.07135)|null|
@@ -3253,6 +3261,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**From One to More: Contextual Part Latents for 3D Generation**|Shaocong Dong et.al.|[2507.08772](http://arxiv.org/abs/2507.08772)|null|
+|**2025-07-11**|**Spectral analysis of two directly imaged benchmark L dwarf companions at the stellar-substellar boundary**|William Ceva et.al.|[2507.08654](http://arxiv.org/abs/2507.08654)|null|
+|**2025-07-11**|**Minimum-norm interpolation for unknown surface reconstruction**|Alex Shiu Lun Chu et.al.|[2507.08632](http://arxiv.org/abs/2507.08632)|null|
+|**2025-07-11**|**Remote Sensing Reveals Adoption of Sustainable Rice Farming Practices Across Punjab, India**|Ando Shah et.al.|[2507.08605](http://arxiv.org/abs/2507.08605)|null|
+|**2025-07-10**|**Audit, Alignment, and Optimization of LM-Powered Subroutines with Application to Public Comment Processing**|Reilly Raab et.al.|[2507.08109](http://arxiv.org/abs/2507.08109)|null|
 |**2025-07-10**|**Tracking the economy at high frequency**|Freddy García-Albán et.al.|[2507.07450](http://arxiv.org/abs/2507.07450)|null|
 |**2025-07-09**|**Braneworld Dark Energy in light of DESI DR2**|Swagat S. Mishra et.al.|[2507.07193](http://arxiv.org/abs/2507.07193)|null|
 |**2025-07-09**|**Fast Equivariant Imaging: Acceleration for Unsupervised Learning via Augmented Lagrangian and Auxiliary PnP Denoisers**|Guixian Xu et.al.|[2507.06764](http://arxiv.org/abs/2507.06764)|null|
@@ -4280,6 +4293,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**Minimum-norm interpolation for unknown surface reconstruction**|Alex Shiu Lun Chu et.al.|[2507.08632](http://arxiv.org/abs/2507.08632)|null|
 |**2025-07-09**|**g2o vs. Ceres: Optimizing Scan Matching in Cartographer SLAM**|Quanjie Qiu et.al.|[2507.07142](http://arxiv.org/abs/2507.07142)|null|
 |**2025-07-09**|**MK-Pose: Category-Level Object Pose Estimation via Multimodal-Based Keypoint Learning**|Yifan Yang et.al.|[2507.06662](http://arxiv.org/abs/2507.06662)|null|
 |**2025-07-07**|**Topological Sequence Analysis of Genomes: Delta Complex approaches**|Jian Liu et.al.|[2507.05452](http://arxiv.org/abs/2507.05452)|null|
