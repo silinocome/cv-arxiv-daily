@@ -24,6 +24,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Prototypical Progressive Alignment and Reweighting for Generalizable Semantic Segmentation**|Yuhang Zhang et.al.|[2507.11955](http://arxiv.org/abs/2507.11955)|null|
+|**2025-07-16**|**IANN-MPPI: Interaction-Aware Neural Network-Enhanced Model Predictive Path Integral Approach for Autonomous Driving**|Kanghyun Ryu et.al.|[2507.11940](http://arxiv.org/abs/2507.11940)|null|
+|**2025-07-16**|**SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring**|Kaustav Chanda et.al.|[2507.11910](http://arxiv.org/abs/2507.11910)|null|
+|**2025-07-15**|**HCOMC: A Hierarchical Cooperative On-Ramp Merging Control Framework in Mixed Traffic Environment on Two-Lane Highways**|Tianyi Wang et.al.|[2507.11621](http://arxiv.org/abs/2507.11621)|null|
+|**2025-07-13**|**Deformable Dynamic Convolution for Accurate yet Efficient Spatio-Temporal Traffic Prediction**|Hyeonseok Jin et.al.|[2507.11550](http://arxiv.org/abs/2507.11550)|null|
 |**2025-07-15**|**YOLOatr : Deep Learning Based Automatic Target Detection and Localization in Thermal Infrared Imagery**|Aon Safdar et.al.|[2507.11267](http://arxiv.org/abs/2507.11267)|null|
 |**2025-07-14**|**TGLD: A Trust-Aware Game-Theoretic Lane-Changing Decision Framework for Automated Vehicles in Heterogeneous Traffic**|Jie Pan et.al.|[2507.10075](http://arxiv.org/abs/2507.10075)|null|
 |**2025-07-14**|**MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks**|Marc Kaufeld et.al.|[2507.10047](http://arxiv.org/abs/2507.10047)|null|
@@ -815,6 +820,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-15**|**Challenges in GenAI and Authentication: a scoping review**|Wesley dos Reis Bezerra et.al.|[2507.11775](http://arxiv.org/abs/2507.11775)|null|
 |**2025-07-12**|**Coordinated Communication and Inventory Optimization in Multi-Retailer Supply Chains**|Sagar Sudhakara et.al.|[2507.09223](http://arxiv.org/abs/2507.09223)|null|
 |**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320](http://arxiv.org/abs/2507.08320)|null|
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997](http://arxiv.org/abs/2507.06997)|null|
@@ -1267,6 +1273,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Urban Green Governance: IoT-Driven Management and Enhancement of Urban Green Spaces in Campobasso**|Antonio Salis et.al.|[2507.12106](http://arxiv.org/abs/2507.12106)|null|
+|**2025-07-16**|**Cross-Domain Transfer and Few-Shot Learning for Personal Identifiable Information Recognition**|Junhong Ye et.al.|[2507.11862](http://arxiv.org/abs/2507.11862)|null|
+|**2025-07-16**|**A Multimodal Data Fusion Generative Adversarial Network for Real Time Underwater Sound Speed Field Construction**|Wei Huang et.al.|[2507.11812](http://arxiv.org/abs/2507.11812)|null|
+|**2025-07-15**|**Distribution-Free Uncertainty-Aware Virtual Sensing via Conformalized Neural Operators**|Kazuma Kobayashi et.al.|[2507.11574](http://arxiv.org/abs/2507.11574)|null|
+|**2025-07-15**|**Data-Driven Meta-Analysis and Public-Dataset Evaluation for Sensor-Based Gait Age Estimation**|Varun Velankar et.al.|[2507.11571](http://arxiv.org/abs/2507.11571)|null|
 |**2025-07-15**|**Multi-IMU Sensor Fusion for Legged Robots**|Shuo Yang et.al.|[2507.11447](http://arxiv.org/abs/2507.11447)|null|
 |**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376](http://arxiv.org/abs/2507.10376)|null|
 |**2025-07-14**|**A SUMO-Based Digital Twin for Evaluation of Conventional and Electric Vehicle Networks**|Haomiaomiao Wang et.al.|[2507.10280](http://arxiv.org/abs/2507.10280)|null|
@@ -2046,6 +2057,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416](http://arxiv.org/abs/2507.12416)|null|
+|**2025-07-16**|**CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**|Peiwen Xia et.al.|[2507.11834](http://arxiv.org/abs/2507.11834)|null|
 |**2025-07-09**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
 |**2025-07-14**|**GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space**|David G. Shatwell et.al.|[2507.10473](http://arxiv.org/abs/2507.10473)|null|
 |**2025-07-14**|**Text-to-Remote-Sensing-Image Retrieval beyond RGB Sources**|Daniele Rege Cambrin et.al.|[2507.10403](http://arxiv.org/abs/2507.10403)|null|
@@ -3302,6 +3315,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Overcoming Standardization: Revealing Hidden Age Patterns of Suicide with Spatiotemporal Models**|J. Martín-Pozuelo et.al.|[2507.12033](http://arxiv.org/abs/2507.12033)|null|
 |**2025-07-15**|**Emulating CO Line Radiative Transfer with Deep Learning**|Shiqi Su et.al.|[2507.11398](http://arxiv.org/abs/2507.11398)|null|
 |**2025-07-14**|**Numerically Computing Galois Groups of Minimal Problems**|Timothy Duff et.al.|[2507.10407](http://arxiv.org/abs/2507.10407)|null|
 |**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
