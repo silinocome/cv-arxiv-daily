@@ -808,6 +808,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Formalizing Informal Communication: An Archaeology of the Early Pre-Web Preprint Infrastructure at CERN**|Phillip H. Roth et.al.|[2507.12812](http://arxiv.org/abs/2507.12812)|null|
 |**2025-07-15**|**Challenges in GenAI and Authentication: a scoping review**|Wesley dos Reis Bezerra et.al.|[2507.11775](http://arxiv.org/abs/2507.11775)|null|
 |**2025-07-12**|**Coordinated Communication and Inventory Optimization in Multi-Retailer Supply Chains**|Sagar Sudhakara et.al.|[2507.09223](http://arxiv.org/abs/2507.09223)|null|
 |**2025-07-11**|**NeurOptimisation: The Spiking Way to Evolve**|Jorge Mario Cruz-Duarte et.al.|[2507.08320](http://arxiv.org/abs/2507.08320)|null|
@@ -1259,6 +1260,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**A Novel Data Augmentation Strategy for Robust Deep Learning Classification of Biomedical Time-Series Data: Application to ECG and EEG Analysis**|Mohammed Guhdar et.al.|[2507.12645](http://arxiv.org/abs/2507.12645)|null|
 |**2025-07-16**|**Urban Green Governance: IoT-Driven Management and Enhancement of Urban Green Spaces in Campobasso**|Antonio Salis et.al.|[2507.12106](http://arxiv.org/abs/2507.12106)|null|
 |**2025-07-16**|**Cross-Domain Transfer and Few-Shot Learning for Personal Identifiable Information Recognition**|Junhong Ye et.al.|[2507.11862](http://arxiv.org/abs/2507.11862)|null|
 |**2025-07-16**|**A Multimodal Data Fusion Generative Adversarial Network for Real Time Underwater Sound Speed Field Construction**|Wei Huang et.al.|[2507.11812](http://arxiv.org/abs/2507.11812)|null|
@@ -2041,6 +2043,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**FAR-Net: Multi-Stage Fusion Network with Enhanced Semantic Alignment and Adaptive Reconciliation for Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12823](http://arxiv.org/abs/2507.12823)|null|
+|**2025-07-17**|**MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12819](http://arxiv.org/abs/2507.12819)|null|
 |**2025-07-16**|**QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**|Jaehyun Kwak et.al.|[2507.12416](http://arxiv.org/abs/2507.12416)|null|
 |**2025-07-16**|**CorrMoE: Mixture of Experts with De-stylization Learning for Cross-Scene and Cross-Domain Correspondence Pruning**|Peiwen Xia et.al.|[2507.11834](http://arxiv.org/abs/2507.11834)|null|
 |**2025-07-09**|**Orchestrator-Agent Trust: A Modular Agentic AI Visual Classification System with Trust-Aware Orchestration and RAG-Based Reasoning**|Konstantinos I. Roumeliotis et.al.|[2507.10571](http://arxiv.org/abs/2507.10571)|null|
@@ -2820,6 +2824,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**DINO-VO: A Feature-based Visual Odometry Leveraging a Visual Foundation Model**|Maulana Bisyir Azhari et.al.|[2507.13145](http://arxiv.org/abs/2507.13145)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
 |**2025-06-27**|**SDRNET: Stacked Deep Residual Network for Accurate Semantic Segmentation of Fine-Resolution Remotely Sensed Images**|Naftaly Wambugu et.al.|[2506.21945](http://arxiv.org/abs/2506.21945)|null|
 |**2025-05-16**|**Deepfake Forensic Analysis: Source Dataset Attribution and Legal Implications of Synthetic Media Manipulation**|Massimiliano Cassia et.al.|[2505.11110](http://arxiv.org/abs/2505.11110)|null|
@@ -3293,6 +3298,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Comparing astrophysical models to gravitational-wave data in the observable space**|Alexandre Toubiana et.al.|[2507.13249](http://arxiv.org/abs/2507.13249)|null|
+|**2025-07-17**|**Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**|Zhennan Xiao et.al.|[2507.13106](http://arxiv.org/abs/2507.13106)|null|
+|**2025-07-17**|**NeuraLeaf: Neural Parametric Leaf Models with Shape and Deformation Disentanglement**|Yang Yang et.al.|[2507.12714](http://arxiv.org/abs/2507.12714)|null|
 |**2025-07-16**|**Overcoming Standardization: Revealing Hidden Age Patterns of Suicide with Spatiotemporal Models**|J. Martín-Pozuelo et.al.|[2507.12033](http://arxiv.org/abs/2507.12033)|null|
 |**2025-07-15**|**Emulating CO Line Radiative Transfer with Deep Learning**|Shiqi Su et.al.|[2507.11398](http://arxiv.org/abs/2507.11398)|null|
 |**2025-07-14**|**Numerically Computing Galois Groups of Minimal Problems**|Timothy Duff et.al.|[2507.10407](http://arxiv.org/abs/2507.10407)|null|
