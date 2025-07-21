@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Automated Route-based Conflation Between Linear Referencing System Maps And OpenStreetMap Using Open-source Tools**|Gibran Ali et.al.|[2507.13939](http://arxiv.org/abs/2507.13939)|null|
+|**2025-07-18**|**Extracting Insights from Large-Scale Telematics Data for ITS Applications: Lessons and Recommendations**|Gibran Ali et.al.|[2507.13936](http://arxiv.org/abs/2507.13936)|null|
 |**2025-07-16**|**Prototypical Progressive Alignment and Reweighting for Generalizable Semantic Segmentation**|Yuhang Zhang et.al.|[2507.11955](http://arxiv.org/abs/2507.11955)|null|
 |**2025-07-16**|**IANN-MPPI: Interaction-Aware Neural Network-Enhanced Model Predictive Path Integral Approach for Autonomous Driving**|Kanghyun Ryu et.al.|[2507.11940](http://arxiv.org/abs/2507.11940)|null|
 |**2025-07-16**|**SEPose: A Synthetic Event-based Human Pose Estimation Dataset for Pedestrian Monitoring**|Kaustav Chanda et.al.|[2507.11910](http://arxiv.org/abs/2507.11910)|null|
@@ -1260,6 +1262,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Passive Body-Area Electrostatic Field (Human Body Capacitance) for Ubiquitous Computing**|Sizhen Bian et.al.|[2507.13520](http://arxiv.org/abs/2507.13520)|null|
 |**2025-07-16**|**A Novel Data Augmentation Strategy for Robust Deep Learning Classification of Biomedical Time-Series Data: Application to ECG and EEG Analysis**|Mohammed Guhdar et.al.|[2507.12645](http://arxiv.org/abs/2507.12645)|null|
 |**2025-07-16**|**Urban Green Governance: IoT-Driven Management and Enhancement of Urban Green Spaces in Campobasso**|Antonio Salis et.al.|[2507.12106](http://arxiv.org/abs/2507.12106)|null|
 |**2025-07-16**|**Cross-Domain Transfer and Few-Shot Learning for Personal Identifiable Information Recognition**|Junhong Ye et.al.|[2507.11862](http://arxiv.org/abs/2507.11862)|null|
@@ -3298,6 +3301,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Spacecraft Safe Robust Control Using Implicit Neural Representation for Geometrically Complex Targets in Proximity Operations**|Hang Zhou et.al.|[2507.13672](http://arxiv.org/abs/2507.13672)|null|
 |**2025-07-17**|**Comparing astrophysical models to gravitational-wave data in the observable space**|Alexandre Toubiana et.al.|[2507.13249](http://arxiv.org/abs/2507.13249)|null|
 |**2025-07-17**|**Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction**|Zhennan Xiao et.al.|[2507.13106](http://arxiv.org/abs/2507.13106)|null|
 |**2025-07-17**|**NeuraLeaf: Neural Parametric Leaf Models with Shape and Deformation Disentanglement**|Yang Yang et.al.|[2507.12714](http://arxiv.org/abs/2507.12714)|null|
@@ -4339,6 +4343,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Spacecraft Safe Robust Control Using Implicit Neural Representation for Geometrically Complex Targets in Proximity Operations**|Hang Zhou et.al.|[2507.13672](http://arxiv.org/abs/2507.13672)|null|
 |**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
 |**2025-07-11**|**Minimum-norm interpolation for unknown surface reconstruction**|Alex Shiu Lun Chu et.al.|[2507.08632](http://arxiv.org/abs/2507.08632)|null|
 |**2025-07-09**|**g2o vs. Ceres: Optimizing Scan Matching in Cartographer SLAM**|Quanjie Qiu et.al.|[2507.07142](http://arxiv.org/abs/2507.07142)|null|
