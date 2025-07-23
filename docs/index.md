@@ -1265,6 +1265,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**A Robust 5G Terrestrial Positioning System with Sensor Fusion in GNSS-denied Scenarios**|Hamed Talebian et.al.|[2507.16600](http://arxiv.org/abs/2507.16600)|null|
+|**2025-07-22**|**LDRFusion: A LiDAR-Dominant multimodal refinement framework for 3D object detection**|Jijun Wang et.al.|[2507.16224](http://arxiv.org/abs/2507.16224)|null|
 |**2025-07-21**|**Multi-Modal Sensor Fusion for Proactive Blockage Prediction in mmWave Vehicular Networks**|Ahmad M. Nazar et.al.|[2507.15769](http://arxiv.org/abs/2507.15769)|null|
 |**2025-07-20**|**Deep Generative Models in Condition and Structural Health Monitoring: Opportunities, Limitations and Future Outlook**|Xin Yang et.al.|[2507.15026](http://arxiv.org/abs/2507.15026)|null|
 |**2025-07-17**|**Passive Body-Area Electrostatic Field (Human Body Capacitance) for Ubiquitous Computing**|Sizhen Bian et.al.|[2507.13520](http://arxiv.org/abs/2507.13520)|null|
@@ -2996,13 +2998,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**A Single-step Accurate Fingerprint Registration Method Based on Local Feature Matching**|Yuwei Jia et.al.|[2507.16201](http://arxiv.org/abs/2507.16201)|null|
 |**2025-07-09**|**Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching**|Yafei Zhang et.al.|[2507.06744](http://arxiv.org/abs/2507.06744)|null|
 |**2025-07-05**|**From Query to Explanation: Uni-RAG for Multi-Modal Retrieval-Augmented Learning in STEM**|Xinyi Wu et.al.|[2507.03868](http://arxiv.org/abs/2507.03868)|null|
 |**2025-07-02**|**What does really matter in image goal navigation?**|Gianluca Monaci et.al.|[2507.01667](http://arxiv.org/abs/2507.01667)|null|
 |**2025-06-30**|**Efficient and Accurate Image Provenance Analysis: A Scalable Pipeline for Large-scale Images**|Jiewei Lai et.al.|[2506.23707](http://arxiv.org/abs/2506.23707)|null|
 |**2025-06-29**|**Dynamic Contrastive Learning for Hierarchical Retrieval: A Case Study of Distance-Aware Cross-View Geo-Localization**|Suofei Zhang et.al.|[2506.23077](http://arxiv.org/abs/2506.23077)|null|
 |**2025-06-27**|**MatChA: Cross-Algorithm Matching with Feature Augmentation**|Paula Carbó Cubero et.al.|[2506.22336](http://arxiv.org/abs/2506.22336)|null|
-|**2025-07-07**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
+|**2025-07-22**|**Q-Frame: Query-aware Frame Selection and Multi-Resolution Adaptation for Video-LLMs**|Shaojie Zhang et.al.|[2506.22139](http://arxiv.org/abs/2506.22139)|null|
 |**2025-06-27**|**ZeroReg3D: A Zero-shot Registration Pipeline for 3D Consecutive Histopathology Image Reconstruction**|Juming Xiong et.al.|[2506.21923](http://arxiv.org/abs/2506.21923)|null|
 |**2025-06-25**|**Fast entropy-regularized SDP relaxations for permutation synchronization**|Michael Lindsey et.al.|[2506.20191](http://arxiv.org/abs/2506.20191)|null|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
@@ -3308,6 +3311,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Deep Unfolding Network for Nonlinear Multi-Frequency Electrical Impedance Tomography**|Giovanni S. Alberti et.al.|[2507.16678](http://arxiv.org/abs/2507.16678)|null|
+|**2025-07-22**|**Canonical Correlation Patterns for Validating Clustering of Multivariate Time Series**|Isabella Degen et.al.|[2507.16497](http://arxiv.org/abs/2507.16497)|null|
 |**2025-07-21**|**Cross Mutual Information**|Chetan Gohil et.al.|[2507.15372](http://arxiv.org/abs/2507.15372)|null|
 |**2025-07-21**|**Accelerated Bayesian Optimal Experimental Design via Conditional Density Estimation and Informative Data**|Miao Huang et.al.|[2507.15235](http://arxiv.org/abs/2507.15235)|null|
 |**2025-07-20**|**TriCLIP-3D: A Unified Parameter-Efficient Framework for Tri-Modal 3D Visual Grounding based on CLIP**|Fan Li et.al.|[2507.14904](http://arxiv.org/abs/2507.14904)|null|
