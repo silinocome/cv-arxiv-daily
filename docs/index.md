@@ -14,6 +14,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-20**|**Analytical Formulation of Autonomous Vehicle Freeway Merging Control with State-Dependent Discharge Rates**|Qing Tang et.al.|[2507.16846](http://arxiv.org/abs/2507.16846)|null|
+|**2025-07-18**|**Summarizing Normative Driving Behavior From Large-Scale NDS Datasets for Vehicle System Development**|Gregory Beale et.al.|[2507.16839](http://arxiv.org/abs/2507.16839)|null|
 |**2025-07-19**|**InterAct-Video: Reasoning-Rich Video QA for Urban Traffic**|Joseph Raj Vishal et.al.|[2507.14743](http://arxiv.org/abs/2507.14743)|null|
 |**2025-07-18**|**Automated Route-based Conflation Between Linear Referencing System Maps And OpenStreetMap Using Open-source Tools**|Gibran Ali et.al.|[2507.13939](http://arxiv.org/abs/2507.13939)|null|
 |**2025-07-18**|**Extracting Insights from Large-Scale Telematics Data for ITS Applications: Lessons and Recommendations**|Gibran Ali et.al.|[2507.13936](http://arxiv.org/abs/2507.13936)|null|
@@ -2053,6 +2056,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Content-based 3D Image Retrieval and a ColBERT-inspired Re-ranking for Tumor Flagging and Staging**|Farnaz Khun Jush et.al.|[2507.17412](http://arxiv.org/abs/2507.17412)|null|
 |**2025-07-20**|**U-MARVEL: Unveiling Key Factors for Universal Multimodal Retrieval via Embedding Learning with MLLMs**|Xiaojie Li et.al.|[2507.14902](http://arxiv.org/abs/2507.14902)|null|
 |**2025-07-16**|**Developing an AI-Guided Assistant Device for the Deaf and Hearing Impaired**|Jiayu et.al.|[2507.14215](http://arxiv.org/abs/2507.14215)|null|
 |**2025-07-17**|**FAR-Net: Multi-Stage Fusion Network with Enhanced Semantic Alignment and Adaptive Reconciliation for Composed Image Retrieval**|Jeong-Woo Park et.al.|[2507.12823](http://arxiv.org/abs/2507.12823)|null|
@@ -3311,6 +3315,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Mindfulness Meditation and Respiration: Accelerometer-Based Respiration Rate and Mindfulness Progress Estimation to Enhance App Engagement and Mindfulness Skills**|Mohammad Nur Hossain Khan et.al.|[2507.17688](http://arxiv.org/abs/2507.17688)|null|
+|**2025-07-23**|**Physics-based Human Pose Estimation from a Single Moving RGB Camera**|Ayce Idil Aytekin et.al.|[2507.17406](http://arxiv.org/abs/2507.17406)|null|
+|**2025-07-23**|**Mass-Gap Neutron Stars from Vector \texorpdfstring{ $f(R)$ }{f(R)} Gravity Inflationary Deformations**|V. K. Oikonomou et.al.|[2507.17384](http://arxiv.org/abs/2507.17384)|null|
 |**2025-07-22**|**Deep Unfolding Network for Nonlinear Multi-Frequency Electrical Impedance Tomography**|Giovanni S. Alberti et.al.|[2507.16678](http://arxiv.org/abs/2507.16678)|null|
 |**2025-07-22**|**Canonical Correlation Patterns for Validating Clustering of Multivariate Time Series**|Isabella Degen et.al.|[2507.16497](http://arxiv.org/abs/2507.16497)|null|
 |**2025-07-21**|**Cross Mutual Information**|Chetan Gohil et.al.|[2507.15372](http://arxiv.org/abs/2507.15372)|null|
